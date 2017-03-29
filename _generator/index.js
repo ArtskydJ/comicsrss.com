@@ -13,9 +13,18 @@ getPageList()
 		return pMap(filteredPages, getComicPages, { concurrency: 8 })
 	})
 	.then(function (results) {
+		var markdown = [
+			'# gocomics-to-rss',
+			'Copy one of the following rss links, and add it to your favorite feed reader!',
+			results.map(comicPagesToMdLink).join('')
+		].join('\n\n')
+		writeFile('README.md', markdown)
+
 		results
 			.map(generateRssFeedFromComicPages)
-			.forEach(writeFeed)
+			.forEach(function (rssFeed) {
+				writeFile(rssFeed.filename, rssFeed.rss)
+			})
 	})
 	.catch(function (err) {
 		console.error(err)
@@ -29,10 +38,17 @@ function pageFilter(page) {
 		url.startsWith('http://www.gocomics.com/news') ||
 		url.startsWith('http://www.gocomics.com/comics') ||
 		url.startsWith('http://www.gocomics.com/profiles')
-	)
+	) && url.startsWith('http://www.gocomics.com/c')
 }
 
-function writeFeed(feedInfo) {
-	var filePath = path.resolve(__dirname, '..', feedInfo.filename)
-	fs.writeFileSync(filePath, feedInfo.rss, 'utf-8')
+function comicPagesToMdLink(comicPages) {
+	var description = comicPages[0].title.split(' for ')[0]
+	var feedUrl = comicPages[0].url
+	var filename = feedUrl.split('/')[3] + '.rss'
+	return '- [' + description + '](https://artskydj.github.io/gocomics-to-rss/' + filename + ')\n'
+}
+
+function writeFile(filename, contents) {
+	var filePath = path.resolve(__dirname, '..', filename)
+	fs.writeFileSync(filePath, contents, 'utf-8')
 }
