@@ -38,7 +38,7 @@ function pageFilter(page) {
 		url.startsWith('http://www.gocomics.com/news') ||
 		url.startsWith('http://www.gocomics.com/comics') ||
 		url.startsWith('http://www.gocomics.com/profiles')
-	) && url.startsWith('http://www.gocomics.com/c')
+	)
 }
 
 function comicPagesToMdLink(comicPages) {
