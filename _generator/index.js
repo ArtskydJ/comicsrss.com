@@ -16,7 +16,7 @@ getPageList()
 		var markdown = [
 			'# gocomics-to-rss',
 			'Copy one of the following rss links, and add it to your favorite feed reader!',
-			results.map(comicPagesToMdLink).join('')
+			results.map(comicPagesToMdLink).sort().join('')
 		].join('\n\n')
 		writeFile('README.md', markdown)
 
@@ -44,7 +44,7 @@ function pageFilter(page) {
 function comicPagesToMdLink(comicPages) {
 	var description = comicPages[0].title.split(' for ')[0]
 	var feedUrl = comicPages[0].url
-	var filename = feedUrl.split('/')[3] + '.rss'
+	var filename = feedUrl.split('/')[3].trim() + '.rss'
 	return '- [' + description + '](https://artskydj.github.io/gocomics-to-rss/' + filename + ')\n'
 }
 

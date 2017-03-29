@@ -8,7 +8,7 @@ module.exports = function (comicPages) {
 
 	var feedAuthor = comicPages[0].author
 	var feedUrl = comicPages[0].url
-	var filename = feedUrl.split('/')[3] + '.rss'
+	var filename = feedUrl.split('/')[3].trim() + '.rss'
 
 	var feed = new Feed({
 		title: comicPages[0].title.split(' by ')[0],
