@@ -1,0 +1,18 @@
+{
+  "name": "gocomics-to-rss",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Dykstra",
+  "license": "MIT",
+  "dependencies": {
+    "feed": "^0.3.1",
+    "htmlparser2": "^3.9.2",
+    "p-map": "^1.1.1",
+    "simple-concat": "^1.0.0"
+  }
+}
