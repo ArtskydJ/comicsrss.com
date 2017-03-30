@@ -33,8 +33,8 @@ function parseComicPage(html) {
 	var dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
 	var authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
 	var urlMatches = html.match(/<input .*?name="link.+?" value="([^"]+)"/)
-	var olderRelUrlMatches = html.match(/<div class="control-nav-older"><a.+href=["'](.*?)["']/)
-	var newerRelUrlMatches = html.match(/<div class="control-nav-newer"><a.+href=["'](.*?)["']/)
+	var olderRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
+	var newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
 	var headerImageUrlMatches = html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
 
 	if (comicUrlMatches === null) throw new Error('comicUrl')
