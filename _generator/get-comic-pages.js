@@ -23,7 +23,7 @@ function getPage(pageUrl) {
 	return httpGet(pageUrl)
 		.then(parseComicPage)
 		.catch(function (err) {
-			throw new Error('Could not parse "' + page.loc + '" (' + index + ')')
+			throw new Error('Could not parse "' + pageUrl + '" (' + index + ')')
 		})
 }
 
