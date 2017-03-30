@@ -23,19 +23,36 @@ function getPage(pageUrl) {
 	return httpGet(pageUrl)
 		.then(parseComicPage)
 		.catch(function (err) {
-			throw new Error('Could not parse "' + pageUrl + '"')
+			throw new Error('Could not parse "' + pageUrl + '" - Unable to parse ' + err.message)
 		})
 }
 
 function parseComicPage(html) {
+	var comicUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
+	var titleMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
+	var dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
+	var authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
+	var urlMatches = html.match(/<input .*?name="link.+?" value="([^"]+)"/)
+	var olderRelUrlMatches = html.match(/<div class="control-nav-older"><a.+href=["'](.*?)["']/)
+	var newerRelUrlMatches = html.match(/<div class="control-nav-newer"><a.+href=["'](.*?)["']/)
+	var headerImageUrlMatches = html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
+
+	if (comicUrlMatches === null) throw new Error('comicUrl')
+	if (titleMatches === null) throw new Error('title')
+	if (dateMatches === null) throw new Error('date')
+	if (authorMatches === null) throw new Error('author')
+	if (urlMatches === null) throw new Error('url')
+	if (olderRelUrlMatches === null) throw new Error('olderRelUrl')
+	if (newerRelUrlMatches === null) throw new Error('newerRelUrl')
+
 	return {
-		comicUrl: html.match(/<meta property="og:image" content="([^">]+)"/)[1],
-		title: html.match(/<meta property="og:title" content="([^">|]+)/)[1],
-		date: html.match(/<meta property="article:published_time" content="([^">]+)"/)[1],
-		author: html.match(/<meta property="article:author" content="([^">]+)"/)[1],
-		url: html.match(/<input .*?name="link.+?" value="([^"]+)"/)[1],
-		olderRelUrl: html.match(/<div class="control-nav-older"><a.+href=["'](.*?)["']/)[1],
-		newerRelUrl: html.match(/<div class="control-nav-newer"><a.+href=["'](.*?)["']/)[1],
-		headerImageUrl: (html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || [])[1]
+		comicUrl: comicUrlMatches[1],
+		title: titleMatches[1],
+		date: dateMatches[1],
+		author: authorMatches[1],
+		url: urlMatches[1],
+		olderRelUrl: olderRelUrlMatches[1],
+		newerRelUrl: newerRelUrlMatches[1],
+		headerImageUrl: headerImageUrlMatches[1]
 	}
 }
