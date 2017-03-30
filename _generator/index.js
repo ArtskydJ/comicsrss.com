@@ -28,6 +28,7 @@ getPageList()
 	})
 	.catch(function (err) {
 		console.error(err)
+		process.exit(1)
 	})
 
 function pageFilter(page) {
