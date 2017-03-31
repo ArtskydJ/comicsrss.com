@@ -23,7 +23,7 @@ getPageList()
 		results
 			.map(generateRssFeedFromComicPages)
 			.forEach(function (rssFeed) {
-				writeFile(rssFeed.filename, rssFeed.rss)
+				writeFile('rss/' + rssFeed.filename, rssFeed.rss)
 			})
 	})
 	.catch(function (err) {
@@ -46,7 +46,7 @@ function comicPagesToMdLink(comicPages) {
 	var description = comicPages[0].title.split(' for ')[0]
 	var feedUrl = comicPages[0].url
 	var filename = feedUrl.split('/')[3].trim() + '.rss'
-	return '- [' + description + '](https://artskydj.github.io/gocomics-to-rss/' + filename + ')\n'
+	return '- [' + description + '](http://www.comicsrss.com/rss/' + filename + ')\n'
 }
 
 function writeFile(filename, contents) {
