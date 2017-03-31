@@ -1,4 +1,4 @@
-# gocomics-to-rss
+# comicsrss.com
 
 Copy one of the following rss links, and add it to your favorite feed reader!
 

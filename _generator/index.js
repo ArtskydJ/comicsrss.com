@@ -14,7 +14,7 @@ getPageList()
 	})
 	.then(function (results) {
 		var markdown = [
-			'# gocomics-to-rss',
+			'# comicsrss.com',
 			'Copy one of the following rss links, and add it to your favorite feed reader!',
 			results.map(comicPagesToMdLink).sort().join('')
 		].join('\n\n')
