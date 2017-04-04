@@ -82,6 +82,7 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 - [Cattitude — Doggonit by Anthony Smith](http://www.comicsrss.com/rss/cattitude-doggonit.rss)
 - [Chan Lowe by Chan Lowe](http://www.comicsrss.com/rss/chanlowe.rss)
 - [Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui](http://www.comicsrss.com/rss/cheap-thrills-cuisine.rss)
+- [Cheer Up, Emo Kid by Enzo Comics](http://www.comicsrss.com/rss/cheer-up-emo-kid.rss)
 - [Chip Bok by Chip Bok](http://www.comicsrss.com/rss/chipbok.rss)
 - [Chris Britt by Chris Britt](http://www.comicsrss.com/rss/chrisbritt.rss)
 - [Chuckle Bros by Brian and Ron Boychuk](http://www.comicsrss.com/rss/chucklebros.rss)
