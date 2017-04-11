@@ -474,6 +474,7 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 - [The Norm Classics by Michael Jantze](http://www.comicsrss.com/rss/thenorm.rss)
 - [The Other Coast by Adrian Raeside](http://www.comicsrss.com/rss/theothercoast.rss)
 - [The Other End by Neil Kohney](http://www.comicsrss.com/rss/the-other-end.rss)
+- [The Pigeon Gazette by Jane Zei](http://www.comicsrss.com/rss/the-pigeon-gazette.rss)
 - [The Quixote Syndrome by Peter Mann](http://www.comicsrss.com/rss/the-quixote-syndrome.rss)
 - [The Sunshine Club by Howie Schneider](http://www.comicsrss.com/rss/the-sunshine-club.rss)
 - [The Upside Down World of Gustave Verbeek by Gustave Verbeek](http://www.comicsrss.com/rss/upside-down-world-of-gustave-verbeek.rss)
