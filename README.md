@@ -532,7 +532,6 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 - [Wrong Hands by John Atkinson](http://www.comicsrss.com/rss/wrong-hands.rss)
 - [WuMo by Wulff &amp; Morgenthaler](http://www.comicsrss.com/rss/wumo.rss)
 - [Wumo en Español by Wulff &amp; Morgenthaler](http://www.comicsrss.com/rss/wumoespanol.rss)
-- [Wyatt by Eric Gapstur](http://www.comicsrss.com/rss/wyatt.rss)
 - [Yenny Lopez by David Alvarez](http://www.comicsrss.com/rss/yenny-lopez.rss)
 - [Yenny en Español by David Alvarez](http://www.comicsrss.com/rss/yennyespanol.rss)
 - [Zack Hill by John Deering and John Newcombe](http://www.comicsrss.com/rss/zackhill.rss)
