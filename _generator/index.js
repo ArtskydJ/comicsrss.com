@@ -27,7 +27,7 @@ function createFiles(results) {
 	var markdown = [
 		'# comicsrss.com',
 		'Copy one of the following rss links, and add it to your favorite feed reader!',
-		results.map(comicPagesToMdLink).sort().join(''),
+		results.map(comicPagesToMdLink).sort(caseInsensitiveSort).join('\n'),
 		'-----',
 		'[View on GitHub](https://github.com/ArtskydJ/comicsrss.com) - Made by [Joseph Dykstra](http://www.josephdykstra.com)',
 		'> Generated on ' + new Date().toDateString() // This works because of my time zone...
@@ -56,7 +56,7 @@ function comicPagesToMdLink(comicPages) {
 	var description = comicPages[0].title.split(' for ')[0]
 	var feedUrl = comicPages[0].url
 	var filename = feedUrl.split('/')[3].trim() + '.rss'
-	return '- [' + description + '](http://www.comicsrss.com/rss/' + filename + ')\n'
+	return '- [' + description + '](http://www.comicsrss.com/rss/' + filename + ')'
 }
 
 function caseInsensitiveSort(a, b) {
