@@ -19,13 +19,13 @@ getPageList()
 			})
 		}, { concurrency: 8 })
 	})
-	.then(createFiles)
+	.then(createIndexPage)
 	.catch(function (err) {
 		console.error(err)
 		process.exit(1)
 	})
 
-function createFiles(mdLinks) {
+function createIndexPage(mdLinks) {
 	var markdown = [
 		'# comicsrss.com',
 		'Copy one of the following rss links, and add it to your favorite feed reader!',
