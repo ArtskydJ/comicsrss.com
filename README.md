@@ -102,7 +102,6 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 - [CowTown by Charlie Podrebarac](http://www.comicsrss.com/rss/cowtown.rss)
 - [Crumb by David Fletcher](http://www.comicsrss.com/rss/crumb.rss)
 - [Cul de Sac by Richard Thompson](http://www.comicsrss.com/rss/culdesac.rss)
-- [Dadding Badly by John Kovaleski](http://www.comicsrss.com/rss/dadding-badly.rss)
 - [Daddy&#39;s Home by Tony Rubino and Gary Markstein](http://www.comicsrss.com/rss/daddyshome.rss)
 - [Dan Wasserman by Dan Wasserman](http://www.comicsrss.com/rss/danwasserman.rss)
 - [Dana Summers by Dana Summers](http://www.comicsrss.com/rss/danasummers.rss)
@@ -495,6 +494,7 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 - [Trucutu by Jack and Carole Bender](http://www.comicsrss.com/rss/trucutu.rss)
 - [Truth Facts by Wulff &amp; Morgenthaler](http://www.comicsrss.com/rss/truth-facts.rss)
 - [Tutelandia by Tute](http://www.comicsrss.com/rss/tutelandia.rss)
+- [Two Party Opera by Brian Carroll](http://www.comicsrss.com/rss/two-party-opera.rss)
 - [U.S. Acres by Jim Davis](http://www.comicsrss.com/rss/us-acres.rss)
 - [Uncle Art&#39;s Funland by Art Nugent](http://www.comicsrss.com/rss/uncleartsfunland.rss)
 - [Understanding Chaos by Gustavo Rodriguez](http://www.comicsrss.com/rss/understanding-chaos.rss)
@@ -541,4 +541,4 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 
 [View on GitHub](https://github.com/ArtskydJ/comicsrss.com) - Made by [Joseph Dykstra](http://www.josephdykstra.com)
 
-> Generated on Sat Apr 22 2017
+> Generated on Fri Apr 28 2017
