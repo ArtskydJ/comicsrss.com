@@ -7,15 +7,17 @@ var generateRssFeedFromComicPages = require('./generate-rss-feed-from-comic-page
 
 getPageList()
 	.then(function (pageList) {
-		return pageList.filter(pageFilter)
-	})
-	.then(function (filteredPages) {
-		return pMap(filteredPages, getComicPages, { concurrency: 8 })
-	})
-	.then(function (results) {
-		return results.filter(function (comicPages) {
-			return comicPages.length > 0
-		})
+		var filteredPages = pageList.filter(pageFilter)
+		return pMap(filteredPages, function (page) {
+			return getComicPages(page).then(function (pages) {
+				if (!pages.length) return null
+
+				var rssFeed = generateRssFeedFromComicPages(pages)
+				writeFile('rss/' + rssFeed.filename, rssFeed.rss)
+
+				return comicPagesToMdLink(pages)
+			})
+		}, { concurrency: 8 })
 	})
 	.then(createFiles)
 	.catch(function (err) {
@@ -23,22 +25,16 @@ getPageList()
 		process.exit(1)
 	})
 
-function createFiles(results) {
+function createFiles(mdLinks) {
 	var markdown = [
 		'# comicsrss.com',
 		'Copy one of the following rss links, and add it to your favorite feed reader!',
-		results.map(comicPagesToMdLink).sort(caseInsensitiveSort).join('\n'),
+		mdLinks.filter(Boolean).sort(caseInsensitiveSort).join('\n'),
 		'-----',
 		'[View on GitHub](https://github.com/ArtskydJ/comicsrss.com) - Made by [Joseph Dykstra](http://www.josephdykstra.com)',
 		'> Generated on ' + new Date().toDateString() // This works because of my time zone...
 	].join('\n\n')
 	writeFile('README.md', markdown)
-
-	results
-		.map(generateRssFeedFromComicPages)
-		.forEach(function (rssFeed) {
-			writeFile('rss/' + rssFeed.filename, rssFeed.rss)
-		})
 }
 
 function pageFilter(page) {
