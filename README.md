@@ -541,4 +541,4 @@ Copy one of the following rss links, and add it to your favorite feed reader!
 
 [View on GitHub](https://github.com/ArtskydJ/comicsrss.com) - Made by [Joseph Dykstra](http://www.josephdykstra.com)
 
-> Generated on Sat May 06 2017
+> Generated on Sun May 07 2017
