@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 cd ~/comicsrss.com/
-node _generator
+#node _generator
 git add .
-git commit -m "Build"
-git push origin gh-pages
+git commit -q -m "Build"
+git push origin gh-pages -q
