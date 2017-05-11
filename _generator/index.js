@@ -1,4 +1,4 @@
-xvar fs = require('fs')
+var fs = require('fs')
 var path = require('path')
 var pMap = require('p-map')
 var getPageList = require('./get-page-list.js')
