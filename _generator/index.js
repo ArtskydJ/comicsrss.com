@@ -3,6 +3,7 @@ var path = require('path')
 var pMap = require('p-map')
 var getPageList = require('./get-page-list.js')
 var getComicPages = require('./get-comic-pages.js')
+var generateMainPageFromLinkObjects = require('./generate-main-page.js')
 var generateRssFeedFromComicPages = require('./generate-rss-feed-from-comic-pages.js')
 
 getPageList()
@@ -15,27 +16,15 @@ getPageList()
 				var rssFeed = generateRssFeedFromComicPages(pages)
 				writeFile('rss/' + rssFeed.filename, rssFeed.rss)
 
-				return comicPagesToMdLink(pages)
+				return comicPagesToLinkObjects(pages)
 			})
 		}, { concurrency: 8 })
 	})
-	.then(createIndexPage)
+	.then(generateMainPageFromLinkObjects)
 	.catch(function (err) {
 		console.error(err)
 		process.exit(1)
 	})
-
-function createIndexPage(mdLinks) {
-	var markdown = [
-		'# comicsrss.com',
-		'Copy one of the following rss links, and add it to your favorite feed reader!',
-		mdLinks.filter(Boolean).sort(caseInsensitiveSort).join('\n'),
-		'-----',
-		'[View on GitHub](https://github.com/ArtskydJ/comicsrss.com) - Made by [Joseph Dykstra](http://www.josephdykstra.com)',
-		'> Generated on ' + new Date().toDateString() // This works because of my time zone...
-	].join('\n\n')
-	writeFile('README.md', markdown)
-}
 
 function pageFilter(page) {
 	var url = page.loc
@@ -48,15 +37,14 @@ function pageFilter(page) {
 	)
 }
 
-function comicPagesToMdLink(comicPages) {
+function comicPagesToLinkObjects(comicPages) {
 	var description = comicPages[0].title.split(' for ')[0]
-	var feedUrl = comicPages[0].url
-	var filename = feedUrl.split('/')[3].trim() + '.rss'
-	return '- [' + description + '](http://www.comicsrss.com/rss/' + filename + ')'
-}
-
-function caseInsensitiveSort(a, b) {
-	return a.localeCompare(b, 'en', { sensitivity: 'base' })
+	var filename = comicPages[0].url.split('/')[3].trim() + '.rss'
+	var feedUrl = 'http://www.comicsrss.com/rss/' + filename
+	return {
+		titleAndAuthor: description,
+		feedUrl: feedUrl
+	}
 }
 
 function writeFile(filename, contents) {
