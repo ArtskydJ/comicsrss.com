@@ -7,7 +7,7 @@ module.exports = function (comicPages) {
 	}
 
 	var feedAuthor = comicPages[0].author
-	var feedUrl = comicPages[0].url
+	var feedUrl = comicPages[0].comicUrl
 	var filename = feedUrl.split('/')[3].trim() + '.rss'
 
 	var feed = new Feed({
@@ -47,11 +47,12 @@ function makeId(str) {
 }
 
 function generateHtml(comicPage) {
-	return '<img src="' + comicPage.comicUrl + '" alt="' + comicPage.title + '" title="' + comicPage.title + '">'
+	return '<img src="' + comicPage.comicImageUrl + '" alt="' + comicPage.title + '" title="' + comicPage.title + '">'
 }
 
 /* example comicPage:
-{ imageUrl: 'http://assets.amuniversal.com/1fb42a70f47b013479d5005056a9545d',
+{ comicUrl: 'http://www.gocomics.com/basicinstructions',
+comicImageUrl: 'http://assets.amuniversal.com/1fb42a70f47b013479d5005056a9545d',
 title: 'Basic Instructions by Scott Meyer for Mar 26, 2017 ',
 date: '2017-03-26',
 author: 'Scott Meyer',

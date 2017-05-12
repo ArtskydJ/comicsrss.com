@@ -29,7 +29,7 @@ module.exports = function (page, index) {
 
 
 function parseComicPage(pageUrl, html) {
-	var comicUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
+	var comicImageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
 	var titleMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
 	var dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
 	var authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
@@ -39,7 +39,7 @@ function parseComicPage(pageUrl, html) {
 	var newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
 	var headerImageUrlMatches = html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
 
-	if (comicUrlMatches === null || !comicUrlMatches[1]) throw new Error('Unable to parse comicUrl')
+	if (comicImageUrlMatches === null || !comicImageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl')
 	if (titleMatches === null || !titleMatches[1]) throw new Error('Unable to parse title')
 	if (dateMatches === null || !dateMatches[1]) throw new Error('Unable to parse date')
 	if (authorMatches === null || !authorMatches[1]) throw new Error('Unable to parse author')
@@ -48,7 +48,8 @@ function parseComicPage(pageUrl, html) {
 	if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl')
 
 	return {
-		comicUrl: comicUrlMatches[1],
+		comicUrl: pageUrl,
+		comicImageUrl: comicImageUrlMatches[1],
 		title: titleMatches[1],
 		date: dateMatches[1],
 		author: authorMatches[1],
