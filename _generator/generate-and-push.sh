@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 cd ~/comicsrss.com/
-git pull --ff-only origin gh-pages -q
+git pull --ff-only origin gh-pages &> /dev/null
 node _generator
 git add .
 git commit -q -m "Build"
