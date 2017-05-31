@@ -1,7 +1,7 @@
 # comicsrss.com
 
-Source code for the [Comics RSS](http://www.comicsrss.com) rss feed and site generator
+Source code for the site generator and rss feed generator for [comicsrss.com](http://www.comicsrss.com)
 
-#### License
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
