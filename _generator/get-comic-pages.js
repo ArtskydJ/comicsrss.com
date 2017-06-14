@@ -12,9 +12,6 @@ module.exports = function (page, index) {
 		.then(getPage)
 		.then(getPage)
 		.then(getPage)
-		.catch(function (err) {
-			console.error(page.loc + ' ' + err.message)
-		})
 		.then(function () {
 			return pages
 		})
@@ -42,13 +39,13 @@ function parseComicPage(pageUrl, html) {
 	var newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
 	var headerImageUrlMatches = html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
 
-	if (comicImageUrlMatches === null || !comicImageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl')
-	if (titleMatches === null || !titleMatches[1]) throw new Error('Unable to parse title')
-	if (dateMatches === null || !dateMatches[1]) throw new Error('Unable to parse date')
-	if (authorMatches === null || !authorMatches[1]) throw new Error('Unable to parse author')
-	if (urlMatches === null || !urlMatches[1]) throw new Error('Unable to parse url')
-	if (olderRelUrlMatches === null || (!olderRelUrlMatches[1] && !isFirstComic)) throw new Error('Unable to parse olderRelUrl')
-	if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl')
+	if (comicImageUrlMatches === null || !comicImageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + pageUrl)
+	if (titleMatches === null || !titleMatches[1]) throw new Error('Unable to parse title in ' + pageUrl)
+	if (dateMatches === null || !dateMatches[1]) throw new Error('Unable to parse date in ' + pageUrl)
+	if (authorMatches === null || !authorMatches[1]) throw new Error('Unable to parse author in ' + pageUrl)
+	if (urlMatches === null || !urlMatches[1]) throw new Error('Unable to parse url in ' + pageUrl)
+	if (olderRelUrlMatches === null || (!olderRelUrlMatches[1] && !isFirstComic)) throw new Error('Unable to parse olderRelUrl in ' + pageUrl)
+	if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl in ' + pageUrl)
 
 	return {
 		comicUrl: pageUrl,

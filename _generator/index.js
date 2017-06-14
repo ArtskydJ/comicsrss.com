@@ -1,6 +1,6 @@
 var fs = require('fs')
 var path = require('path')
-var pEach = require('p-each-series')
+var pMap = require('p-map-series')
 var getPageList = require('./get-page-list.js')
 var getComicPages = require('./get-comic-pages.js')
 var generateMainPageFromLinkObjects = require('./generate-main-page.js')
@@ -9,15 +9,19 @@ var generateRssFeedFromComicPages = require('./generate-rss-feed-from-comic-page
 getPageList()
 	.then(function (pageList) {
 		var filteredPages = pageList.filter(pageFilter)
-		return pEach(filteredPages, function (page) {
-			return getComicPages(page).then(function (pages) {
-				if (!pages.length) return null
+		return pMap(filteredPages, function (page) {
+			return getComicPages(page)
+				.then(function (pages) {
+					if (!pages.length) return null
 
-				var rssFeed = generateRssFeedFromComicPages(pages)
-				writeFile('rss/' + rssFeed.filename, rssFeed.rss)
+					var rssFeed = generateRssFeedFromComicPages(pages)
+					writeFile('rss/' + rssFeed.filename, rssFeed.rss)
 
-				return comicPagesToLinkObjects(pages)
-			})
+					return comicPagesToLinkObjects(pages)
+				})
+				.catch(function (err) {
+					console.error(err.message)
+				})
 		})
 	})
 	.then(generateMainPageFromLinkObjects)
