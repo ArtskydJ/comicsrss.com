@@ -1,6 +1,6 @@
 var fs = require('fs')
 var path = require('path')
-var pMap = require('p-map')
+var pEach = require('p-each-series')
 var getPageList = require('./get-page-list.js')
 var getComicPages = require('./get-comic-pages.js')
 var generateMainPageFromLinkObjects = require('./generate-main-page.js')
@@ -9,7 +9,7 @@ var generateRssFeedFromComicPages = require('./generate-rss-feed-from-comic-page
 getPageList()
 	.then(function (pageList) {
 		var filteredPages = pageList.filter(pageFilter)
-		return pMap(filteredPages, function (page) {
+		return pEach(filteredPages, function (page) {
 			return getComicPages(page).then(function (pages) {
 				if (!pages.length) return null
 
@@ -18,7 +18,7 @@ getPageList()
 
 				return comicPagesToLinkObjects(pages)
 			})
-		}, { concurrency: 8 })
+		})
 	})
 	.then(generateMainPageFromLinkObjects)
 	.catch(function (err) {
