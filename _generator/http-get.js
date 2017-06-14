@@ -15,6 +15,6 @@ module.exports = function httpGet(url) {
 					resolve(buf.toString())
 				})
 			})
-		}, 800)
+		}, 1000) // 800 might work, 700 doesn't
 	})
 }

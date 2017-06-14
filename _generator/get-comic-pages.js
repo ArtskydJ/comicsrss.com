@@ -9,6 +9,9 @@ module.exports = function (page, index) {
 		.then(getPage)
 		.then(getPage)
 		.then(getPage)
+		.then(getPage)
+		.then(getPage)
+		.then(getPage)
 		.catch(function (err) {
 			console.error(page.loc + ' ' + err.message)
 		})
