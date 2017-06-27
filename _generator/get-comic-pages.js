@@ -7,11 +7,6 @@ module.exports = function (page, index) {
 	return getPage(page.loc)
 		.then(getPage)
 		.then(getPage)
-		.then(getPage)
-		.then(getPage)
-		.then(getPage)
-		.then(getPage)
-		.then(getPage)
 		.then(function () {
 			return pages
 		})
