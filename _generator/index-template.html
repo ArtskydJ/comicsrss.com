@@ -8,7 +8,20 @@
 <body>
 	<h1>Comics RSS</h1>
 
-	<p>Copy one of the following rss links, and add it to your favorite feed reader!</p>
+	<p>
+		If you don't understand what RSS is, you can learn
+		<a href="https://www.digitaltrends.com/computing/how-to-use-rss/">how to use RSS</a>.
+	</p>
+
+	<p>
+		There are two ways to start following a comic strip.
+		The first way is to copy an RSS link by clicking the RSS icon
+		<img src="./rss.svg" class="icon rss-icon">
+		and then pasting it into your favorite feed reader.
+		If you use Feedly, then you can just click the Feedly icon
+		<img src="http://s3.feedly.com/img/follows/feedly-follow-logo-black_2x.png" class="icon feedly-icon">
+		to view the feed, and then click <strong>Follow</strong> in Feedly.
+	</p>
 
 	<p>Search: <input type="text" class="search" placeholder="Title or Author" /></p>
 
@@ -28,6 +41,18 @@
 					li.classList.remove('hidden')
 				}
 			})
+		}
+	</script>
+
+	<script>
+		function copyToClipboard(text) {
+			var textArea = document.createElement('textarea')
+			textArea.className = 'copyable'
+			textArea.value = text
+			document.body.appendChild(textArea)
+			textArea.select()
+			var wasSuccessful = document.execCommand('copy')
+			document.body.removeChild(textArea)
 		}
 	</script>
 

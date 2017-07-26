@@ -54,8 +54,33 @@ input.search:focus{
 	outline: none;
 	border-bottom: 1px solid #888;
 }
-li.hidden {
+.hidden {
 	display: none;
+}
+textarea.copyable {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 2em;
+	height: 2em;
+	padding: 0;
+	border: none;
+	outline: none;
+	box-shadow: none;
+	background: transparent;
+}
+
+.icon {
+	vertical-align: top;
+}
+.rss-icon {
+	width:20px;
+	height:20px;
+}
+.feedly-icon {
+	margin: -4px;
+	width:28px;
+	height:28px;
 }
 
 .gray {

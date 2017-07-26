@@ -20,8 +20,12 @@ function linkObjectsToHtml(linkObjects) {
 	.map(function (linkObject) {
 		return `
 		<li data-search="${linkObject.titleAndAuthor.toLowerCase()}">
-			<a href="${linkObject.feedUrl}">
-				${linkObject.titleAndAuthor}
+			${linkObject.titleAndAuthor}
+			<a href="javascript:copyToClipboard('${linkObject.feedUrl}')">
+				<img src="./rss.svg" class="icon rss-icon">
+			</a>
+			<a href="http://cloud.feedly.com/#subscription%2Ffeed%2F${encodeURIComponent(linkObject.feedUrl)}" target="blank">
+				<img src="http://s3.feedly.com/img/follows/feedly-follow-logo-black_2x.png" alt="follow us in feedly" class="icon feedly-icon">
 			</a>
 		</li>`
 	})
