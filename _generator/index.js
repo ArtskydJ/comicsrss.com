@@ -7,10 +7,9 @@ var generateMainPageFromLinkObjects = require('./generate-main-page.js')
 var generateRssFeedFromComicPages = require('./generate-rss-feed-from-comic-pages.js')
 
 getPageList()
-	.then(function (pageList) {
-		var filteredPages = pageList.filter(pageFilter)
-		return pMap(filteredPages, function (page) {
-			return getComicPages(page)
+	.then(function (pageUrls) {
+		return pMap(pageUrls, function (pageUrl) {
+			return getComicPages(pageUrl)
 				.then(function (pages) {
 					if (!pages.length) return null
 
@@ -20,7 +19,9 @@ getPageList()
 					return comicPagesToLinkObjects(pages)
 				})
 				.catch(function (err) {
-					console.error(err.message)
+					if (err.message === 'Comic no longer exists') return null
+
+					console.error(pageUrl + ' ' + err.message)
 				})
 		})
 	})
@@ -29,17 +30,6 @@ getPageList()
 		console.error(err)
 		process.exit(1)
 	})
-
-function pageFilter(page) {
-	var url = page.loc
-
-	return !(
-		url === 'http://www.gocomics.com' ||
-		url.startsWith('http://www.gocomics.com/news') ||
-		url.startsWith('http://www.gocomics.com/comics') ||
-		url.startsWith('http://www.gocomics.com/profiles')
-	)
-}
 
 function comicPagesToLinkObjects(comicPages) {
 	var description = comicPages[0].title.split(' for ')[0]

@@ -1,10 +1,10 @@
 var httpGet = require('./http-get.js')
 var url = require('url')
 
-module.exports = function (page, index) {
+module.exports = function (pageUrl) {
 	var pages = []
 
-	return getPage(page.loc)
+	return getPage(pageUrl)
 		.then(getPage)
 		.then(getPage)
 		.then(function () {
@@ -12,13 +12,14 @@ module.exports = function (page, index) {
 		})
 
 	function getPage(pageUrl) {
-		if (pageUrl !== '') return httpGet(pageUrl)
-			.then(function (html) {
-				var parsed = parseComicPage(pageUrl, html)
-				pages.push(parsed)
-				if (parsed.isFirstComic) return ''
-				return url.resolve(pageUrl, parsed.olderRelUrl)
-			})
+		if (!pageUrl) return null
+
+		return httpGet(pageUrl)
+		.then(function (html) {
+			var parsed = parseComicPage(pageUrl, html)
+			pages.push(parsed)
+			if (!parsed.isFirstComic) return url.resolve(pageUrl, parsed.olderRelUrl)
+		})
 	}
 }
 
