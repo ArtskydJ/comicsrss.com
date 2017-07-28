@@ -54,9 +54,27 @@
 			textArea.select()
 			var wasSuccessful = document.execCommand('copy')
 			document.body.removeChild(textArea)
+			return wasSuccessful
+		}
+
+		function showTooltip(top, left, text) {
+			var div = document.createElement('div')
+			div.className = 'tooltip'
+			div.style.top = top + 'px'
+			div.style.left = left + 'px'
+			div.innerHTML = text
+			document.body.appendChild(div)
+			setTimeout(function () {
+				div.remove()
+			}, 1800)
+		}
+
+		function copy(self, text) {
+			var message = copyToClipboard(text) ? 'Copied!' : 'Copy failed.'
+			showTooltip(self.offsetTop, self.offsetLeft, message)
+			return false
 		}
 	</script>
-
 
 	<!-- RSS FEED LIST -->
 

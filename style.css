@@ -109,3 +109,15 @@ textarea.copyable {
 .text-right {
 	text-align: right;
 }
+
+.tooltip {
+	display: inline-block;
+	position: absolute;
+	margin-top: -7px;
+	margin-left: -7px;
+	padding: 2px 5px;
+	background-color: black;
+	border-radius: 4px;
+	color:white;
+	font-family: arial, sans-serif;
+}

@@ -24,11 +24,11 @@ function linkObjectsToHtml(linkObjects) {
 		return `
 		<li data-search="${linkObject.titleAndAuthor.toLowerCase()}">
 			<span class="comic-title">${linkObject.titleAndAuthor}</span>
-			<a href="javascript:copyToClipboard('${linkObject.feedUrl}')" class="icon-link">
-				<img src="./rss.svg" class="icon rss-icon">
+			<a href="${linkObject.feedUrl}" onclick="return copy(this, '${linkObject.feedUrl}')" class="icon-link">
+				<img src="./rss.svg" alt="copy rss feed url" class="icon rss-icon">
 			</a>
 			<a href="http://cloud.feedly.com/#subscription%2Ffeed%2F${encodeURIComponent(linkObject.feedUrl)}" target="_blank" class="icon-link">
-				<img src="${feedlyIconUrl}" alt="follow us in feedly" class="icon feedly-icon">
+				<img src="${feedlyIconUrl}" alt="follow ${linkObject.title} in feedly" class="icon feedly-icon">
 			</a>
 		</li>`
 	})
