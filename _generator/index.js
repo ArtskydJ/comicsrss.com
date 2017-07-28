@@ -33,12 +33,10 @@ getPageList()
 
 function comicPagesToLinkObjects(comicPages) {
 	var titleAndAuthor = comicPages[0].title.split(' for ')[0]
-	var title = titleAndAuthor.split(' by ')[0]
 	var filename = comicPages[0].url.split('/')[3].trim() + '.rss'
 	var feedUrl = 'http://www.comicsrss.com/rss/' + filename
 	return {
 		titleAndAuthor: titleAndAuthor,
-		title: title,
 		feedUrl: feedUrl
 	}
 }
