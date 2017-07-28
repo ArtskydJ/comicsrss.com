@@ -65,7 +65,7 @@
 			div.innerHTML = text
 			document.body.appendChild(div)
 			setTimeout(function () {
-				div.remove()
+				div.parentNode.removeChild(div)
 			}, 1800)
 		}
 
