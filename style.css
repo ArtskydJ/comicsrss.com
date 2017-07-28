@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25;
 }
 ul {
-	padding-left: 2em;
+	padding-left: 0.5em;
 	margin-top: 0;
 	margin-bottom: 16px;
 }
@@ -72,6 +72,14 @@ textarea.copyable {
 
 .icon {
 	vertical-align: top;
+}
+li .icon {
+	opacity: 0.5;
+}
+li .icon:hover,
+li .icon:active,
+li .icon:focus {
+	opacity: 1;
 }
 .rss-icon {
 	width:20px;
