@@ -11,7 +11,7 @@ module.exports = function getPages() {
 			.map(getPageUrl)
 			.filter(isComicPage)
 			.sort()
-			.slice(0, 15) // DEBUG
+			//.slice(0, 15) // DEBUG
 	})
 }
 

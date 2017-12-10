@@ -70,6 +70,10 @@ textarea.copyable {
 	background: transparent;
 }
 
+.logo {
+	max-width: 100%;
+}
+
 .comic-title {
 	text-overflow: ellipsis;
 	display: inline-block;
