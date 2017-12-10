@@ -2,7 +2,7 @@ var http = require('http')
 var htmlParser = require('htmlparser2')
 
 module.exports = function getPages() {
-	// return DEBUG_PAGES
+	return DEBUG_PAGES
 	return new Promise(function (resolve, reject) {
 		http.get('http://www.gocomics.com/sitemap.xml', function (res) {
 			res.pipe( siteMapParser(resolve, reject) )
@@ -18,9 +18,21 @@ module.exports = function getPages() {
 
 function siteMapParser(resolve, reject) {
 	var pages = []
-
 	var currentTag = ''
 	var currentPage = {}
+
+	var parserEvents = {
+		onopentag: function (name, attribs) { currentTag = name },
+		ontext: function (text) {currentPage[currentTag] = (currentPage[currentTag] || '') + text },
+		onclosetag: function (name) {
+			if (name === 'url') {
+				pages.push(currentPage)
+				currentPage = {}
+			}
+		},
+		onerror: reject,
+		onend: function () { resolve(pages) }
+	}
 
 	var parserOptions = {
 		xmlMode: true,
@@ -28,33 +40,7 @@ function siteMapParser(resolve, reject) {
 		lowerCaseTags: true
 	}
 
-	return new htmlParser.Parser({
-		onopentag: onOpenTag,
-		ontext: onText,
-		onclosetag: onCloseTag,
-		onerror: onError,
-		onend: onEnd
-	}, parserOptions)
-
-
-	function onOpenTag(name, attribs) {
-		currentTag = name
-	}
-	function onText(text) {
-		currentPage[currentTag] = (currentPage[currentTag] || '') + text
-	}
-	function onCloseTag(name) {
-		if (name === 'url') {
-			pages.push(currentPage)
-			currentPage = {}
-		}
-	}
-	function onError(err) {
-		reject(err)
-	}
-	function onEnd() {
-		resolve(pages)
-	}
+	return new htmlParser.Parser(parserEvents, parserOptions)
 }
 
 function isComicPage(pageUrl) {
@@ -74,6 +60,6 @@ const DEBUG_PAGES = Promise.resolve([
 	'http://www.gocomics.com/1-and-done',
 	'http://www.gocomics.com/2cowsandachicken',
 	'http://www.gocomics.com/9chickweedlane',
-	'http://www.gocomics.com/9to5',
-	'http://www.gocomics.com/this_does_not_exist'
+	'http://www.gocomics.com/this_does_not_exist',
+	'http://www.gocomics.com/9to5'
 ])

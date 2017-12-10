@@ -25,7 +25,10 @@ getPageList()
 				})
 		})
 	})
-	.then(generateMainPageFromLinkObjects)
+	.then(function (linkObjects) {
+		writeFile('_generator/_saved-state.json', JSON.stringify(linkObjects))
+		generateMainPageFromLinkObjects(linkObjects)
+	})
 	.catch(function (err) {
 		console.error(err)
 		process.exit(1)
@@ -37,7 +40,8 @@ function comicPagesToLinkObjects(comicPages) {
 	var feedUrl = 'http://www.comicsrss.com/rss/' + filename
 	return {
 		titleAndAuthor: titleAndAuthor,
-		feedUrl: feedUrl
+		feedUrl: feedUrl,
+		pages: comicPages
 	}
 }
 
