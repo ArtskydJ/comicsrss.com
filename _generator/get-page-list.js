@@ -2,7 +2,6 @@ var http = require('http')
 var htmlParser = require('htmlparser2')
 
 module.exports = function getPages() {
-	// return DEBUG_PAGES
 	return new Promise(function (resolve, reject) {
 		http.get('http://www.gocomics.com/sitemap.xml', function (res) {
 			res.pipe( siteMapParser(resolve, reject) )
@@ -12,6 +11,7 @@ module.exports = function getPages() {
 			.map(getPageUrl)
 			.filter(isComicPage)
 			.sort()
+			.slice(0, 15) // DEBUG
 	})
 }
 
@@ -34,13 +34,11 @@ function siteMapParser(resolve, reject) {
 		onend: function () { resolve(pages) }
 	}
 
-	var parserOptions = {
+	return new htmlParser.Parser(parserEvents, {
 		xmlMode: true,
 		decodeEntities: true,
 		lowerCaseTags: true
-	}
-
-	return new htmlParser.Parser(parserEvents, parserOptions)
+	})
 }
 
 function isComicPage(pageUrl) {
@@ -55,11 +53,3 @@ function isComicPage(pageUrl) {
 function getPageUrl(page) {
 	return page.loc
 }
-
-const DEBUG_PAGES = Promise.resolve([
-	'http://www.gocomics.com/1-and-done',
-	'http://www.gocomics.com/2cowsandachicken',
-	'http://www.gocomics.com/9chickweedlane',
-	'http://www.gocomics.com/this_does_not_exist',
-	'http://www.gocomics.com/9to5'
-])

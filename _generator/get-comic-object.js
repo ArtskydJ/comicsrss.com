@@ -2,13 +2,29 @@ var httpGet = require('./http-get.js')
 var url = require('url')
 
 module.exports = function (pageUrl) {
-	var pages = []
+	var comicStrips = []
 
 	return getPage(pageUrl)
 		.then(getPage)
 		.then(getPage)
 		.then(function () {
-			return pages
+			if (!comicStrips.length) return null
+
+			return {
+				titleAndAuthor: comicStrips[0].titleAuthorDate.split(' for ')[0],
+				filename: comicStrips[0].comicUrl.split('/')[3].trim() + '.rss',
+				author: comicStrips[0].author,
+				comicUrl: comicStrips[0].comicUrl,
+				headerImageUrl: comicStrips[0].headerImageUrl,
+				comicStrips: comicStrips.map(function (comicStrip) {
+					return {
+						title: comicStrip.titleAuthorDate,
+						url: comicStrip.url,
+						date: comicStrip.date,
+						comicImageUrl: comicStrip.comicImageUrl
+					}
+				})
+			}
 		})
 
 	function getPage(pageUrl) {
@@ -17,7 +33,7 @@ module.exports = function (pageUrl) {
 		return httpGet(pageUrl)
 		.then(function (html) {
 			var parsed = parseComicPage(pageUrl, html)
-			pages.push(parsed)
+			comicStrips.push(parsed)
 			if (!parsed.isFirstComic) return url.resolve(pageUrl, parsed.olderRelUrl)
 		})
 	}
@@ -26,7 +42,7 @@ module.exports = function (pageUrl) {
 
 function parseComicPage(pageUrl, html) {
 	var comicImageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
-	var titleMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
+	var titleAuthorDateMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
 	var dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
 	var authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
 	var urlMatches = html.match(/<input .*?name="link.+?" value="([^"]+)"/)
@@ -36,7 +52,7 @@ function parseComicPage(pageUrl, html) {
 	var headerImageUrlMatches = html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
 
 	if (comicImageUrlMatches === null || !comicImageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + pageUrl)
-	if (titleMatches === null || !titleMatches[1]) throw new Error('Unable to parse title in ' + pageUrl)
+	if (titleAuthorDateMatches === null || !titleAuthorDateMatches[1]) throw new Error('Unable to parse title, author, date in ' + pageUrl)
 	if (dateMatches === null || !dateMatches[1]) throw new Error('Unable to parse date in ' + pageUrl)
 	if (authorMatches === null || !authorMatches[1]) throw new Error('Unable to parse author in ' + pageUrl)
 	if (urlMatches === null || !urlMatches[1]) throw new Error('Unable to parse url in ' + pageUrl)
@@ -46,13 +62,13 @@ function parseComicPage(pageUrl, html) {
 	return {
 		comicUrl: pageUrl,
 		comicImageUrl: comicImageUrlMatches[1],
-		title: titleMatches[1],
+		titleAuthorDate: titleAuthorDateMatches[1],
 		date: dateMatches[1],
 		author: authorMatches[1],
 		url: urlMatches[1],
 		isFirstComic: isFirstComic,
 		olderRelUrl: olderRelUrlMatches[1],
-		newerRelUrl: newerRelUrlMatches[1],
+		// newerRelUrl: newerRelUrlMatches[1],
 		headerImageUrl: headerImageUrlMatches[1]
 	}
 }

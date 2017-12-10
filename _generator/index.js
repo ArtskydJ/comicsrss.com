@@ -2,21 +2,21 @@ var fs = require('fs')
 var path = require('path')
 var pMap = require('p-map-series')
 var getPageList = require('./get-page-list.js')
-var getComicPages = require('./get-comic-pages.js')
-var generateMainPageFromLinkObjects = require('./generate-main-page.js')
-var generateRssFeedFromComicPages = require('./generate-rss-feed-from-comic-pages.js')
+var getComicObject = require('./get-comic-object.js')
+var generateMainPageFromComicObjects = require('./generate-main-page-from-comic-objects.js')
+var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
 
 getPageList()
 	.then(function (pageUrls) {
 		return pMap(pageUrls, function (pageUrl) {
-			return getComicPages(pageUrl)
-				.then(function (pages) {
-					if (!pages.length) return null
+			return getComicObject(pageUrl)
+				.then(function (comicObject) {
+					if (!comicObject) return null
 
-					var rssFeed = generateRssFeedFromComicPages(pages)
-					writeFile('rss/' + rssFeed.filename, rssFeed.rss)
+					var rssFeed = generateRssFeedFromComicObject(comicObject)
+					writeFile('rss/' + comicObject.filename, rssFeed)
 
-					return comicPagesToLinkObjects(pages)
+					return comicObject
 				})
 				.catch(function (err) {
 					if (err.message === 'Comic no longer exists') return null
@@ -25,25 +25,14 @@ getPageList()
 				})
 		})
 	})
-	.then(function (linkObjects) {
-		writeFile('_generator/_saved-state.json', JSON.stringify(linkObjects))
-		generateMainPageFromLinkObjects(linkObjects)
+	.then(function (comicObjects) {
+		writeFile('_generator/_comic-objects.json', JSON.stringify(comicObjects))
+		generateMainPageFromComicObjects(comicObjects)
 	})
 	.catch(function (err) {
 		console.error(err)
 		process.exit(1)
 	})
-
-function comicPagesToLinkObjects(comicPages) {
-	var titleAndAuthor = comicPages[0].title.split(' for ')[0]
-	var filename = comicPages[0].url.split('/')[3].trim() + '.rss'
-	var feedUrl = 'http://www.comicsrss.com/rss/' + filename
-	return {
-		titleAndAuthor: titleAndAuthor,
-		feedUrl: feedUrl,
-		pages: comicPages
-	}
-}
 
 function writeFile(filename, contents) {
 	var filePath = path.resolve(__dirname, '..', filename)
