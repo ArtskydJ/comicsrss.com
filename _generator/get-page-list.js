@@ -2,7 +2,7 @@ var http = require('http')
 var htmlParser = require('htmlparser2')
 
 module.exports = function getPages() {
-	return DEBUG_PAGES
+	// return DEBUG_PAGES
 	return new Promise(function (resolve, reject) {
 		http.get('http://www.gocomics.com/sitemap.xml', function (res) {
 			res.pipe( siteMapParser(resolve, reject) )
