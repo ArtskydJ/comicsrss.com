@@ -5,7 +5,7 @@ module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
 		setTimeout(function () { // Rate limiting, haha
 			http.get(url, handleResponse.bind(null, resolve, reject))
-		}, 1000) // 800 might work, 700 doesn't
+		}, 900) // 800 might work, 700 doesn't
 	})
 }
 

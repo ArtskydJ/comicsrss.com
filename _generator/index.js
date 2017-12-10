@@ -16,7 +16,11 @@ getPageList()
 					var rssFeed = generateRssFeedFromComicObject(comicObject)
 					writeFile('rss/' + comicObject.filename, rssFeed)
 
-					return comicObject
+					// return comicObject // VPS runs out of memory if I do this
+					return {
+						filename: comicObject.filename,
+						titleAndAuthor: comicObject.titleAndAuthor
+					}
 				})
 				.catch(function (err) {
 					if (err.message === 'Comic no longer exists') return null
