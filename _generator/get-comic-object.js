@@ -18,7 +18,7 @@ module.exports = function (pageUrl) {
 				headerImageUrl: comicStrips[0].headerImageUrl,
 				comicStrips: comicStrips.map(function (comicStrip) {
 					return {
-						title: comicStrip.titleAuthorDate,
+						titleAuthorDate: comicStrip.titleAuthorDate,
 						url: comicStrip.url,
 						date: comicStrip.date,
 						comicImageUrl: comicStrip.comicImageUrl

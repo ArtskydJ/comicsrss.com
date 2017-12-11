@@ -42,6 +42,6 @@ function makeId(str) {
 	return hash.replace(/(.{8})(.{4})(.{4})(.{4})(.{12})/, '$1-$2-$3-$4-$5')
 }
 
-function generateHtml(comicPage) {
-	return '<img src="' + comicPage.comicImageUrl + '" alt="' + comicPage.titleAndAuthor + '" title="' + comicPage.titleAndAuthor + '">'
+function generateHtml(comicStrip) {
+	return '<img src="' + comicStrip.comicImageUrl + '" alt="' + comicStrip.titleAuthorDate + '" title="' + comicStrip.titleAuthorDate + '">'
 }
