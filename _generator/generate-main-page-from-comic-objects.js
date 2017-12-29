@@ -26,7 +26,7 @@ function comicObjectsToHtml(comicObjects) {
 					<a href="${comicsRssFeedUrl}" onclick="return copy(this, '${comicsRssFeedUrl}')" class="icon-link" title="Copy RSS URL">
 						<img src="./rss.svg" alt="copy rss feed url for ${comicObject.titleAndAuthor}" class="icon rss-icon">
 					</a>
-					<a href="http://cloud.feedly.com/#subscription%2Ffeed%2F${encodeURIComponent(comicsRssFeedUrl)}" target="_blank" class="icon-link" title="Open in feedly">
+					<a href="https://feedly.com/i/subscription/feed/${encodeURIComponent(comicsRssFeedUrl)}" target="_blank" class="icon-link" title="Open in feedly">
 						<img src="${feedlyIconUrl}" alt="follow ${comicObject.titleAndAuthor} in feedly" class="icon feedly-icon">
 					</a>
 				</li>`.replace(/^\t{4}/mg, '')
