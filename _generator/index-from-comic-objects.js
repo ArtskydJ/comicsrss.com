@@ -4,16 +4,16 @@ var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-obj
 var generateMainPageFromComicObjects = require('./generate-main-page-from-comic-objects.js')
 var comicObjects = require('./_comic-objects.json')
 
-comicObjects.forEach(function (comicObject) {
-	if (!comicObject) return null
+// comicObjects.forEach(function (comicObject) {
+// 	if (!comicObject) return null
 
-	var rssFeed = generateRssFeedFromComicObject(comicObject)
-	writeFile('rss/' + comicObject.filename, rssFeed)
-})
+// 	var rssFeed = generateRssFeedFromComicObject(comicObject)
+// 	writeFile('rss/' + comicObject.filename, rssFeed)
+// })
 
 generateMainPageFromComicObjects(comicObjects)
 
-function writeFile(filename, contents) {
-	var filePath = path.resolve(__dirname, '..', filename)
-	fs.writeFileSync(filePath, contents, 'utf-8')
-}
+// function writeFile(filename, contents) {
+// 	var filePath = path.resolve(__dirname, '..', filename)
+// 	fs.writeFileSync(filePath, contents, 'utf-8')
+// }

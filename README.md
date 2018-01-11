@@ -14,6 +14,10 @@ Modify your crontab file and fix the `MAILTO` field.
 
 Note that this will put all the files in `/root/comicsrss.com`
 
+### Support Me
+
+If you'd like to help keep this site going, you can send me a few bucks using [Patreon](https://www.patreon.com/josephdykstra). I'd really appreciate it!
+
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
