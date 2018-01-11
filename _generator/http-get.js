@@ -1,5 +1,4 @@
 var http = require('http')
-var concat = require('simple-concat')
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
@@ -14,7 +13,7 @@ function handleResponse(resolve, reject, response) {
 	var location = response.headers.location
 
 	if (statusCode == 200) {
-		resolveWithBufferedResponse(resolve, reject, response)
+		concat(response, resolve, reject)
 	} else if (statusCode >= 300 && statusCode < 400 && location === 'http://www.gocomics.com/') {
 		reject(new Error('Comic no longer exists'))
 	} else {
@@ -22,9 +21,13 @@ function handleResponse(resolve, reject, response) {
 	}
 }
 
-function resolveWithBufferedResponse(resolve, reject, response) {
-	concat(response, function (err, buf) {
-		if (err) reject(err)
-		else resolve(buf.toString())
+function concat(stream, resolve, reject) {
+	var chunks = []
+	stream.on('data', chunk => {
+		chunks.push(chunk)
 	})
+	stream.once('end', () => {
+		resolve(Buffer.concat(chunks).toString())
+	})
+	stream.once('error', reject)
 }
