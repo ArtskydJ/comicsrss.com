@@ -5,5 +5,6 @@ if ERRORLEVEL 1 (
 pushd ..
 git add .
 git commit -m "Build"
+git gc --auto --quiet
 git push origin gh-pages
 popd
