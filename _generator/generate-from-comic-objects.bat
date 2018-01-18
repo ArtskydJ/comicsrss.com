@@ -1,4 +1,4 @@
-node src/write-files-from-comic-objects.js
+node generator
 if ERRORLEVEL 1 (
     exit /b 1
 )

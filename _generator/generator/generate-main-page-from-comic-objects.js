@@ -4,7 +4,7 @@ var path = require('path')
 var feedlyIconUrl = 'https://s3.feedly.com/img/follows/feedly-follow-logo-black_2x.png'
 
 module.exports = function generateMainPage(comicObjects) {
-	var indexTemplateHtmlPath = path.resolve(__dirname, '..', 'template', 'index-template.html')
+	var indexTemplateHtmlPath = path.resolve(__dirname, 'template', 'index-template.html')
 	var indexTemplateHtml = fs.readFileSync(indexTemplateHtmlPath, 'utf-8')
 	var rssFeedList = comicObjectsToHtml(comicObjects)
 	var todaysDate = new Date().toDateString()

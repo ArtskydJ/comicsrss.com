@@ -1,4 +1,8 @@
-node .
+node scraper
+if ERRORLEVEL 1 (
+    exit /b 1
+)
+node generator
 if ERRORLEVEL 1 (
     exit /b 1
 )

@@ -3,7 +3,6 @@ var path = require('path')
 var pMap = require('p-map-series')
 var getPageList = require('./get-page-list.js')
 var getComicObject = require('./get-comic-object.js')
-var writeFilesFromComicObjects = require('./write-files-from-comic-objects.js')
 var previousComicObjects = require('../tmp/_comic-objects.json')
 
 getPageList()
@@ -28,8 +27,6 @@ getPageList()
 	})
 	.then(function (comicObjects) {
 		writeFile('../tmp/_comic-objects.json', JSON.stringify(comicObjects))
-
-		writeFilesFromComicObjects(comicObjects)
 	})
 	.catch(function (err) {
 		console.error(err)
