@@ -1,14 +1,25 @@
 var httpGet = require('./http-get.js')
 var url = require('url')
 
-module.exports = function (pageUrl) {
+module.exports = function getComicObject(pageUrl, previousComicObject) {
 	var comicStrips = []
+	var previousComicStrips = []
+	var previousUrl = null
+	if (previousComicObject) {
+		previousComicStrips = previousComicObject.comicStrips
+		previousUrl = previousComicStrips[0].url
+	}
 
 	return getPage(pageUrl)
 		.then(getPage)
 		.then(getPage)
+		.then(getPage)
+		.then(getPage)
 		.then(function () {
-			if (!comicStrips.length) return null
+			if (!comicStrips.length) {
+				return previousComicObject
+			}
+			comicStrips = comicStrips.concat(previousComicStrips)
 
 			return {
 				titleAndAuthor: comicStrips[0].titleAuthorDate.split(' for ')[0],
@@ -29,10 +40,16 @@ module.exports = function (pageUrl) {
 
 	function getPage(pageUrl) {
 		if (!pageUrl) return null
+		if (previousUrl === pageUrl) {
+			return null
+		}
 
 		return httpGet(pageUrl)
 		.then(function (html) {
 			var parsed = parseComicPage(pageUrl, html)
+			if (previousUrl === parsed.url) {
+				return null
+			}
 			comicStrips.push(parsed)
 			if (!parsed.isFirstComic) return url.resolve(pageUrl, parsed.olderRelUrl)
 		})

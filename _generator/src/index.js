@@ -4,11 +4,16 @@ var pMap = require('p-map-series')
 var getPageList = require('./get-page-list.js')
 var getComicObject = require('./get-comic-object.js')
 var writeFilesFromComicObjects = require('./write-files-from-comic-objects.js')
+var previousComicObjects = require('../tmp/_comic-objects.json')
 
 getPageList()
 	.then(function (pageUrls) {
 		return pMap(pageUrls, function (pageUrl) {
-			return getComicObject(pageUrl)
+			var previousComicObject = previousComicObjects.find(function (comicObject) {
+				return (comicObject && comicObject.comicUrl === pageUrl)
+			})
+
+			return getComicObject(pageUrl, previousComicObject)
 				.then(function (comicObject) {
 					if (!comicObject) return null
 
