@@ -5,27 +5,21 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	<title>Comics RSS</title>
 	<link rel="stylesheet" type="text/css" href="./static/style.css">
+	<link rel="icon" href="./static/favicon.ico" type="image/x-icon">
 </head>
 <body>
-	<h1>Comics RSS</h1>
+	<nav>
+		<a href="./">
+			<img src="./static/comicsrss-logo.png" class="logo">
+			<span class="nav-header">Comics RSS</span>
+		</a>
 
-	<p>
-		<img src="./static/comicsrss-logo.png" class="logo">
-	</p>
+		<input type="text" class="search" placeholder="Search">
+	</nav>
 
 	<p>
 		If you don't understand what RSS is, you can learn
 		<a href="https://www.digitaltrends.com/computing/how-to-use-rss/">how to use RSS</a>.
-	</p>
-
-	<p>
-		There are two ways to start following a comic strip.
-		The first way is to copy an RSS link by clicking the RSS icon
-		<img src="./static/rss.svg" class="icon rss-icon">
-		and then pasting it into your favorite feed reader.
-		If you use Feedly, then you can just click the Feedly icon
-		<img src="<!-- FEEDLY ICON URL -->" class="icon feedly-icon">
-		to view the feed, and then click <strong>Follow</strong> in Feedly.
 	</p>
 
 	<p>
@@ -35,8 +29,6 @@
 		of this website by sending a few bucks through
 		<a href="https://www.patreon.com/josephdykstra">Patreon</a>.
 	</p>
-
-	<p>Search: <input type="text" class="search" placeholder="Title or Author" /></p>
 
 	<script>
 		var input = document.querySelector('input.search')
@@ -54,37 +46,6 @@
 					li.classList.remove('hidden')
 				}
 			})
-		}
-
-
-
-		function copyToClipboard(text) {
-			var textArea = document.createElement('textarea')
-			textArea.className = 'copyable'
-			textArea.value = text
-			document.body.appendChild(textArea)
-			textArea.select()
-			var wasSuccessful = document.execCommand('copy')
-			document.body.removeChild(textArea)
-			return wasSuccessful
-		}
-
-		function showTooltip(top, left, text) {
-			var div = document.createElement('div')
-			div.className = 'tooltip'
-			div.style.top = top + 'px'
-			div.style.left = left + 'px'
-			div.innerHTML = text
-			document.body.appendChild(div)
-			setTimeout(function () {
-				div.remove()
-			}, 1800)
-		}
-
-		function copy(self, text) {
-			var message = copyToClipboard(text) ? 'Copied!' : 'Copy failed.'
-			showTooltip(self.offsetTop, self.offsetLeft, message)
-			return false
 		}
 	</script>
 

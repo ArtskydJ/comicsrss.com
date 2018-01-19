@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Comics RSS for MazeToons Puzzle by Joe Wos</title>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<nav>
+		<a href="../">
+			<img src="../static/comicsrss-logo.png" class="logo">
+			<span class="nav-header">Comics RSS</span>
+		</a>
+	</nav>
+
+	<p>
+		<a href="http://www.gocomics.com/mazetoons-puzzle">
+			<img src="../static/gocomics_sm.png" class="icon gocomics-icon">
+			View on Go Comics
+		</a>
+	</p>
+	<p>
+		<a href="https://feedly.com/i/subscription/feed/http%3A%2F%2Fwww.comicsrss.com%2Frss%2Fmazetoons-puzzle.rss" target="_blank">
+			<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
+			View on Feedly
+		</a>
+	</p>
+	<p>
+		<a href="http://www.comicsrss.com/rss/mazetoons-puzzle.rss" onclick="copy(this, event)">
+			<img src="../static/rss_sm.png" class="icon rss-icon">
+			Copy RSS URL
+		</a>
+	</p>
+
+	<p>
+			<a href="http://www.gocomics.com/mazetoons-puzzle/2018/01/18" alt="MazeToons Puzzle by Joe Wos for Jan 18, 2018 ">
+				<span class="preview-header">MazeToons Puzzle by Joe Wos for Jan 18, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/75dc90d0d0b801350ad3005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/mazetoons-puzzle/2018/01/17" alt="MazeToons Puzzle by Joe Wos for Jan 17, 2018 ">
+				<span class="preview-header">MazeToons Puzzle by Joe Wos for Jan 17, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/7a05b790d0b801350ad3005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/mazetoons-puzzle/2018/01/16" alt="MazeToons Puzzle by Joe Wos for Jan 16, 2018 ">
+				<span class="preview-header">MazeToons Puzzle by Joe Wos for Jan 16, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/746b6b90d0b801350ad3005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/mazetoons-puzzle/2018/01/15" alt="MazeToons Puzzle by Joe Wos for Jan 15, 2018 ">
+				<span class="preview-header">MazeToons Puzzle by Joe Wos for Jan 15, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/78d3c4e0d0b801350ad3005056a9545d">
+			</a>
+		</p>
+
+	<p class="text-center">
+		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
+		Made by <a href="http://www.josephdykstra.com">Joseph Dykstra</a> -
+		<a href="https://www.patreon.com/josephdykstra">Patreon</a>
+		<br><span class="gray">Generated on Thu Jan 18 2018</span>
+	</p>
+
+	<script>
+		function copyToClipboard(text) {
+			var textArea = document.createElement('textarea')
+			textArea.className = 'copyable'
+			textArea.value = text
+			document.body.appendChild(textArea)
+			textArea.select()
+			var wasSuccessful = document.execCommand('copy')
+			document.body.removeChild(textArea)
+			return wasSuccessful
+		}
+
+		function showTooltip(self, text) {
+			var span = document.createElement('span')
+			span.style.display = 'inline-block'
+			span.style.paddingLeft = '20px'
+			span.innerHTML = text
+			self.parentNode.appendChild(span)
+			setTimeout(function () {
+				span.parentNode.removeChild(span)
+			}, 2000)
+		}
+
+		function copy(self, event) {
+			var text = self.href
+			if (copyToClipboard(text)) {
+				showTooltip(self, 'Copied!')
+				event.preventDefault()
+			}
+			return false
+		}
+	</script>
+</body>
+</html>

@@ -23,7 +23,7 @@ module.exports = function getComicObject(pageUrl, previousComicObject) {
 
 			return {
 				titleAndAuthor: comicStrips[0].titleAuthorDate.split(' for ')[0],
-				filename: comicStrips[0].comicUrl.split('/')[3].trim() + '.rss',
+				basename: comicStrips[0].comicUrl.split('/')[3].trim(),
 				author: comicStrips[0].author,
 				comicUrl: comicStrips[0].comicUrl,
 				headerImageUrl: comicStrips[0].headerImageUrl,

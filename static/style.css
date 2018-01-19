@@ -3,30 +3,22 @@ body, input {
 		-apple-system, BlinkMacSystemFont, "Segoe UI",
 		Helvetica, Arial, sans-serif, "Apple Color Emoji",
 		"Segoe UI Emoji", "Segoe UI Symbol";
-	font-size: 16px;
-	line-height: 1.5;
+	font-size: 18px;
 	color: #24292e;
 	background-color: #fff;
 }
 body {
+	line-height: 1.5;
+
 	max-width: 700px;
 	width: calc(100% - 40px);
 	min-width: 300px;
-
+	min-width: 350px;
 	margin: 0 auto;
 	padding: 0 20px;
 }
-body > *:first-child {
-	margin-top: 0 !important;
-}
-h1, h2, h3, h4, h5, h6 {
-	margin-top: 24px;
-	margin-bottom: 16px;
-	font-weight: 600;
-	line-height: 1.25;
-}
 ul {
-	border-top: 1px solid #808080;
+	border-top: 1px solid #aaa;
 	padding: 0;
 	margin-top: 0;
 	margin-bottom: 16px;
@@ -34,25 +26,39 @@ ul {
 li {
 	display: block;
 	margin: 0;
-	padding: 4px 0 2px;
-	border-bottom: 1px solid #808080;
+	padding: 6px 6px 0;
+	border-bottom: 1px solid #aaa;
+}
+nav {
+	border-bottom: 1px solid #aaa;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items:center;
 }
 a {
 	color: #0366d6;
 	text-decoration: none;
 }
+nav > a {
+	flex: 0 0 auto;
+	margin-right: 24px;
+}
 input.search {
-	padding: 4px;
-	width: 250px;
-	font-size: 16px;
+	padding: 4px 12px;
+	height: 20px;
 	border: none;
-	border-bottom: 1px solid #808080;
+	border: 1px solid #aaa;
+	flex: 1 0 auto;
+	/* Hide the nav underline when collapsed (mobile) */
+	margin-bottom: -1px;
 }
 input.search:focus{
+	flex-basis: 30%;
 	outline: none;
 }
 input.search::placeholder {
-	color: #808080;
+	color: #aaa;
 }
 .hidden {
 	display: none;
@@ -71,14 +77,15 @@ textarea.copyable {
 }
 
 .logo {
-	max-width: 100%;
+	vertical-align: text-bottom;
+	width: 140px;
 }
 
 .comic-title {
 	text-overflow: ellipsis;
 	display: inline-block;
 	white-space: nowrap;
-	width: calc(100% - 62px);
+	width: 100%;
 	overflow: hidden;
 }
 
@@ -91,10 +98,13 @@ textarea.copyable {
 .icon-link:focus {
 	opacity: 1;
 }
-.rss-icon {
+.icon {
+	vertical-align: text-bottom;
 	width: 20px;
 	height: 20px;
 }
+.gocomics-icon {}
+.rss-icon {}
 .feedly-icon {
 	margin: -4px;
 	width: 28px;
@@ -102,7 +112,7 @@ textarea.copyable {
 }
 
 .gray {
-	color: #808080;
+	color: #aaa;
 }
 .text-center {
 	text-align: center;
@@ -111,14 +121,17 @@ textarea.copyable {
 	text-align: right;
 }
 
-.tooltip {
-	display: inline-block;
-	position: absolute;
-	margin-top: -7px;
-	margin-left: -7px;
-	padding: 2px 5px;
-	background-color: #808080;
-	border-radius: 4px;
-	color:white;
-	font-family: arial, sans-serif;
+.nav-header {
+	font-size: 2.5em;
+	font-weight: 200;
+	color: #000;
+}
+
+.preview-header {
+	font-weight: 600;
+	font-size: 1.25em;
+	color: #000;
+}
+img.preview-comic {
+	max-width:100%;
 }

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Comics RSS for Wumo en Español by Wulff &amp; Morgenthaler</title>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<nav>
+		<a href="../">
+			<img src="../static/comicsrss-logo.png" class="logo">
+			<span class="nav-header">Comics RSS</span>
+		</a>
+	</nav>
+
+	<p>
+		<a href="http://www.gocomics.com/wumoespanol">
+			<img src="../static/gocomics_sm.png" class="icon gocomics-icon">
+			View on Go Comics
+		</a>
+	</p>
+	<p>
+		<a href="https://feedly.com/i/subscription/feed/http%3A%2F%2Fwww.comicsrss.com%2Frss%2Fwumoespanol.rss" target="_blank">
+			<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
+			View on Feedly
+		</a>
+	</p>
+	<p>
+		<a href="http://www.comicsrss.com/rss/wumoespanol.rss" onclick="copy(this, event)">
+			<img src="../static/rss_sm.png" class="icon rss-icon">
+			Copy RSS URL
+		</a>
+	</p>
+
+	<p>
+			<a href="http://www.gocomics.com/wumoespanol/2018/01/18" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 18, 2018 ">
+				<span class="preview-header">Wumo en Español by Wulff &amp; Morgenthaler for Jan 18, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/2485a060d85401350d7b005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/wumoespanol/2018/01/17" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 17, 2018 ">
+				<span class="preview-header">Wumo en Español by Wulff &amp; Morgenthaler for Jan 17, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/23158b50d85401350d7b005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/wumoespanol/2018/01/16" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 16, 2018 ">
+				<span class="preview-header">Wumo en Español by Wulff &amp; Morgenthaler for Jan 16, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/21a3bd50d85401350d7b005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/wumoespanol/2018/01/15" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 15, 2018 ">
+				<span class="preview-header">Wumo en Español by Wulff &amp; Morgenthaler for Jan 15, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/202371f0d85401350d7b005056a9545d">
+			</a>
+		</p>
+
+	<p class="text-center">
+		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
+		Made by <a href="http://www.josephdykstra.com">Joseph Dykstra</a> -
+		<a href="https://www.patreon.com/josephdykstra">Patreon</a>
+		<br><span class="gray">Generated on Thu Jan 18 2018</span>
+	</p>
+
+	<script>
+		function copyToClipboard(text) {
+			var textArea = document.createElement('textarea')
+			textArea.className = 'copyable'
+			textArea.value = text
+			document.body.appendChild(textArea)
+			textArea.select()
+			var wasSuccessful = document.execCommand('copy')
+			document.body.removeChild(textArea)
+			return wasSuccessful
+		}
+
+		function showTooltip(self, text) {
+			var span = document.createElement('span')
+			span.style.display = 'inline-block'
+			span.style.paddingLeft = '20px'
+			span.innerHTML = text
+			self.parentNode.appendChild(span)
+			setTimeout(function () {
+				span.parentNode.removeChild(span)
+			}, 2000)
+		}
+
+		function copy(self, event) {
+			var text = self.href
+			if (copyToClipboard(text)) {
+				showTooltip(self, 'Copied!')
+				event.preventDefault()
+			}
+			return false
+		}
+	</script>
+</body>
+</html>

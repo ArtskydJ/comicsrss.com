@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Comics RSS for 1 and Done by Eric Scott</title>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<nav>
+		<a href="../">
+			<img src="../static/comicsrss-logo.png" class="logo">
+			<span class="nav-header">Comics RSS</span>
+		</a>
+	</nav>
+
+	<p>
+		<a href="http://www.gocomics.com/1-and-done">
+			<img src="../static/gocomics_sm.png" class="icon gocomics-icon">
+			View on Go Comics
+		</a>
+	</p>
+	<p>
+		<a href="https://feedly.com/i/subscription/feed/http%3A%2F%2Fwww.comicsrss.com%2Frss%2F1-and-done.rss" target="_blank">
+			<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
+			View on Feedly
+		</a>
+	</p>
+	<p>
+		<a href="http://www.comicsrss.com/rss/1-and-done.rss" onclick="copy(this, event)">
+			<img src="../static/rss_sm.png" class="icon rss-icon">
+			Copy RSS URL
+		</a>
+	</p>
+
+	<p>
+			<a href="http://www.gocomics.com/1-and-done/2018/01/17" alt="1 and Done by Eric Scott for Jan 17, 2018 ">
+				<span class="preview-header">1 and Done by Eric Scott for Jan 17, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/966f4320dd2901350f2f005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/1-and-done/2018/01/15" alt="1 and Done by Eric Scott for Jan 15, 2018 ">
+				<span class="preview-header">1 and Done by Eric Scott for Jan 15, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/2850fcd0d9f401350e42005056a9545d">
+			</a>
+		</p><p>
+			<a href="http://www.gocomics.com/1-and-done/2018/01/12" alt="1 and Done by Eric Scott for Jan 12, 2018 ">
+				<span class="preview-header">1 and Done by Eric Scott for Jan 12, 2018 </span>
+				<img class="preview-comic" src="http://assets.amuniversal.com/c4423200d90f01350dd8005056a9545d">
+			</a>
+		</p>
+
+	<p class="text-center">
+		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
+		Made by <a href="http://www.josephdykstra.com">Joseph Dykstra</a> -
+		<a href="https://www.patreon.com/josephdykstra">Patreon</a>
+		<br><span class="gray">Generated on Thu Jan 18 2018</span>
+	</p>
+
+	<script>
+		function copyToClipboard(text) {
+			var textArea = document.createElement('textarea')
+			textArea.className = 'copyable'
+			textArea.value = text
+			document.body.appendChild(textArea)
+			textArea.select()
+			var wasSuccessful = document.execCommand('copy')
+			document.body.removeChild(textArea)
+			return wasSuccessful
+		}
+
+		function showTooltip(self, text) {
+			var span = document.createElement('span')
+			span.style.display = 'inline-block'
+			span.style.paddingLeft = '20px'
+			span.innerHTML = text
+			self.parentNode.appendChild(span)
+			setTimeout(function () {
+				span.parentNode.removeChild(span)
+			}, 2000)
+		}
+
+		function copy(self, event) {
+			var text = self.href
+			if (copyToClipboard(text)) {
+				showTooltip(self, 'Copied!')
+				event.preventDefault()
+			}
+			return false
+		}
+	</script>
+</body>
+</html>
