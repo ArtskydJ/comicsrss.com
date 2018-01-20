@@ -19,8 +19,9 @@ function comicObjectsToHtml(comicObjects) {
 		.filter(Boolean)
 		.map(function (comicObject) {
 			var comicsRssFeedUrl = 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss'
+			var titleAndAuthorSplit = .split(' by ')
 			return `
-				<li data-search="${comicObject.titleAndAuthor.toLowerCase()}">
+				<li data-title="${comicObject.titleAndAuthor}">
 					<a href="./preview/${comicObject.basename}" class="comic-title">${comicObject.titleAndAuthor}</a>
 				</li>`.replace(/^\t{4}/mg, '')
 		})

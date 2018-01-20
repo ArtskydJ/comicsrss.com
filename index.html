@@ -38,14 +38,22 @@
 		})
 
 		function updateFilter() {
-			var searchString = input.value.toLowerCase()
+			var searchWords = normalizeSearchString(input.value).split(' ')
 			;[].forEach.call(document.querySelector('ul').children, function (li) {
-				if (li.dataset.search.indexOf(searchString) === -1) {
+				var itemString = normalizeSearchString(li.dataset.search)
+				var searchMatchesItem = searchWords.every(function (searchWord) {
+					return itemString.indexOf(searchWord) !== -1
+				})
+				searchMatchesItem ?
+					li.classList.remove('hidden') :
 					li.classList.add('hidden')
-				} else {
-					li.classList.remove('hidden')
-				}
 			})
+		}
+
+		function normalizeSearchString(titleOrAuthor) {
+			return titleOrAuthor
+				.replace(/&/g, 'and')
+				.toLowerCase()
 		}
 	</script>
 
