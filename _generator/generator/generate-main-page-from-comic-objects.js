@@ -21,7 +21,7 @@ function comicObjectsToHtml(comicObjects) {
 			var comicsRssFeedUrl = 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss'
 			return `
 				<li data-search="${comicObject.titleAndAuthor}">
-					<a href="./preview/${comicObject.basename}" class="comic-title">${comicObject.titleAndAuthor}</a>
+					<a href="./preview/${encodeURI(comicObject.basename)}" class="comic-title">${comicObject.titleAndAuthor}</a>
 				</li>`.replace(/^\t{4}/mg, '')
 		})
 		.sort()

@@ -6,7 +6,7 @@ var previewTemplateHtml = fs.readFileSync(previewTemplateHtmlPath, 'utf-8')
 
 module.exports = function generatePreviewPage(comicObject) {
 // 	var rssFeedList = comicObjectsToHtml(comicObjects)
-	var comicsRssFeedUrl = 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss'
+	var comicsRssFeedUrl = 'http://www.comicsrss.com/rss/' + encodeURI(comicObject.basename) + '.rss'
 	var feedlyFeedUrl = 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(comicsRssFeedUrl)
 	var comicImagesHtml = generateComicImagesHtml(comicObject)
 	var todaysDate = new Date().toDateString()
