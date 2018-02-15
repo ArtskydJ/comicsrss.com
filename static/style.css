@@ -129,6 +129,7 @@ textarea.copyable {
 .preview-header {
 	font-size: 1.25em;
 	color: #333;
+	font-weight: 300;
 }
 img.preview-comic {
 	max-width:100%;
