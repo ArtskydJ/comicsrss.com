@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Cathy</title>
-        <description>Cathy by Cathy Guisewite</description>
         <link>http://www.gocomics.com/cathy</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Cathy by Cathy Guisewite</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Cathy</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ca/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/cathy</link>
         </image>
         <copyright>Copyright Cathy Guisewite</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/cathy.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/cathy/2018/02/26</link>
             <guid>http://www.gocomics.com/cathy/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2129a4305db4012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 26, 2018 " title="Cathy by Cathy Guisewite for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/34eca10040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Feb 25, 2018 " title="Cathy by Cathy Guisewite for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9fe4cf205db7012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 24, 2018 " title="Cathy by Cathy Guisewite for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a76bcc505db5012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 23, 2018 " title="Cathy by Cathy Guisewite for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e930b6105db2012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 22, 2018 " title="Cathy by Cathy Guisewite for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f33019305db7012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 21, 2018 " title="Cathy by Cathy Guisewite for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65c79d705db2012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 20, 2018 " title="Cathy by Cathy Guisewite for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/478849905db0012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 19, 2018 " title="Cathy by Cathy Guisewite for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ae8522040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Feb 18, 2018 " title="Cathy by Cathy Guisewite for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a0e7a5105dae012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 17, 2018 " title="Cathy by Cathy Guisewite for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b96b36a05d06012ee3bd00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 16, 2018 " title="Cathy by Cathy Guisewite for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3fe747905dab012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 15, 2018 " title="Cathy by Cathy Guisewite for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3f6a11005cd7012ee3bd00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 14, 2018 " title="Cathy by Cathy Guisewite for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d246c7505db3012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 13, 2018 " title="Cathy by Cathy Guisewite for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c536ded05d18012ee3bd00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 12, 2018 " title="Cathy by Cathy Guisewite for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/211a57f040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Feb 11, 2018 " title="Cathy by Cathy Guisewite for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b6bac505db6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 10, 2018 " title="Cathy by Cathy Guisewite for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/086ce5705db6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 9, 2018 " title="Cathy by Cathy Guisewite for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06b324005ce1012ee3bd00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 8, 2018 " title="Cathy by Cathy Guisewite for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ba173105da7012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 7, 2018 " title="Cathy by Cathy Guisewite for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/32951c705da8012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 6, 2018 " title="Cathy by Cathy Guisewite for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/701ec9c05daf012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 5, 2018 " title="Cathy by Cathy Guisewite for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/16a9a38040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Feb 4, 2018 " title="Cathy by Cathy Guisewite for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ff906305db4012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 3, 2018 " title="Cathy by Cathy Guisewite for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3f1d20305cf8012ee3bd00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 2, 2018 " title="Cathy by Cathy Guisewite for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/cathy/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb9be6505db2012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Feb 1, 2018 " title="Cathy by Cathy Guisewite for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e225fc05db0012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 31, 2018 " title="Cathy by Cathy Guisewite for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a45431505db6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 30, 2018 " title="Cathy by Cathy Guisewite for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d5fce3105da6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 29, 2018 " title="Cathy by Cathy Guisewite for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c649a6040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Jan 28, 2018 " title="Cathy by Cathy Guisewite for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5189bab05dad012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 27, 2018 " title="Cathy by Cathy Guisewite for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8b39c2e05db3012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 26, 2018 " title="Cathy by Cathy Guisewite for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00d663105daa012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 25, 2018 " title="Cathy by Cathy Guisewite for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e5249f05da6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 24, 2018 " title="Cathy by Cathy Guisewite for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20bf9f905dab012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 23, 2018 " title="Cathy by Cathy Guisewite for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aaad88905db5012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 22, 2018 " title="Cathy by Cathy Guisewite for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02435ef040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Jan 21, 2018 " title="Cathy by Cathy Guisewite for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ba71a205db6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 20, 2018 " title="Cathy by Cathy Guisewite for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5a4384b05db5012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 19, 2018 " title="Cathy by Cathy Guisewite for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ad742405da6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 18, 2018 " title="Cathy by Cathy Guisewite for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5227e8b05d38012ee3bd00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 17, 2018 " title="Cathy by Cathy Guisewite for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c484c805db7012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 16, 2018 " title="Cathy by Cathy Guisewite for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/cathy/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53570c305db6012ee3bf00163e41dd5b" alt="Cathy by Cathy Guisewite for Jan 15, 2018 " title="Cathy by Cathy Guisewite for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Cathy Guisewite</name>
-            </author>
         </item>
     </channel>
 </rss>

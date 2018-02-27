@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Gentleman&amp;#39;s Armchair</title>
-        <description>The Gentleman&amp;#39;s Armchair by Wes Hotchkiss</description>
         <link>http://www.gocomics.com/the-gentlemans-armchair</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Gentleman&amp;#39;s Armchair by Wes Hotchkiss</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Gentleman&amp;#39;s Armchair</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/gent/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-gentlemans-armchair</link>
         </image>
         <copyright>Copyright Wes Hotchkiss</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-gentlemans-armchair.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 12, 2018 ]]></title>
             <link>http://www.gocomics.com/the-gentlemans-armchair/2018/01/12</link>
             <guid>http://www.gocomics.com/the-gentlemans-armchair/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7146e7f0d55801350c7f005056a9545d" alt="The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 12, 2018 " title="The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Wes Hotchkiss</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 10, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-gentlemans-armchair/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f7177a0d55801350c7f005056a9545d" alt="The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 10, 2018 " title="The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Wes Hotchkiss</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 8, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-gentlemans-armchair/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/705a6960d55801350c7f005056a9545d" alt="The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 8, 2018 " title="The Gentleman&#39;s Armchair by Wes Hotchkiss for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Wes Hotchkiss</name>
-            </author>
         </item>
     </channel>
 </rss>

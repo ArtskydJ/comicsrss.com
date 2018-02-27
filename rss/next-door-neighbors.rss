@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Next Door Neighbors</title>
-        <description>Next Door Neighbors by Pat Sandy</description>
         <link>http://www.gocomics.com/next-door-neighbors</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Next Door Neighbors by Pat Sandy</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Next Door Neighbors</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ndn/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/next-door-neighbors</link>
         </image>
         <copyright>Copyright Pat Sandy</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/next-door-neighbors.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/next-door-neighbors/2018/02/26</link>
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5e86de70fcdd01351b4d005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 26, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb013f70fa7f01351aa4005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 23, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d24a32a0f9ba01351a3e005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 22, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d4addcf0f8f5013519cb005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 21, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7eaffff0f82801351975005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 20, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/54084170f75f0135193e005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 19, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d3c252a0f503013518a1005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 16, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d651d290f43e01351839005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 15, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/952d2130f373013517cd005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 14, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c3fe580f2ae0135176b005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 13, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 12, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/29142a00f1df0135170c005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 12, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 9, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d98c3d50ef870135167b005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 9, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c7142760eec00135161c005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 8, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 7, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/29258b70eded013515b0005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 7, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 6, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2cbfda80ed2801351553005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 6, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 5, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e74d0d40ec5c01351500005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 5, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 2, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b13fa290ea0701351457005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 2, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Feb 1, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86ebb360e93e013513f0005056a9545d" alt="Next Door Neighbors by Pat Sandy for Feb 1, 2018 " title="Next Door Neighbors by Pat Sandy for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 31, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa7fd590e86c01351383005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 31, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 30, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7603510e7a501351324005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 30, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 29, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a131a00e6d8013512ce005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 29, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 26, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3bdda170e48101351234005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 26, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 25, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60039c50e3be013511e1005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 25, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 24, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02099d70e2f10135117e005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 24, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 23, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edbdc550e2290135111a005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 23, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 22, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/609d4eb0e158013510c9005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 22, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 19, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bbb98c30df0f01351028005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 19, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 18, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6a243b0de3701350fc8005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 18, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 17, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bfd1b2d0dd6e01350f60005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 17, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 16, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/adbfcfb0dca701350ef4005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 16, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jan 15, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/856641d0dbde01350ec1005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jan 15, 2018 " title="Next Door Neighbors by Pat Sandy for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Pat Sandy</name>
-            </author>
         </item>
     </channel>
 </rss>

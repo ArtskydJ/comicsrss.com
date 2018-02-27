@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>2 Cows and a Chicken</title>
-        <description>2 Cows and a Chicken by Steve Skelton</description>
         <link>http://www.gocomics.com/2cowsandachicken</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>2 Cows and a Chicken by Steve Skelton</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>2 Cows and a Chicken</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tcc/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/2cowsandachicken</link>
         </image>
         <copyright>Copyright Steve Skelton</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/2cowsandachicken.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/2cowsandachicken/2018/02/26</link>
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/079d9f80fcc401351b45005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 26, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 13, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a0be0040ecde01351534005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 13, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2ffd530ecde01351534005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 12, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 9, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a41e6950ecde01351534005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 9, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 8, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1e34c00ecde01351534005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 8, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 7, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e810020ecde01351534005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 7, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Feb 6, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f9cfcc0ecde01351534005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Feb 6, 2018 " title="2 Cows and a Chicken by Steve Skelton for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Dec 12, 2017 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2017/12/12</guid>
             <pubDate>Tue, 12 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56061f30bb760135031c005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Dec 12, 2017 " title="2 Cows and a Chicken by Steve Skelton for Dec 12, 2017 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Dec 11, 2017 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2017/12/11</guid>
             <pubDate>Mon, 11 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56f5f070bb760135031c005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Dec 11, 2017 " title="2 Cows and a Chicken by Steve Skelton for Dec 11, 2017 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Dec 8, 2017 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/2cowsandachicken/2017/12/08</guid>
             <pubDate>Fri, 08 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/58ea8e20bb760135031c005056a9545d" alt="2 Cows and a Chicken by Steve Skelton for Dec 8, 2017 " title="2 Cows and a Chicken by Steve Skelton for Dec 8, 2017 ">]]></description>
-            <author>
-                <name>Steve Skelton</name>
-            </author>
         </item>
     </channel>
 </rss>

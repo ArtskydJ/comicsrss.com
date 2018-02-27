@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jeff Danziger</title>
-        <description>Jeff Danziger by Jeff Danziger</description>
         <link>http://www.gocomics.com/jeffdanziger</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jeff Danziger by Jeff Danziger</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jeff Danziger</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/jd/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/jeffdanziger</link>
         </image>
         <copyright>Copyright Jeff Danziger</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jeffdanziger.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/jeffdanziger/2018/02/25</link>
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/622d0270fc9b01351b3c005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 25, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/be93d8a0f97601351a0c005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 24, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b718f20fa1e01351a5f005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 22, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6edd4ba0f944013519e4005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 21, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4aabac80f87b01351986005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 20, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dbb4e780f7c201351955005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 19, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 18, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86c56d90f63001351914005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 18, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 17, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4caf590f61f01351912005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 17, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 15, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d41c670f43901351836005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 15, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 14, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e24e0b0f3c4013517e3005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 14, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 13, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1cdc0960f2fb01351783005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 13, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 12, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f20021c0f2310135171d005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 12, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 11, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f479d1d0f2310135171d005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 11, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37812ad0efe701351695005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 10, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/485f2a60ef0d0135162f005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 9, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e490bf0ee44013515cf005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 8, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2992e70ed7a01351569005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 7, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c7a99090ecb101351517005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 6, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ca0a5290ecb101351517005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 5, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 4, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/49ac26b0ea560135146a005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 4, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 2, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a909990e9bf01351434005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 2, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Feb 1, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2005c410e98d01351403005056a9545d" alt="Jeff Danziger by Jeff Danziger for Feb 1, 2018 " title="Jeff Danziger by Jeff Danziger for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 31, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7b3aa90e8ca013513a3005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 31, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 30, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d4ee61c0e7fa0135133a005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 30, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 29, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/76d73f20e78501351317005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 29, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 28, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a08ab810e731013512e4005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 28, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 24, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2ea2210e397013511d2005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 24, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 23, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a6589b0e28b01351139005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 23, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 22, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/38d7e0f0e1c2013510e5005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 22, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 21, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/404e7d90df880135105c005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 21, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 20, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d2253170de8c01350fdf005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 20, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 19, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb55f5d0ddf501350f9f005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 19, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 18, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a82b68b0ddc301350f79005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 18, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 17, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/870ada60dcfa01350f07005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 17, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 16, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9a124100dc6301350ee1005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 16, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jan 15, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4deb0e80dc3101350ed6005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jan 15, 2018 " title="Jeff Danziger by Jeff Danziger for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jeff Danziger</name>
-            </author>
         </item>
     </channel>
 </rss>

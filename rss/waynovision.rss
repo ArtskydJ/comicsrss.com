@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WaynoVision</title>
-        <description>WaynoVision by Wayno</description>
         <link>http://www.gocomics.com/waynovision</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>WaynoVision by Wayno</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>WaynoVision</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wayne/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/waynovision</link>
         </image>
         <copyright>Copyright Wayno</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/waynovision.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/waynovision/2018/02/26</link>
             <guid>http://www.gocomics.com/waynovision/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/83b322b041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Feb 26, 2018 " title="WaynoVision by Wayno for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9015632041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Feb 21, 2018 " title="WaynoVision by Wayno for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d65230041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Feb 19, 2018 " title="WaynoVision by Wayno for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 14, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7fb65fd041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Feb 14, 2018 " title="WaynoVision by Wayno for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 12, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/750bae9041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Feb 12, 2018 " title="WaynoVision by Wayno for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 7, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c0aaea041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Feb 7, 2018 " title="WaynoVision by Wayno for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Feb 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f615a96068600132b668005056a9545d" alt="WaynoVision by Wayno for Feb 5, 2018 " title="WaynoVision by Wayno for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 31, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e921a9041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 31, 2018 " title="WaynoVision by Wayno for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 29, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ed9a38041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 29, 2018 " title="WaynoVision by Wayno for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 24, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8b50b1a041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 24, 2018 " title="WaynoVision by Wayno for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 22, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/77720a1041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 22, 2018 " title="WaynoVision by Wayno for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 17, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/878d834041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 17, 2018 " title="WaynoVision by Wayno for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 15, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d961a4041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 15, 2018 " title="WaynoVision by Wayno for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jan 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79bdb66041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 10, 2018 " title="WaynoVision by Wayno for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Wayno</name>
-            </author>
         </item>
     </channel>
 </rss>

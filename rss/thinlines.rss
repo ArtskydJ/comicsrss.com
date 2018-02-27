@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Thin Lines</title>
-        <description>Thin Lines by Randy Glasbergen</description>
         <link>http://www.gocomics.com/thinlines</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Thin Lines by Randy Glasbergen</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Thin Lines</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crtli/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/thinlines</link>
         </image>
         <copyright>Copyright Randy Glasbergen</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/thinlines.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/thinlines/2018/02/26</link>
             <guid>http://www.gocomics.com/thinlines/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ad0476d0fcd001351b48005056a9545d" alt="Thin Lines by Randy Glasbergen for Feb 26, 2018 " title="Thin Lines by Randy Glasbergen for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/640b93c0f7a60135194e005056a9545d" alt="Thin Lines by Randy Glasbergen for Feb 19, 2018 " title="Thin Lines by Randy Glasbergen for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0af39610f22201351718005056a9545d" alt="Thin Lines by Randy Glasbergen for Feb 12, 2018 " title="Thin Lines by Randy Glasbergen for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2a2dd930eca801351514005056a9545d" alt="Thin Lines by Randy Glasbergen for Feb 5, 2018 " title="Thin Lines by Randy Glasbergen for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b99957f0e721013512e0005056a9545d" alt="Thin Lines by Randy Glasbergen for Jan 29, 2018 " title="Thin Lines by Randy Glasbergen for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0f2b560e1a5013510da005056a9545d" alt="Thin Lines by Randy Glasbergen for Jan 22, 2018 " title="Thin Lines by Randy Glasbergen for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/95cfe370dbcd01350ebb005056a9545d" alt="Thin Lines by Randy Glasbergen for Jan 15, 2018 " title="Thin Lines by Randy Glasbergen for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8313e8f0d6a501350cbd005056a9545d" alt="Thin Lines by Randy Glasbergen for Jan 8, 2018 " title="Thin Lines by Randy Glasbergen for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/thinlines/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/637050e0d00a01350ab4005056a9545d" alt="Thin Lines by Randy Glasbergen for Jan 1, 2018 " title="Thin Lines by Randy Glasbergen for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
     </channel>
 </rss>

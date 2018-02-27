@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Frankie Comics</title>
-        <description>Frankie Comics by Rachel Dukes</description>
         <link>http://www.gocomics.com/frankie-comics</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Frankie Comics by Rachel Dukes</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Frankie Comics</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/frankie/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/frankie-comics</link>
         </image>
         <copyright>Copyright Rachel Dukes</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/frankie-comics.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frankie Comics by Rachel Dukes for Dec 17, 2017 ]]></title>
             <link>http://www.gocomics.com/frankie-comics/2017/12/17</link>
             <guid>http://www.gocomics.com/frankie-comics/2017/12/17</guid>
             <pubDate>Sun, 17 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/91bac600c2da01350619005056a9545d" alt="Frankie Comics by Rachel Dukes for Dec 17, 2017 " title="Frankie Comics by Rachel Dukes for Dec 17, 2017 ">]]></description>
-            <author>
-                <name>Rachel Dukes</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frankie Comics by Rachel Dukes for Dec 3, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/frankie-comics/2017/12/03</guid>
             <pubDate>Sun, 03 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56449310aa7c0135fcf7005056a9545d" alt="Frankie Comics by Rachel Dukes for Dec 3, 2017 " title="Frankie Comics by Rachel Dukes for Dec 3, 2017 ">]]></description>
-            <author>
-                <name>Rachel Dukes</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frankie Comics by Rachel Dukes for Nov 19, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/frankie-comics/2017/11/19</guid>
             <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/18822a50a09b0135f944005056a9545d" alt="Frankie Comics by Rachel Dukes for Nov 19, 2017 " title="Frankie Comics by Rachel Dukes for Nov 19, 2017 ">]]></description>
-            <author>
-                <name>Rachel Dukes</name>
-            </author>
         </item>
     </channel>
 </rss>

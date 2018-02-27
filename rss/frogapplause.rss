@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Frog Applause</title>
-        <description>Frog Applause by Teresa Burritt</description>
         <link>http://www.gocomics.com/frogapplause</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Frog Applause by Teresa Burritt</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Frog Applause</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/frog/mid_frog_u_201704111329.png</url>
             <link>http://www.gocomics.com/frogapplause</link>
         </image>
         <copyright>Copyright Teresa Burritt</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/frogapplause.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/frogapplause/2018/02/26</link>
             <guid>http://www.gocomics.com/frogapplause/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/befeb950fce901351b52005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 26, 2018 " title="Frog Applause by Teresa Burritt for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1eb504c0faf901351ad8005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 25, 2018 " title="Frog Applause by Teresa Burritt for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3410f390faa301351aaf005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 24, 2018 " title="Frog Applause by Teresa Burritt for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ec89270f9cb01351a41005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 23, 2018 " title="Frog Applause by Teresa Burritt for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/46a1a450f82801351975005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 22, 2018 " title="Frog Applause by Teresa Burritt for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb3281e0f8fb013519ce005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 21, 2018 " title="Frog Applause by Teresa Burritt for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10a9ac50f77401351946005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 20, 2018 " title="Frog Applause by Teresa Burritt for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2a7f4c50f6010135190e005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 19, 2018 " title="Frog Applause by Teresa Burritt for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c791d280f5cc013518ff005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 18, 2018 " title="Frog Applause by Teresa Burritt for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0f920340f5a7013518f5005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 17, 2018 " title="Frog Applause by Teresa Burritt for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e5e92ab0f509013518a4005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 16, 2018 " title="Frog Applause by Teresa Burritt for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64505ae0f3f70135180d005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 15, 2018 " title="Frog Applause by Teresa Burritt for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6ba1ac0f368013517c8005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 14, 2018 " title="Frog Applause by Teresa Burritt for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66bd7ae0f2ae0135176b005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 13, 2018 " title="Frog Applause by Teresa Burritt for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9459b070f22e0135171b005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 12, 2018 " title="Frog Applause by Teresa Burritt for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ca79be30edff013515b8005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 11, 2018 " title="Frog Applause by Teresa Burritt for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9f84890edff013515b8005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 10, 2018 " title="Frog Applause by Teresa Burritt for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31452730eceb0135153b005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 9, 2018 " title="Frog Applause by Teresa Burritt for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/307b5000eceb0135153b005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 8, 2018 " title="Frog Applause by Teresa Burritt for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31e96c50eceb0135153b005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 7, 2018 " title="Frog Applause by Teresa Burritt for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b31ab0e0eae7013514bd005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 6, 2018 " title="Frog Applause by Teresa Burritt for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ae66f70eae1013514b8005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 5, 2018 " title="Frog Applause by Teresa Burritt for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a459220eae1013514b8005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 4, 2018 " title="Frog Applause by Teresa Burritt for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf4bd260e931013513eb005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 3, 2018 " title="Frog Applause by Teresa Burritt for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c01b3a10e931013513eb005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 2, 2018 " title="Frog Applause by Teresa Burritt for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/32017d10e693013512b7005056a9545d" alt="Frog Applause by Teresa Burritt for Feb 1, 2018 " title="Frog Applause by Teresa Burritt for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9c60b90e40d013511f3005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 31, 2018 " title="Frog Applause by Teresa Burritt for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02286fa0e379013511b2005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 30, 2018 " title="Frog Applause by Teresa Burritt for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7865e310e2ff01351182005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 29, 2018 " title="Frog Applause by Teresa Burritt for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7934e7b0e2ff01351182005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 28, 2018 " title="Frog Applause by Teresa Burritt for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/43bc2bd0e0d6013510a2005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 27, 2018 " title="Frog Applause by Teresa Burritt for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cceefaf0e49101351238005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 26, 2018 " title="Frog Applause by Teresa Burritt for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5cc5ec0e0de013510a4005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 25, 2018 " title="Frog Applause by Teresa Burritt for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4bd8710e01b0135108b005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 24, 2018 " title="Frog Applause by Teresa Burritt for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cef64760dfda01351080005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 23, 2018 " title="Frog Applause by Teresa Burritt for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d355810dfd20135107c005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 22, 2018 " title="Frog Applause by Teresa Burritt for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70f694e0db7301350ea0005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 21, 2018 " title="Frog Applause by Teresa Burritt for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4a702d60db2e01350e9a005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 20, 2018 " title="Frog Applause by Teresa Burritt for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed1c0cf0d52501350c75005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 19, 2018 " title="Frog Applause by Teresa Burritt for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0fa9d090d4e701350c6b005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 18, 2018 " title="Frog Applause by Teresa Burritt for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64bae3c0d4d801350c64005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 17, 2018 " title="Frog Applause by Teresa Burritt for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ed4d4a0d49701350c49005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 16, 2018 " title="Frog Applause by Teresa Burritt for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3db7ec90d49301350c45005056a9545d" alt="Frog Applause by Teresa Burritt for Jan 15, 2018 " title="Frog Applause by Teresa Burritt for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Teresa Burritt</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Everyday People Cartoons</title>
-        <description>Everyday People Cartoons by Cathy Thorne</description>
         <link>http://www.gocomics.com/everyday-people-cartoons</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Everyday People Cartoons by Cathy Thorne</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Everyday People Cartoons</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/epc/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/everyday-people-cartoons</link>
         </image>
         <copyright>Copyright Cathy Thorne</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/everyday-people-cartoons.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Feb 14, 2018 ]]></title>
             <link>http://www.gocomics.com/everyday-people-cartoons/2018/02/14</link>
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88796f10f3e0013517fb005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Feb 14, 2018 " title="Everyday People Cartoons by Cathy Thorne for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Feb 8, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40992a00ecd201351522005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Feb 8, 2018 " title="Everyday People Cartoons by Cathy Thorne for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Feb 6, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3f4f8e80ecd201351522005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Feb 6, 2018 " title="Everyday People Cartoons by Cathy Thorne for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Jan 25, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f1f4fdf0e40b013511f1005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Jan 25, 2018 " title="Everyday People Cartoons by Cathy Thorne for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Jan 15, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14d44130dd0801350f12005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Jan 15, 2018 " title="Everyday People Cartoons by Cathy Thorne for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Jan 4, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/01/04</guid>
             <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/16597d30dd0801350f12005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Jan 4, 2018 " title="Everyday People Cartoons by Cathy Thorne for Jan 4, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Jan 2, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/everyday-people-cartoons/2018/01/02</guid>
             <pubDate>Tue, 02 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3fa1f880d22901350b2c005056a9545d" alt="Everyday People Cartoons by Cathy Thorne for Jan 2, 2018 " title="Everyday People Cartoons by Cathy Thorne for Jan 2, 2018 ">]]></description>
-            <author>
-                <name>Cathy Thorne</name>
-            </author>
         </item>
     </channel>
 </rss>

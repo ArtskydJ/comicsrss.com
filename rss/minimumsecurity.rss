@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Minimum Security</title>
-        <description>Minimum Security by Stephanie McMillan</description>
         <link>http://www.gocomics.com/minimumsecurity</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Minimum Security by Stephanie McMillan</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Minimum Security</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/mn/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/minimumsecurity</link>
         </image>
         <copyright>Copyright Stephanie McMillan</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/minimumsecurity.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Minimum Security by Stephanie McMillan for Apr 22, 2017 ]]></title>
             <link>http://www.gocomics.com/minimumsecurity/2017/04/22</link>
             <guid>http://www.gocomics.com/minimumsecurity/2017/04/22</guid>
             <pubDate>Sat, 22 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c0b61e0075b013594ef005056a9545d" alt="Minimum Security by Stephanie McMillan for Apr 22, 2017 " title="Minimum Security by Stephanie McMillan for Apr 22, 2017 ">]]></description>
-            <author>
-                <name>Stephanie McMillan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Minimum Security by Stephanie McMillan for Apr 21, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/minimumsecurity/2017/04/21</guid>
             <pubDate>Fri, 21 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70c0f4a005a70135925e005056a9545d" alt="Minimum Security by Stephanie McMillan for Apr 21, 2017 " title="Minimum Security by Stephanie McMillan for Apr 21, 2017 ">]]></description>
-            <author>
-                <name>Stephanie McMillan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Minimum Security by Stephanie McMillan for Apr 20, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/minimumsecurity/2017/04/20</guid>
             <pubDate>Thu, 20 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f21331005a70135925e005056a9545d" alt="Minimum Security by Stephanie McMillan for Apr 20, 2017 " title="Minimum Security by Stephanie McMillan for Apr 20, 2017 ">]]></description>
-            <author>
-                <name>Stephanie McMillan</name>
-            </author>
         </item>
     </channel>
 </rss>

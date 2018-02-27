@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Wallace the Brave</title>
-        <description>Wallace the Brave by Will Henry</description>
         <link>http://www.gocomics.com/wallace-the-brave</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Wallace the Brave by Will Henry</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Wallace the Brave</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wtb/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/wallace-the-brave</link>
         </image>
         <copyright>Copyright Will Henry</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/wallace-the-brave.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/wallace-the-brave/2018/02/26</link>
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7a84d750fa2101351a62005056a9545d" alt="Wallace the Brave by Will Henry for Feb 26, 2018 " title="Wallace the Brave by Will Henry for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c05f600fa2101351a62005056a9545d" alt="Wallace the Brave by Will Henry for Feb 23, 2018 " title="Wallace the Brave by Will Henry for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ec882800f8f7013519cc005056a9545d" alt="Wallace the Brave by Will Henry for Feb 21, 2018 " title="Wallace the Brave by Will Henry for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 20, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9578800f81b0135196f005056a9545d" alt="Wallace the Brave by Will Henry for Feb 20, 2018 " title="Wallace the Brave by Will Henry for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4d85f40f5010135189f005056a9545d" alt="Wallace the Brave by Will Henry for Feb 16, 2018 " title="Wallace the Brave by Will Henry for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ea408a50f31101351793005056a9545d" alt="Wallace the Brave by Will Henry for Feb 14, 2018 " title="Wallace the Brave by Will Henry for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 13, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2df6d2a0f2a401351765005056a9545d" alt="Wallace the Brave by Will Henry for Feb 13, 2018 " title="Wallace the Brave by Will Henry for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e2224140ef1a01351638005056a9545d" alt="Wallace the Brave by Will Henry for Feb 9, 2018 " title="Wallace the Brave by Will Henry for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c9aa3c0ed800135156b005056a9545d" alt="Wallace the Brave by Will Henry for Feb 7, 2018 " title="Wallace the Brave by Will Henry for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b111d30ec2a013514f2005056a9545d" alt="Wallace the Brave by Will Henry for Feb 5, 2018 " title="Wallace the Brave by Will Henry for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4afe13e0e9a701351414005056a9545d" alt="Wallace the Brave by Will Henry for Feb 2, 2018 " title="Wallace the Brave by Will Henry for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/94ede9b0e80c01351340005056a9545d" alt="Wallace the Brave by Will Henry for Jan 31, 2018 " title="Wallace the Brave by Will Henry for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f4ea4b0e67e013512b4005056a9545d" alt="Wallace the Brave by Will Henry for Jan 29, 2018 " title="Wallace the Brave by Will Henry for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a126c220e48901351236005056a9545d" alt="Wallace the Brave by Will Henry for Jan 26, 2018 " title="Wallace the Brave by Will Henry for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0f5d050e27d01351134005056a9545d" alt="Wallace the Brave by Will Henry for Jan 24, 2018 " title="Wallace the Brave by Will Henry for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 22, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ba6ccc00e0f1013510aa005056a9545d" alt="Wallace the Brave by Will Henry for Jan 22, 2018 " title="Wallace the Brave by Will Henry for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41c2e3e0df0501351024005056a9545d" alt="Wallace the Brave by Will Henry for Jan 19, 2018 " title="Wallace the Brave by Will Henry for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1bbf4360dd6001350f5b005056a9545d" alt="Wallace the Brave by Will Henry for Jan 17, 2018 " title="Wallace the Brave by Will Henry for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 16, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44257120dd3801350f40005056a9545d" alt="Wallace the Brave by Will Henry for Jan 16, 2018 " title="Wallace the Brave by Will Henry for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wallace the Brave by Will Henry for Jan 14, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/wallace-the-brave/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98407f30dbe001350ec2005056a9545d" alt="Wallace the Brave by Will Henry for Jan 14, 2018 " title="Wallace the Brave by Will Henry for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Will Henry</name>
-            </author>
         </item>
     </channel>
 </rss>

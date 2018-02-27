@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Stone Soup</title>
-        <description>Stone Soup by Jan Eliot</description>
         <link>http://www.gocomics.com/stonesoup</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Stone Soup by Jan Eliot</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Stone Soup</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ss/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/stonesoup</link>
         </image>
         <copyright>Copyright Jan Eliot</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/stonesoup.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/stonesoup/2018/02/25</link>
             <guid>http://www.gocomics.com/stonesoup/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b464f180d3d701350bf8005056a9545d" alt="Stone Soup by Jan Eliot for Feb 25, 2018 " title="Stone Soup by Jan Eliot for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Feb 18, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b736d550d3d701350bf8005056a9545d" alt="Stone Soup by Jan Eliot for Feb 18, 2018 " title="Stone Soup by Jan Eliot for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Feb 11, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/619d6dd0ceef01350a5b005056a9545d" alt="Stone Soup by Jan Eliot for Feb 11, 2018 " title="Stone Soup by Jan Eliot for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Feb 4, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65541d40ceef01350a5b005056a9545d" alt="Stone Soup by Jan Eliot for Feb 4, 2018 " title="Stone Soup by Jan Eliot for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Jan 28, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5e2ae680ceef01350a5b005056a9545d" alt="Stone Soup by Jan Eliot for Jan 28, 2018 " title="Stone Soup by Jan Eliot for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Jan 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70724290ceef01350a5b005056a9545d" alt="Stone Soup by Jan Eliot for Jan 21, 2018 " title="Stone Soup by Jan Eliot for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Jan 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68fe83c0ceef01350a5b005056a9545d" alt="Stone Soup by Jan Eliot for Jan 14, 2018 " title="Stone Soup by Jan Eliot for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Jan 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/stonesoup/2018/01/07</guid>
             <pubDate>Sun, 07 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ce61bd0ceef01350a5b005056a9545d" alt="Stone Soup by Jan Eliot for Jan 7, 2018 " title="Stone Soup by Jan Eliot for Jan 7, 2018 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Stone Soup by Jan Eliot for Dec 31, 2017 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/stonesoup/2017/12/31</guid>
             <pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/19b02480ac0c0135fda5005056a9545d" alt="Stone Soup by Jan Eliot for Dec 31, 2017 " title="Stone Soup by Jan Eliot for Dec 31, 2017 ">]]></description>
-            <author>
-                <name>Jan Eliot</name>
-            </author>
         </item>
     </channel>
 </rss>

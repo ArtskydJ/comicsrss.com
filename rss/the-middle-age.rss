@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Middle Age</title>
-        <description>The Middle Age by Steve Conley</description>
         <link>http://www.gocomics.com/the-middle-age</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Middle Age by Steve Conley</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Middle Age</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tma/mid_tma_u_201706131223.png</url>
             <link>http://www.gocomics.com/the-middle-age</link>
         </image>
         <copyright>Copyright Steve Conley</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-middle-age.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-middle-age/2018/02/26</link>
             <guid>http://www.gocomics.com/the-middle-age/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0b2058a0fc9401351b3b005056a9545d" alt="The Middle Age by Steve Conley for Feb 26, 2018 " title="The Middle Age by Steve Conley for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f74af7a0f74101351936005056a9545d" alt="The Middle Age by Steve Conley for Feb 19, 2018 " title="The Middle Age by Steve Conley for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44e0d630f1e10135170d005056a9545d" alt="The Middle Age by Steve Conley for Feb 12, 2018 " title="The Middle Age by Steve Conley for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/234c2f00ec780135150b005056a9545d" alt="The Middle Age by Steve Conley for Feb 5, 2018 " title="The Middle Age by Steve Conley for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db1c1660e6de013512d1005056a9545d" alt="The Middle Age by Steve Conley for Jan 29, 2018 " title="The Middle Age by Steve Conley for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b8f0710e199013510d9005056a9545d" alt="The Middle Age by Steve Conley for Jan 22, 2018 " title="The Middle Age by Steve Conley for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8cabeca0dbf501350eca005056a9545d" alt="The Middle Age by Steve Conley for Jan 15, 2018 " title="The Middle Age by Steve Conley for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/643d6420d67501350cb4005056a9545d" alt="The Middle Age by Steve Conley for Jan 8, 2018 " title="The Middle Age by Steve Conley for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Middle Age by Steve Conley for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-middle-age/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37db3190d0f501350ae2005056a9545d" alt="The Middle Age by Steve Conley for Jan 1, 2018 " title="The Middle Age by Steve Conley for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Steve Conley</name>
-            </author>
         </item>
     </channel>
 </rss>

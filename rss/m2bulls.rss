@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>M2Bulls</title>
-        <description>M2Bulls by Marty Two Bulls Sr.</description>
         <link>http://www.gocomics.com/m2bulls</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>M2Bulls by Marty Two Bulls Sr.</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>M2Bulls</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/mtb/mid_mtb_u_201710261329.png</url>
             <link>http://www.gocomics.com/m2bulls</link>
         </image>
         <copyright>Copyright Marty Two Bulls Sr.</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/m2bulls.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Feb 19, 2018 ]]></title>
             <link>http://www.gocomics.com/m2bulls/2018/02/19</link>
             <guid>http://www.gocomics.com/m2bulls/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4bb2fb40f82401351973005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Feb 19, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Feb 12, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/54fb9060f1b701351700005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Feb 12, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Feb 5, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d721a950ec45013514fb005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Feb 5, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Feb 2, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6c661a0ea740135147a005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Feb 2, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d9d00540e736013512e6005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Jan 29, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3274f6d0e154013510c6005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Jan 22, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Jan 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d7e66a0dbf501350eca005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Jan 16, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Jan 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4013ebc0dc5c01350ede005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Jan 15, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[M2Bulls by Marty Two Bulls Sr. for Jan 8, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/m2bulls/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/650345c0d67501350cb4005056a9545d" alt="M2Bulls by Marty Two Bulls Sr. for Jan 8, 2018 " title="M2Bulls by Marty Two Bulls Sr. for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Marty Two Bulls Sr.</name>
-            </author>
         </item>
     </channel>
 </rss>

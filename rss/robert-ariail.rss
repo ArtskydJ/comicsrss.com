@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Robert Ariail</title>
-        <description>Robert Ariail by Robert Ariail</description>
         <link>http://www.gocomics.com/robert-ariail</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Robert Ariail by Robert Ariail</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Robert Ariail</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/aria/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/robert-ariail</link>
         </image>
         <copyright>Copyright Robert Ariail</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/robert-ariail.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/robert-ariail/2018/02/25</link>
             <guid>http://www.gocomics.com/robert-ariail/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8e31c00faff01351ade005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 25, 2018 " title="Robert Ariail by Robert Ariail for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/23afba10fa2801351a66005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 23, 2018 " title="Robert Ariail by Robert Ariail for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f155040f88b01351991005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 21, 2018 " title="Robert Ariail by Robert Ariail for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 20, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef329d70f581013518d0005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 20, 2018 " title="Robert Ariail by Robert Ariail for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 18, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99f24640f4cb01351881005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 18, 2018 " title="Robert Ariail by Robert Ariail for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9c0b750f3c7013517e8005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 15, 2018 " title="Robert Ariail by Robert Ariail for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 13, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a4104b0f2fa01351782005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 13, 2018 " title="Robert Ariail by Robert Ariail for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 11, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1d0d880ef3e01351652005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 11, 2018 " title="Robert Ariail by Robert Ariail for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 9, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c07e990ef1901351636005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 9, 2018 " title="Robert Ariail by Robert Ariail for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 6, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bc5cc6d0ed840135156e005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 6, 2018 " title="Robert Ariail by Robert Ariail for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 5, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2d5b9640ecb301351519005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 5, 2018 " title="Robert Ariail by Robert Ariail for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Feb 4, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af2ab690ea8301351482005056a9545d" alt="Robert Ariail by Robert Ariail for Feb 4, 2018 " title="Robert Ariail by Robert Ariail for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 31, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/424d2d90e8ef013513ba005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 31, 2018 " title="Robert Ariail by Robert Ariail for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 30, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65dac780e8000135133d005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 30, 2018 " title="Robert Ariail by Robert Ariail for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 28, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ef57300e50501351266005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 28, 2018 " title="Robert Ariail by Robert Ariail for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 26, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/beef9690e4420135120e005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 26, 2018 " title="Robert Ariail by Robert Ariail for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 24, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0857a430e2a801351151005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 24, 2018 " title="Robert Ariail by Robert Ariail for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 21, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99b41d00df7201351047005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 21, 2018 " title="Robert Ariail by Robert Ariail for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 19, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b2509140df740135104b005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 19, 2018 " title="Robert Ariail by Robert Ariail for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 18, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3a054de0ddf501350f9e005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 18, 2018 " title="Robert Ariail by Robert Ariail for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 17, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5c3ef80dd2501350f2c005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 17, 2018 " title="Robert Ariail by Robert Ariail for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 13, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1c53b1d0da0101350e4e005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 13, 2018 " title="Robert Ariail by Robert Ariail for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for Jan 12, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a566ff0d9db01350e31005056a9545d" alt="Robert Ariail by Robert Ariail for Jan 12, 2018 " title="Robert Ariail by Robert Ariail for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Robert Ariail</name>
-            </author>
         </item>
     </channel>
 </rss>

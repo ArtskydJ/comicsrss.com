@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Upside Down World of Gustave Verbeek</title>
-        <description>The Upside Down World of Gustave Verbeek by Gustave Verbeek</description>
         <link>http://www.gocomics.com/upside-down-world-of-gustave-verbeek</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>The Upside Down World of Gustave Verbeek by Gustave Verbeek</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Upside Down World of Gustave Verbeek</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/udw/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/upside-down-world-of-gustave-verbeek</link>
         </image>
         <copyright>Copyright Gustave Verbeek</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/upside-down-world-of-gustave-verbeek.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 25, 2017 ]]></title>
             <link>http://www.gocomics.com/upside-down-world-of-gustave-verbeek/2017/09/25</link>
             <guid>http://www.gocomics.com/upside-down-world-of-gustave-verbeek/2017/09/25</guid>
             <pubDate>Mon, 25 Sep 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f882deb082ec0135ee94005056a9545d" alt="The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 25, 2017 " title="The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 25, 2017 ">]]></description>
-            <author>
-                <name>Gustave Verbeek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 22, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/upside-down-world-of-gustave-verbeek/2017/09/22</guid>
             <pubDate>Fri, 22 Sep 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5a6356081860135ee39005056a9545d" alt="The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 22, 2017 " title="The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 22, 2017 ">]]></description>
-            <author>
-                <name>Gustave Verbeek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 18, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/upside-down-world-of-gustave-verbeek/2017/09/18</guid>
             <pubDate>Mon, 18 Sep 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1ab18807e5f0135eccf005056a9545d" alt="The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 18, 2017 " title="The Upside Down World of Gustave Verbeek by Gustave Verbeek for Sep 18, 2017 ">]]></description>
-            <author>
-                <name>Gustave Verbeek</name>
-            </author>
         </item>
     </channel>
 </rss>

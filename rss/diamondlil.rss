@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Diamond Lil</title>
-        <description>Diamond Lil by Brett Koth</description>
         <link>http://www.gocomics.com/diamondlil</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Diamond Lil by Brett Koth</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Diamond Lil</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crdia/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/diamondlil</link>
         </image>
         <copyright>Copyright Brett Koth</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/diamondlil.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/diamondlil/2018/02/26</link>
             <guid>http://www.gocomics.com/diamondlil/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f52f330f6e901351927005056a9545d" alt="Diamond Lil by Brett Koth for Feb 26, 2018 " title="Diamond Lil by Brett Koth for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bcaefb30f6e801351927005056a9545d" alt="Diamond Lil by Brett Koth for Feb 25, 2018 " title="Diamond Lil by Brett Koth for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/24723c50f169013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 24, 2018 " title="Diamond Lil by Brett Koth for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20989a00f169013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 23, 2018 " title="Diamond Lil by Brett Koth for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/226ce550f169013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 22, 2018 " title="Diamond Lil by Brett Koth for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2560ef90f169013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 21, 2018 " title="Diamond Lil by Brett Koth for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/218154f0f169013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 20, 2018 " title="Diamond Lil by Brett Koth for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/238cd1e0f169013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 19, 2018 " title="Diamond Lil by Brett Koth for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/93f15fd0f168013516f0005056a9545d" alt="Diamond Lil by Brett Koth for Feb 18, 2018 " title="Diamond Lil by Brett Koth for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f86d4920ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 17, 2018 " title="Diamond Lil by Brett Koth for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa39fe10ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 16, 2018 " title="Diamond Lil by Brett Koth for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f954f840ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 15, 2018 " title="Diamond Lil by Brett Koth for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb0fa8a0ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 14, 2018 " title="Diamond Lil by Brett Koth for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fbff2d50ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 13, 2018 " title="Diamond Lil by Brett Koth for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f78486f0ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 12, 2018 " title="Diamond Lil by Brett Koth for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66da6da0ebe8013514e6005056a9545d" alt="Diamond Lil by Brett Koth for Feb 11, 2018 " title="Diamond Lil by Brett Koth for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c68ba070e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 10, 2018 " title="Diamond Lil by Brett Koth for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c85d50a0e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 9, 2018 " title="Diamond Lil by Brett Koth for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c93d7de0e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 8, 2018 " title="Diamond Lil by Brett Koth for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c76a5690e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 7, 2018 " title="Diamond Lil by Brett Koth for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ca2115f0e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 6, 2018 " title="Diamond Lil by Brett Koth for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5a50490e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 5, 2018 " title="Diamond Lil by Brett Koth for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3f3a52e0e668013512af005056a9545d" alt="Diamond Lil by Brett Koth for Feb 4, 2018 " title="Diamond Lil by Brett Koth for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa334270e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Feb 3, 2018 " title="Diamond Lil by Brett Koth for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7912210e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Feb 2, 2018 " title="Diamond Lil by Brett Koth for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6bdf890e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Feb 1, 2018 " title="Diamond Lil by Brett Koth for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8826db0e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Jan 31, 2018 " title="Diamond Lil by Brett Koth for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9516920e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Jan 30, 2018 " title="Diamond Lil by Brett Koth for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5e0bfb0e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Jan 29, 2018 " title="Diamond Lil by Brett Koth for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/104d3e70e0e8013510a5005056a9545d" alt="Diamond Lil by Brett Koth for Jan 28, 2018 " title="Diamond Lil by Brett Koth for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79a57560db6801350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 27, 2018 " title="Diamond Lil by Brett Koth for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d1db5c0db6801350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 26, 2018 " title="Diamond Lil by Brett Koth for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b6c3110db6801350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 25, 2018 " title="Diamond Lil by Brett Koth for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c3ce6f0db6801350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 24, 2018 " title="Diamond Lil by Brett Koth for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7a86af50db6801350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 23, 2018 " title="Diamond Lil by Brett Koth for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7df7edb0db6801350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 22, 2018 " title="Diamond Lil by Brett Koth for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1a876f0db6701350e9f005056a9545d" alt="Diamond Lil by Brett Koth for Jan 21, 2018 " title="Diamond Lil by Brett Koth for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c1056f0d5e801350c91005056a9545d" alt="Diamond Lil by Brett Koth for Jan 20, 2018 " title="Diamond Lil by Brett Koth for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4dab6ad0d5e801350c91005056a9545d" alt="Diamond Lil by Brett Koth for Jan 19, 2018 " title="Diamond Lil by Brett Koth for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4f6e32b0d5e801350c91005056a9545d" alt="Diamond Lil by Brett Koth for Jan 18, 2018 " title="Diamond Lil by Brett Koth for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4cdcecc0d5e801350c91005056a9545d" alt="Diamond Lil by Brett Koth for Jan 17, 2018 " title="Diamond Lil by Brett Koth for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ea10e60d5e801350c91005056a9545d" alt="Diamond Lil by Brett Koth for Jan 16, 2018 " title="Diamond Lil by Brett Koth for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4b336e30d5e801350c91005056a9545d" alt="Diamond Lil by Brett Koth for Jan 15, 2018 " title="Diamond Lil by Brett Koth for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Brett Koth</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Learn to Speak Cat</title>
-        <description>Learn to Speak Cat by Anthony Smith</description>
         <link>http://www.gocomics.com/learn-to-speak-cat</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Learn to Speak Cat by Anthony Smith</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Learn to Speak Cat</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/lsc/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/learn-to-speak-cat</link>
         </image>
         <copyright>Copyright Anthony Smith</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/learn-to-speak-cat.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/learn-to-speak-cat/2018/02/25</link>
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/896652a0c6470135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 25, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98900280c6460135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 24, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9aa5470c6460135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 22, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0fb205d0c6470135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 19, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df2ba900c6460135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 16, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f2c4ab0c6470135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 15, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 13, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5deae220c6470135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 13, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 10, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b684e6d0c6460135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 10, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd742270c6460135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 7, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1fa749d0c6470135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 5, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 3, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b385e730c6470135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 3, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Feb 1, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e32c2b0c6460135071d005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Feb 1, 2018 " title="Learn to Speak Cat by Anthony Smith for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 30, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05fd5b70ff4301348964005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 30, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 27, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e5ba0bd0ff4201348964005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 27, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 23, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a3dcd80ff4301348964005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 23, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 19, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4dd8a00ff4201348964005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 19, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 13, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10d700d0ff4301348964005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 13, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 8, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1636db90ff4701348969005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 8, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Learn to Speak Cat by Anthony Smith for Jan 4, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/learn-to-speak-cat/2018/01/04</guid>
             <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a366980ff4701348969005056a9545d" alt="Learn to Speak Cat by Anthony Smith for Jan 4, 2018 " title="Learn to Speak Cat by Anthony Smith for Jan 4, 2018 ">]]></description>
-            <author>
-                <name>Anthony Smith</name>
-            </author>
         </item>
     </channel>
 </rss>

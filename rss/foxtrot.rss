@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>FoxTrot</title>
-        <description>FoxTrot by Bill Amend</description>
         <link>http://www.gocomics.com/foxtrot</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>FoxTrot by Bill Amend</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>FoxTrot</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ft/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/foxtrot</link>
         </image>
         <copyright>Copyright Bill Amend</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/foxtrot.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/foxtrot/2018/02/25</link>
             <guid>http://www.gocomics.com/foxtrot/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/71882cd0de4f01350fd1005056a9545d" alt="FoxTrot by Bill Amend for Feb 25, 2018 " title="FoxTrot by Bill Amend for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Feb 18, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31d30910d8cf01350dc8005056a9545d" alt="FoxTrot by Bill Amend for Feb 18, 2018 " title="FoxTrot by Bill Amend for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Feb 11, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d0671ee0d42201350c1a005056a9545d" alt="FoxTrot by Bill Amend for Feb 11, 2018 " title="FoxTrot by Bill Amend for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Feb 4, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dd275af0ceec01350a5b005056a9545d" alt="FoxTrot by Bill Amend for Feb 4, 2018 " title="FoxTrot by Bill Amend for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Jan 28, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d73c8c20ceec01350a5b005056a9545d" alt="FoxTrot by Bill Amend for Jan 28, 2018 " title="FoxTrot by Bill Amend for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Jan 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da3c3e10ceec01350a5b005056a9545d" alt="FoxTrot by Bill Amend for Jan 21, 2018 " title="FoxTrot by Bill Amend for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Jan 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d43091d0ceec01350a5b005056a9545d" alt="FoxTrot by Bill Amend for Jan 14, 2018 " title="FoxTrot by Bill Amend for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Jan 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/foxtrot/2018/01/07</guid>
             <pubDate>Sun, 07 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dff80a60ceec01350a5b005056a9545d" alt="FoxTrot by Bill Amend for Jan 7, 2018 " title="FoxTrot by Bill Amend for Jan 7, 2018 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Dec 31, 2017 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/foxtrot/2017/12/31</guid>
             <pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f46cb3c0b1840135ffeb005056a9545d" alt="FoxTrot by Bill Amend for Dec 31, 2017 " title="FoxTrot by Bill Amend for Dec 31, 2017 ">]]></description>
-            <author>
-                <name>Bill Amend</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The K Chronicles</title>
-        <description>The K Chronicles by Keith Knight</description>
         <link>http://www.gocomics.com/thekchronicles</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>The K Chronicles by Keith Knight</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The K Chronicles</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/kk/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/thekchronicles</link>
         </image>
         <copyright>Copyright Keith Knight</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/thekchronicles.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The K Chronicles by Keith Knight for Nov 29, 2017 ]]></title>
             <link>http://www.gocomics.com/thekchronicles/2017/11/29</link>
             <guid>http://www.gocomics.com/thekchronicles/2017/11/29</guid>
             <pubDate>Wed, 29 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a6f19e0b68d01350146005056a9545d" alt="The K Chronicles by Keith Knight for Nov 29, 2017 " title="The K Chronicles by Keith Knight for Nov 29, 2017 ">]]></description>
-            <author>
-                <name>Keith Knight</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The K Chronicles by Keith Knight for Oct 10, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/thekchronicles/2017/10/10</guid>
             <pubDate>Tue, 10 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87de5ed08f7f0135f31c005056a9545d" alt="The K Chronicles by Keith Knight for Oct 10, 2017 " title="The K Chronicles by Keith Knight for Oct 10, 2017 ">]]></description>
-            <author>
-                <name>Keith Knight</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The K Chronicles by Keith Knight for Sep 20, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/thekchronicles/2017/09/20</guid>
             <pubDate>Wed, 20 Sep 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5afefbe07f890135ed3a005056a9545d" alt="The K Chronicles by Keith Knight for Sep 20, 2017 " title="The K Chronicles by Keith Knight for Sep 20, 2017 ">]]></description>
-            <author>
-                <name>Keith Knight</name>
-            </author>
         </item>
     </channel>
 </rss>

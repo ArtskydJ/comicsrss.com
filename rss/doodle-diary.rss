@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Doodle Diary</title>
-        <description>Doodle Diary by Alex Hallatt</description>
         <link>http://www.gocomics.com/doodle-diary</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Doodle Diary by Alex Hallatt</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Doodle Diary</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/doodle/mid_doodle_u_201709211050.png</url>
             <link>http://www.gocomics.com/doodle-diary</link>
         </image>
         <copyright>Copyright Alex Hallatt</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/doodle-diary.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/doodle-diary/2018/02/26</link>
             <guid>http://www.gocomics.com/doodle-diary/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40f2af40f4060135181a005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 26, 2018 " title="Doodle Diary by Alex Hallatt for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c8c4fff0f035013516c7005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 23, 2018 " title="Doodle Diary by Alex Hallatt for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6d5ec80f035013516c7005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 21, 2018 " title="Doodle Diary by Alex Hallatt for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4d855b0f035013516c7005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 19, 2018 " title="Doodle Diary by Alex Hallatt for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b6fc5b0e914013513e0005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 16, 2018 " title="Doodle Diary by Alex Hallatt for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f45b050e914013513e0005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 14, 2018 " title="Doodle Diary by Alex Hallatt for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d59ee40e914013513e0005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 12, 2018 " title="Doodle Diary by Alex Hallatt for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db509c70e44c01351217005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 9, 2018 " title="Doodle Diary by Alex Hallatt for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d96053c0e44c01351217005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 7, 2018 " title="Doodle Diary by Alex Hallatt for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ad55b320de3101350fc4005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 5, 2018 " title="Doodle Diary by Alex Hallatt for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b2032bd0de3101350fc4005056a9545d" alt="Doodle Diary by Alex Hallatt for Feb 2, 2018 " title="Doodle Diary by Alex Hallatt for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4def8d0de3101350fc4005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 31, 2018 " title="Doodle Diary by Alex Hallatt for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af9ea5f0de3101350fc4005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 29, 2018 " title="Doodle Diary by Alex Hallatt for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5abd9e30d24201350b40005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 26, 2018 " title="Doodle Diary by Alex Hallatt for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 25, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f1d8090d24201350b40005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 25, 2018 " title="Doodle Diary by Alex Hallatt for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 24, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/63157190d24201350b40005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 24, 2018 " title="Doodle Diary by Alex Hallatt for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 23, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61108ed0d24201350b40005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 23, 2018 " title="Doodle Diary by Alex Hallatt for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 22, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d1ccf40d24201350b40005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 22, 2018 " title="Doodle Diary by Alex Hallatt for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 19, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/18aa45d0c6bc0135075f005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 19, 2018 " title="Doodle Diary by Alex Hallatt for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 18, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12c9e3d0c6bc0135075f005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 18, 2018 " title="Doodle Diary by Alex Hallatt for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 17, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/15bc36d0c6bc0135075f005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 17, 2018 " title="Doodle Diary by Alex Hallatt for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 16, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c244d10c6bc0135075f005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 16, 2018 " title="Doodle Diary by Alex Hallatt for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jan 15, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/doodle-diary/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00b503d0c6bc0135075f005056a9545d" alt="Doodle Diary by Alex Hallatt for Jan 15, 2018 " title="Doodle Diary by Alex Hallatt for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Alex Hallatt</name>
-            </author>
         </item>
     </channel>
 </rss>

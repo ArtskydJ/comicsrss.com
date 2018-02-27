@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Herman</title>
-        <description>Herman by Jim Unger</description>
         <link>http://www.gocomics.com/herman</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Herman by Jim Unger</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Herman</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/hm/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/herman</link>
         </image>
         <copyright>Copyright Jim Unger</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/herman.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/herman/2018/02/26</link>
             <guid>http://www.gocomics.com/herman/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2254f580f2830135175a005056a9545d" alt="Herman by Jim Unger for Feb 26, 2018 " title="Herman by Jim Unger for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/681c3e90d80e01350d60005056a9545d" alt="Herman by Jim Unger for Feb 25, 2018 " title="Herman by Jim Unger for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45f016f0eed801351629005056a9545d" alt="Herman by Jim Unger for Feb 24, 2018 " title="Herman by Jim Unger for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/431c03a0eed801351629005056a9545d" alt="Herman by Jim Unger for Feb 23, 2018 " title="Herman by Jim Unger for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4499fd80eed801351629005056a9545d" alt="Herman by Jim Unger for Feb 22, 2018 " title="Herman by Jim Unger for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4886c420eed801351629005056a9545d" alt="Herman by Jim Unger for Feb 21, 2018 " title="Herman by Jim Unger for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/473043f0eed801351629005056a9545d" alt="Herman by Jim Unger for Feb 20, 2018 " title="Herman by Jim Unger for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/49d7d6f0eed801351629005056a9545d" alt="Herman by Jim Unger for Feb 19, 2018 " title="Herman by Jim Unger for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3b2774b0cef801350a63005056a9545d" alt="Herman by Jim Unger for Feb 18, 2018 " title="Herman by Jim Unger for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d7496330e78201351315005056a9545d" alt="Herman by Jim Unger for Feb 17, 2018 " title="Herman by Jim Unger for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dddf3500e78201351315005056a9545d" alt="Herman by Jim Unger for Feb 16, 2018 " title="Herman by Jim Unger for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db703970e78201351315005056a9545d" alt="Herman by Jim Unger for Feb 15, 2018 " title="Herman by Jim Unger for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da220410e78201351315005056a9545d" alt="Herman by Jim Unger for Feb 14, 2018 " title="Herman by Jim Unger for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dca0d570e78201351315005056a9545d" alt="Herman by Jim Unger for Feb 13, 2018 " title="Herman by Jim Unger for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d8924470e78201351315005056a9545d" alt="Herman by Jim Unger for Feb 12, 2018 " title="Herman by Jim Unger for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/360c7b40cef801350a63005056a9545d" alt="Herman by Jim Unger for Feb 11, 2018 " title="Herman by Jim Unger for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af587ca0e2020135110f005056a9545d" alt="Herman by Jim Unger for Feb 10, 2018 " title="Herman by Jim Unger for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b32458c0e2020135110f005056a9545d" alt="Herman by Jim Unger for Feb 9, 2018 " title="Herman by Jim Unger for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ae21a5b0e2020135110f005056a9545d" alt="Herman by Jim Unger for Feb 8, 2018 " title="Herman by Jim Unger for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1e17220e2020135110f005056a9545d" alt="Herman by Jim Unger for Feb 7, 2018 " title="Herman by Jim Unger for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b0a1b2c0e2020135110f005056a9545d" alt="Herman by Jim Unger for Feb 6, 2018 " title="Herman by Jim Unger for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b46fca10e2020135110f005056a9545d" alt="Herman by Jim Unger for Feb 5, 2018 " title="Herman by Jim Unger for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4636f8b0cef801350a63005056a9545d" alt="Herman by Jim Unger for Feb 4, 2018 " title="Herman by Jim Unger for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f80016a0de1401350fb5005056a9545d" alt="Herman by Jim Unger for Feb 3, 2018 " title="Herman by Jim Unger for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd650b90de1401350fb5005056a9545d" alt="Herman by Jim Unger for Feb 2, 2018 " title="Herman by Jim Unger for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/herman/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f98c4070de1401350fb5005056a9545d" alt="Herman by Jim Unger for Feb 1, 2018 " title="Herman by Jim Unger for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fada7e10de1401350fb5005056a9545d" alt="Herman by Jim Unger for Jan 31, 2018 " title="Herman by Jim Unger for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc284400de1401350fb5005056a9545d" alt="Herman by Jim Unger for Jan 30, 2018 " title="Herman by Jim Unger for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/feab2e10de1401350fb5005056a9545d" alt="Herman by Jim Unger for Jan 29, 2018 " title="Herman by Jim Unger for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/519aac20cef801350a63005056a9545d" alt="Herman by Jim Unger for Jan 28, 2018 " title="Herman by Jim Unger for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b503a70d70201350cf3005056a9545d" alt="Herman by Jim Unger for Jan 27, 2018 " title="Herman by Jim Unger for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/58c82f80d70201350cf3005056a9545d" alt="Herman by Jim Unger for Jan 26, 2018 " title="Herman by Jim Unger for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5a0746b0d70201350cf3005056a9545d" alt="Herman by Jim Unger for Jan 25, 2018 " title="Herman by Jim Unger for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5619c120d70201350cf3005056a9545d" alt="Herman by Jim Unger for Jan 24, 2018 " title="Herman by Jim Unger for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57633220d70201350cf3005056a9545d" alt="Herman by Jim Unger for Jan 23, 2018 " title="Herman by Jim Unger for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c949390d70201350cf3005056a9545d" alt="Herman by Jim Unger for Jan 22, 2018 " title="Herman by Jim Unger for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c0d8540cef801350a63005056a9545d" alt="Herman by Jim Unger for Jan 21, 2018 " title="Herman by Jim Unger for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44d623d0d3de01350bff005056a9545d" alt="Herman by Jim Unger for Jan 20, 2018 " title="Herman by Jim Unger for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48d828a0d3de01350bff005056a9545d" alt="Herman by Jim Unger for Jan 19, 2018 " title="Herman by Jim Unger for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ac6aac0d3de01350bff005056a9545d" alt="Herman by Jim Unger for Jan 18, 2018 " title="Herman by Jim Unger for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c8576b0d3de01350bff005056a9545d" alt="Herman by Jim Unger for Jan 17, 2018 " title="Herman by Jim Unger for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e4b23b0d3de01350bff005056a9545d" alt="Herman by Jim Unger for Jan 16, 2018 " title="Herman by Jim Unger for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/herman/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4752acc0d3de01350bff005056a9545d" alt="Herman by Jim Unger for Jan 15, 2018 " title="Herman by Jim Unger for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
     </channel>
 </rss>

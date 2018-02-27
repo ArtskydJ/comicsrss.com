@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tank McNamara</title>
-        <description>Tank McNamara by Bill Hinds</description>
         <link>http://www.gocomics.com/tankmcnamara</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Tank McNamara by Bill Hinds</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Tank McNamara</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tm/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/tankmcnamara</link>
         </image>
         <copyright>Copyright Bill Hinds</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/tankmcnamara.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/tankmcnamara/2018/02/26</link>
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/784cc800f8b1013519ab005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 26, 2018 " title="Tank McNamara by Bill Hinds for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f3837a80df190135102d005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 25, 2018 " title="Tank McNamara by Bill Hinds for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/440cf2b0f31f01351799005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 24, 2018 " title="Tank McNamara by Bill Hinds for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41db5780f31f01351799005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 23, 2018 " title="Tank McNamara by Bill Hinds for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3fb6a900f31f01351799005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 22, 2018 " title="Tank McNamara by Bill Hinds for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3d8a1e80f31f01351799005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 21, 2018 " title="Tank McNamara by Bill Hinds for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3b6f17e0f31f01351799005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 20, 2018 " title="Tank McNamara by Bill Hinds for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/38fff940f31f01351799005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 19, 2018 " title="Tank McNamara by Bill Hinds for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/072ae250d99901350e1b005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 18, 2018 " title="Tank McNamara by Bill Hinds for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/628d6dc0ed8701351571005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 17, 2018 " title="Tank McNamara by Bill Hinds for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ffde380ed8701351571005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 16, 2018 " title="Tank McNamara by Bill Hinds for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d25d240ed8701351571005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 15, 2018 " title="Tank McNamara by Bill Hinds for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3684b290ed860135156f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 14, 2018 " title="Tank McNamara by Bill Hinds for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3452b170ed860135156f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 13, 2018 " title="Tank McNamara by Bill Hinds for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/32381fb0ed860135156f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 12, 2018 " title="Tank McNamara by Bill Hinds for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6df48240d42301350c1a005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 11, 2018 " title="Tank McNamara by Bill Hinds for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fe16d3d0e8080135133f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 10, 2018 " title="Tank McNamara by Bill Hinds for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc7d44c0e8080135133f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 9, 2018 " title="Tank McNamara by Bill Hinds for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/faecd100e8080135133f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 8, 2018 " title="Tank McNamara by Bill Hinds for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f9718870e8080135133f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 7, 2018 " title="Tank McNamara by Bill Hinds for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e9cfbc0e8090135133f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 6, 2018 " title="Tank McNamara by Bill Hinds for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f7f4df80e8080135133f005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 5, 2018 " title="Tank McNamara by Bill Hinds for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/94d0d5a0ceef01350a5b005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 4, 2018 " title="Tank McNamara by Bill Hinds for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4af5f580e28701351138005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 3, 2018 " title="Tank McNamara by Bill Hinds for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/498a5a00e28701351138005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 2, 2018 " title="Tank McNamara by Bill Hinds for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed510cb0e28701351138005056a9545d" alt="Tank McNamara by Bill Hinds for Feb 1, 2018 " title="Tank McNamara by Bill Hinds for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48200c30e28701351138005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 31, 2018 " title="Tank McNamara by Bill Hinds for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/46a9ad10e28701351138005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 30, 2018 " title="Tank McNamara by Bill Hinds for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/452957f0e28701351138005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 29, 2018 " title="Tank McNamara by Bill Hinds for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/89cac9f0ceef01350a5b005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 28, 2018 " title="Tank McNamara by Bill Hinds for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3aa9a1b0dd1001350f18005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 27, 2018 " title="Tank McNamara by Bill Hinds for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/39171070dd1001350f18005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 26, 2018 " title="Tank McNamara by Bill Hinds for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d913b80dd0f01350f18005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 25, 2018 " title="Tank McNamara by Bill Hinds for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8bee7d20dd0f01350f18005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 24, 2018 " title="Tank McNamara by Bill Hinds for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a4ef990dd0f01350f18005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 23, 2018 " title="Tank McNamara by Bill Hinds for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/377f7800dd1001350f18005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 22, 2018 " title="Tank McNamara by Bill Hinds for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/85634e00ceef01350a5b005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 21, 2018 " title="Tank McNamara by Bill Hinds for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65007fa0d78801350d13005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 20, 2018 " title="Tank McNamara by Bill Hinds for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6385d460d78801350d13005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 19, 2018 " title="Tank McNamara by Bill Hinds for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61f8e1b0d78801350d13005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 18, 2018 " title="Tank McNamara by Bill Hinds for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/607f91a0d78801350d13005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 17, 2018 " title="Tank McNamara by Bill Hinds for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3557c80d78601350d12005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 16, 2018 " title="Tank McNamara by Bill Hinds for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tank McNamara by Bill Hinds for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/tankmcnamara/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1db83d0d78601350d12005056a9545d" alt="Tank McNamara by Bill Hinds for Jan 15, 2018 " title="Tank McNamara by Bill Hinds for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Bill Hinds</name>
-            </author>
         </item>
     </channel>
 </rss>

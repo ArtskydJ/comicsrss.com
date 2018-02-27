@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Scenes from a Multiverse</title>
-        <description>Scenes from a Multiverse by Jon Rosenberg</description>
         <link>http://www.gocomics.com/scenes-from-a-multiverse</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Scenes from a Multiverse by Jon Rosenberg</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Scenes from a Multiverse</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/sfm/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/scenes-from-a-multiverse</link>
         </image>
         <copyright>Copyright Jon Rosenberg</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/scenes-from-a-multiverse.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Scenes from a Multiverse by Jon Rosenberg for Jan 12, 2018 ]]></title>
             <link>http://www.gocomics.com/scenes-from-a-multiverse/2018/01/12</link>
             <guid>http://www.gocomics.com/scenes-from-a-multiverse/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6dbf21c0cdcc013509df005056a9545d" alt="Scenes from a Multiverse by Jon Rosenberg for Jan 12, 2018 " title="Scenes from a Multiverse by Jon Rosenberg for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Jon Rosenberg</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Scenes from a Multiverse by Jon Rosenberg for Jan 11, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/scenes-from-a-multiverse/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/71703620cdcc013509df005056a9545d" alt="Scenes from a Multiverse by Jon Rosenberg for Jan 11, 2018 " title="Scenes from a Multiverse by Jon Rosenberg for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Jon Rosenberg</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Scenes from a Multiverse by Jon Rosenberg for Jan 10, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/scenes-from-a-multiverse/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64a58c90cdcc013509df005056a9545d" alt="Scenes from a Multiverse by Jon Rosenberg for Jan 10, 2018 " title="Scenes from a Multiverse by Jon Rosenberg for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Jon Rosenberg</name>
-            </author>
         </item>
     </channel>
 </rss>

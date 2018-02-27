@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Steve Breen</title>
-        <description>Steve Breen by Steve Breen</description>
         <link>http://www.gocomics.com/stevebreen</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Steve Breen by Steve Breen</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Steve Breen</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crsbr/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/stevebreen</link>
         </image>
         <copyright>Copyright Steve Breen</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/stevebreen.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/stevebreen/2018/02/25</link>
             <guid>http://www.gocomics.com/stevebreen/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ea3b660fc2f01351b2d005056a9545d" alt="Steve Breen by Steve Breen for Feb 25, 2018 " title="Steve Breen by Steve Breen for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e8bbc20f9b201351a3b005056a9545d" alt="Steve Breen by Steve Breen for Feb 22, 2018 " title="Steve Breen by Steve Breen for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/42bcc330f8e9013519c8005056a9545d" alt="Steve Breen by Steve Breen for Feb 21, 2018 " title="Steve Breen by Steve Breen for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 18, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/234bad00f6af01351924005056a9545d" alt="Steve Breen by Steve Breen for Feb 18, 2018 " title="Steve Breen by Steve Breen for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/85e6a370f4fb0135189d005056a9545d" alt="Steve Breen by Steve Breen for Feb 16, 2018 " title="Steve Breen by Steve Breen for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4d2a5190f43201351833005056a9545d" alt="Steve Breen by Steve Breen for Feb 15, 2018 " title="Steve Breen by Steve Breen for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14660a30f369013517c9005056a9545d" alt="Steve Breen by Steve Breen for Feb 14, 2018 " title="Steve Breen by Steve Breen for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 13, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d638fc80f29f01351764005056a9545d" alt="Steve Breen by Steve Breen for Feb 13, 2018 " title="Steve Breen by Steve Breen for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 11, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef4969d0f12e013516ec005056a9545d" alt="Steve Breen by Steve Breen for Feb 11, 2018 " title="Steve Breen by Steve Breen for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 9, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ab65aa0f001013516a6005056a9545d" alt="Steve Breen by Steve Breen for Feb 9, 2018 " title="Steve Breen by Steve Breen for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 8, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2947a220eeb201351618005056a9545d" alt="Steve Breen by Steve Breen for Feb 8, 2018 " title="Steve Breen by Steve Breen for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 7, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f49af750ede8013515ad005056a9545d" alt="Steve Breen by Steve Breen for Feb 7, 2018 " title="Steve Breen by Steve Breen for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 6, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/baf945d0ed1f01351552005056a9545d" alt="Steve Breen by Steve Breen for Feb 6, 2018 " title="Steve Breen by Steve Breen for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 5, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20698070ecfe01351543005056a9545d" alt="Steve Breen by Steve Breen for Feb 5, 2018 " title="Steve Breen by Steve Breen for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 4, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d01244e0ebae013514df005056a9545d" alt="Steve Breen by Steve Breen for Feb 4, 2018 " title="Steve Breen by Steve Breen for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 2, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/368cf220e9fb01351452005056a9545d" alt="Steve Breen by Steve Breen for Feb 2, 2018 " title="Steve Breen by Steve Breen for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Feb 1, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f98ce4a0e931013513ec005056a9545d" alt="Steve Breen by Steve Breen for Feb 1, 2018 " title="Steve Breen by Steve Breen for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 31, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/448d3280e88a01351391005056a9545d" alt="Steve Breen by Steve Breen for Jan 31, 2018 " title="Steve Breen by Steve Breen for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 30, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8af9e160e79f01351321005056a9545d" alt="Steve Breen by Steve Breen for Jan 30, 2018 " title="Steve Breen by Steve Breen for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 28, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a45c5fa0e62e013512ab005056a9545d" alt="Steve Breen by Steve Breen for Jan 28, 2018 " title="Steve Breen by Steve Breen for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 26, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/85c8a290e49c0135123e005056a9545d" alt="Steve Breen by Steve Breen for Jan 26, 2018 " title="Steve Breen by Steve Breen for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 24, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b5146be0e36e013511ab005056a9545d" alt="Steve Breen by Steve Breen for Jan 24, 2018 " title="Steve Breen by Steve Breen for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 23, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c811f90e21f01351116005056a9545d" alt="Steve Breen by Steve Breen for Jan 23, 2018 " title="Steve Breen by Steve Breen for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 20, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d83920c0defa0135101f005056a9545d" alt="Steve Breen by Steve Breen for Jan 20, 2018 " title="Steve Breen by Steve Breen for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 18, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a72c59a0de3101350fc5005056a9545d" alt="Steve Breen by Steve Breen for Jan 18, 2018 " title="Steve Breen by Steve Breen for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 17, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ed81570dd6801350f5e005056a9545d" alt="Steve Breen by Steve Breen for Jan 17, 2018 " title="Steve Breen by Steve Breen for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 16, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/549b33b0db2e01350e9b005056a9545d" alt="Steve Breen by Steve Breen for Jan 16, 2018 " title="Steve Breen by Steve Breen for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jan 15, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/580e7900db2e01350e9b005056a9545d" alt="Steve Breen by Steve Breen for Jan 15, 2018 " title="Steve Breen by Steve Breen for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Steve Breen</name>
-            </author>
         </item>
     </channel>
 </rss>

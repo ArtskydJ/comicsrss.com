@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>GoComics Fan Art</title>
-        <description>GoComics Fan Art by The Fans!</description>
         <link>http://www.gocomics.com/fan-art</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>GoComics Fan Art by The Fans!</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <copyright>Copyright The Fans!</copyright>
         <generator>Feed for Node.js</generator>
+        <copyright>Copyright The Fans!</copyright>
+        <atom:link href="http://www.comicsrss.com/rss/fan-art.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GoComics Fan Art by The Fans! for Oct 31, 2015 ]]></title>
             <link>http://www.gocomics.com/fan-art/2015/10/31</link>
             <guid>http://www.gocomics.com/fan-art/2015/10/31</guid>
             <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d8ddb6505f0501331411005056a9545d" alt="GoComics Fan Art by The Fans! for Oct 31, 2015 " title="GoComics Fan Art by The Fans! for Oct 31, 2015 ">]]></description>
-            <author>
-                <name>The Fans!</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[GoComics Fan Art by The Fans! for Oct 30, 2015 ]]></title>
@@ -24,9 +22,6 @@
             <guid>http://www.gocomics.com/fan-art/2015/10/30</guid>
             <pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d970ddb05f0501331411005056a9545d" alt="GoComics Fan Art by The Fans! for Oct 30, 2015 " title="GoComics Fan Art by The Fans! for Oct 30, 2015 ">]]></description>
-            <author>
-                <name>The Fans!</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[GoComics Fan Art by The Fans! for Oct 29, 2015 ]]></title>
@@ -34,9 +29,6 @@
             <guid>http://www.gocomics.com/fan-art/2015/10/29</guid>
             <pubDate>Thu, 29 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da0444105f0501331411005056a9545d" alt="GoComics Fan Art by The Fans! for Oct 29, 2015 " title="GoComics Fan Art by The Fans! for Oct 29, 2015 ">]]></description>
-            <author>
-                <name>The Fans!</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[GoComics Fan Art by The Fans! for Oct 28, 2015 ]]></title>
@@ -44,9 +36,6 @@
             <guid>http://www.gocomics.com/fan-art/2015/10/28</guid>
             <pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d84167c05f0501331411005056a9545d" alt="GoComics Fan Art by The Fans! for Oct 28, 2015 " title="GoComics Fan Art by The Fans! for Oct 28, 2015 ">]]></description>
-            <author>
-                <name>The Fans!</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[GoComics Fan Art by The Fans! for Oct 27, 2015 ]]></title>
@@ -54,9 +43,6 @@
             <guid>http://www.gocomics.com/fan-art/2015/10/27</guid>
             <pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3434f5505e32013313aa005056a9545d" alt="GoComics Fan Art by The Fans! for Oct 27, 2015 " title="GoComics Fan Art by The Fans! for Oct 27, 2015 ">]]></description>
-            <author>
-                <name>The Fans!</name>
-            </author>
         </item>
     </channel>
 </rss>

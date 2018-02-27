@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tom Toles</title>
-        <description>Tom Toles by Tom Toles</description>
         <link>http://www.gocomics.com/tomtoles</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Tom Toles by Tom Toles</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Tom Toles</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tt/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/tomtoles</link>
         </image>
         <copyright>Copyright Tom Toles</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/tomtoles.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/tomtoles/2018/02/26</link>
             <guid>http://www.gocomics.com/tomtoles/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd1b5630faff01351ade005056a9545d" alt="Tom Toles by Tom Toles for Feb 26, 2018 " title="Tom Toles by Tom Toles for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/faf70e80faff01351ade005056a9545d" alt="Tom Toles by Tom Toles for Feb 25, 2018 " title="Tom Toles by Tom Toles for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/548a97d0fa5801351a95005056a9545d" alt="Tom Toles by Tom Toles for Feb 23, 2018 " title="Tom Toles by Tom Toles for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c2baf400f96f01351a06005056a9545d" alt="Tom Toles by Tom Toles for Feb 22, 2018 " title="Tom Toles by Tom Toles for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 21, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/785ef6e0f8a4013519a0005056a9545d" alt="Tom Toles by Tom Toles for Feb 21, 2018 " title="Tom Toles by Tom Toles for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 20, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4478e00f8820135198d005056a9545d" alt="Tom Toles by Tom Toles for Feb 20, 2018 " title="Tom Toles by Tom Toles for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 19, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01c2c4f0f584013518d3005056a9545d" alt="Tom Toles by Tom Toles for Feb 19, 2018 " title="Tom Toles by Tom Toles for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 18, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/001abbf0f584013518d3005056a9545d" alt="Tom Toles by Tom Toles for Feb 18, 2018 " title="Tom Toles by Tom Toles for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 16, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/799e6a70f4b201351867005056a9545d" alt="Tom Toles by Tom Toles for Feb 16, 2018 " title="Tom Toles by Tom Toles for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 15, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb6a5ff0f32e013517a9005056a9545d" alt="Tom Toles by Tom Toles for Feb 15, 2018 " title="Tom Toles by Tom Toles for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 14, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9ec3b30f32e013517a9005056a9545d" alt="Tom Toles by Tom Toles for Feb 14, 2018 " title="Tom Toles by Tom Toles for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 13, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56784de0f25f01351741005056a9545d" alt="Tom Toles by Tom Toles for Feb 13, 2018 " title="Tom Toles by Tom Toles for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7ad4650efff013516a4005056a9545d" alt="Tom Toles by Tom Toles for Feb 12, 2018 " title="Tom Toles by Tom Toles for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 11, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6255f00efff013516a4005056a9545d" alt="Tom Toles by Tom Toles for Feb 11, 2018 " title="Tom Toles by Tom Toles for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/94f042f0ef3801351650005056a9545d" alt="Tom Toles by Tom Toles for Feb 9, 2018 " title="Tom Toles by Tom Toles for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/50fe60d0ee6d013515e8005056a9545d" alt="Tom Toles by Tom Toles for Feb 8, 2018 " title="Tom Toles by Tom Toles for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3f14a650eda601351583005056a9545d" alt="Tom Toles by Tom Toles for Feb 7, 2018 " title="Tom Toles by Tom Toles for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14e87f20ecdd01351532005056a9545d" alt="Tom Toles by Tom Toles for Feb 6, 2018 " title="Tom Toles by Tom Toles for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e186e180ea8701351486005056a9545d" alt="Tom Toles by Tom Toles for Feb 5, 2018 " title="Tom Toles by Tom Toles for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 4, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df497ca0ea8701351486005056a9545d" alt="Tom Toles by Tom Toles for Feb 4, 2018 " title="Tom Toles by Tom Toles for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 2, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53457030e9b601351425005056a9545d" alt="Tom Toles by Tom Toles for Feb 2, 2018 " title="Tom Toles by Tom Toles for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Feb 1, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f7c341b0e8e8013513b5005056a9545d" alt="Tom Toles by Tom Toles for Feb 1, 2018 " title="Tom Toles by Tom Toles for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 31, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e5a21bb0e8210135134d005056a9545d" alt="Tom Toles by Tom Toles for Jan 31, 2018 " title="Tom Toles by Tom Toles for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 30, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a31a2f00e756013512f9005056a9545d" alt="Tom Toles by Tom Toles for Jan 30, 2018 " title="Tom Toles by Tom Toles for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 29, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1f47840e50501351266005056a9545d" alt="Tom Toles by Tom Toles for Jan 29, 2018 " title="Tom Toles by Tom Toles for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 28, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a05920d0e50501351266005056a9545d" alt="Tom Toles by Tom Toles for Jan 28, 2018 " title="Tom Toles by Tom Toles for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 26, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f9218210e43101351201005056a9545d" alt="Tom Toles by Tom Toles for Jan 26, 2018 " title="Tom Toles by Tom Toles for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 25, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9de2c350e364013511a6005056a9545d" alt="Tom Toles by Tom Toles for Jan 25, 2018 " title="Tom Toles by Tom Toles for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 24, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d4d125b0e2a30135114b005056a9545d" alt="Tom Toles by Tom Toles for Jan 24, 2018 " title="Tom Toles by Tom Toles for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 23, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa612970e1da013510f2005056a9545d" alt="Tom Toles by Tom Toles for Jan 23, 2018 " title="Tom Toles by Tom Toles for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 22, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2b951470df7f01351052005056a9545d" alt="Tom Toles by Tom Toles for Jan 22, 2018 " title="Tom Toles by Tom Toles for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 21, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ced3d10df7f01351052005056a9545d" alt="Tom Toles by Tom Toles for Jan 21, 2018 " title="Tom Toles by Tom Toles for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 19, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01259890deb601350ff5005056a9545d" alt="Tom Toles by Tom Toles for Jan 19, 2018 " title="Tom Toles by Tom Toles for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 18, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20016ac0ddf301350f9d005056a9545d" alt="Tom Toles by Tom Toles for Jan 18, 2018 " title="Tom Toles by Tom Toles for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 17, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ac19d7f0dd2301350f27005056a9545d" alt="Tom Toles by Tom Toles for Jan 17, 2018 " title="Tom Toles by Tom Toles for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 16, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ad91c9e0dd2301350f27005056a9545d" alt="Tom Toles by Tom Toles for Jan 16, 2018 " title="Tom Toles by Tom Toles for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jan 15, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af117fa0dd2301350f27005056a9545d" alt="Tom Toles by Tom Toles for Jan 15, 2018 " title="Tom Toles by Tom Toles for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Tom Toles</name>
-            </author>
         </item>
     </channel>
 </rss>

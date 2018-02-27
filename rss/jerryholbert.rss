@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jerry Holbert</title>
-        <description>Jerry Holbert by Jerry Holbert</description>
         <link>http://www.gocomics.com/jerryholbert</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jerry Holbert by Jerry Holbert</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jerry Holbert</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/holb/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/jerryholbert</link>
         </image>
         <copyright>Copyright Jerry Holbert</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jerryholbert.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/jerryholbert/2018/02/26</link>
             <guid>http://www.gocomics.com/jerryholbert/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b922840fb0801351ae9005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 26, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/30e02a40fa3f01351a7a005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 23, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee0f3490f97301351a09005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 22, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c444df90f8aa013519a7005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 21, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/de1bc4f0f4ba0135186f005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 16, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07c11e40f49301351857005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 15, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc091780f332013517ad005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 14, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 13, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/63468b00f27601351753005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 13, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 9, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4121ef60ef4701351658005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 9, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 8, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6eaa8d80ee6f013515e9005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 8, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 7, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ad0d150edac01351589005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 7, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Feb 1, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8c386c70e8f5013513c1005056a9545d" alt="Jerry Holbert by Jerry Holbert for Feb 1, 2018 " title="Jerry Holbert by Jerry Holbert for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jan 31, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7a0369d0e82e0135135d005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jan 31, 2018 " title="Jerry Holbert by Jerry Holbert for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jan 22, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d8df8d0df870135105b005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jan 22, 2018 " title="Jerry Holbert by Jerry Holbert for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jan 18, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/090f0660ddf101350f9a005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jan 18, 2018 " title="Jerry Holbert by Jerry Holbert for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jan 17, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40644140dd3001350f3a005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jan 17, 2018 " title="Jerry Holbert by Jerry Holbert for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jan 16, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0eb86c60dd0001350f0d005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jan 16, 2018 " title="Jerry Holbert by Jerry Holbert for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jan 15, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e748e80da0901350e58005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jan 15, 2018 " title="Jerry Holbert by Jerry Holbert for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jerry Holbert</name>
-            </author>
         </item>
     </channel>
 </rss>

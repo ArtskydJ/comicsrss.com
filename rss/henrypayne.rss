@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Henry Payne</title>
-        <description>Henry Payne by Henry Payne</description>
         <link>http://www.gocomics.com/henrypayne</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Henry Payne by Henry Payne</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Henry Payne</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/payn/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/henrypayne</link>
         </image>
         <copyright>Copyright Henry Payne</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/henrypayne.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 24, 2018 ]]></title>
             <link>http://www.gocomics.com/henrypayne/2018/02/24</link>
             <guid>http://www.gocomics.com/henrypayne/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bea9bb80fb1001351aef005056a9545d" alt="Henry Payne by Henry Payne for Feb 24, 2018 " title="Henry Payne by Henry Payne for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0062240fb1001351aef005056a9545d" alt="Henry Payne by Henry Payne for Feb 23, 2018 " title="Henry Payne by Henry Payne for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0543c540f94a013519e8005056a9545d" alt="Henry Payne by Henry Payne for Feb 22, 2018 " title="Henry Payne by Henry Payne for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57a1b590f88b01351991005056a9545d" alt="Henry Payne by Henry Payne for Feb 21, 2018 " title="Henry Payne by Henry Payne for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/562d4d90f88b01351991005056a9545d" alt="Henry Payne by Henry Payne for Feb 20, 2018 " title="Henry Payne by Henry Payne for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 16, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/effb5400f4bc01351872005056a9545d" alt="Henry Payne by Henry Payne for Feb 16, 2018 " title="Henry Payne by Henry Payne for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c505b390f3c7013517e8005056a9545d" alt="Henry Payne by Henry Payne for Feb 15, 2018 " title="Henry Payne by Henry Payne for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 14, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6806ee0f3c7013517e8005056a9545d" alt="Henry Payne by Henry Payne for Feb 14, 2018 " title="Henry Payne by Henry Payne for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 13, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9b22e60f3c5013517e6005056a9545d" alt="Henry Payne by Henry Payne for Feb 13, 2018 " title="Henry Payne by Henry Payne for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 9, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82fefe30f012013516b5005056a9545d" alt="Henry Payne by Henry Payne for Feb 9, 2018 " title="Henry Payne by Henry Payne for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 8, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3b22850f001013516a7005056a9545d" alt="Henry Payne by Henry Payne for Feb 8, 2018 " title="Henry Payne by Henry Payne for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 6, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b95d2ad0ed840135156e005056a9545d" alt="Henry Payne by Henry Payne for Feb 6, 2018 " title="Henry Payne by Henry Payne for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 5, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/78000010ece50135153a005056a9545d" alt="Henry Payne by Henry Payne for Feb 5, 2018 " title="Henry Payne by Henry Payne for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 3, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa2ef830ea890135148d005056a9545d" alt="Henry Payne by Henry Payne for Feb 3, 2018 " title="Henry Payne by Henry Payne for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 2, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb7861f0ea890135148d005056a9545d" alt="Henry Payne by Henry Payne for Feb 2, 2018 " title="Henry Payne by Henry Payne for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Feb 1, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f08543d0e8fd013513cc005056a9545d" alt="Henry Payne by Henry Payne for Feb 1, 2018 " title="Henry Payne by Henry Payne for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 31, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eefb1a70e8fd013513cc005056a9545d" alt="Henry Payne by Henry Payne for Jan 31, 2018 " title="Henry Payne by Henry Payne for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 26, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b69c6e70e4db0135124c005056a9545d" alt="Henry Payne by Henry Payne for Jan 26, 2018 " title="Henry Payne by Henry Payne for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 25, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d993fc0e34b0135119a005056a9545d" alt="Henry Payne by Henry Payne for Jan 25, 2018 " title="Henry Payne by Henry Payne for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 24, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7bc53bd0e34b0135119a005056a9545d" alt="Henry Payne by Henry Payne for Jan 24, 2018 " title="Henry Payne by Henry Payne for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 23, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/269ed110e1b9013510e0005056a9545d" alt="Henry Payne by Henry Payne for Jan 23, 2018 " title="Henry Payne by Henry Payne for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 22, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/280bd9d0e1b9013510e0005056a9545d" alt="Henry Payne by Henry Payne for Jan 22, 2018 " title="Henry Payne by Henry Payne for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 19, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ae590550dec401350ffd005056a9545d" alt="Henry Payne by Henry Payne for Jan 19, 2018 " title="Henry Payne by Henry Payne for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 18, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/afb42490dec401350ffd005056a9545d" alt="Henry Payne by Henry Payne for Jan 18, 2018 " title="Henry Payne by Henry Payne for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 12, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6572cbe0da0701350e55005056a9545d" alt="Henry Payne by Henry Payne for Jan 12, 2018 " title="Henry Payne by Henry Payne for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 11, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0b1460e0d93a01350df0005056a9545d" alt="Henry Payne by Henry Payne for Jan 11, 2018 " title="Henry Payne by Henry Payne for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jan 10, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41b1cc90d84d01350d78005056a9545d" alt="Henry Payne by Henry Payne for Jan 10, 2018 " title="Henry Payne by Henry Payne for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Henry Payne</name>
-            </author>
         </item>
     </channel>
 </rss>

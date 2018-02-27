@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sticky Comics</title>
-        <description>Sticky Comics by Christiann MacAuley</description>
         <link>http://www.gocomics.com/sticky-comics</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Sticky Comics by Christiann MacAuley</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Sticky Comics</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/sticky/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/sticky-comics</link>
         </image>
         <copyright>Copyright Christiann MacAuley</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/sticky-comics.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sticky Comics by Christiann MacAuley for Jul 31, 2017 ]]></title>
             <link>http://www.gocomics.com/sticky-comics/2017/07/31</link>
             <guid>http://www.gocomics.com/sticky-comics/2017/07/31</guid>
             <pubDate>Mon, 31 Jul 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ff6ca2044f20135d8b8005056a9545d" alt="Sticky Comics by Christiann MacAuley for Jul 31, 2017 " title="Sticky Comics by Christiann MacAuley for Jul 31, 2017 ">]]></description>
-            <author>
-                <name>Christiann MacAuley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sticky Comics by Christiann MacAuley for Jul 28, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/sticky-comics/2017/07/28</guid>
             <pubDate>Fri, 28 Jul 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df9d17f0379a0135d422005056a9545d" alt="Sticky Comics by Christiann MacAuley for Jul 28, 2017 " title="Sticky Comics by Christiann MacAuley for Jul 28, 2017 ">]]></description>
-            <author>
-                <name>Christiann MacAuley</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sticky Comics by Christiann MacAuley for Jul 25, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/sticky-comics/2017/07/25</guid>
             <pubDate>Tue, 25 Jul 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e77cb3e0379a0135d422005056a9545d" alt="Sticky Comics by Christiann MacAuley for Jul 25, 2017 " title="Sticky Comics by Christiann MacAuley for Jul 25, 2017 ">]]></description>
-            <author>
-                <name>Christiann MacAuley</name>
-            </author>
         </item>
     </channel>
 </rss>

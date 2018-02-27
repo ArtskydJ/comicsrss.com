@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Endtown</title>
-        <description>Endtown by Aaron Neathery</description>
         <link>http://www.gocomics.com/endtown</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Endtown by Aaron Neathery</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Endtown</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/end/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/endtown</link>
         </image>
         <copyright>Copyright Aaron Neathery</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/endtown.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/endtown/2018/02/23</link>
             <guid>http://www.gocomics.com/endtown/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67b44b70fad301351ab6005056a9545d" alt="Endtown by Aaron Neathery for Feb 23, 2018 " title="Endtown by Aaron Neathery for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/438c3bd0f945013519e5005056a9545d" alt="Endtown by Aaron Neathery for Feb 21, 2018 " title="Endtown by Aaron Neathery for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/be538040f7ae01351951005056a9545d" alt="Endtown by Aaron Neathery for Feb 19, 2018 " title="Endtown by Aaron Neathery for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 16, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7017d3c0f557013518b6005056a9545d" alt="Endtown by Aaron Neathery for Feb 16, 2018 " title="Endtown by Aaron Neathery for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 14, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ba397b80f3e801351801005056a9545d" alt="Endtown by Aaron Neathery for Feb 14, 2018 " title="Endtown by Aaron Neathery for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 12, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d27edd10f2490135172b005056a9545d" alt="Endtown by Aaron Neathery for Feb 12, 2018 " title="Endtown by Aaron Neathery for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 9, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d944d420efe301351692005056a9545d" alt="Endtown by Aaron Neathery for Feb 9, 2018 " title="Endtown by Aaron Neathery for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9cb2d8d0ee53013515da005056a9545d" alt="Endtown by Aaron Neathery for Feb 7, 2018 " title="Endtown by Aaron Neathery for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 5, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cebb9b70ecb60135151a005056a9545d" alt="Endtown by Aaron Neathery for Feb 5, 2018 " title="Endtown by Aaron Neathery for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Feb 2, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/endtown/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/34a95360ea2d01351461005056a9545d" alt="Endtown by Aaron Neathery for Feb 2, 2018 " title="Endtown by Aaron Neathery for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 31, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1cb60ab0e88a01351390005056a9545d" alt="Endtown by Aaron Neathery for Jan 31, 2018 " title="Endtown by Aaron Neathery for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 29, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e21612f0e725013512e1005056a9545d" alt="Endtown by Aaron Neathery for Jan 29, 2018 " title="Endtown by Aaron Neathery for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 26, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5cfd6ba0e41a013511f6005056a9545d" alt="Endtown by Aaron Neathery for Jan 26, 2018 " title="Endtown by Aaron Neathery for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 24, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/33087560e3510135119c005056a9545d" alt="Endtown by Aaron Neathery for Jan 24, 2018 " title="Endtown by Aaron Neathery for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 22, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/949438b0e1b8013510df005056a9545d" alt="Endtown by Aaron Neathery for Jan 22, 2018 " title="Endtown by Aaron Neathery for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 19, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b5e43f0df5201351035005056a9545d" alt="Endtown by Aaron Neathery for Jan 19, 2018 " title="Endtown by Aaron Neathery for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 17, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/46724db0ddc001350f78005056a9545d" alt="Endtown by Aaron Neathery for Jan 17, 2018 " title="Endtown by Aaron Neathery for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 15, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/76def080dc2301350ed3005056a9545d" alt="Endtown by Aaron Neathery for Jan 15, 2018 " title="Endtown by Aaron Neathery for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 12, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/726bf130d9d201350e28005056a9545d" alt="Endtown by Aaron Neathery for Jan 12, 2018 " title="Endtown by Aaron Neathery for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jan 10, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/endtown/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/722e2380d83101350d66005056a9545d" alt="Endtown by Aaron Neathery for Jan 10, 2018 " title="Endtown by Aaron Neathery for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Aaron Neathery</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Shortcuts</title>
-        <description>Shortcuts by Jeff Harris</description>
         <link>http://www.gocomics.com/shortcuts</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Shortcuts by Jeff Harris</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Shortcuts</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/shc/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/shortcuts</link>
         </image>
         <copyright>Copyright Jeff Harris</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/shortcuts.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/shortcuts/2018/02/26</link>
             <guid>http://www.gocomics.com/shortcuts/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6aca9e30e56a01351293005056a9545d" alt="Shortcuts by Jeff Harris for Feb 26, 2018 " title="Shortcuts by Jeff Harris for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7565a3c0e56a01351293005056a9545d" alt="Shortcuts by Jeff Harris for Feb 25, 2018 " title="Shortcuts by Jeff Harris for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/26a16af0dfa701351071005056a9545d" alt="Shortcuts by Jeff Harris for Feb 19, 2018 " title="Shortcuts by Jeff Harris for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 18, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31f74d70dfa701351071005056a9545d" alt="Shortcuts by Jeff Harris for Feb 18, 2018 " title="Shortcuts by Jeff Harris for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 12, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01a77420da6a01350e7b005056a9545d" alt="Shortcuts by Jeff Harris for Feb 12, 2018 " title="Shortcuts by Jeff Harris for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 11, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c2c02d0da6a01350e7b005056a9545d" alt="Shortcuts by Jeff Harris for Feb 11, 2018 " title="Shortcuts by Jeff Harris for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1efa660d4ea01350c6d005056a9545d" alt="Shortcuts by Jeff Harris for Feb 5, 2018 " title="Shortcuts by Jeff Harris for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Feb 4, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ad13f6a0d4ea01350c6d005056a9545d" alt="Shortcuts by Jeff Harris for Feb 4, 2018 " title="Shortcuts by Jeff Harris for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 29, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82352ba0cf6a01350a9f005056a9545d" alt="Shortcuts by Jeff Harris for Jan 29, 2018 " title="Shortcuts by Jeff Harris for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 28, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90254db0cf6a01350a9f005056a9545d" alt="Shortcuts by Jeff Harris for Jan 28, 2018 " title="Shortcuts by Jeff Harris for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 22, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8b862080cef901350a63005056a9545d" alt="Shortcuts by Jeff Harris for Jan 22, 2018 " title="Shortcuts by Jeff Harris for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 21, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d673b1b0cef901350a63005056a9545d" alt="Shortcuts by Jeff Harris for Jan 21, 2018 " title="Shortcuts by Jeff Harris for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 15, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b9f91560cef901350a63005056a9545d" alt="Shortcuts by Jeff Harris for Jan 15, 2018 " title="Shortcuts by Jeff Harris for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 14, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e3072140cef901350a63005056a9545d" alt="Shortcuts by Jeff Harris for Jan 14, 2018 " title="Shortcuts by Jeff Harris for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jan 8, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aaf41d90cef901350a63005056a9545d" alt="Shortcuts by Jeff Harris for Jan 8, 2018 " title="Shortcuts by Jeff Harris for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Jeff Harris</name>
-            </author>
         </item>
     </channel>
 </rss>

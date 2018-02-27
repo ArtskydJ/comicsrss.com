@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lisa Benson</title>
-        <description>Lisa Benson by Lisa Benson</description>
         <link>http://www.gocomics.com/lisabenson</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Lisa Benson by Lisa Benson</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Lisa Benson</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wplbe/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/lisabenson</link>
         </image>
         <copyright>Copyright Lisa Benson</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/lisabenson.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/lisabenson/2018/02/25</link>
             <guid>http://www.gocomics.com/lisabenson/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/93f1d9f0fb2a01351afd005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 25, 2018 " title="Lisa Benson by Lisa Benson for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6b11f260fa6101351a9b005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 23, 2018 " title="Lisa Benson by Lisa Benson for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 20, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ebbc6200f80501351969005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 20, 2018 " title="Lisa Benson by Lisa Benson for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 16, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/baf78b00f4bf01351876005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 16, 2018 " title="Lisa Benson by Lisa Benson for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 15, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/176a6d10f4180135182a005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 15, 2018 " title="Lisa Benson by Lisa Benson for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 13, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c26cbc70f2850135175c005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 13, 2018 " title="Lisa Benson by Lisa Benson for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 10, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4272e1d0f02a013516c3005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 10, 2018 " title="Lisa Benson by Lisa Benson for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef0523e0ee970135160d005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 8, 2018 " title="Lisa Benson by Lisa Benson for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3de29690edad0135158b005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 7, 2018 " title="Lisa Benson by Lisa Benson for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 3, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1aab6990eaaa013514a9005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 3, 2018 " title="Lisa Benson by Lisa Benson for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Feb 1, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5181d40e917013513e2005056a9545d" alt="Lisa Benson by Lisa Benson for Feb 1, 2018 " title="Lisa Benson by Lisa Benson for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 30, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/717c1b40e78501351317005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 30, 2018 " title="Lisa Benson by Lisa Benson for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 27, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7817c730e54b01351287005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 27, 2018 " title="Lisa Benson by Lisa Benson for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 24, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8a23f50e2ef0135117d005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 24, 2018 " title="Lisa Benson by Lisa Benson for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 23, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48aa1650e20501351110005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 23, 2018 " title="Lisa Benson by Lisa Benson for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 20, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c924f930dfa901351073005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 20, 2018 " title="Lisa Benson by Lisa Benson for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 18, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7385d340de1701350fb7005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 18, 2018 " title="Lisa Benson by Lisa Benson for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 16, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9860bce0dc6301350ee1005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 16, 2018 " title="Lisa Benson by Lisa Benson for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 13, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/195e09c0da0801350e56005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 13, 2018 " title="Lisa Benson by Lisa Benson for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d0486ab0d9d501350e2c005056a9545d" alt="Lisa Benson by Lisa Benson for Jan 12, 2018 " title="Lisa Benson by Lisa Benson for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Lisa Benson</name>
-            </author>
         </item>
     </channel>
 </rss>

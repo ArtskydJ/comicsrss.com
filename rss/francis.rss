@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Francis</title>
-        <description>Francis by Patrick J. Marrin</description>
         <link>http://www.gocomics.com/francis</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Francis by Patrick J. Marrin</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Francis</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/fran/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/francis</link>
         </image>
         <copyright>Copyright Patrick J. Marrin</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/francis.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/francis/2018/02/26</link>
             <guid>http://www.gocomics.com/francis/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bbea4b70e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 26, 2018 " title="Francis by Patrick J. Marrin for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b9507cd0e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 22, 2018 " title="Francis by Patrick J. Marrin for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b667a490e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 19, 2018 " title="Francis by Patrick J. Marrin for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 15, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3b86a20e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 15, 2018 " title="Francis by Patrick J. Marrin for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 12, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b20c2980e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 12, 2018 " title="Francis by Patrick J. Marrin for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 8, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ba8e1610e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 8, 2018 " title="Francis by Patrick J. Marrin for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4cfab40e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 5, 2018 " title="Francis by Patrick J. Marrin for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Feb 1, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/francis/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b7b175b0e74d013512f2005056a9545d" alt="Francis by Patrick J. Marrin for Feb 1, 2018 " title="Francis by Patrick J. Marrin for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 29, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/58148500cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 29, 2018 " title="Francis by Patrick J. Marrin for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 25, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6189aad0cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 25, 2018 " title="Francis by Patrick J. Marrin for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 22, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67d28ad0cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 22, 2018 " title="Francis by Patrick J. Marrin for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 18, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ec027d0cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 18, 2018 " title="Francis by Patrick J. Marrin for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 15, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/59eca490cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 15, 2018 " title="Francis by Patrick J. Marrin for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 11, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/635116f0cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 11, 2018 " title="Francis by Patrick J. Marrin for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jan 8, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/francis/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c300890cd61013509a0005056a9545d" alt="Francis by Patrick J. Marrin for Jan 8, 2018 " title="Francis by Patrick J. Marrin for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Patrick J. Marrin</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Glasbergen Cartoons</title>
-        <description>Glasbergen Cartoons by Randy Glasbergen</description>
         <link>http://www.gocomics.com/glasbergen-cartoons</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Glasbergen Cartoons by Randy Glasbergen</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Glasbergen Cartoons</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/rgc/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/glasbergen-cartoons</link>
         </image>
         <copyright>Copyright Randy Glasbergen</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/glasbergen-cartoons.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/glasbergen-cartoons/2018/02/26</link>
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ae86c1b0fcd001351b48005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 26, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e14ba6f0fba201351b16005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 24, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7bb1e090fabe01351ab1005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 23, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9539c0f0f9a301351a33005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 22, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 21, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1c3e3eb0f941013519e3005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 21, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 20, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/823cc1c0f8840135198f005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 20, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 19, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66c066f0f7a60135194e005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 19, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 18, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e8df970f6db01351926005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 18, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 16, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0fb357a0f41b0135182c005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 16, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 15, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e2dcae0f41b0135182c005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 15, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 14, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2b386e0f4180135182b005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 14, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 13, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/35bc4c80f2eb0135177e005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 13, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c981f20f22201351718005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 12, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 11, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ec6d6a00f16f013516f2005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 11, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 10, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f3170660f0aa013516d8005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 10, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 9, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c593130efc20135168a005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 9, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 8, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f1aa52a0eeb101351617005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 8, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 7, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c08e740ee4d013515d3005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 7, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 6, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13a62680ed6b01351564005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 6, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 5, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/430bba00ecaa01351515005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 5, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 4, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cec889c0ebda013514e5005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 4, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 3, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a523eda0eb11013514c2005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 3, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 2, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7a4bfbf0ea4801351467005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 2, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Feb 1, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/066ff920e979013513ff005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Feb 1, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 31, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4126260e8b10135139a005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 31, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 30, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e33ed820e7ea01351337005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 30, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 29, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bb5191a0e721013512e0005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 29, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 28, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fcecb740e677013512b2005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 28, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 27, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d1cba2b0e5ae01351297005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 27, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 26, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3a1c86e0e4c601351246005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 26, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 25, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c493b6a0e3f6013511ee005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 25, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 24, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e46f06a0e33301351190005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 24, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 23, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d249d120e26c0135112f005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 23, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 22, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c279a120e1a5013510da005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 22, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 20, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51953e60e01101351089005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 20, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 19, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f68557a0df4301351033005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 19, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 18, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e4ed9f90de7c01350fd8005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 18, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 17, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/28042d70ddd301350f86005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 17, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 16, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7731d8d0dce801350f03005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 16, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 15, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97e7f2d0dbcd01350ebb005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 15, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jan 14, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/467715d0db1701350e96005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jan 14, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Randy Glasbergen</name>
-            </author>
         </item>
     </channel>
 </rss>

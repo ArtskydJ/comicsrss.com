@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gil Thorp</title>
-        <description>Gil Thorp by Neal Rubin and Rod Whigham</description>
         <link>http://www.gocomics.com/gilthorp</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Gil Thorp by Neal Rubin and Rod Whigham</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Gil Thorp</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tmgil/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/gilthorp</link>
         </image>
         <copyright>Copyright Neal Rubin and Rod Whigham</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/gilthorp.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/gilthorp/2018/02/26</link>
             <guid>http://www.gocomics.com/gilthorp/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a518d840ee07013515bd005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 26, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a34a1db0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 24, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9b5dbc0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 23, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a57640f0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 22, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 21, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a79e7380e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 21, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 20, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6863890e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 20, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 19, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f04d9f0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 19, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 17, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2426f10e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 17, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 16, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8a9a4f0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 16, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 15, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aac62470e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 15, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 14, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a459eac0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 14, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 13, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a027fdf0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 13, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a13000c0e950013513f5005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 12, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7f0ac080df190135102e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 10, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7de552b0df190135102e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 9, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8229edf0df190135102e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 8, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/833cfe80df190135102e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 7, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/800c1940df190135102e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 6, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8120dd10df190135102e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 5, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 3, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/820126a0da6201350e79005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 3, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 2, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ef5d0d0da6201350e79005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 2, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Feb 1, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82fa19b0da6201350e79005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Feb 1, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 31, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/800165a0da6201350e79005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 31, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 30, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/840196d0da6201350e79005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 30, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 29, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8107dbc0da6201350e79005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 29, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 27, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d7e427a0d73d01350d03005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 27, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 26, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da1cd170d73d01350d03005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 26, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 25, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d6c49950d73d01350d03005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 25, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 24, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d58e8f80d73d01350d03005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 24, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 23, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d8e68910d73d01350d03005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 23, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 22, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db209b50d73d01350d03005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 22, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 19, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02d52370d28701350b58005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 19, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 18, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07141420d28701350b58005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 18, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 17, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05af1cb0d28701350b58005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 17, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 16, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/043bc7a0d28701350b58005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 16, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jan 15, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0876cae0d28701350b58005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jan 15, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Neal Rubin and Rod Whigham</name>
-            </author>
         </item>
     </channel>
 </rss>

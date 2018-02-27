@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Norm 4.0</title>
-        <description>The Norm 4.0 by Michael Jantze</description>
         <link>http://www.gocomics.com/the-norm-4-0</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Norm 4.0 by Michael Jantze</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Norm 4.0</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/nrm/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-norm-4-0</link>
         </image>
         <copyright>Copyright Michael Jantze</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-norm-4-0.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-norm-4-0/2018/02/26</link>
             <guid>http://www.gocomics.com/the-norm-4-0/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d541320fcdb01351b4c005056a9545d" alt="The Norm 4.0 by Michael Jantze for Feb 26, 2018 " title="The Norm 4.0 by Michael Jantze for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1ca30280fcdb01351b4c005056a9545d" alt="The Norm 4.0 by Michael Jantze for Feb 19, 2018 " title="The Norm 4.0 by Michael Jantze for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2f885180f1e30135170e005056a9545d" alt="The Norm 4.0 by Michael Jantze for Feb 12, 2018 " title="The Norm 4.0 by Michael Jantze for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2e81400ec5a013514ff005056a9545d" alt="The Norm 4.0 by Michael Jantze for Feb 5, 2018 " title="The Norm 4.0 by Michael Jantze for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9e02710e6de013512d1005056a9545d" alt="The Norm 4.0 by Michael Jantze for Jan 29, 2018 " title="The Norm 4.0 by Michael Jantze for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/678b2ad0e15c013510ca005056a9545d" alt="The Norm 4.0 by Michael Jantze for Jan 22, 2018 " title="The Norm 4.0 by Michael Jantze for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/947626a0dbf901350ecc005056a9545d" alt="The Norm 4.0 by Michael Jantze for Jan 15, 2018 " title="The Norm 4.0 by Michael Jantze for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2dc72e60d65e01350cab005056a9545d" alt="The Norm 4.0 by Michael Jantze for Jan 8, 2018 " title="The Norm 4.0 by Michael Jantze for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Norm 4.0 by Michael Jantze for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-norm-4-0/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f0a0f150d2f401350b89005056a9545d" alt="The Norm 4.0 by Michael Jantze for Jan 1, 2018 " title="The Norm 4.0 by Michael Jantze for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Michael Jantze</name>
-            </author>
         </item>
     </channel>
 </rss>

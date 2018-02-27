@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Daddy&amp;#39;s Home</title>
-        <description>Daddy&amp;#39;s Home by Tony Rubino and Gary Markstein</description>
         <link>http://www.gocomics.com/daddyshome</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Daddy&amp;#39;s Home by Tony Rubino and Gary Markstein</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Daddy&amp;#39;s Home</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crdad/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/daddyshome</link>
         </image>
         <copyright>Copyright Tony Rubino and Gary Markstein</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/daddyshome.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/daddyshome/2018/02/26</link>
             <guid>http://www.gocomics.com/daddyshome/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3ccbb340f6e901351927005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 26, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90b19140f6e801351927005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 25, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd338660f168013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 24, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/03e21a80f169013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 23, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/feedd470f168013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 22, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d6ab620f168013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 21, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0232c1c0f169013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 20, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/009160b0f169013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 19, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/654edb20f168013516f0005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 18, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dab61cd0ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 17, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d277f570ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 16, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d5cadf30ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 15, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d91ef070ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 14, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d7734250ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 13, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d4246690ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 12, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/35b101e0ebe8013514e6005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 11, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ae6e5e80e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 10, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1ad8420e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 9, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/acd83490e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 8, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b0178d60e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 7, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab019be0e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 6, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3445ab0e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 5, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0dc17030e668013512af005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 4, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/83075930e0e8013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 3, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87d04cc0e0e8013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 2, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/895f0d10e0e8013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 1, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/849d89d0e0e8013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 31, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/812a0980e0e8013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 30, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86371970e0e8013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 29, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e22c4e60e0e7013510a5005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 28, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ac3d4e0db6801350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 27, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55f96760db6801350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 26, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57a0d7e0db6801350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 25, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/592d15f0db6801350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 24, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/54583f30db6801350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 23, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c49cf40db6801350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 22, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3793170db6701350e9f005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 21, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2b06e410d5e801350c91005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 20, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/29795220d5e801350c91005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 19, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2e0ae920d5e801350c91005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 18, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2fb51ce0d5e801350c91005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 17, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/27d868a0d5e801350c91005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 16, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/daddyshome/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c8bcd50d5e801350c91005056a9545d" alt="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 15, 2018 " title="Daddy&#39;s Home by Tony Rubino and Gary Markstein for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Tony Rubino and Gary Markstein</name>
-            </author>
         </item>
     </channel>
 </rss>

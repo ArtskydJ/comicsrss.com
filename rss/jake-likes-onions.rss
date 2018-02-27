@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jake Likes Onions</title>
-        <description>Jake Likes Onions by Jake Thompson</description>
         <link>http://www.gocomics.com/jake-likes-onions</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jake Likes Onions by Jake Thompson</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jake Likes Onions</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/jlo/mid_jlo_u_201708171442.png</url>
             <link>http://www.gocomics.com/jake-likes-onions</link>
         </image>
         <copyright>Copyright Jake Thompson</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jake-likes-onions.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jake Likes Onions by Jake Thompson for Feb 7, 2018 ]]></title>
             <link>http://www.gocomics.com/jake-likes-onions/2018/02/07</link>
             <guid>http://www.gocomics.com/jake-likes-onions/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9df549d0edf7013515b5005056a9545d" alt="Jake Likes Onions by Jake Thompson for Feb 7, 2018 " title="Jake Likes Onions by Jake Thompson for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jake Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jake Likes Onions by Jake Thompson for Jan 31, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jake-likes-onions/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edc1aed0e74d013512f2005056a9545d" alt="Jake Likes Onions by Jake Thompson for Jan 31, 2018 " title="Jake Likes Onions by Jake Thompson for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jake Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jake Likes Onions by Jake Thompson for Jan 17, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jake-likes-onions/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2f80ef0dd4601350f4c005056a9545d" alt="Jake Likes Onions by Jake Thompson for Jan 17, 2018 " title="Jake Likes Onions by Jake Thompson for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jake Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jake Likes Onions by Jake Thompson for Jan 10, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/jake-likes-onions/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ca63fb40d7c601350d45005056a9545d" alt="Jake Likes Onions by Jake Thompson for Jan 10, 2018 " title="Jake Likes Onions by Jake Thompson for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Jake Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jake Likes Onions by Jake Thompson for Jan 3, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/jake-likes-onions/2018/01/03</guid>
             <pubDate>Wed, 03 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40590680d24001350b3d005056a9545d" alt="Jake Likes Onions by Jake Thompson for Jan 3, 2018 " title="Jake Likes Onions by Jake Thompson for Jan 3, 2018 ">]]></description>
-            <author>
-                <name>Jake Thompson</name>
-            </author>
         </item>
     </channel>
 </rss>

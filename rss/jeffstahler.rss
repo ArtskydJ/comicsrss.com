@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jeff Stahler</title>
-        <description>Jeff Stahler by Jeff Stahler</description>
         <link>http://www.gocomics.com/jeffstahler</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jeff Stahler by Jeff Stahler</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jeff Stahler</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/stah/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/jeffstahler</link>
         </image>
         <copyright>Copyright Jeff Stahler</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jeffstahler.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/jeffstahler/2018/02/25</link>
             <guid>http://www.gocomics.com/jeffstahler/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d3429ff0fae601351ac8005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 25, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cf0bbbb0fa3601351a74005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 23, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/973aea40f956013519f7005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 22, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0cc1e030f8b1013519aa005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 21, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 18, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ec5b91a0f581013518d0005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 18, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 17, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da68e850f4ba0135186f005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 17, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d8df6810f4ba0135186f005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 16, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f5a55b10f3f70135180e005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 15, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8298d340f328013517a2005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 14, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/025cf2e0f26e0135174c005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 13, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 9, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df0300b0ef3e01351652005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 9, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 8, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6afbafd0ee6f013515e9005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 8, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 7, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5965d6a0eda801351586005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 7, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 6, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/470211a0ece101351536005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 6, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 2, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/853c03c0e9ba0135142b005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 2, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Feb 1, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bc7cf1f0e8f9013513c5005056a9545d" alt="Jeff Stahler by Jeff Stahler for Feb 1, 2018 " title="Jeff Stahler by Jeff Stahler for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 30, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/29a38880e74c013512f1005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 30, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 29, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/988cfb90e73f013512ea005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 29, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 25, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92f95b90e379013511b3005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 25, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 24, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee7a95d0e2a50135114e005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 24, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 23, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e3c2a80e1e3013510fa005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 23, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 19, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eff56600ddee01350f97005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 19, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 17, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9505bd0dd1201350f1b005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 17, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 16, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f5836bb0dcfd01350f0a005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 16, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jan 13, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7cef2da0d9dd01350e33005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jan 13, 2018 " title="Jeff Stahler by Jeff Stahler for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Jeff Stahler</name>
-            </author>
         </item>
     </channel>
 </rss>

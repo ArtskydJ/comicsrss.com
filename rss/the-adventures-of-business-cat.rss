@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Adventures of Business Cat</title>
-        <description>The Adventures of Business Cat by Tom Fonder</description>
         <link>http://www.gocomics.com/the-adventures-of-business-cat</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Adventures of Business Cat by Tom Fonder</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Adventures of Business Cat</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/abc/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-adventures-of-business-cat</link>
         </image>
         <copyright>Copyright Tom Fonder</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-adventures-of-business-cat.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-adventures-of-business-cat/2018/02/26</link>
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/faee3e10d52301350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Feb 26, 2018 " title="The Adventures of Business Cat by Tom Fonder for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ddd9a060d52301350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Feb 19, 2018 " title="The Adventures of Business Cat by Tom Fonder for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dc09bd40d52301350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Feb 12, 2018 " title="The Adventures of Business Cat by Tom Fonder for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df3db750d52101350c73005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Feb 5, 2018 " title="The Adventures of Business Cat by Tom Fonder for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ff179340d52301350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Jan 29, 2018 " title="The Adventures of Business Cat by Tom Fonder for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00ee3c80d52401350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Jan 22, 2018 " title="The Adventures of Business Cat by Tom Fonder for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1cd2e30d52301350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Jan 15, 2018 " title="The Adventures of Business Cat by Tom Fonder for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e8f33970d52301350c74005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Jan 8, 2018 " title="The Adventures of Business Cat by Tom Fonder for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Adventures of Business Cat by Tom Fonder for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-adventures-of-business-cat/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10c6c0e08f040135f2e1005056a9545d" alt="The Adventures of Business Cat by Tom Fonder for Jan 1, 2018 " title="The Adventures of Business Cat by Tom Fonder for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Tom Fonder</name>
-            </author>
         </item>
     </channel>
 </rss>

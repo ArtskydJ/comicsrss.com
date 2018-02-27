@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Matt Davies</title>
-        <description>Matt Davies by Matt Davies</description>
         <link>http://www.gocomics.com/mattdavies</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Matt Davies by Matt Davies</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Matt Davies</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tmmda/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/mattdavies</link>
         </image>
         <copyright>Copyright Matt Davies</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/mattdavies.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/mattdavies/2018/02/23</link>
             <guid>http://www.gocomics.com/mattdavies/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57facef0fadc01351ac1005056a9545d" alt="Matt Davies by Matt Davies for Feb 23, 2018 " title="Matt Davies by Matt Davies for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd27e610fa0a01351a51005056a9545d" alt="Matt Davies by Matt Davies for Feb 22, 2018 " title="Matt Davies by Matt Davies for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/24972940f8b3013519ad005056a9545d" alt="Matt Davies by Matt Davies for Feb 21, 2018 " title="Matt Davies by Matt Davies for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 16, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1caef1d0f55a013518b7005056a9545d" alt="Matt Davies by Matt Davies for Feb 16, 2018 " title="Matt Davies by Matt Davies for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 15, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edfa47a0f49001351854005056a9545d" alt="Matt Davies by Matt Davies for Feb 15, 2018 " title="Matt Davies by Matt Davies for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/acd11b30f3c5013517e6005056a9545d" alt="Matt Davies by Matt Davies for Feb 14, 2018 " title="Matt Davies by Matt Davies for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 13, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/377a5530f2f601351781005056a9545d" alt="Matt Davies by Matt Davies for Feb 13, 2018 " title="Matt Davies by Matt Davies for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 12, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a8250c0f23701351721005056a9545d" alt="Matt Davies by Matt Davies for Feb 12, 2018 " title="Matt Davies by Matt Davies for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 11, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/888fb550f23701351721005056a9545d" alt="Matt Davies by Matt Davies for Feb 11, 2018 " title="Matt Davies by Matt Davies for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 9, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/08eabf10efdc01351690005056a9545d" alt="Matt Davies by Matt Davies for Feb 9, 2018 " title="Matt Davies by Matt Davies for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 8, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e996630ef1701351633005056a9545d" alt="Matt Davies by Matt Davies for Feb 8, 2018 " title="Matt Davies by Matt Davies for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 7, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6af0af50ee43013515cd005056a9545d" alt="Matt Davies by Matt Davies for Feb 7, 2018 " title="Matt Davies by Matt Davies for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 6, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51398b50ee41013515cb005056a9545d" alt="Matt Davies by Matt Davies for Feb 6, 2018 " title="Matt Davies by Matt Davies for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 4, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2fcd39e0ecb301351519005056a9545d" alt="Matt Davies by Matt Davies for Feb 4, 2018 " title="Matt Davies by Matt Davies for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Feb 1, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9bf77230e99001351408005056a9545d" alt="Matt Davies by Matt Davies for Feb 1, 2018 " title="Matt Davies by Matt Davies for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 31, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bb0ecad0e8cd013513a8005056a9545d" alt="Matt Davies by Matt Davies for Jan 31, 2018 " title="Matt Davies by Matt Davies for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 30, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/473c8050e7fe0135133c005056a9545d" alt="Matt Davies by Matt Davies for Jan 30, 2018 " title="Matt Davies by Matt Davies for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 29, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5012aa20e739013512e7005056a9545d" alt="Matt Davies by Matt Davies for Jan 29, 2018 " title="Matt Davies by Matt Davies for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 28, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e713f10e739013512e7005056a9545d" alt="Matt Davies by Matt Davies for Jan 28, 2018 " title="Matt Davies by Matt Davies for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 26, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b9f3b660e4db0135124c005056a9545d" alt="Matt Davies by Matt Davies for Jan 26, 2018 " title="Matt Davies by Matt Davies for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 24, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05e9b410e27c01351133005056a9545d" alt="Matt Davies by Matt Davies for Jan 24, 2018 " title="Matt Davies by Matt Davies for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 23, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10dcdc20e1b7013510de005056a9545d" alt="Matt Davies by Matt Davies for Jan 23, 2018 " title="Matt Davies by Matt Davies for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 22, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/135fb4d0e1b7013510de005056a9545d" alt="Matt Davies by Matt Davies for Jan 22, 2018 " title="Matt Davies by Matt Davies for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 19, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8dabe3d0df5b0135103a005056a9545d" alt="Matt Davies by Matt Davies for Jan 19, 2018 " title="Matt Davies by Matt Davies for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 17, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2105c930ddc701350f7c005056a9545d" alt="Matt Davies by Matt Davies for Jan 17, 2018 " title="Matt Davies by Matt Davies for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 16, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df8a0d50dcfb01350f09005056a9545d" alt="Matt Davies by Matt Davies for Jan 16, 2018 " title="Matt Davies by Matt Davies for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 12, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1fcbaac0d9d501350e2b005056a9545d" alt="Matt Davies by Matt Davies for Jan 12, 2018 " title="Matt Davies by Matt Davies for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jan 11, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/mattdavies/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ee56c60d92701350de4005056a9545d" alt="Matt Davies by Matt Davies for Jan 11, 2018 " title="Matt Davies by Matt Davies for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Matt Davies</name>
-            </author>
         </item>
     </channel>
 </rss>

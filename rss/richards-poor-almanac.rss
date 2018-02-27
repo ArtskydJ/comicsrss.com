@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Richard&amp;#39;s Poor Almanac</title>
-        <description>Richard&amp;#39;s Poor Almanac by Richard Thompson</description>
         <link>http://www.gocomics.com/richards-poor-almanac</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Richard&amp;#39;s Poor Almanac by Richard Thompson</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Richard&amp;#39;s Poor Almanac</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/rpa/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/richards-poor-almanac</link>
         </image>
         <copyright>Copyright Richard Thompson</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/richards-poor-almanac.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/richards-poor-almanac/2018/02/26</link>
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0f5b5c109aac0132c878005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 26, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12c6cb407a760132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 23, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/509eb6409aac0132c878005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 22, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68ad23509aad0132c87a005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 21, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ca0cb607a770132bcec005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 20, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e359c0007a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 19, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f1bf3da07a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 16, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9bb9ffe07a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 15, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/27989ca07a760132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 14, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2f391ed07a760132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 13, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 12, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00dc4a307a770132bcec005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 12, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 9, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d2021607a760132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 9, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fe7d6f407a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 8, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 7, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5b87aa07a740132bce9005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 7, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 6, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d135fb07a740132bce9005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 6, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 5, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/16e398807a770132bcec005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 5, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 2, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8bcf57207a740132bce9005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 2, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Feb 1, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5e870f07a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Feb 1, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 31, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99974aa07a740132bce9005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 31, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 30, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d34068c07a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 30, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 29, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b27b60107a740132bce9005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 29, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 26, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05f498007a760132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 26, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 25, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4cb26407a750132bceb005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 25, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 24, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef03a6f07a720132bce8005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 24, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 23, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ad813507a730132bce8005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 23, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 22, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55b75f507a730132bce8005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 22, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 19, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/30fee1907a730132bce8005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 19, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 18, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab16a0907a710132bce6005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 18, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 17, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87ae50507a710132bce6005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 17, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 16, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/33860e207a700132bce5005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 16, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Richard&#39;s Poor Almanac by Richard Thompson for Jan 15, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/richards-poor-almanac/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1607ad207a730132bce8005056a9545d" alt="Richard&#39;s Poor Almanac by Richard Thompson for Jan 15, 2018 " title="Richard&#39;s Poor Almanac by Richard Thompson for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Richard Thompson</name>
-            </author>
         </item>
     </channel>
 </rss>

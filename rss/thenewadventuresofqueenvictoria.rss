@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>New Adventures of Queen Victoria</title>
-        <description>New Adventures of Queen Victoria by Pab Sungenis</description>
         <link>http://www.gocomics.com/thenewadventuresofqueenvictoria</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>New Adventures of Queen Victoria by Pab Sungenis</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>New Adventures of Queen Victoria</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/naqv/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/thenewadventuresofqueenvictoria</link>
         </image>
         <copyright>Copyright Pab Sungenis</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/thenewadventuresofqueenvictoria.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/26</link>
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/50cd6bd0fcca01351b46005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 26, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/63df1550fbf001351b1e005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 25, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/69176f90fb2b01351afe005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 24, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/95256790fa7f01351aa4005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 23, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f7d73b30f8e6013519c6005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 22, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f6fec6e0f8e6013519c6005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 21, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f03559d0f80a0135196b005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 20, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b8e79640f72a01351931005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 19, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da8005c0f69301351921005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 18, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6146180f5a0013518f2005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 17, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/22dd21e0f4f90135189c005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 16, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/293d2360f43401351835005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 15, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60cc61b0f373013517cd005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 14, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66054ad0f28201351759005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 13, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c2955540f1da0135170a005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 12, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44a670c0f0f4013516e3005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 11, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60f3a930f031013516c6005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 10, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/130e0cb0ef7b01351678005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 9, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3cf416c0eea301351613005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 8, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67f10390edcb0135159f005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 7, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/245973b0ed0001351544005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 6, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e67cc70ec24013514f1005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 5, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/26b95af0eb8b013514d7005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 4, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99646a50ea8d01351490005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 3, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98aa5120ea8d01351490005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 2, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/38a5fc30e910013513dc005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Feb 1, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e196100e84701351373005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 31, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51932110e79d01351320005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 30, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8927a600e6dc013512d0005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 29, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a71df760e5ed0135129f005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 28, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/266d8480e50701351267005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 27, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a854f650e47801351232005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 26, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a9cf340e37b013511b4005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 25, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8f925150e2d501351171005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 24, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f70c5db0e1ec01351104005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 23, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fe61b810e153013510c6005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 22, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d57416f0e08a01351098005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 21, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/84810bf0dfa801351072005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 20, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0548f690deee0135101a005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 19, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5484d540de2f01350fc3005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 18, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6697e130dd5501350f56005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 17, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d10d200dc9001350eec005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 16, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/thenewadventuresofqueenvictoria/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11e6b850dbc301350eb9005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis for Jan 15, 2018 " title="New Adventures of Queen Victoria by Pab Sungenis for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Pab Sungenis</name>
-            </author>
         </item>
     </channel>
 </rss>

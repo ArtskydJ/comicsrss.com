@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Looks Good on Paper</title>
-        <description>Looks Good on Paper by Dan Collins</description>
         <link>http://www.gocomics.com/looks-good-on-paper</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Looks Good on Paper by Dan Collins</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Looks Good on Paper</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/lgop/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/looks-good-on-paper</link>
         </image>
         <copyright>Copyright Dan Collins</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/looks-good-on-paper.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/looks-good-on-paper/2018/02/26</link>
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8c140100c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 26, 2018 " title="Looks Good on Paper by Dan Collins for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c2f2f50fbd901351b1b005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 25, 2018 " title="Looks Good on Paper by Dan Collins for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7959feb0c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 24, 2018 " title="Looks Good on Paper by Dan Collins for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07b2e150fa4701351a81005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 23, 2018 " title="Looks Good on Paper by Dan Collins for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e5b6790c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 22, 2018 " title="Looks Good on Paper by Dan Collins for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40133740f7e501351962005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 21, 2018 " title="Looks Good on Paper by Dan Collins for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e0410e0c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 20, 2018 " title="Looks Good on Paper by Dan Collins for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c89c7d0f7500135193a005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 19, 2018 " title="Looks Good on Paper by Dan Collins for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a822bf60c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 18, 2018 " title="Looks Good on Paper by Dan Collins for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f617c630f49c0135185f005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 17, 2018 " title="Looks Good on Paper by Dan Collins for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/941b5240c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 16, 2018 " title="Looks Good on Paper by Dan Collins for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5534bdd0f25401351735005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 15, 2018 " title="Looks Good on Paper by Dan Collins for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9cb22560c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 14, 2018 " title="Looks Good on Paper by Dan Collins for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/236594e0f2500135172f005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 13, 2018 " title="Looks Good on Paper by Dan Collins for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5b36b70c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 12, 2018 " title="Looks Good on Paper by Dan Collins for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ca19ae60e99e0135140f005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 11, 2018 " title="Looks Good on Paper by Dan Collins for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/83dabba0c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 10, 2018 " title="Looks Good on Paper by Dan Collins for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02989120ef7901351677005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 9, 2018 " title="Looks Good on Paper by Dan Collins for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9a1960c0c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 8, 2018 " title="Looks Good on Paper by Dan Collins for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82774db0ed1d01351551005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 7, 2018 " title="Looks Good on Paper by Dan Collins for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97c5b9d0c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 6, 2018 " title="Looks Good on Paper by Dan Collins for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef96af80e9a201351411005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 5, 2018 " title="Looks Good on Paper by Dan Collins for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f672ce0c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 4, 2018 " title="Looks Good on Paper by Dan Collins for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d4dc550e99a0135140d005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 3, 2018 " title="Looks Good on Paper by Dan Collins for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b805c80c3f501350691005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 2, 2018 " title="Looks Good on Paper by Dan Collins for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a194d060e918013513e3005056a9545d" alt="Looks Good on Paper by Dan Collins for Feb 1, 2018 " title="Looks Good on Paper by Dan Collins for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61abd090c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 31, 2018 " title="Looks Good on Paper by Dan Collins for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f392efb0e77d01351313005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 30, 2018 " title="Looks Good on Paper by Dan Collins for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/62fbee60c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 29, 2018 " title="Looks Good on Paper by Dan Collins for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6b1eac0e44e0135121c005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 28, 2018 " title="Looks Good on Paper by Dan Collins for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/704ef170c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 27, 2018 " title="Looks Good on Paper by Dan Collins for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/80d63110e2d301351170005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 26, 2018 " title="Looks Good on Paper by Dan Collins for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6b9c8950c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 25, 2018 " title="Looks Good on Paper by Dan Collins for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed45c8a0e2c60135116a005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 24, 2018 " title="Looks Good on Paper by Dan Collins for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68d491a0c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 23, 2018 " title="Looks Good on Paper by Dan Collins for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9dda4e40e1b8013510df005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 22, 2018 " title="Looks Good on Paper by Dan Collins for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5df332a0c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 21, 2018 " title="Looks Good on Paper by Dan Collins for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1be69600df5d0135103b005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 20, 2018 " title="Looks Good on Paper by Dan Collins for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65b0c020c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 19, 2018 " title="Looks Good on Paper by Dan Collins for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66d7c5b0de1a01350fbb005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 18, 2018 " title="Looks Good on Paper by Dan Collins for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f081760c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 17, 2018 " title="Looks Good on Paper by Dan Collins for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7843ef20db7301350ea0005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 16, 2018 " title="Looks Good on Paper by Dan Collins for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6cb14970c3f301350690005056a9545d" alt="Looks Good on Paper by Dan Collins for Jan 15, 2018 " title="Looks Good on Paper by Dan Collins for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Dan Collins</name>
-            </author>
         </item>
     </channel>
 </rss>

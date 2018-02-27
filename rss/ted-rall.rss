@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ted Rall</title>
-        <description>Ted Rall by Ted Rall</description>
         <link>http://www.gocomics.com/ted-rall</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Ted Rall by Ted Rall</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Ted Rall</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tr/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/ted-rall</link>
         </image>
         <copyright>Copyright Ted Rall</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/ted-rall.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/ted-rall/2018/02/26</link>
             <guid>http://www.gocomics.com/ted-rall/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a1da2d0fa3001351a6c005056a9545d" alt="Ted Rall by Ted Rall for Feb 26, 2018 " title="Ted Rall by Ted Rall for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88707170fa3001351a6c005056a9545d" alt="Ted Rall by Ted Rall for Feb 23, 2018 " title="Ted Rall by Ted Rall for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a57ba910f4b60135186b005056a9545d" alt="Ted Rall by Ted Rall for Feb 21, 2018 " title="Ted Rall by Ted Rall for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/77e9ca70f4b201351867005056a9545d" alt="Ted Rall by Ted Rall for Feb 19, 2018 " title="Ted Rall by Ted Rall for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/761ca5b0f4b201351867005056a9545d" alt="Ted Rall by Ted Rall for Feb 16, 2018 " title="Ted Rall by Ted Rall for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2e1c5dd0ee54013515db005056a9545d" alt="Ted Rall by Ted Rall for Feb 14, 2018 " title="Ted Rall by Ted Rall for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2fab70d0ee54013515db005056a9545d" alt="Ted Rall by Ted Rall for Feb 12, 2018 " title="Ted Rall by Ted Rall for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e4ff460e9bc0135142f005056a9545d" alt="Ted Rall by Ted Rall for Feb 9, 2018 " title="Ted Rall by Ted Rall for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9fba16c0e9bc0135142f005056a9545d" alt="Ted Rall by Ted Rall for Feb 7, 2018 " title="Ted Rall by Ted Rall for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a113f2d0e9bc0135142f005056a9545d" alt="Ted Rall by Ted Rall for Feb 5, 2018 " title="Ted Rall by Ted Rall for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Feb 1, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d4bf3230e8fb013513c8005056a9545d" alt="Ted Rall by Ted Rall for Feb 1, 2018 " title="Ted Rall by Ted Rall for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61b2d9a0e4ea01351254005056a9545d" alt="Ted Rall by Ted Rall for Jan 31, 2018 " title="Ted Rall by Ted Rall for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48dfea80e4e801351252005056a9545d" alt="Ted Rall by Ted Rall for Jan 29, 2018 " title="Ted Rall by Ted Rall for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d233ed20e4dd0135124d005056a9545d" alt="Ted Rall by Ted Rall for Jan 26, 2018 " title="Ted Rall by Ted Rall for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b853a840e1f101351109005056a9545d" alt="Ted Rall by Ted Rall for Jan 24, 2018 " title="Ted Rall by Ted Rall for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 22, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2afc0970e1b9013510e0005056a9545d" alt="Ted Rall by Ted Rall for Jan 22, 2018 " title="Ted Rall by Ted Rall for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6b27d70df5d0135103c005056a9545d" alt="Ted Rall by Ted Rall for Jan 19, 2018 " title="Ted Rall by Ted Rall for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/594e1630dd0601350f11005056a9545d" alt="Ted Rall by Ted Rall for Jan 17, 2018 " title="Ted Rall by Ted Rall for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 15, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57b55d50dd0601350f11005056a9545d" alt="Ted Rall by Ted Rall for Jan 15, 2018 " title="Ted Rall by Ted Rall for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/ted-rall/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/03ad62e0d9ff01350e4b005056a9545d" alt="Ted Rall by Ted Rall for Jan 12, 2018 " title="Ted Rall by Ted Rall for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Ted Rall</name>
-            </author>
         </item>
     </channel>
 </rss>

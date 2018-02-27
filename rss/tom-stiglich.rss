@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tom Stiglich</title>
-        <description>Tom Stiglich by Tom Stiglich</description>
         <link>http://www.gocomics.com/tom-stiglich</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Tom Stiglich by Tom Stiglich</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Tom Stiglich</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crstg/mid_crstg_u_201709280935.png</url>
             <link>http://www.gocomics.com/tom-stiglich</link>
         </image>
         <copyright>Copyright Tom Stiglich</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/tom-stiglich.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/tom-stiglich/2018/02/26</link>
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55ac84f0fc2f01351b2d005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 26, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51a28310fc2f01351b2d005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 25, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b02c3f0f9b201351a3b005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 22, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4f944110f8e9013519c8005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 21, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e94ca70f8410135197c005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 20, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/26d3d540f6af01351924005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 19, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee74d070f45301351844005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 15, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 14, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab524890f38a013517d8005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 14, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 13, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64739fb0f2c101351775005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 13, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 12, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e7d6bc0f1d601351708005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 12, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 8, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c45b1e30eed301351627005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 8, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 7, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/836b8240ee0a013515bf005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 7, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 6, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4994d490ed410135155e005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 6, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 5, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/872344e0ec9901351512005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 5, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Feb 1, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11d221e0e932013513ec005056a9545d" alt="Tom Stiglich by Tom Stiglich for Feb 1, 2018 " title="Tom Stiglich by Tom Stiglich for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 31, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f091d840e8ab01351398005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 31, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 30, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9224bda0e79f01351321005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 30, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 29, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e4591e30e73a013512e9005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 29, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 25, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e2a45230e3b1013511dd005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 25, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 24, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6258480e2e80135117a005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 24, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 23, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edf56880e24001351127005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 23, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 22, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e496a90e0ae0135109e005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 22, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 18, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e12b630de5301350fd4005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 18, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 17, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fedf7060dd8901350f6d005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 17, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 16, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3b74b190dc9f01350ef2005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 16, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 15, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/78226030dbb401350eb2005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 15, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Jan 12, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e422a50d8b101350dba005056a9545d" alt="Tom Stiglich by Tom Stiglich for Jan 12, 2018 " title="Tom Stiglich by Tom Stiglich for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Tom Stiglich</name>
-            </author>
         </item>
     </channel>
 </rss>

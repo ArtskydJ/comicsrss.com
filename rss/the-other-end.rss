@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Other End</title>
-        <description>The Other End by Neil Kohney</description>
         <link>http://www.gocomics.com/the-other-end</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Other End by Neil Kohney</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Other End</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/toe/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-other-end</link>
         </image>
         <copyright>Copyright Neil Kohney</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-other-end.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-other-end/2018/02/26</link>
             <guid>http://www.gocomics.com/the-other-end/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a17fcc30fccc01351b47005056a9545d" alt="The Other End by Neil Kohney for Feb 26, 2018 " title="The Other End by Neil Kohney for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c42145c0fa5301351a8f005056a9545d" alt="The Other End by Neil Kohney for Feb 23, 2018 " title="The Other End by Neil Kohney for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c4af6a0f98a01351a1f005056a9545d" alt="The Other End by Neil Kohney for Feb 22, 2018 " title="The Other End by Neil Kohney for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cc2daff0f8de013519c2005056a9545d" alt="The Other End by Neil Kohney for Feb 21, 2018 " title="The Other End by Neil Kohney for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/926a9620f82a01351976005056a9545d" alt="The Other End by Neil Kohney for Feb 20, 2018 " title="The Other End by Neil Kohney for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/de120e70f572013518c9005056a9545d" alt="The Other End by Neil Kohney for Feb 19, 2018 " title="The Other End by Neil Kohney for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b613a170f5010135189f005056a9545d" alt="The Other End by Neil Kohney for Feb 16, 2018 " title="The Other End by Neil Kohney for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b9762890f3e4013517fd005056a9545d" alt="The Other End by Neil Kohney for Feb 15, 2018 " title="The Other End by Neil Kohney for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0efb6240f37e013517d1005056a9545d" alt="The Other End by Neil Kohney for Feb 14, 2018 " title="The Other End by Neil Kohney for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/81b4b1f0f28001351758005056a9545d" alt="The Other End by Neil Kohney for Feb 13, 2018 " title="The Other End by Neil Kohney for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 12, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40d939f0f1e10135170d005056a9545d" alt="The Other End by Neil Kohney for Feb 12, 2018 " title="The Other End by Neil Kohney for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 9, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/38f75c80ef640135166e005056a9545d" alt="The Other End by Neil Kohney for Feb 9, 2018 " title="The Other End by Neil Kohney for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/551422e0edf1013515b2005056a9545d" alt="The Other End by Neil Kohney for Feb 8, 2018 " title="The Other End by Neil Kohney for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 7, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/563941b0edf1013515b2005056a9545d" alt="The Other End by Neil Kohney for Feb 7, 2018 " title="The Other End by Neil Kohney for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 6, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d76e5a0ed8801351572005056a9545d" alt="The Other End by Neil Kohney for Feb 6, 2018 " title="The Other End by Neil Kohney for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 5, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31283a40ec6301351503005056a9545d" alt="The Other End by Neil Kohney for Feb 5, 2018 " title="The Other End by Neil Kohney for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 2, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c93b9ae0ea0901351458005056a9545d" alt="The Other End by Neil Kohney for Feb 2, 2018 " title="The Other End by Neil Kohney for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Feb 1, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11df28e0e934013513ed005056a9545d" alt="The Other End by Neil Kohney for Feb 1, 2018 " title="The Other End by Neil Kohney for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 31, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d9efe590e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 31, 2018 " title="The Other End by Neil Kohney for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 30, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e242f380e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 30, 2018 " title="The Other End by Neil Kohney for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 29, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dc574ed0e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 29, 2018 " title="The Other End by Neil Kohney for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 28, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dac2bc60e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 28, 2018 " title="The Other End by Neil Kohney for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 27, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dee4f000e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 27, 2018 " title="The Other End by Neil Kohney for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 26, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dfe7bf80e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 26, 2018 " title="The Other End by Neil Kohney for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 25, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e11994b0e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 25, 2018 " title="The Other End by Neil Kohney for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 24, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dd5cd6a0e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 24, 2018 " title="The Other End by Neil Kohney for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 23, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d87b60a0e22701351119005056a9545d" alt="The Other End by Neil Kohney for Jan 23, 2018 " title="The Other End by Neil Kohney for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 22, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31a9e1e0e154013510c6005056a9545d" alt="The Other End by Neil Kohney for Jan 22, 2018 " title="The Other End by Neil Kohney for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 21, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07133160e08b01351098005056a9545d" alt="The Other End by Neil Kohney for Jan 21, 2018 " title="The Other End by Neil Kohney for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 20, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7ffb160dfd80135107f005056a9545d" alt="The Other End by Neil Kohney for Jan 20, 2018 " title="The Other End by Neil Kohney for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 19, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/54bc4b30def00135101b005056a9545d" alt="The Other End by Neil Kohney for Jan 19, 2018 " title="The Other End by Neil Kohney for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 18, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c21d92c0de4a01350fce005056a9545d" alt="The Other End by Neil Kohney for Jan 18, 2018 " title="The Other End by Neil Kohney for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 17, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8665ec0dd6c01350f5f005056a9545d" alt="The Other End by Neil Kohney for Jan 17, 2018 " title="The Other End by Neil Kohney for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 16, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1acd45f0dc9b01350ef1005056a9545d" alt="The Other End by Neil Kohney for Jan 16, 2018 " title="The Other End by Neil Kohney for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for Jan 15, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3472ae0dbe201350ec3005056a9545d" alt="The Other End by Neil Kohney for Jan 15, 2018 " title="The Other End by Neil Kohney for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Neil Kohney</name>
-            </author>
         </item>
     </channel>
 </rss>

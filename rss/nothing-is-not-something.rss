@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nothing is Not Something</title>
-        <description>Nothing is Not Something by Greg Wallace</description>
         <link>http://www.gocomics.com/nothing-is-not-something</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Nothing is Not Something by Greg Wallace</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Nothing is Not Something</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/nins/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/nothing-is-not-something</link>
         </image>
         <copyright>Copyright Greg Wallace</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/nothing-is-not-something.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nothing is Not Something by Greg Wallace for Feb 12, 2018 ]]></title>
             <link>http://www.gocomics.com/nothing-is-not-something/2018/02/12</link>
             <guid>http://www.gocomics.com/nothing-is-not-something/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1943cd80f1cc01351705005056a9545d" alt="Nothing is Not Something by Greg Wallace for Feb 12, 2018 " title="Nothing is Not Something by Greg Wallace for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Greg Wallace</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nothing is Not Something by Greg Wallace for Jan 29, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/nothing-is-not-something/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1eb09e0e6de013512d1005056a9545d" alt="Nothing is Not Something by Greg Wallace for Jan 29, 2018 " title="Nothing is Not Something by Greg Wallace for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Greg Wallace</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nothing is Not Something by Greg Wallace for Jan 18, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/nothing-is-not-something/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e93b0a0de3101350fc4005056a9545d" alt="Nothing is Not Something by Greg Wallace for Jan 18, 2018 " title="Nothing is Not Something by Greg Wallace for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Greg Wallace</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nothing is Not Something by Greg Wallace for Jan 8, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/nothing-is-not-something/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b8febbb0d2fc01350b94005056a9545d" alt="Nothing is Not Something by Greg Wallace for Jan 8, 2018 " title="Nothing is Not Something by Greg Wallace for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Greg Wallace</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nothing is Not Something by Greg Wallace for Jan 1, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/nothing-is-not-something/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7cfc7ff0cfcb01350aaa005056a9545d" alt="Nothing is Not Something by Greg Wallace for Jan 1, 2018 " title="Nothing is Not Something by Greg Wallace for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Greg Wallace</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nothing is Not Something by Greg Wallace for Dec 26, 2017 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/nothing-is-not-something/2017/12/26</guid>
             <pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/efc36ee0cb5f0135092d005056a9545d" alt="Nothing is Not Something by Greg Wallace for Dec 26, 2017 " title="Nothing is Not Something by Greg Wallace for Dec 26, 2017 ">]]></description>
-            <author>
-                <name>Greg Wallace</name>
-            </author>
         </item>
     </channel>
 </rss>

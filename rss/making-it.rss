@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Making It</title>
-        <description>Making It by Keith Robinson</description>
         <link>http://www.gocomics.com/making-it</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Making It by Keith Robinson</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Making It</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/mak/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/making-it</link>
         </image>
         <copyright>Copyright Keith Robinson</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/making-it.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/making-it/2018/02/26</link>
             <guid>http://www.gocomics.com/making-it/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/616ebee0ee9601300d12001dd8b71c47" alt="Making It by Keith Robinson for Feb 26, 2018 " title="Making It by Keith Robinson for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79722140eda701300c3f001dd8b71c47" alt="Making It by Keith Robinson for Feb 22, 2018 " title="Making It by Keith Robinson for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b22f2c60ed1201300bb1001dd8b71c47" alt="Making It by Keith Robinson for Feb 19, 2018 " title="Making It by Keith Robinson for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 15, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dfdaa440ecbe01300b61001dd8b71c47" alt="Making It by Keith Robinson for Feb 15, 2018 " title="Making It by Keith Robinson for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 12, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7f62eca0eb4101300a2d001dd8b71c47" alt="Making It by Keith Robinson for Feb 12, 2018 " title="Making It by Keith Robinson for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 8, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e83a70e0ea840130098c001dd8b71c47" alt="Making It by Keith Robinson for Feb 8, 2018 " title="Making It by Keith Robinson for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2bed1120e9db0130091c001dd8b71c47" alt="Making It by Keith Robinson for Feb 5, 2018 " title="Making It by Keith Robinson for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Feb 1, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/making-it/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4e46640e8fa01300886001dd8b71c47" alt="Making It by Keith Robinson for Feb 1, 2018 " title="Making It by Keith Robinson for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 29, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/50232940e827013007d2001dd8b71c47" alt="Making It by Keith Robinson for Jan 29, 2018 " title="Making It by Keith Robinson for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 25, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd674eb0e6bc0130067a001dd8b71c47" alt="Making It by Keith Robinson for Jan 25, 2018 " title="Making It by Keith Robinson for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 22, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9789bfe0e43b01300487001dd8b71c47" alt="Making It by Keith Robinson for Jan 22, 2018 " title="Making It by Keith Robinson for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 18, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10b4d560e5e7013005d1001dd8b71c47" alt="Making It by Keith Robinson for Jan 18, 2018 " title="Making It by Keith Robinson for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 15, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44e74560e4fa0130050b001dd8b71c47" alt="Making It by Keith Robinson for Jan 15, 2018 " title="Making It by Keith Robinson for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 11, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/817a2600e4e9013004fe001dd8b71c47" alt="Making It by Keith Robinson for Jan 11, 2018 " title="Making It by Keith Robinson for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Jan 8, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/making-it/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/463c4fc0e38501300419001dd8b71c47" alt="Making It by Keith Robinson for Jan 8, 2018 " title="Making It by Keith Robinson for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Keith Robinson</name>
-            </author>
         </item>
     </channel>
 </rss>

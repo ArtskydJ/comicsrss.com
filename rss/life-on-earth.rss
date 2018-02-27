@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Life on Earth</title>
-        <description>Life on Earth by Ham</description>
         <link>http://www.gocomics.com/life-on-earth</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Life on Earth by Ham</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Life on Earth</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/loe/mid_loe_u_201710111354.png</url>
             <link>http://www.gocomics.com/life-on-earth</link>
         </image>
         <copyright>Copyright Ham</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/life-on-earth.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/life-on-earth/2018/02/26</link>
             <guid>http://www.gocomics.com/life-on-earth/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/acb428d0f63301351916005056a9545d" alt="Life on Earth by Ham for Feb 26, 2018 " title="Life on Earth by Ham for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af9bc420f63301351916005056a9545d" alt="Life on Earth by Ham for Feb 25, 2018 " title="Life on Earth by Ham for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0f8274f0f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 24, 2018 " title="Life on Earth by Ham for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12748e50f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 23, 2018 " title="Life on Earth by Ham for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1179e2b0f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 22, 2018 " title="Life on Earth by Ham for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/155a1660f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 21, 2018 " title="Life on Earth by Ham for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14567fc0f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 20, 2018 " title="Life on Earth by Ham for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/286d9770f3d8013517f4005056a9545d" alt="Life on Earth by Ham for Feb 19, 2018 " title="Life on Earth by Ham for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/296ed870f3d8013517f4005056a9545d" alt="Life on Earth by Ham for Feb 18, 2018 " title="Life on Earth by Ham for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2683af00f3d8013517f4005056a9545d" alt="Life on Earth by Ham for Feb 17, 2018 " title="Life on Earth by Ham for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/27789bb0f3d8013517f4005056a9545d" alt="Life on Earth by Ham for Feb 16, 2018 " title="Life on Earth by Ham for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2a6123d0f3d8013517f4005056a9545d" alt="Life on Earth by Ham for Feb 15, 2018 " title="Life on Earth by Ham for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13646310f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 14, 2018 " title="Life on Earth by Ham for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1076f360f3d6013517f3005056a9545d" alt="Life on Earth by Ham for Feb 13, 2018 " title="Life on Earth by Ham for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/715ff1a0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 12, 2018 " title="Life on Earth by Ham for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a7adfd0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 11, 2018 " title="Life on Earth by Ham for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6bb93ce0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 10, 2018 " title="Life on Earth by Ham for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/695cd460daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 9, 2018 " title="Life on Earth by Ham for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7da72cf0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 8, 2018 " title="Life on Earth by Ham for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7269ffd0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 7, 2018 " title="Life on Earth by Ham for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e3abed0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 6, 2018 " title="Life on Earth by Ham for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70441cf0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 5, 2018 " title="Life on Earth by Ham for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/762b87c0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 4, 2018 " title="Life on Earth by Ham for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/788818d0daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 3, 2018 " title="Life on Earth by Ham for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f3e2150daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 2, 2018 " title="Life on Earth by Ham for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/73881a00daa801350e81005056a9545d" alt="Life on Earth by Ham for Feb 1, 2018 " title="Life on Earth by Ham for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b0b1df0daa801350e81005056a9545d" alt="Life on Earth by Ham for Jan 31, 2018 " title="Life on Earth by Ham for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79d3a050daa801350e81005056a9545d" alt="Life on Earth by Ham for Jan 30, 2018 " title="Life on Earth by Ham for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c5e6f50daa801350e81005056a9545d" alt="Life on Earth by Ham for Jan 29, 2018 " title="Life on Earth by Ham for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/77442480daa801350e81005056a9545d" alt="Life on Earth by Ham for Jan 28, 2018 " title="Life on Earth by Ham for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d1cadc0daa801350e81005056a9545d" alt="Life on Earth by Ham for Jan 27, 2018 " title="Life on Earth by Ham for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/74985de0daa801350e81005056a9545d" alt="Life on Earth by Ham for Jan 26, 2018 " title="Life on Earth by Ham for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 16, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/527d3ff0cc810135095c005056a9545d" alt="Life on Earth by Ham for Jan 16, 2018 " title="Life on Earth by Ham for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 15, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55b65870cc810135095c005056a9545d" alt="Life on Earth by Ham for Jan 15, 2018 " title="Life on Earth by Ham for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jan 14, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/life-on-earth/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/573364e0cc810135095c005056a9545d" alt="Life on Earth by Ham for Jan 14, 2018 " title="Life on Earth by Ham for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Ham</name>
-            </author>
         </item>
     </channel>
 </rss>

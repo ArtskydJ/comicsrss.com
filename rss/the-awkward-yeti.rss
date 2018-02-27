@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Awkward Yeti</title>
-        <description>The Awkward Yeti by Nick Seluk</description>
         <link>http://www.gocomics.com/the-awkward-yeti</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Awkward Yeti by Nick Seluk</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Awkward Yeti</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ay/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-awkward-yeti</link>
         </image>
         <copyright>Copyright Nick Seluk</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-awkward-yeti.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-awkward-yeti/2018/02/26</link>
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c28b2b70e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 26, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3d2bc70e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 23, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c7162830e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 21, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf16ad20e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 19, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c15a7910e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 16, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c8345020e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 14, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4cb2cb0e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 12, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c02f1450e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 9, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c93f5b40e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 7, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/be07ff70e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 5, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c61266a0e99e0135140f005056a9545d" alt="The Awkward Yeti by Nick Seluk for Feb 2, 2018 " title="The Awkward Yeti by Nick Seluk for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Jan 8, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e67ab60cee701350a55005056a9545d" alt="The Awkward Yeti by Nick Seluk for Jan 8, 2018 " title="The Awkward Yeti by Nick Seluk for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Jan 5, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/01/05</guid>
             <pubDate>Fri, 05 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/21a2da70cee701350a55005056a9545d" alt="The Awkward Yeti by Nick Seluk for Jan 5, 2018 " title="The Awkward Yeti by Nick Seluk for Jan 5, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Jan 3, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/01/03</guid>
             <pubDate>Wed, 03 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2033b120cee701350a55005056a9545d" alt="The Awkward Yeti by Nick Seluk for Jan 3, 2018 " title="The Awkward Yeti by Nick Seluk for Jan 3, 2018 ">]]></description>
-            <author>
-                <name>Nick Seluk</name>
-            </author>
         </item>
     </channel>
 </rss>

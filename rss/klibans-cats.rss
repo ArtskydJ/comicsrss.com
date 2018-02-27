@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Kliban&amp;#39;s Cats</title>
-        <description>Kliban&amp;#39;s Cats by B. Kliban</description>
         <link>http://www.gocomics.com/klibans-cats</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Kliban&amp;#39;s Cats by B. Kliban</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Kliban&amp;#39;s Cats</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/klic/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/klibans-cats</link>
         </image>
         <copyright>Copyright B. Kliban</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/klibans-cats.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 22, 2018 ]]></title>
             <link>http://www.gocomics.com/klibans-cats/2018/02/22</link>
             <guid>http://www.gocomics.com/klibans-cats/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00c91e80f82201351972005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 22, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 20, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb61ddc0f81f01351971005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 20, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 15, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c735a80eddc013515a9005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 15, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 13, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc1491d0edd7013515a6005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 13, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 8, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ace6c100e903013513d5005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 8, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 6, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92849460e901013513d3005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 6, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Feb 1, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/77d0dd80e8ff013513ce005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Feb 1, 2018 " title="Kliban&#39;s Cats by B. Kliban for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 30, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ec0d77b0e376013511ae005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 30, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 25, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4aa06a0e2d901351173005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 25, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 23, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c28f6290e2d901351173005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 23, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 18, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e57da70d7ad01350d2e005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 18, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 16, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57ac25f0d7ab01350d2b005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 16, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 11, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/294610f0d7a701350d24005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 11, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kliban&#39;s Cats by B. Kliban for Jan 9, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/klibans-cats/2018/01/09</guid>
             <pubDate>Tue, 09 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c0ba620b9380135029e005056a9545d" alt="Kliban&#39;s Cats by B. Kliban for Jan 9, 2018 " title="Kliban&#39;s Cats by B. Kliban for Jan 9, 2018 ">]]></description>
-            <author>
-                <name>B. Kliban</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Savage Chickens</title>
-        <description>Savage Chickens by Doug Savage</description>
         <link>http://www.gocomics.com/savage-chickens</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Savage Chickens by Doug Savage</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Savage Chickens</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/sac/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/savage-chickens</link>
         </image>
         <copyright>Copyright Doug Savage</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/savage-chickens.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/savage-chickens/2018/02/26</link>
             <guid>http://www.gocomics.com/savage-chickens/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ea31cba0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 26, 2018 " title="Savage Chickens by Doug Savage for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eeb3ca00d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 23, 2018 " title="Savage Chickens by Doug Savage for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/de557d50d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 22, 2018 " title="Savage Chickens by Doug Savage for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4c18c80d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 21, 2018 " title="Savage Chickens by Doug Savage for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef3cb5e0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 20, 2018 " title="Savage Chickens by Doug Savage for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e31b8520d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 19, 2018 " title="Savage Chickens by Doug Savage for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6518a50d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 16, 2018 " title="Savage Chickens by Doug Savage for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6edfdb0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 15, 2018 " title="Savage Chickens by Doug Savage for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e89c85f0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 14, 2018 " title="Savage Chickens by Doug Savage for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ec85aa30d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 13, 2018 " title="Savage Chickens by Doug Savage for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 12, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f431a150d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 12, 2018 " title="Savage Chickens by Doug Savage for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 9, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dcc0b030d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 9, 2018 " title="Savage Chickens by Doug Savage for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f0528b80d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 8, 2018 " title="Savage Chickens by Doug Savage for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 7, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e53e1180d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 7, 2018 " title="Savage Chickens by Doug Savage for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 6, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e0616a50d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 6, 2018 " title="Savage Chickens by Doug Savage for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 5, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eac9bf70d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 5, 2018 " title="Savage Chickens by Doug Savage for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 2, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f17dc060d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 2, 2018 " title="Savage Chickens by Doug Savage for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Feb 1, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ded84340d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Feb 1, 2018 " title="Savage Chickens by Doug Savage for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 31, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e5c9b130d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 31, 2018 " title="Savage Chickens by Doug Savage for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 30, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e0e89dd0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 30, 2018 " title="Savage Chickens by Doug Savage for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 29, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e3a0bb60d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 29, 2018 " title="Savage Chickens by Doug Savage for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 26, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9209500d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 26, 2018 " title="Savage Chickens by Doug Savage for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 25, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed99dac0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 25, 2018 " title="Savage Chickens by Doug Savage for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 24, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2075e00d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 24, 2018 " title="Savage Chickens by Doug Savage for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 23, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f0e40c30d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 23, 2018 " title="Savage Chickens by Doug Savage for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 22, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e172eb10d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 22, 2018 " title="Savage Chickens by Doug Savage for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 19, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e424ce50d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 19, 2018 " title="Savage Chickens by Doug Savage for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 18, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/efc948f0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 18, 2018 " title="Savage Chickens by Doug Savage for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 17, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7805f10d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 17, 2018 " title="Savage Chickens by Doug Savage for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 16, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1fe3170d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 16, 2018 " title="Savage Chickens by Doug Savage for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Jan 15, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/savage-chickens/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb5e32f0d62b01350c9d005056a9545d" alt="Savage Chickens by Doug Savage for Jan 15, 2018 " title="Savage Chickens by Doug Savage for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Doug Savage</name>
-            </author>
         </item>
     </channel>
 </rss>

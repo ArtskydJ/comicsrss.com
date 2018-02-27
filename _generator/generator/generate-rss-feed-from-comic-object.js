@@ -14,6 +14,7 @@ module.exports = function (comicObject) {
 		description: comicObject.titleAndAuthor,
 		link: comicObject.comicUrl,
 		image: comicObject.headerImageUrl,
+		feed: 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss',
 		copyright: 'Copyright ' + feedAuthor,
 		author: { name: feedAuthor },
 		id: makeId(comicObject.comicUrl)
@@ -32,7 +33,7 @@ module.exports = function (comicObject) {
 		})
 	})
 
-	return feed.render('rss-2.0')
+	return feed.rss2()
 }
 
 function makeId(str) {

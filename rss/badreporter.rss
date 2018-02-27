@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bad Reporter</title>
-        <description>Bad Reporter by Don Asmussen</description>
         <link>http://www.gocomics.com/badreporter</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Bad Reporter by Don Asmussen</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Bad Reporter</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/bad/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/badreporter</link>
         </image>
         <copyright>Copyright Don Asmussen</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/badreporter.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/badreporter/2018/02/23</link>
             <guid>http://www.gocomics.com/badreporter/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/288f4050fa2801351a66005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 23, 2018 " title="Bad Reporter by Don Asmussen for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/acee8880f8a8013519a3005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 21, 2018 " title="Bad Reporter by Don Asmussen for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 16, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68ad9750f4c70135187c005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 16, 2018 " title="Bad Reporter by Don Asmussen for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 14, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/34792e40f27201351751005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 14, 2018 " title="Bad Reporter by Don Asmussen for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 10, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ce42a830f018013516b8005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 10, 2018 " title="Bad Reporter by Don Asmussen for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 9, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/983ee230ef3801351650005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 9, 2018 " title="Bad Reporter by Don Asmussen for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 7, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eced14d0ed8801351573005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 7, 2018 " title="Bad Reporter by Don Asmussen for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Feb 2, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/49e8b7c0e9cb0135143c005056a9545d" alt="Bad Reporter by Don Asmussen for Feb 2, 2018 " title="Bad Reporter by Don Asmussen for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 31, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f3421070e83801351366005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 31, 2018 " title="Bad Reporter by Don Asmussen for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 27, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4dd6dd0e4f60135125d005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 27, 2018 " title="Bad Reporter by Don Asmussen for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 26, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/451297d0e43801351205005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 26, 2018 " title="Bad Reporter by Don Asmussen for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 24, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/699462d0e2b00135115a005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 24, 2018 " title="Bad Reporter by Don Asmussen for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 20, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d9293e90df8d0135105f005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 20, 2018 " title="Bad Reporter by Don Asmussen for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 19, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3d00d70dec401350ffd005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 19, 2018 " title="Bad Reporter by Don Asmussen for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 17, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44cac500dd3001350f3a005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 17, 2018 " title="Bad Reporter by Don Asmussen for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 12, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ce863260d94a01350dfa005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 12, 2018 " title="Bad Reporter by Don Asmussen for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jan 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31762330d7b201350d34005056a9545d" alt="Bad Reporter by Don Asmussen for Jan 10, 2018 " title="Bad Reporter by Don Asmussen for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Don Asmussen</name>
-            </author>
         </item>
     </channel>
 </rss>

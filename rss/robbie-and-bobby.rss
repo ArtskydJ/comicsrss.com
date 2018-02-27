@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Robbie and Bobby</title>
-        <description>Robbie and Bobby by Jason Poland</description>
         <link>http://www.gocomics.com/robbie-and-bobby</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Robbie and Bobby by Jason Poland</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Robbie and Bobby</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/rab/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/robbie-and-bobby</link>
         </image>
         <copyright>Copyright Jason Poland</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/robbie-and-bobby.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 22, 2018 ]]></title>
             <link>http://www.gocomics.com/robbie-and-bobby/2018/02/22</link>
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6cf88350d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 22, 2018 " title="Robbie and Bobby by Jason Poland for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 20, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f7970a0d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 20, 2018 " title="Robbie and Bobby by Jason Poland for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 15, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/73397ad0d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 15, 2018 " title="Robbie and Bobby by Jason Poland for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 13, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/684826a0d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 13, 2018 " title="Robbie and Bobby by Jason Poland for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 8, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6af80790d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 8, 2018 " title="Robbie and Bobby by Jason Poland for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 6, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/75a74c20d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 6, 2018 " title="Robbie and Bobby by Jason Poland for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Feb 1, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/77dca440d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Feb 1, 2018 " title="Robbie and Bobby by Jason Poland for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 30, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7bfe9700d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 30, 2018 " title="Robbie and Bobby by Jason Poland for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 25, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/713483b0d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 25, 2018 " title="Robbie and Bobby by Jason Poland for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 23, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6dd28170d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 23, 2018 " title="Robbie and Bobby by Jason Poland for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 18, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/768ff120d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 18, 2018 " title="Robbie and Bobby by Jason Poland for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 16, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b4392c0d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 16, 2018 " title="Robbie and Bobby by Jason Poland for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 11, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/78a07660d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 11, 2018 " title="Robbie and Bobby by Jason Poland for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Robbie and Bobby by Jason Poland for Jan 9, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/robbie-and-bobby/2018/01/09</guid>
             <pubDate>Tue, 09 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7725ed30d6a501350cbd005056a9545d" alt="Robbie and Bobby by Jason Poland for Jan 9, 2018 " title="Robbie and Bobby by Jason Poland for Jan 9, 2018 ">]]></description>
-            <author>
-                <name>Jason Poland</name>
-            </author>
         </item>
     </channel>
 </rss>

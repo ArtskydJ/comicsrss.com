@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Trucutu</title>
-        <description>Trucutu by Jack and Carole Bender</description>
         <link>http://www.gocomics.com/trucutu</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Trucutu by Jack and Carole Bender</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Trucutu</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/aosp/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/trucutu</link>
         </image>
         <copyright>Copyright Jack and Carole Bender</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/trucutu.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/trucutu/2018/02/26</link>
             <guid>http://www.gocomics.com/trucutu/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/214d8c00f94b013519e9005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 26, 2018 " title="Trucutu by Jack and Carole Bender for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e14b6e00e84b01351376005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 25, 2018 " title="Trucutu by Jack and Carole Bender for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6125d540f49101351855005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 24, 2018 " title="Trucutu by Jack and Carole Bender for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f6a95c0f49101351855005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 23, 2018 " title="Trucutu by Jack and Carole Bender for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d8932a0f49101351855005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 22, 2018 " title="Trucutu by Jack and Carole Bender for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5bcb6470f49101351855005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 21, 2018 " title="Trucutu by Jack and Carole Bender for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5a0a3990f49101351855005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 20, 2018 " title="Trucutu by Jack and Carole Bender for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/58327950f49101351855005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 19, 2018 " title="Trucutu by Jack and Carole Bender for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7a07ae0e2cb0135116d005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 18, 2018 " title="Trucutu by Jack and Carole Bender for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a55e9f80ee4d013515d5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 17, 2018 " title="Trucutu by Jack and Carole Bender for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a33afdf0ee4d013515d5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 16, 2018 " title="Trucutu by Jack and Carole Bender for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1676640ee4d013515d5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 15, 2018 " title="Trucutu by Jack and Carole Bender for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f911460ee4d013515d5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 14, 2018 " title="Trucutu by Jack and Carole Bender for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d8566d0ee4d013515d5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 13, 2018 " title="Trucutu by Jack and Carole Bender for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b7f30e0ee4d013515d5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 12, 2018 " title="Trucutu by Jack and Carole Bender for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b523cf70de1401350fb5005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 11, 2018 " title="Trucutu by Jack and Carole Bender for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/abcc7220e8d1013513aa005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 10, 2018 " title="Trucutu by Jack and Carole Bender for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa209610e8d1013513aa005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 9, 2018 " title="Trucutu by Jack and Carole Bender for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a87daf10e8d1013513aa005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 8, 2018 " title="Trucutu by Jack and Carole Bender for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a63eace0e8d1013513aa005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 7, 2018 " title="Trucutu by Jack and Carole Bender for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4a97ec0e8d1013513aa005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 6, 2018 " title="Trucutu by Jack and Carole Bender for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2be21b0e8d1013513aa005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 5, 2018 " title="Trucutu by Jack and Carole Bender for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/868623e0d89401350db0005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 4, 2018 " title="Trucutu by Jack and Carole Bender for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8c5762e0e34301351193005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 3, 2018 " title="Trucutu by Jack and Carole Bender for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a672600e34301351193005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 2, 2018 " title="Trucutu by Jack and Carole Bender for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8857c7a0e34301351193005056a9545d" alt="Trucutu by Jack and Carole Bender for Feb 1, 2018 " title="Trucutu by Jack and Carole Bender for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/864108d0e34301351193005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 31, 2018 " title="Trucutu by Jack and Carole Bender for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/846b9860e34301351193005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 30, 2018 " title="Trucutu by Jack and Carole Bender for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82468140e34301351193005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 29, 2018 " title="Trucutu by Jack and Carole Bender for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9cac74e0d3dd01350bff005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 28, 2018 " title="Trucutu by Jack and Carole Bender for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ea69a90ddc601350f7a005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 27, 2018 " title="Trucutu by Jack and Carole Bender for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2cfacfd0ddc601350f7a005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 26, 2018 " title="Trucutu by Jack and Carole Bender for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2b0b2d10ddc601350f7a005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 25, 2018 " title="Trucutu by Jack and Carole Bender for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/28f10850ddc601350f7a005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 24, 2018 " title="Trucutu by Jack and Carole Bender for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/271d7ec0ddc601350f7a005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 23, 2018 " title="Trucutu by Jack and Carole Bender for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/25457110ddc601350f7a005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 22, 2018 " title="Trucutu by Jack and Carole Bender for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/32c2a770cef701350a63005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 21, 2018 " title="Trucutu by Jack and Carole Bender for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/30f8d3e0d85101350d79005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 20, 2018 " title="Trucutu by Jack and Carole Bender for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2f2c1760d85101350d79005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 19, 2018 " title="Trucutu by Jack and Carole Bender for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2d76aef0d85101350d79005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 18, 2018 " title="Trucutu by Jack and Carole Bender for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2b88da00d85101350d79005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 17, 2018 " title="Trucutu by Jack and Carole Bender for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/29a71800d85101350d79005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 16, 2018 " title="Trucutu by Jack and Carole Bender for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/trucutu/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/280ff490d85101350d79005056a9545d" alt="Trucutu by Jack and Carole Bender for Jan 15, 2018 " title="Trucutu by Jack and Carole Bender for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jack and Carole Bender</name>
-            </author>
         </item>
     </channel>
 </rss>

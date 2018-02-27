@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Wee Pals</title>
-        <description>Wee Pals by Morrie Turner</description>
         <link>http://www.gocomics.com/weepals</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Wee Pals by Morrie Turner</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Wee Pals</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crwee/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/weepals</link>
         </image>
         <copyright>Copyright Morrie Turner</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/weepals.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/weepals/2018/02/26</link>
             <guid>http://www.gocomics.com/weepals/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b5417e0f6e701351927005056a9545d" alt="Wee Pals by Morrie Turner for Feb 26, 2018 " title="Wee Pals by Morrie Turner for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/983824b0f6e701351927005056a9545d" alt="Wee Pals by Morrie Turner for Feb 25, 2018 " title="Wee Pals by Morrie Turner for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6b7d4300f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 24, 2018 " title="Wee Pals by Morrie Turner for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/756efdb0f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 23, 2018 " title="Wee Pals by Morrie Turner for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7660e340f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 22, 2018 " title="Wee Pals by Morrie Turner for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/74704720f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 21, 2018 " title="Wee Pals by Morrie Turner for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d9cac60f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 20, 2018 " title="Wee Pals by Morrie Turner for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c805710f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 19, 2018 " title="Wee Pals by Morrie Turner for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/736499b0f167013516f0005056a9545d" alt="Wee Pals by Morrie Turner for Feb 18, 2018 " title="Wee Pals by Morrie Turner for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c4d6be0ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 17, 2018 " title="Wee Pals by Morrie Turner for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4a73ad40ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 16, 2018 " title="Wee Pals by Morrie Turner for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/499372f0ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 15, 2018 " title="Wee Pals by Morrie Turner for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41e45ee0ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 14, 2018 " title="Wee Pals by Morrie Turner for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4b682950ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 13, 2018 " title="Wee Pals by Morrie Turner for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48a400b0ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 12, 2018 " title="Wee Pals by Morrie Turner for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/47a1efa0ebe7013514e6005056a9545d" alt="Wee Pals by Morrie Turner for Feb 11, 2018 " title="Wee Pals by Morrie Turner for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1b792230e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 10, 2018 " title="Wee Pals by Morrie Turner for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a776d30e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 9, 2018 " title="Wee Pals by Morrie Turner for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/230bba80e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 8, 2018 " title="Wee Pals by Morrie Turner for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/194f8c50e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 7, 2018 " title="Wee Pals by Morrie Turner for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/23f23df0e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 6, 2018 " title="Wee Pals by Morrie Turner for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/222ac530e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 5, 2018 " title="Wee Pals by Morrie Turner for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2137b250e667013512af005056a9545d" alt="Wee Pals by Morrie Turner for Feb 4, 2018 " title="Wee Pals by Morrie Turner for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f9533e50e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Feb 3, 2018 " title="Wee Pals by Morrie Turner for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f18d50d0e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Feb 2, 2018 " title="Wee Pals by Morrie Turner for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/weepals/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f84f20d0e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Feb 1, 2018 " title="Wee Pals by Morrie Turner for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa316cc0e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Jan 31, 2018 " title="Wee Pals by Morrie Turner for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f07e33b0e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Jan 30, 2018 " title="Wee Pals by Morrie Turner for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb14d0b0e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Jan 29, 2018 " title="Wee Pals by Morrie Turner for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f75d0510e0e6013510a5005056a9545d" alt="Wee Pals by Morrie Turner for Jan 28, 2018 " title="Wee Pals by Morrie Turner for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c8474400db6601350e9f005056a9545d" alt="Wee Pals by Morrie Turner for Jan 27, 2018 " title="Wee Pals by Morrie Turner for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab636700dd5d01350f5a005056a9545d" alt="Wee Pals by Morrie Turner for Jan 26, 2018 " title="Wee Pals by Morrie Turner for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d0ae4200db6601350e9f005056a9545d" alt="Wee Pals by Morrie Turner for Jan 25, 2018 " title="Wee Pals by Morrie Turner for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cfd80160db6601350e9f005056a9545d" alt="Wee Pals by Morrie Turner for Jan 24, 2018 " title="Wee Pals by Morrie Turner for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c92ebd20db6601350e9f005056a9545d" alt="Wee Pals by Morrie Turner for Jan 23, 2018 " title="Wee Pals by Morrie Turner for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c73775e0db6601350e9f005056a9545d" alt="Wee Pals by Morrie Turner for Jan 22, 2018 " title="Wee Pals by Morrie Turner for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cee6bee0db6601350e9f005056a9545d" alt="Wee Pals by Morrie Turner for Jan 21, 2018 " title="Wee Pals by Morrie Turner for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1a2e080d5e601350c91005056a9545d" alt="Wee Pals by Morrie Turner for Jan 20, 2018 " title="Wee Pals by Morrie Turner for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e1349f0d5e601350c91005056a9545d" alt="Wee Pals by Morrie Turner for Jan 19, 2018 " title="Wee Pals by Morrie Turner for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a0c6d250d5e601350c91005056a9545d" alt="Wee Pals by Morrie Turner for Jan 18, 2018 " title="Wee Pals by Morrie Turner for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a84ce5a0d5e601350c91005056a9545d" alt="Wee Pals by Morrie Turner for Jan 17, 2018 " title="Wee Pals by Morrie Turner for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f07a5c0d5e601350c91005056a9545d" alt="Wee Pals by Morrie Turner for Jan 16, 2018 " title="Wee Pals by Morrie Turner for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/weepals/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ff3a3b0d5e601350c91005056a9545d" alt="Wee Pals by Morrie Turner for Jan 15, 2018 " title="Wee Pals by Morrie Turner for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Morrie Turner</name>
-            </author>
         </item>
     </channel>
 </rss>

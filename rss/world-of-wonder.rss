@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>World of Wonder</title>
-        <description>World of Wonder by Laurie Triefeldt</description>
         <link>http://www.gocomics.com/world-of-wonder</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>World of Wonder by Laurie Triefeldt</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>World of Wonder</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wow/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/world-of-wonder</link>
         </image>
         <copyright>Copyright Laurie Triefeldt</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/world-of-wonder.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/world-of-wonder/2018/02/25</link>
             <guid>http://www.gocomics.com/world-of-wonder/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12ce6b40dede01351015005056a9545d" alt="World of Wonder by Laurie Triefeldt for Feb 25, 2018 " title="World of Wonder by Laurie Triefeldt for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Feb 18, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0de9b1b0da2701350e6a005056a9545d" alt="World of Wonder by Laurie Triefeldt for Feb 18, 2018 " title="World of Wonder by Laurie Triefeldt for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Feb 11, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4875f00d4ea01350c6d005056a9545d" alt="World of Wonder by Laurie Triefeldt for Feb 11, 2018 " title="World of Wonder by Laurie Triefeldt for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Feb 4, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8cb6a950cefa01350a63005056a9545d" alt="World of Wonder by Laurie Triefeldt for Feb 4, 2018 " title="World of Wonder by Laurie Triefeldt for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Jan 28, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b782b00cefa01350a63005056a9545d" alt="World of Wonder by Laurie Triefeldt for Jan 28, 2018 " title="World of Wonder by Laurie Triefeldt for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Jan 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f598f50cefa01350a63005056a9545d" alt="World of Wonder by Laurie Triefeldt for Jan 21, 2018 " title="World of Wonder by Laurie Triefeldt for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Jan 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56d835d0cefa01350a63005056a9545d" alt="World of Wonder by Laurie Triefeldt for Jan 14, 2018 " title="World of Wonder by Laurie Triefeldt for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Jan 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2018/01/07</guid>
             <pubDate>Sun, 07 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61072a70cefa01350a63005056a9545d" alt="World of Wonder by Laurie Triefeldt for Jan 7, 2018 " title="World of Wonder by Laurie Triefeldt for Jan 7, 2018 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for Dec 31, 2017 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/world-of-wonder/2017/12/31</guid>
             <pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ac9f9920b0810135ff5a005056a9545d" alt="World of Wonder by Laurie Triefeldt for Dec 31, 2017 " title="World of Wonder by Laurie Triefeldt for Dec 31, 2017 ">]]></description>
-            <author>
-                <name>Laurie Triefeldt</name>
-            </author>
         </item>
     </channel>
 </rss>

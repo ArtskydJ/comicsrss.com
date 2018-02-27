@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Foolish Mortals</title>
-        <description>Foolish Mortals by Tom Horacek</description>
         <link>http://www.gocomics.com/foolish-mortals</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Foolish Mortals by Tom Horacek</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Foolish Mortals</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/fmo/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/foolish-mortals</link>
         </image>
         <copyright>Copyright Tom Horacek</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/foolish-mortals.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Foolish Mortals by Tom Horacek for Jun 26, 2017 ]]></title>
             <link>http://www.gocomics.com/foolish-mortals/2017/06/26</link>
             <guid>http://www.gocomics.com/foolish-mortals/2017/06/26</guid>
             <pubDate>Mon, 26 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dee6e3503d220135d5d7005056a9545d" alt="Foolish Mortals by Tom Horacek for Jun 26, 2017 " title="Foolish Mortals by Tom Horacek for Jun 26, 2017 ">]]></description>
-            <author>
-                <name>Tom Horacek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Foolish Mortals by Tom Horacek for Jun 19, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/foolish-mortals/2017/06/19</guid>
             <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f165b20038820135d48a005056a9545d" alt="Foolish Mortals by Tom Horacek for Jun 19, 2017 " title="Foolish Mortals by Tom Horacek for Jun 19, 2017 ">]]></description>
-            <author>
-                <name>Tom Horacek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Foolish Mortals by Tom Horacek for May 29, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/foolish-mortals/2017/05/29</guid>
             <pubDate>Mon, 29 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a69cb6f026650135c0c7005056a9545d" alt="Foolish Mortals by Tom Horacek for May 29, 2017 " title="Foolish Mortals by Tom Horacek for May 29, 2017 ">]]></description>
-            <author>
-                <name>Tom Horacek</name>
-            </author>
         </item>
     </channel>
 </rss>

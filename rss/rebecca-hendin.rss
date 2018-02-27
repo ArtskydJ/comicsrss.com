@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Rebecca Hendin</title>
-        <description>Rebecca Hendin by Rebecca Hendin</description>
         <link>http://www.gocomics.com/rebecca-hendin</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Rebecca Hendin by Rebecca Hendin</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Rebecca Hendin</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/reb/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/rebecca-hendin</link>
         </image>
         <copyright>Copyright Rebecca Hendin</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/rebecca-hendin.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rebecca Hendin by Rebecca Hendin for May 16, 2017 ]]></title>
             <link>http://www.gocomics.com/rebecca-hendin/2017/05/16</link>
             <guid>http://www.gocomics.com/rebecca-hendin/2017/05/16</guid>
             <pubDate>Tue, 16 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/245075101c690135b249005056a9545d" alt="Rebecca Hendin by Rebecca Hendin for May 16, 2017 " title="Rebecca Hendin by Rebecca Hendin for May 16, 2017 ">]]></description>
-            <author>
-                <name>Rebecca Hendin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rebecca Hendin by Rebecca Hendin for May 13, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/rebecca-hendin/2017/05/13</guid>
             <pubDate>Sat, 13 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0fb541a0197b0135aecf005056a9545d" alt="Rebecca Hendin by Rebecca Hendin for May 13, 2017 " title="Rebecca Hendin by Rebecca Hendin for May 13, 2017 ">]]></description>
-            <author>
-                <name>Rebecca Hendin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rebecca Hendin by Rebecca Hendin for May 3, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/rebecca-hendin/2017/05/03</guid>
             <pubDate>Wed, 03 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9535eb9011b10135a37e005056a9545d" alt="Rebecca Hendin by Rebecca Hendin for May 3, 2017 " title="Rebecca Hendin by Rebecca Hendin for May 3, 2017 ">]]></description>
-            <author>
-                <name>Rebecca Hendin</name>
-            </author>
         </item>
     </channel>
 </rss>

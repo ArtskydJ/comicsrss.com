@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>La Cucaracha en Español</title>
-        <description>La Cucaracha en Español by Lalo Alcaraz</description>
         <link>http://www.gocomics.com/la-cucaracha-en-espanol</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>La Cucaracha en Español by Lalo Alcaraz</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>La Cucaracha en Español</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/lcsp/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/la-cucaracha-en-espanol</link>
         </image>
         <copyright>Copyright Lalo Alcaraz</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/la-cucaracha-en-espanol.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/26</link>
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53beb0b0f94f013519ec005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 26, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4f7a7a0f4990135185e005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 24, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3632d20f4990135185e005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 23, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c1e767d0f4990135185e005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 22, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 21, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0696c90f4990135185e005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 21, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 20, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bec4d020f4990135185e005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 20, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 19, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bd1cc330f4990135185e005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 19, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 17, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f2b3d10ee50013515d7005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 17, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 16, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6da771b0ee50013515d7005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 16, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 15, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c320220ee50013515d7005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 15, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 14, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ac85490ee50013515d7005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 14, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 13, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/69388660ee50013515d7005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 13, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67c01890ee50013515d7005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 12, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a725db20e8d8013513b0005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 10, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5ac95d0e8d8013513b0005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 9, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4502800e8d8013513b0005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 8, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2df2160e8d8013513b0005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 7, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1829200e8d8013513b0005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 6, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a01bda40e8d8013513b0005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 5, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 3, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1828c9d0e2ae01351157005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 3, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 2, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/16b6db90e2ae01351157005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 2, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Feb 1, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/153f87d0e2ae01351157005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Feb 1, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 31, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13d96330e2ae01351157005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 31, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 30, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/127faab0e2ae01351157005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 30, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 29, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/110208a0e2ae01351157005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 29, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 27, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a46f0c10ddc701350f7d005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 27, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 26, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a30c11f0ddc701350f7d005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 26, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 25, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a0b92120ddc701350f7d005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 25, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 24, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f38e2e0ddc701350f7d005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 24, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 23, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d508a50ddc701350f7d005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 23, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 22, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9bcd6340ddc701350f7d005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 22, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 20, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8181e90d85201350d7a005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 20, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 19, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6bd7cf0d85201350d7a005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 19, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 18, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a53f5240d85201350d7a005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 18, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 17, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a3ddc210d85201350d7a005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 17, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 16, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a26696f0d85201350d7a005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 16, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[La Cucaracha en Español by Lalo Alcaraz for Jan 15, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/la-cucaracha-en-espanol/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a0fe5970d85201350d7a005056a9545d" alt="La Cucaracha en Español by Lalo Alcaraz for Jan 15, 2018 " title="La Cucaracha en Español by Lalo Alcaraz for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Lalo Alcaraz</name>
-            </author>
         </item>
     </channel>
 </rss>

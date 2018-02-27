@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Owlturd</title>
-        <description>Owlturd by Shen T</description>
         <link>http://www.gocomics.com/owlturd</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Owlturd by Shen T</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Owlturd</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ot/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/owlturd</link>
         </image>
         <copyright>Copyright Shen T</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/owlturd.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Owlturd by Shen T for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/owlturd/2018/02/23</link>
             <guid>http://www.gocomics.com/owlturd/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a56920f0faea01351acc005056a9545d" alt="Owlturd by Shen T for Feb 23, 2018 " title="Owlturd by Shen T for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Feb 14, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14bbdc80f42e01351831005056a9545d" alt="Owlturd by Shen T for Feb 14, 2018 " title="Owlturd by Shen T for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Feb 9, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/49d396b0f02b013516c4005056a9545d" alt="Owlturd by Shen T for Feb 9, 2018 " title="Owlturd by Shen T for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Feb 8, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ecf9e770ef7201351674005056a9545d" alt="Owlturd by Shen T for Feb 8, 2018 " title="Owlturd by Shen T for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Feb 6, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68d76510ed9b0135157b005056a9545d" alt="Owlturd by Shen T for Feb 6, 2018 " title="Owlturd by Shen T for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 31, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14e0ebf0e8f3013513bc005056a9545d" alt="Owlturd by Shen T for Jan 31, 2018 " title="Owlturd by Shen T for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 30, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2642c50e84f01351379005056a9545d" alt="Owlturd by Shen T for Jan 30, 2018 " title="Owlturd by Shen T for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 29, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/15bdfc40e752013512f5005056a9545d" alt="Owlturd by Shen T for Jan 29, 2018 " title="Owlturd by Shen T for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 25, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8323d5f0e45b01351228005056a9545d" alt="Owlturd by Shen T for Jan 25, 2018 " title="Owlturd by Shen T for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 22, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b6af8fa0e1e2013510f9005056a9545d" alt="Owlturd by Shen T for Jan 22, 2018 " title="Owlturd by Shen T for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 21, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/83e654d0e0ed013510a9005056a9545d" alt="Owlturd by Shen T for Jan 21, 2018 " title="Owlturd by Shen T for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 19, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b622dd0df7a0135104d005056a9545d" alt="Owlturd by Shen T for Jan 19, 2018 " title="Owlturd by Shen T for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 18, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c12ad020de8b01350fde005056a9545d" alt="Owlturd by Shen T for Jan 18, 2018 " title="Owlturd by Shen T for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 17, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8583afa0de0301350fa7005056a9545d" alt="Owlturd by Shen T for Jan 17, 2018 " title="Owlturd by Shen T for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 16, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c93371e0dd2d01350f34005056a9545d" alt="Owlturd by Shen T for Jan 16, 2018 " title="Owlturd by Shen T for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 15, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e9d1120dc3801350ed7005056a9545d" alt="Owlturd by Shen T for Jan 15, 2018 " title="Owlturd by Shen T for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Owlturd by Shen T for Jan 14, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/owlturd/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ba7a0250db7501350ea1005056a9545d" alt="Owlturd by Shen T for Jan 14, 2018 " title="Owlturd by Shen T for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Shen T</name>
-            </author>
         </item>
     </channel>
 </rss>

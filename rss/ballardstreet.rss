@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ballard Street</title>
-        <description>Ballard Street by Jerry Van Amerongen</description>
         <link>http://www.gocomics.com/ballardstreet</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Ballard Street by Jerry Van Amerongen</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Ballard Street</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crbal/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/ballardstreet</link>
         </image>
         <copyright>Copyright Jerry Van Amerongen</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/ballardstreet.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/ballardstreet/2018/02/26</link>
             <guid>http://www.gocomics.com/ballardstreet/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f91f7540f6e801351927005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 26, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5d4e420f168013516f0005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 24, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c78ca320f168013516f0005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 23, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf39bc20f168013516f0005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 22, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 21, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c96ea540f168013516f0005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 21, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 20, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c128b820f168013516f0005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 20, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 19, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3db0720f168013516f0005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 19, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 17, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/91da0d70ebe8013514e6005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 17, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 16, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/93b6fd50ebe8013514e6005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 16, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 15, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a6baff0ebe8013514e6005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 15, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 14, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e2ab390ebe8013514e6005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 14, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 13, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8fe6c250ebe8013514e6005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 13, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8c4895a0ebe8013514e6005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 12, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e55f310e668013512af005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 10, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65209b70e668013512af005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 9, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68cb34f0e668013512af005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 8, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c8c3150e668013512af005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 7, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66f13a60e668013512af005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 6, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6aa1d200e668013512af005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 5, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 3, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40699ef0e0e8013510a5005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 3, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 2, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3ea07600e0e8013510a5005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 2, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Feb 1, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/43f7db40e0e8013510a5005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Feb 1, 2018 " title="Ballard Street by Jerry Van Amerongen for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 31, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3cd664d0e0e8013510a5005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 31, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 30, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3ad0ce30e0e8013510a5005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 30, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 29, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/42303c60e0e8013510a5005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 29, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 27, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/08ff86a0db6801350e9f005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 27, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 26, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e4ed2a0db6801350e9f005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 26, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 25, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c7417a0db6801350e9f005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 25, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 24, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/058c90a0db6801350e9f005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 24, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 23, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ab7fa00db6801350e9f005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 23, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 22, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07332c80db6801350e9f005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 22, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 20, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed508990d5e701350c91005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 20, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 19, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f42c5dc0d5e701350c91005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 19, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 18, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2704940d5e701350c91005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 18, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 17, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef04eff0d5e701350c91005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 17, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 16, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f0d6dee0d5e701350c91005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 16, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jan 15, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb5c3550d5e701350c91005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jan 15, 2018 " title="Ballard Street by Jerry Van Amerongen for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jerry Van Amerongen</name>
-            </author>
         </item>
     </channel>
 </rss>

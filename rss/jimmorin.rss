@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jim Morin</title>
-        <description>Jim Morin by Jim Morin</description>
         <link>http://www.gocomics.com/jimmorin</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jim Morin by Jim Morin</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jim Morin</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/cwjmo/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/jimmorin</link>
         </image>
         <copyright>Copyright Jim Morin</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jimmorin.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/jimmorin/2018/02/25</link>
             <guid>http://www.gocomics.com/jimmorin/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a57c090fb2b01351afe005056a9545d" alt="Jim Morin by Jim Morin for Feb 25, 2018 " title="Jim Morin by Jim Morin for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dbf7f240fa2d01351a69005056a9545d" alt="Jim Morin by Jim Morin for Feb 23, 2018 " title="Jim Morin by Jim Morin for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d167d30f97301351a07005056a9545d" alt="Jim Morin by Jim Morin for Feb 22, 2018 " title="Jim Morin by Jim Morin for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 18, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/517054c0f4a501351861005056a9545d" alt="Jim Morin by Jim Morin for Feb 18, 2018 " title="Jim Morin by Jim Morin for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2d8f7ae0f4b80135186c005056a9545d" alt="Jim Morin by Jim Morin for Feb 16, 2018 " title="Jim Morin by Jim Morin for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3423fba0f3f301351809005056a9545d" alt="Jim Morin by Jim Morin for Feb 15, 2018 " title="Jim Morin by Jim Morin for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/08baa170f2fe01351785005056a9545d" alt="Jim Morin by Jim Morin for Feb 14, 2018 " title="Jim Morin by Jim Morin for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 11, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/16803ef0efff013516a3005056a9545d" alt="Jim Morin by Jim Morin for Feb 11, 2018 " title="Jim Morin by Jim Morin for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 9, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/afd66c70ef4601351657005056a9545d" alt="Jim Morin by Jim Morin for Feb 9, 2018 " title="Jim Morin by Jim Morin for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 8, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/254b6ce0eea101351612005056a9545d" alt="Jim Morin by Jim Morin for Feb 8, 2018 " title="Jim Morin by Jim Morin for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 7, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11f66330edae0135158c005056a9545d" alt="Jim Morin by Jim Morin for Feb 7, 2018 " title="Jim Morin by Jim Morin for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 6, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7763f20ece401351539005056a9545d" alt="Jim Morin by Jim Morin for Feb 6, 2018 " title="Jim Morin by Jim Morin for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 4, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9aca25f0ea8d01351490005056a9545d" alt="Jim Morin by Jim Morin for Feb 4, 2018 " title="Jim Morin by Jim Morin for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 2, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e8ceb00e9c401351437005056a9545d" alt="Jim Morin by Jim Morin for Feb 2, 2018 " title="Jim Morin by Jim Morin for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Feb 1, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fab91aa0e8f4013513c0005056a9545d" alt="Jim Morin by Jim Morin for Feb 1, 2018 " title="Jim Morin by Jim Morin for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 31, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e8901bb0e82d0135135b005056a9545d" alt="Jim Morin by Jim Morin for Jan 31, 2018 " title="Jim Morin by Jim Morin for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 30, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f1160b30e7940135131c005056a9545d" alt="Jim Morin by Jim Morin for Jan 30, 2018 " title="Jim Morin by Jim Morin for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 28, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8b66ea0e3b9013511e0005056a9545d" alt="Jim Morin by Jim Morin for Jan 28, 2018 " title="Jim Morin by Jim Morin for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 24, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f960210e2a50135114c005056a9545d" alt="Jim Morin by Jim Morin for Jan 24, 2018 " title="Jim Morin by Jim Morin for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 23, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6d20b30e1e801351101005056a9545d" alt="Jim Morin by Jim Morin for Jan 23, 2018 " title="Jim Morin by Jim Morin for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 21, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd962fa0df860135105a005056a9545d" alt="Jim Morin by Jim Morin for Jan 21, 2018 " title="Jim Morin by Jim Morin for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 19, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a5d00d0deb701350ff6005056a9545d" alt="Jim Morin by Jim Morin for Jan 19, 2018 " title="Jim Morin by Jim Morin for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 18, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/780dba60ddf001350f99005056a9545d" alt="Jim Morin by Jim Morin for Jan 18, 2018 " title="Jim Morin by Jim Morin for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 17, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ddd4320d48f01350c41005056a9545d" alt="Jim Morin by Jim Morin for Jan 17, 2018 " title="Jim Morin by Jim Morin for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 16, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ce386aa0dc6c01350ee4005056a9545d" alt="Jim Morin by Jim Morin for Jan 16, 2018 " title="Jim Morin by Jim Morin for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jan 15, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/jimmorin/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/69332690d3bb01350be1005056a9545d" alt="Jim Morin by Jim Morin for Jan 15, 2018 " title="Jim Morin by Jim Morin for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jim Morin</name>
-            </author>
         </item>
     </channel>
 </rss>

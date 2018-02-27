@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ozy and Millie</title>
-        <description>Ozy and Millie by Dana Simpson</description>
         <link>http://www.gocomics.com/ozy-and-millie</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Ozy and Millie by Dana Simpson</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Ozy and Millie</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ozy/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/ozy-and-millie</link>
         </image>
         <copyright>Copyright Dana Simpson</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/ozy-and-millie.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 15, 2018 ]]></title>
             <link>http://www.gocomics.com/ozy-and-millie/2018/02/15</link>
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a227a650eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 15, 2018 " title="Ozy and Millie by Dana Simpson for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 14, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/acd23780eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 14, 2018 " title="Ozy and Millie by Dana Simpson for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 13, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af31bd50eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 13, 2018 " title="Ozy and Millie by Dana Simpson for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 12, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3dd4360eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 12, 2018 " title="Ozy and Millie by Dana Simpson for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 9, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bd266d30eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 9, 2018 " title="Ozy and Millie by Dana Simpson for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 8, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4abb580eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 8, 2018 " title="Ozy and Millie by Dana Simpson for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 7, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a65ea6e0eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 7, 2018 " title="Ozy and Millie by Dana Simpson for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 6, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b62ed2c0eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 6, 2018 " title="Ozy and Millie by Dana Simpson for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Feb 5, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5123b20eed701351628005056a9545d" alt="Ozy and Millie by Dana Simpson for Feb 5, 2018 " title="Ozy and Millie by Dana Simpson for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Oct 23, 2017 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2017/10/23</guid>
             <pubDate>Mon, 23 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4809db407e3e0135ecc1005056a9545d" alt="Ozy and Millie by Dana Simpson for Oct 23, 2017 " title="Ozy and Millie by Dana Simpson for Oct 23, 2017 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Oct 20, 2017 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2017/10/20</guid>
             <pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e7998f07e3e0135ecc1005056a9545d" alt="Ozy and Millie by Dana Simpson for Oct 20, 2017 " title="Ozy and Millie by Dana Simpson for Oct 20, 2017 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ozy and Millie by Dana Simpson for Oct 19, 2017 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/ozy-and-millie/2017/10/19</guid>
             <pubDate>Thu, 19 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/628da8007e3e0135ecc1005056a9545d" alt="Ozy and Millie by Dana Simpson for Oct 19, 2017 " title="Ozy and Millie by Dana Simpson for Oct 19, 2017 ">]]></description>
-            <author>
-                <name>Dana Simpson</name>
-            </author>
         </item>
     </channel>
 </rss>

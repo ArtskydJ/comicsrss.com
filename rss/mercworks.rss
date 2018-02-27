@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>MercWorks</title>
-        <description>MercWorks by Dave Mercier</description>
         <link>http://www.gocomics.com/mercworks</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>MercWorks by Dave Mercier</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>MercWorks</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/merc/mid_merc_u_201703071258.png</url>
             <link>http://www.gocomics.com/mercworks</link>
         </image>
         <copyright>Copyright Dave Mercier</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/mercworks.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MercWorks by Dave Mercier for Dec 21, 2017 ]]></title>
             <link>http://www.gocomics.com/mercworks/2017/12/21</link>
             <guid>http://www.gocomics.com/mercworks/2017/12/21</guid>
             <pubDate>Thu, 21 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d1d6290c6440135071c005056a9545d" alt="MercWorks by Dave Mercier for Dec 21, 2017 " title="MercWorks by Dave Mercier for Dec 21, 2017 ">]]></description>
-            <author>
-                <name>Dave Mercier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[MercWorks by Dave Mercier for Dec 18, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/mercworks/2017/12/18</guid>
             <pubDate>Mon, 18 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8b614a50c6440135071c005056a9545d" alt="MercWorks by Dave Mercier for Dec 18, 2017 " title="MercWorks by Dave Mercier for Dec 18, 2017 ">]]></description>
-            <author>
-                <name>Dave Mercier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[MercWorks by Dave Mercier for Dec 7, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/mercworks/2017/12/07</guid>
             <pubDate>Thu, 07 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37ef7c70b91f01350293005056a9545d" alt="MercWorks by Dave Mercier for Dec 7, 2017 " title="MercWorks by Dave Mercier for Dec 7, 2017 ">]]></description>
-            <author>
-                <name>Dave Mercier</name>
-            </author>
         </item>
     </channel>
 </rss>

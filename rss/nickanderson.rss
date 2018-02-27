@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nick Anderson</title>
-        <description>Nick Anderson by Nick Anderson</description>
         <link>http://www.gocomics.com/nickanderson</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Nick Anderson by Nick Anderson</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Nick Anderson</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wpnan/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/nickanderson</link>
         </image>
         <copyright>Copyright Nick Anderson</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/nickanderson.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 24, 2018 ]]></title>
             <link>http://www.gocomics.com/nickanderson/2018/02/24</link>
             <guid>http://www.gocomics.com/nickanderson/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/980b2510fb2a01351afd005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 24, 2018 " title="Nick Anderson by Nick Anderson for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1601c1a0f8cf013519bc005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 21, 2018 " title="Nick Anderson by Nick Anderson for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 20, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/646ebaa0f7e401351961005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 20, 2018 " title="Nick Anderson by Nick Anderson for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 16, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/475a7640f4e101351891005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 16, 2018 " title="Nick Anderson by Nick Anderson for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 15, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a61d0c0f4180135182a005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 15, 2018 " title="Nick Anderson by Nick Anderson for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 13, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3b9325a0f26401351745005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 13, 2018 " title="Nick Anderson by Nick Anderson for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 9, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/35ba6500efe701351695005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 9, 2018 " title="Nick Anderson by Nick Anderson for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c7ae08a0edce013515a2005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 7, 2018 " title="Nick Anderson by Nick Anderson for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 6, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c7632f0ed0501351547005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 6, 2018 " title="Nick Anderson by Nick Anderson for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Feb 3, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37410a00eb30013514c6005056a9545d" alt="Nick Anderson by Nick Anderson for Feb 3, 2018 " title="Nick Anderson by Nick Anderson for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 31, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e3f96d0e84e01351378005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 31, 2018 " title="Nick Anderson by Nick Anderson for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 30, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/750d8a90e78501351317005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 30, 2018 " title="Nick Anderson by Nick Anderson for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 25, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ba77e980e41d013511f8005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 25, 2018 " title="Nick Anderson by Nick Anderson for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 24, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/755b6e70e2ce0135116f005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 24, 2018 " title="Nick Anderson by Nick Anderson for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 23, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ccc6f80e20501351110005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 23, 2018 " title="Nick Anderson by Nick Anderson for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 18, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cfb4baf0de8c01350fdf005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 18, 2018 " title="Nick Anderson by Nick Anderson for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 17, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5dcec90ddc301350f79005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 17, 2018 " title="Nick Anderson by Nick Anderson for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 16, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/84d57550dcfa01350f07005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 16, 2018 " title="Nick Anderson by Nick Anderson for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 13, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4372cfe0dad101350e87005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 13, 2018 " title="Nick Anderson by Nick Anderson for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jan 10, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/nickanderson/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ccc3350d84301350d71005056a9545d" alt="Nick Anderson by Nick Anderson for Jan 10, 2018 " title="Nick Anderson by Nick Anderson for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Nick Anderson</name>
-            </author>
         </item>
     </channel>
 </rss>

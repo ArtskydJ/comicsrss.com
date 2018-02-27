@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Poorly Drawn Lines</title>
-        <description>Poorly Drawn Lines by Reza Farazmand</description>
         <link>http://www.gocomics.com/poorly-drawn-lines</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Poorly Drawn Lines by Reza Farazmand</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Poorly Drawn Lines</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/pdl/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/poorly-drawn-lines</link>
         </image>
         <copyright>Copyright Reza Farazmand</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/poorly-drawn-lines.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/poorly-drawn-lines/2018/02/26</link>
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4d2eff50f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 26, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5322e740f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 23, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4fcb2f50f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 21, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/516b0800f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 19, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e0dbed0f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 16, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/50a63990f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 14, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ef10d80f1d001351706005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 12, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ad8b360e9d701351444005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 7, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 5, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4bcea100e9d701351444005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 5, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Feb 2, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4cb932c0e9d701351444005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Feb 2, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Jan 19, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb58e6e0dd6101350f5c005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Jan 19, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Jan 17, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc246ad0dd6101350f5c005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Jan 17, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Jan 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/280c5cc0d7d301350d4d005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Jan 12, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Jan 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/poorly-drawn-lines/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/274811b0d7d301350d4d005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand for Jan 10, 2018 " title="Poorly Drawn Lines by Reza Farazmand for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Reza Farazmand</name>
-            </author>
         </item>
     </channel>
 </rss>

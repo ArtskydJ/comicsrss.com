@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mike Lester</title>
-        <description>Mike Lester by Mike Lester</description>
         <link>http://www.gocomics.com/mike-lester</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Mike Lester by Mike Lester</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Mike Lester</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wpmle/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/mike-lester</link>
         </image>
         <copyright>Copyright Mike Lester</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/mike-lester.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/mike-lester/2018/02/23</link>
             <guid>http://www.gocomics.com/mike-lester/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ecfe890fa6101351a9b005056a9545d" alt="Mike Lester by Mike Lester for Feb 23, 2018 " title="Mike Lester by Mike Lester for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bc399bc0f97601351a0c005056a9545d" alt="Mike Lester by Mike Lester for Feb 22, 2018 " title="Mike Lester by Mike Lester for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/925191b0f8ad013519a9005056a9545d" alt="Mike Lester by Mike Lester for Feb 21, 2018 " title="Mike Lester by Mike Lester for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 17, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f61a590f5aa013518f7005056a9545d" alt="Mike Lester by Mike Lester for Feb 17, 2018 " title="Mike Lester by Mike Lester for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/446ca2d0f4e101351891005056a9545d" alt="Mike Lester by Mike Lester for Feb 16, 2018 " title="Mike Lester by Mike Lester for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48625fe0f3c4013517e3005056a9545d" alt="Mike Lester by Mike Lester for Feb 14, 2018 " title="Mike Lester by Mike Lester for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 10, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4af3d190f02a013516c3005056a9545d" alt="Mike Lester by Mike Lester for Feb 10, 2018 " title="Mike Lester by Mike Lester for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d3ba480ef610135166c005056a9545d" alt="Mike Lester by Mike Lester for Feb 9, 2018 " title="Mike Lester by Mike Lester for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 3, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/21beb5a0eaaa013514a9005056a9545d" alt="Mike Lester by Mike Lester for Feb 3, 2018 " title="Mike Lester by Mike Lester for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Feb 1, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cf6e3de0e917013513e2005056a9545d" alt="Mike Lester by Mike Lester for Feb 1, 2018 " title="Mike Lester by Mike Lester for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 30, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd8086d0e7fa0135133a005056a9545d" alt="Mike Lester by Mike Lester for Jan 30, 2018 " title="Mike Lester by Mike Lester for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 27, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/804dd190e54b01351287005056a9545d" alt="Mike Lester by Mike Lester for Jan 27, 2018 " title="Mike Lester by Mike Lester for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 25, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a105df80e397013511d2005056a9545d" alt="Mike Lester by Mike Lester for Jan 25, 2018 " title="Mike Lester by Mike Lester for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 23, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6872e330e28b01351139005056a9545d" alt="Mike Lester by Mike Lester for Jan 23, 2018 " title="Mike Lester by Mike Lester for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 20, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cfa41fe0dfa901351073005056a9545d" alt="Mike Lester by Mike Lester for Jan 20, 2018 " title="Mike Lester by Mike Lester for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 19, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9fec8d80dee001351017005056a9545d" alt="Mike Lester by Mike Lester for Jan 19, 2018 " title="Mike Lester by Mike Lester for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 16, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7afd8370dcfa01350f07005056a9545d" alt="Mike Lester by Mike Lester for Jan 16, 2018 " title="Mike Lester by Mike Lester for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 13, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2b2e680da2901350e6b005056a9545d" alt="Mike Lester by Mike Lester for Jan 13, 2018 " title="Mike Lester by Mike Lester for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jan 11, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab0333b0d90c01350dd6005056a9545d" alt="Mike Lester by Mike Lester for Jan 11, 2018 " title="Mike Lester by Mike Lester for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Mike Lester</name>
-            </author>
         </item>
     </channel>
 </rss>

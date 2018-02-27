@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Deep Dark Fears</title>
-        <description>Deep Dark Fears by Fran Krause</description>
         <link>http://www.gocomics.com/deep-dark-fears</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Deep Dark Fears by Fran Krause</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Deep Dark Fears</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ddf/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/deep-dark-fears</link>
         </image>
         <copyright>Copyright Fran Krause</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/deep-dark-fears.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Deep Dark Fears by Fran Krause for May 15, 2017 ]]></title>
             <link>http://www.gocomics.com/deep-dark-fears/2017/05/15</link>
             <guid>http://www.gocomics.com/deep-dark-fears/2017/05/15</guid>
             <pubDate>Mon, 15 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7a9675c0a82f01333811005056a9545d" alt="Deep Dark Fears by Fran Krause for May 15, 2017 " title="Deep Dark Fears by Fran Krause for May 15, 2017 ">]]></description>
-            <author>
-                <name>Fran Krause</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Deep Dark Fears by Fran Krause for May 8, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/deep-dark-fears/2017/05/08</guid>
             <pubDate>Mon, 08 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c555230a82f01333811005056a9545d" alt="Deep Dark Fears by Fran Krause for May 8, 2017 " title="Deep Dark Fears by Fran Krause for May 8, 2017 ">]]></description>
-            <author>
-                <name>Fran Krause</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Deep Dark Fears by Fran Krause for May 1, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/deep-dark-fears/2017/05/01</guid>
             <pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ef57900a82f01333811005056a9545d" alt="Deep Dark Fears by Fran Krause for May 1, 2017 " title="Deep Dark Fears by Fran Krause for May 1, 2017 ">]]></description>
-            <author>
-                <name>Fran Krause</name>
-            </author>
         </item>
     </channel>
 </rss>

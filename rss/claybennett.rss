@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Clay Bennett</title>
-        <description>Clay Bennett by Clay Bennett</description>
         <link>http://www.gocomics.com/claybennett</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Clay Bennett by Clay Bennett</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Clay Bennett</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wpcbe/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/claybennett</link>
         </image>
         <copyright>Copyright Clay Bennett</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/claybennett.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/claybennett/2018/02/26</link>
             <guid>http://www.gocomics.com/claybennett/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60e2d210fc9b01351b3c005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 26, 2018 " title="Clay Bennett by Clay Bennett for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c2251660fad601351ab7005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 23, 2018 " title="Clay Bennett by Clay Bennett for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97749610fa0d01351a54005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 22, 2018 " title="Clay Bennett by Clay Bennett for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ce511c0f944013519e4005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 21, 2018 " title="Clay Bennett by Clay Bennett for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4846c560f87b01351986005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 20, 2018 " title="Clay Bennett by Clay Bennett for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/18745ff0f7b201351952005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 19, 2018 " title="Clay Bennett by Clay Bennett for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d07ae90f556013518b5005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 16, 2018 " title="Clay Bennett by Clay Bennett for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e978600f48d01351851005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 15, 2018 " title="Clay Bennett by Clay Bennett for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c1bfcf0f3c4013517e3005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 14, 2018 " title="Clay Bennett by Clay Bennett for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a31a870f2fb01351783005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 13, 2018 " title="Clay Bennett by Clay Bennett for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 12, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/efa99910f2310135171d005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 12, 2018 " title="Clay Bennett by Clay Bennett for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 9, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/708481b0efd60135168f005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 9, 2018 " title="Clay Bennett by Clay Bennett for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45d37690ef0d0135162f005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 8, 2018 " title="Clay Bennett by Clay Bennett for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 7, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1bd85f90ee44013515cf005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 7, 2018 " title="Clay Bennett by Clay Bennett for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 5, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bb8ec700eb51013514cc005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 5, 2018 " title="Clay Bennett by Clay Bennett for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 2, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/47b8cb90ea560135146a005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 2, 2018 " title="Clay Bennett by Clay Bennett for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Feb 1, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d3c1a80e98d01351403005056a9545d" alt="Clay Bennett by Clay Bennett for Feb 1, 2018 " title="Clay Bennett by Clay Bennett for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 31, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2babf20e8c30135139e005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 31, 2018 " title="Clay Bennett by Clay Bennett for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 30, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d1f07fc0e7fa0135133a005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 30, 2018 " title="Clay Bennett by Clay Bennett for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 29, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e14a840e731013512e4005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 29, 2018 " title="Clay Bennett by Clay Bennett for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 25, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b72b7100e41d013511f8005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 25, 2018 " title="Clay Bennett by Clay Bennett for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 23, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/49865e70e20501351110005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 23, 2018 " title="Clay Bennett by Clay Bennett for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 19, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f5918ad0df5501351036005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 19, 2018 " title="Clay Bennett by Clay Bennett for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 18, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb549650de8c01350fdf005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 18, 2018 " title="Clay Bennett by Clay Bennett for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 17, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a0eafe90ddc301350f79005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 17, 2018 " title="Clay Bennett by Clay Bennett for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 16, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7f3ee5e0dcfa01350f07005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 16, 2018 " title="Clay Bennett by Clay Bennett for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 13, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a38fc1c0da2901350e6b005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 13, 2018 " title="Clay Bennett by Clay Bennett for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Jan 12, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d16ef500d9d501350e2c005056a9545d" alt="Clay Bennett by Clay Bennett for Jan 12, 2018 " title="Clay Bennett by Clay Bennett for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Clay Bennett</name>
-            </author>
         </item>
     </channel>
 </rss>

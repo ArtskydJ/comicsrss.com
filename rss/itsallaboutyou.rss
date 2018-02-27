@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>It&amp;#39;s All About You</title>
-        <description>It&amp;#39;s All About You by Tony Murphy</description>
         <link>http://www.gocomics.com/itsallaboutyou</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>It&amp;#39;s All About You by Tony Murphy</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>It&amp;#39;s All About You</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wpiay/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/itsallaboutyou</link>
         </image>
         <copyright>Copyright Tony Murphy</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/itsallaboutyou.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/itsallaboutyou/2018/02/26</link>
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a1017c0ee85012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 26, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/477bfe40ee8b012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 25, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01092a50ee8e012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 24, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/785be390ee89012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 23, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02e2ee30ee88012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 22, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/69215190ee85012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 21, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/25899d10ee88012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 20, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d6ada80ee8a012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 19, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/632a3e40ee8f012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 18, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7def5d90ee89012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 17, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4bd7430ee89012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 16, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2f6e2250ee8a012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 15, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f1be3eb0ee88012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 14, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef2d5f40ee90012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 13, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0eb40b0ee85012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 12, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68b436c0ee8d012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 11, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88e626a0ee8b012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 10, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/38947640ee8e012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 9, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0cd2c7b0ee8d012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 8, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ba2df30ee8c012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 7, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e364fc0ee8c012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 6, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/03427390ee8e012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 5, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/673b6420ee8d012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 4, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/42915eb0ee8e012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 3, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b6e40360ee91012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 2, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9fa18f00ee8e012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Feb 1, 2018 " title="It&#39;s All About You by Tony Murphy for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/463883b0ee91012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 31, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1daf480ee86012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 30, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e2aa440ee90012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 29, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9f4cde0ee90012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 28, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9e8a6e0ee85012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 27, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5a063250ee8f012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 26, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ea17f00ee8a012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 25, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e0490a0ee88012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 24, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ff5b67a0ee84012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 23, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/050d1350ee91012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 22, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9ea28a0ee85012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 21, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10017180ee8e012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 20, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ccf44570ee84012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 19, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/78c1f380ee88012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 18, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53a02c90ee8f012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 17, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bad033a0ee89012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 16, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[It&#39;s All About You by Tony Murphy for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/itsallaboutyou/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4a443330ee88012da5c500163e41dd5b" alt="It&#39;s All About You by Tony Murphy for Jan 15, 2018 " title="It&#39;s All About You by Tony Murphy for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Tony Murphy</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Worried Well</title>
-        <description>The Worried Well by Dana Maier</description>
         <link>http://www.gocomics.com/the-worried-well</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Worried Well by Dana Maier</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Worried Well</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tww/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-worried-well</link>
         </image>
         <copyright>Copyright Dana Maier</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-worried-well.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Feb 21, 2018 ]]></title>
             <link>http://www.gocomics.com/the-worried-well/2018/02/21</link>
             <guid>http://www.gocomics.com/the-worried-well/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa372f70f8e0013519c3005056a9545d" alt="The Worried Well by Dana Maier for Feb 21, 2018 " title="The Worried Well by Dana Maier for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Feb 14, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7bc08860f29501351761005056a9545d" alt="The Worried Well by Dana Maier for Feb 14, 2018 " title="The Worried Well by Dana Maier for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Feb 7, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb764dc0edcf013515a3005056a9545d" alt="The Worried Well by Dana Maier for Feb 7, 2018 " title="The Worried Well by Dana Maier for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Jan 31, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/babf7830e8510135137a005056a9545d" alt="The Worried Well by Dana Maier for Jan 31, 2018 " title="The Worried Well by Dana Maier for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Jan 24, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d91e7c20e2d701351172005056a9545d" alt="The Worried Well by Dana Maier for Jan 24, 2018 " title="The Worried Well by Dana Maier for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Jan 17, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/820cae60dd5301350f55005056a9545d" alt="The Worried Well by Dana Maier for Jan 17, 2018 " title="The Worried Well by Dana Maier for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Jan 10, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56937370d7e801350d55005056a9545d" alt="The Worried Well by Dana Maier for Jan 10, 2018 " title="The Worried Well by Dana Maier for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Worried Well by Dana Maier for Jan 2, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-worried-well/2018/01/02</guid>
             <pubDate>Tue, 02 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7fc37600d25b01350b4b005056a9545d" alt="The Worried Well by Dana Maier for Jan 2, 2018 " title="The Worried Well by Dana Maier for Jan 2, 2018 ">]]></description>
-            <author>
-                <name>Dana Maier</name>
-            </author>
         </item>
     </channel>
 </rss>

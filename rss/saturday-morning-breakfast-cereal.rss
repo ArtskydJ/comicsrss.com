@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Saturday Morning Breakfast Cereal</title>
-        <description>Saturday Morning Breakfast Cereal by Zach Weinersmith</description>
         <link>http://www.gocomics.com/saturday-morning-breakfast-cereal</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Saturday Morning Breakfast Cereal by Zach Weinersmith</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Saturday Morning Breakfast Cereal</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/smbc/mid_u.png</url>
             <link>http://www.gocomics.com/saturday-morning-breakfast-cereal</link>
         </image>
         <copyright>Copyright Zach Weinersmith</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/saturday-morning-breakfast-cereal.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/23</link>
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/157cecb0f8bd013519b4005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 23, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/145fe440f8bd013519b4005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 22, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10128bf0f7890135194a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 21, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 20, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0eeab540f7890135194a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 20, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 19, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11339390f7890135194a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 19, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 18, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0dcf72b0f7890135194a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 18, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 17, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0bbdf3a0f7890135194a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 17, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 16, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0cef85b0f7890135194a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 16, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 15, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51222c60f371013517cc005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 15, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 14, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5261bf00f371013517cc005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 14, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 13, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01bb6800ef4d0135165e005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 13, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 12, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00948e80ef4d0135165e005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 12, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 11, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/773cf7b0ee7b013515ef005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 11, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/760ccf60ee7b013515ef005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 10, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e108010ed0801351549005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 9, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8f288240ed0801351549005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 8, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/707d5bf0ea890135148a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 7, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f828df0ea890135148a005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 6, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ed33fd0e9be01351431005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 5, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 4, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2dc37400e9be01351431005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 4, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 3, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4b9ddf80e8fb013513c6005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 3, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 2, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4cb8e610e8fb013513c6005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 2, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 1, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/83ab53a0e83a01351368005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 1, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 31, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/854c0a90e83a01351368005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 31, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 30, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87c9e100e83a01351368005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 30, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 29, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8693e280e83a01351368005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 29, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 28, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d97e2e0e44801351211005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 28, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 27, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ebf8260e44801351211005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 27, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 26, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9de32d60e385013511c3005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 26, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 25, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9cbb7860e385013511c3005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 25, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 24, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/54750880e1de013510f4005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 24, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 23, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/567bad70e1de013510f4005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 23, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 22, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/537b4de0e1de013510f4005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 22, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 21, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5541a680e1de013510f4005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 21, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 20, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/be44b250df8001351053005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 20, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 19, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bd299130df8001351053005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 19, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 18, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f950d1e0ddfa01350fa2005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 18, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 17, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f827ad70ddfa01350fa2005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 17, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 16, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af513000dc5301350edb005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 16, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 15, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/78ec7750da1301350e5d005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 15, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 14, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/saturday-morning-breakfast-cereal/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7998d6f0da1301350e5d005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 14, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith</name>
-            </author>
         </item>
     </channel>
 </rss>

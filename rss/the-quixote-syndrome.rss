@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Quixote Syndrome</title>
-        <description>The Quixote Syndrome by Peter Mann</description>
         <link>http://www.gocomics.com/the-quixote-syndrome</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Quixote Syndrome by Peter Mann</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Quixote Syndrome</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/oth/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/the-quixote-syndrome</link>
         </image>
         <copyright>Copyright Peter Mann</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-quixote-syndrome.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-quixote-syndrome/2018/02/26</link>
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da56be40fceb01351b53005056a9545d" alt="The Quixote Syndrome by Peter Mann for Feb 26, 2018 " title="The Quixote Syndrome by Peter Mann for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Feb 12, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9403b010f20201351712005056a9545d" alt="The Quixote Syndrome by Peter Mann for Feb 12, 2018 " title="The Quixote Syndrome by Peter Mann for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Feb 5, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a0d0e20ec7a0135150c005056a9545d" alt="The Quixote Syndrome by Peter Mann for Feb 5, 2018 " title="The Quixote Syndrome by Peter Mann for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Jan 29, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2a8727c0e700013512dc005056a9545d" alt="The Quixote Syndrome by Peter Mann for Jan 29, 2018 " title="The Quixote Syndrome by Peter Mann for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Jan 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1986ed80e182013510d6005056a9545d" alt="The Quixote Syndrome by Peter Mann for Jan 22, 2018 " title="The Quixote Syndrome by Peter Mann for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Jan 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ec0ee00dbf901350ecc005056a9545d" alt="The Quixote Syndrome by Peter Mann for Jan 15, 2018 " title="The Quixote Syndrome by Peter Mann for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Jan 8, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d392d940c9a5013508da005056a9545d" alt="The Quixote Syndrome by Peter Mann for Jan 8, 2018 " title="The Quixote Syndrome by Peter Mann for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Quixote Syndrome by Peter Mann for Dec 25, 2017 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-quixote-syndrome/2017/12/25</guid>
             <pubDate>Mon, 25 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44328d60c90001350886005056a9545d" alt="The Quixote Syndrome by Peter Mann for Dec 25, 2017 " title="The Quixote Syndrome by Peter Mann for Dec 25, 2017 ">]]></description>
-            <author>
-                <name>Peter Mann</name>
-            </author>
         </item>
     </channel>
 </rss>

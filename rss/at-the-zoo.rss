@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>At the Zoo</title>
-        <description>At the Zoo by Zoe Piel</description>
         <link>http://www.gocomics.com/at-the-zoo</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>At the Zoo by Zoe Piel</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>At the Zoo</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/atz/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/at-the-zoo</link>
         </image>
         <copyright>Copyright Zoe Piel</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/at-the-zoo.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/at-the-zoo/2018/02/26</link>
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/faf292107b4d0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Feb 26, 2018 " title="At the Zoo by Zoe Piel for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edd94c507b4d0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Feb 22, 2018 " title="At the Zoo by Zoe Piel for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/158788307b4e0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Feb 19, 2018 " title="At the Zoo by Zoe Piel for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 15, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1651ab907b4e0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Feb 15, 2018 " title="At the Zoo by Zoe Piel for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 12, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d21f96b07b4d0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Feb 12, 2018 " title="At the Zoo by Zoe Piel for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 8, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c6ef3900d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Feb 8, 2018 " title="At the Zoo by Zoe Piel for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/744345a00d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Feb 5, 2018 " title="At the Zoo by Zoe Piel for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Feb 1, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/778446300d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Feb 1, 2018 " title="At the Zoo by Zoe Piel for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 29, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a48e5e800d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 29, 2018 " title="At the Zoo by Zoe Piel for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 25, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/824cc7000d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 25, 2018 " title="At the Zoo by Zoe Piel for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 22, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b1b86500d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 22, 2018 " title="At the Zoo by Zoe Piel for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 18, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98e522400d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 18, 2018 " title="At the Zoo by Zoe Piel for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 15, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d86da800d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 15, 2018 " title="At the Zoo by Zoe Piel for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 11, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6abe48400d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 11, 2018 " title="At the Zoo by Zoe Piel for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jan 8, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c6d16500d87013465e9005056a9545d" alt="At the Zoo by Zoe Piel for Jan 8, 2018 " title="At the Zoo by Zoe Piel for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Zoe Piel</name>
-            </author>
         </item>
     </channel>
 </rss>

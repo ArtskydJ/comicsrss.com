@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Trivquiz</title>
-        <description>Trivquiz by Steve McGarry</description>
         <link>http://www.gocomics.com/trivquiz</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Trivquiz by Steve McGarry</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Trivquiz</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tq/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/trivquiz</link>
         </image>
         <copyright>Copyright Steve McGarry</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/trivquiz.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/trivquiz/2018/02/23</link>
             <guid>http://www.gocomics.com/trivquiz/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4d60b490fa7901351aa1005056a9545d" alt="Trivquiz by Steve McGarry for Feb 23, 2018 " title="Trivquiz by Steve McGarry for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/47005350f9c901351a40005056a9545d" alt="Trivquiz by Steve McGarry for Feb 22, 2018 " title="Trivquiz by Steve McGarry for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10269ad0f8e9013519c7005056a9545d" alt="Trivquiz by Steve McGarry for Feb 21, 2018 " title="Trivquiz by Steve McGarry for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70940be0f7240135192f005056a9545d" alt="Trivquiz by Steve McGarry for Feb 19, 2018 " title="Trivquiz by Steve McGarry for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 18, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e5583d70f67e0135191d005056a9545d" alt="Trivquiz by Steve McGarry for Feb 18, 2018 " title="Trivquiz by Steve McGarry for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 17, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2756c840f592013518e2005056a9545d" alt="Trivquiz by Steve McGarry for Feb 17, 2018 " title="Trivquiz by Steve McGarry for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 10, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa8a4500f037013516c8005056a9545d" alt="Trivquiz by Steve McGarry for Feb 10, 2018 " title="Trivquiz by Steve McGarry for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14a81830ef7b01351678005056a9545d" alt="Trivquiz by Steve McGarry for Feb 9, 2018 " title="Trivquiz by Steve McGarry for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 8, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0285f5a0eeb401351619005056a9545d" alt="Trivquiz by Steve McGarry for Feb 8, 2018 " title="Trivquiz by Steve McGarry for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 6, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0de173f0ed2a01351554005056a9545d" alt="Trivquiz by Steve McGarry for Feb 6, 2018 " title="Trivquiz by Steve McGarry for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 3, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9820c10ea9101351495005056a9545d" alt="Trivquiz by Steve McGarry for Feb 3, 2018 " title="Trivquiz by Steve McGarry for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 2, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4c05cd0e9e10135144b005056a9545d" alt="Trivquiz by Steve McGarry for Feb 2, 2018 " title="Trivquiz by Steve McGarry for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Feb 1, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fcfc0860e94c013513f2005056a9545d" alt="Trivquiz by Steve McGarry for Feb 1, 2018 " title="Trivquiz by Steve McGarry for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 30, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3b27b040e7c701351332005056a9545d" alt="Trivquiz by Steve McGarry for Jan 30, 2018 " title="Trivquiz by Steve McGarry for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 29, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b98f06c0e6b4013512c3005056a9545d" alt="Trivquiz by Steve McGarry for Jan 29, 2018 " title="Trivquiz by Steve McGarry for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 28, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/89d0f0c0e53b01351285005056a9545d" alt="Trivquiz by Steve McGarry for Jan 28, 2018 " title="Trivquiz by Steve McGarry for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 27, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/adafe110e5280135127d005056a9545d" alt="Trivquiz by Steve McGarry for Jan 27, 2018 " title="Trivquiz by Steve McGarry for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 24, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53e2a460e2e601351179005056a9545d" alt="Trivquiz by Steve McGarry for Jan 24, 2018 " title="Trivquiz by Steve McGarry for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 23, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7da20770e1e2013510f9005056a9545d" alt="Trivquiz by Steve McGarry for Jan 23, 2018 " title="Trivquiz by Steve McGarry for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 22, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9dc37180e14b013510c2005056a9545d" alt="Trivquiz by Steve McGarry for Jan 22, 2018 " title="Trivquiz by Steve McGarry for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 21, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af481330e07101351094005056a9545d" alt="Trivquiz by Steve McGarry for Jan 21, 2018 " title="Trivquiz by Steve McGarry for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 20, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab826be0dfed01351087005056a9545d" alt="Trivquiz by Steve McGarry for Jan 20, 2018 " title="Trivquiz by Steve McGarry for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 19, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa9dc4d0df0201351023005056a9545d" alt="Trivquiz by Steve McGarry for Jan 19, 2018 " title="Trivquiz by Steve McGarry for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 16, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/873b4f30dcbe01350efc005056a9545d" alt="Trivquiz by Steve McGarry for Jan 16, 2018 " title="Trivquiz by Steve McGarry for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 15, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/36672010dbb001350eb0005056a9545d" alt="Trivquiz by Steve McGarry for Jan 15, 2018 " title="Trivquiz by Steve McGarry for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for Jan 14, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3d8b5450daeb01350e8a005056a9545d" alt="Trivquiz by Steve McGarry for Jan 14, 2018 " title="Trivquiz by Steve McGarry for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Steve McGarry</name>
-            </author>
         </item>
     </channel>
 </rss>

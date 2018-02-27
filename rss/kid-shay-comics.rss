@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Kid Shay Comics</title>
-        <description>Kid Shay Comics by Josh Shalek</description>
         <link>http://www.gocomics.com/kid-shay-comics</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Kid Shay Comics by Josh Shalek</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Kid Shay Comics</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ksc/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/kid-shay-comics</link>
         </image>
         <copyright>Copyright Josh Shalek</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/kid-shay-comics.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/kid-shay-comics/2018/02/26</link>
             <guid>http://www.gocomics.com/kid-shay-comics/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/abf4ae602c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Feb 26, 2018 " title="Kid Shay Comics by Josh Shalek for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b2a28b602c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Feb 19, 2018 " title="Kid Shay Comics by Josh Shalek for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aafdc0e02c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Feb 12, 2018 " title="Kid Shay Comics by Josh Shalek for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4a169b02c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Feb 5, 2018 " title="Kid Shay Comics by Josh Shalek for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99bd49402c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Jan 29, 2018 " title="Kid Shay Comics by Josh Shalek for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a17808402c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Jan 22, 2018 " title="Kid Shay Comics by Josh Shalek for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1af65602c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Jan 15, 2018 " title="Kid Shay Comics by Josh Shalek for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6ed5c902c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Jan 8, 2018 " title="Kid Shay Comics by Josh Shalek for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Kid Shay Comics by Josh Shalek for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/kid-shay-comics/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bc5af7702c130132a282005056a9545d" alt="Kid Shay Comics by Josh Shalek for Jan 1, 2018 " title="Kid Shay Comics by Josh Shalek for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Josh Shalek</name>
-            </author>
         </item>
     </channel>
 </rss>

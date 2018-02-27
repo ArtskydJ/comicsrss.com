@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Best Medicine Cartoon</title>
-        <description>The Best Medicine Cartoon by Izzy Ehnes</description>
         <link>http://www.gocomics.com/the-best-medicine</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Best Medicine Cartoon by Izzy Ehnes</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Best Medicine Cartoon</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tbm/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/the-best-medicine</link>
         </image>
         <copyright>Copyright Izzy Ehnes</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-best-medicine.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Best Medicine Cartoon by Izzy Ehnes for Dec 22, 2017 ]]></title>
             <link>http://www.gocomics.com/the-best-medicine/2017/12/22</link>
             <guid>http://www.gocomics.com/the-best-medicine/2017/12/22</guid>
             <pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/daceb570c8f301350881005056a9545d" alt="The Best Medicine Cartoon by Izzy Ehnes for Dec 22, 2017 " title="The Best Medicine Cartoon by Izzy Ehnes for Dec 22, 2017 ">]]></description>
-            <author>
-                <name>Izzy Ehnes</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Best Medicine Cartoon by Izzy Ehnes for Nov 24, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-best-medicine/2017/11/24</guid>
             <pubDate>Fri, 24 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/195f3e40b30801350069005056a9545d" alt="The Best Medicine Cartoon by Izzy Ehnes for Nov 24, 2017 " title="The Best Medicine Cartoon by Izzy Ehnes for Nov 24, 2017 ">]]></description>
-            <author>
-                <name>Izzy Ehnes</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Best Medicine Cartoon by Izzy Ehnes for Nov 2, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-best-medicine/2017/11/02</guid>
             <pubDate>Thu, 02 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ca2c78c0a0900135f93a005056a9545d" alt="The Best Medicine Cartoon by Izzy Ehnes for Nov 2, 2017 " title="The Best Medicine Cartoon by Izzy Ehnes for Nov 2, 2017 ">]]></description>
-            <author>
-                <name>Izzy Ehnes</name>
-            </author>
         </item>
     </channel>
 </rss>

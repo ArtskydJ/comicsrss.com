@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Frank and Ernest</title>
-        <description>Frank and Ernest by Thaves</description>
         <link>http://www.gocomics.com/frank-and-ernest</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Frank and Ernest by Thaves</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Frank and Ernest</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/fk/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/frank-and-ernest</link>
         </image>
         <copyright>Copyright Thaves</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/frank-and-ernest.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/frank-and-ernest/2018/02/26</link>
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ae2ece0f4b101351864005056a9545d" alt="Frank and Ernest by Thaves for Feb 26, 2018 " title="Frank and Ernest by Thaves for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06206650dfa701351071005056a9545d" alt="Frank and Ernest by Thaves for Feb 25, 2018 " title="Frank and Ernest by Thaves for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c650f8f0ef240135163b005056a9545d" alt="Frank and Ernest by Thaves for Feb 24, 2018 " title="Frank and Ernest by Thaves for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4ccc0e0ef240135163b005056a9545d" alt="Frank and Ernest by Thaves for Feb 23, 2018 " title="Frank and Ernest by Thaves for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3583ed0ef240135163b005056a9545d" alt="Frank and Ernest by Thaves for Feb 22, 2018 " title="Frank and Ernest by Thaves for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c1c9c390ef240135163b005056a9545d" alt="Frank and Ernest by Thaves for Feb 21, 2018 " title="Frank and Ernest by Thaves for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0435be0ef240135163b005056a9545d" alt="Frank and Ernest by Thaves for Feb 20, 2018 " title="Frank and Ernest by Thaves for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bec2f240ef240135163b005056a9545d" alt="Frank and Ernest by Thaves for Feb 19, 2018 " title="Frank and Ernest by Thaves for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e67b5c60da2601350e6a005056a9545d" alt="Frank and Ernest by Thaves for Feb 18, 2018 " title="Frank and Ernest by Thaves for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cea4b0d0e9a801351416005056a9545d" alt="Frank and Ernest by Thaves for Feb 17, 2018 " title="Frank and Ernest by Thaves for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd236c10e9a801351416005056a9545d" alt="Frank and Ernest by Thaves for Feb 16, 2018 " title="Frank and Ernest by Thaves for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb81e9c0e9a801351416005056a9545d" alt="Frank and Ernest by Thaves for Feb 15, 2018 " title="Frank and Ernest by Thaves for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9fac930e9a801351416005056a9545d" alt="Frank and Ernest by Thaves for Feb 14, 2018 " title="Frank and Ernest by Thaves for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c8854a70e9a801351416005056a9545d" alt="Frank and Ernest by Thaves for Feb 13, 2018 " title="Frank and Ernest by Thaves for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6ef1b70e9a801351416005056a9545d" alt="Frank and Ernest by Thaves for Feb 12, 2018 " title="Frank and Ernest by Thaves for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4f1bd70d4a601350c56005056a9545d" alt="Frank and Ernest by Thaves for Feb 11, 2018 " title="Frank and Ernest by Thaves for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1b947a0e421013511fb005056a9545d" alt="Frank and Ernest by Thaves for Feb 10, 2018 " title="Frank and Ernest by Thaves for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/42e46f80e420013511fa005056a9545d" alt="Frank and Ernest by Thaves for Feb 9, 2018 " title="Frank and Ernest by Thaves for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/417a9ac0e420013511fa005056a9545d" alt="Frank and Ernest by Thaves for Feb 8, 2018 " title="Frank and Ernest by Thaves for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3fd7dbb0e420013511fa005056a9545d" alt="Frank and Ernest by Thaves for Feb 7, 2018 " title="Frank and Ernest by Thaves for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e609ff0e420013511fa005056a9545d" alt="Frank and Ernest by Thaves for Feb 6, 2018 " title="Frank and Ernest by Thaves for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3c93ef20e420013511fa005056a9545d" alt="Frank and Ernest by Thaves for Feb 5, 2018 " title="Frank and Ernest by Thaves for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e74af710d3dd01350bff005056a9545d" alt="Frank and Ernest by Thaves for Feb 4, 2018 " title="Frank and Ernest by Thaves for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d2a7550dea801350fe9005056a9545d" alt="Frank and Ernest by Thaves for Feb 3, 2018 " title="Frank and Ernest by Thaves for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b87c960dea801350fe9005056a9545d" alt="Frank and Ernest by Thaves for Feb 2, 2018 " title="Frank and Ernest by Thaves for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79e40340dea801350fe9005056a9545d" alt="Frank and Ernest by Thaves for Feb 1, 2018 " title="Frank and Ernest by Thaves for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7863cd60dea801350fe9005056a9545d" alt="Frank and Ernest by Thaves for Jan 31, 2018 " title="Frank and Ernest by Thaves for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/76d47210dea801350fe9005056a9545d" alt="Frank and Ernest by Thaves for Jan 30, 2018 " title="Frank and Ernest by Thaves for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/75492090dea801350fe9005056a9545d" alt="Frank and Ernest by Thaves for Jan 29, 2018 " title="Frank and Ernest by Thaves for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f54976a0cef701350a63005056a9545d" alt="Frank and Ernest by Thaves for Jan 28, 2018 " title="Frank and Ernest by Thaves for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/27abe960d9d401350e29005056a9545d" alt="Frank and Ernest by Thaves for Jan 27, 2018 " title="Frank and Ernest by Thaves for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/26330b50d9d401350e29005056a9545d" alt="Frank and Ernest by Thaves for Jan 26, 2018 " title="Frank and Ernest by Thaves for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/24a33e50d9d401350e29005056a9545d" alt="Frank and Ernest by Thaves for Jan 25, 2018 " title="Frank and Ernest by Thaves for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2342fc90d9d401350e29005056a9545d" alt="Frank and Ernest by Thaves for Jan 24, 2018 " title="Frank and Ernest by Thaves for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/21e2eec0d9d401350e29005056a9545d" alt="Frank and Ernest by Thaves for Jan 23, 2018 " title="Frank and Ernest by Thaves for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/203f0970d9d401350e29005056a9545d" alt="Frank and Ernest by Thaves for Jan 22, 2018 " title="Frank and Ernest by Thaves for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02be7150cef801350a63005056a9545d" alt="Frank and Ernest by Thaves for Jan 21, 2018 " title="Frank and Ernest by Thaves for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a10ca20d3b701350bdf005056a9545d" alt="Frank and Ernest by Thaves for Jan 20, 2018 " title="Frank and Ernest by Thaves for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/887986a0d3b701350bdf005056a9545d" alt="Frank and Ernest by Thaves for Jan 19, 2018 " title="Frank and Ernest by Thaves for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86efae30d3b701350bdf005056a9545d" alt="Frank and Ernest by Thaves for Jan 18, 2018 " title="Frank and Ernest by Thaves for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8529c3a0d3b701350bdf005056a9545d" alt="Frank and Ernest by Thaves for Jan 17, 2018 " title="Frank and Ernest by Thaves for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/837d61a0d3b701350bdf005056a9545d" alt="Frank and Ernest by Thaves for Jan 16, 2018 " title="Frank and Ernest by Thaves for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8207c050d3b701350bdf005056a9545d" alt="Frank and Ernest by Thaves for Jan 15, 2018 " title="Frank and Ernest by Thaves for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Thaves</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Goats</title>
-        <description>Goats by Jon Rosenberg</description>
         <link>http://www.gocomics.com/goats</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Goats by Jon Rosenberg</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Goats</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/goat/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/goats</link>
         </image>
         <copyright>Copyright Jon Rosenberg</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/goats.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Goats by Jon Rosenberg for Dec 29, 2017 ]]></title>
             <link>http://www.gocomics.com/goats/2017/12/29</link>
             <guid>http://www.gocomics.com/goats/2017/12/29</guid>
             <pubDate>Fri, 29 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ff751e40bae5013502e8005056a9545d" alt="Goats by Jon Rosenberg for Dec 29, 2017 " title="Goats by Jon Rosenberg for Dec 29, 2017 ">]]></description>
-            <author>
-                <name>Jon Rosenberg</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Goats by Jon Rosenberg for Dec 28, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/goats/2017/12/28</guid>
             <pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc786e60bae5013502e8005056a9545d" alt="Goats by Jon Rosenberg for Dec 28, 2017 " title="Goats by Jon Rosenberg for Dec 28, 2017 ">]]></description>
-            <author>
-                <name>Jon Rosenberg</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Goats by Jon Rosenberg for Dec 27, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/goats/2017/12/27</guid>
             <pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef4d4040bae5013502e8005056a9545d" alt="Goats by Jon Rosenberg for Dec 27, 2017 " title="Goats by Jon Rosenberg for Dec 27, 2017 ">]]></description>
-            <author>
-                <name>Jon Rosenberg</name>
-            </author>
         </item>
     </channel>
 </rss>

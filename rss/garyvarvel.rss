@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gary Varvel</title>
-        <description>Gary Varvel by Gary Varvel</description>
         <link>http://www.gocomics.com/garyvarvel</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Gary Varvel by Gary Varvel</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Gary Varvel</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crgva/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/garyvarvel</link>
         </image>
         <copyright>Copyright Gary Varvel</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/garyvarvel.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 22, 2018 ]]></title>
             <link>http://www.gocomics.com/garyvarvel/2018/02/22</link>
             <guid>http://www.gocomics.com/garyvarvel/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/62ae7570f9b201351a3b005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 22, 2018 " title="Gary Varvel by Gary Varvel for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2b1477f0f8e9013519c8005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 21, 2018 " title="Gary Varvel by Gary Varvel for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 20, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c079a80f8410135197c005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 20, 2018 " title="Gary Varvel by Gary Varvel for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48abc800f77801351949005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 19, 2018 " title="Gary Varvel by Gary Varvel for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/600ce860f4fb0135189d005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 16, 2018 " title="Gary Varvel by Gary Varvel for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2d40f820f43201351833005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 15, 2018 " title="Gary Varvel by Gary Varvel for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 13, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4badd860f2c101351775005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 13, 2018 " title="Gary Varvel by Gary Varvel for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 11, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a106aba0f21901351716005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 11, 2018 " title="Gary Varvel by Gary Varvel for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 9, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf307d30ef9c01351685005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 9, 2018 " title="Gary Varvel by Gary Varvel for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 8, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13831260eeb201351618005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 8, 2018 " title="Gary Varvel by Gary Varvel for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 7, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0d90ac90eeb201351618005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 7, 2018 " title="Gary Varvel by Gary Varvel for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 6, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2d9d7330ed410135155e005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 6, 2018 " title="Gary Varvel by Gary Varvel for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 5, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09cfc280ecbb0135151b005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 5, 2018 " title="Gary Varvel by Gary Varvel for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 4, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0b6b6940ecbb0135151b005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 4, 2018 " title="Gary Varvel by Gary Varvel for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 2, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa46aa90e9b701351427005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 2, 2018 " title="Gary Varvel by Gary Varvel for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Feb 1, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/623175d0e953013513f9005056a9545d" alt="Gary Varvel by Gary Varvel for Feb 1, 2018 " title="Gary Varvel by Gary Varvel for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 31, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/334a2b80e88a01351391005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 31, 2018 " title="Gary Varvel by Gary Varvel for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 28, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd0bfb10e6f7013512da005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 28, 2018 " title="Gary Varvel by Gary Varvel for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 26, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ad5f010e49c0135123e005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 26, 2018 " title="Gary Varvel by Gary Varvel for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 25, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cbd05410e43701351203005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 25, 2018 " title="Gary Varvel by Gary Varvel for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 24, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/057a08b0e30a0135118a005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 24, 2018 " title="Gary Varvel by Gary Varvel for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 23, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d01565e0e24001351127005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 23, 2018 " title="Gary Varvel by Gary Varvel for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 22, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4014b70e177013510d3005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 22, 2018 " title="Gary Varvel by Gary Varvel for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 21, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5557630e177013510d3005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 21, 2018 " title="Gary Varvel by Gary Varvel for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 18, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e88bd20de3101350fc5005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 18, 2018 " title="Gary Varvel by Gary Varvel for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 15, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c901ca0dbf701350ecb005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 15, 2018 " title="Gary Varvel by Gary Varvel for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 14, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b1eac50dbf701350ecb005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 14, 2018 " title="Gary Varvel by Gary Varvel for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jan 13, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1ddeba90d9df01350e36005056a9545d" alt="Gary Varvel by Gary Varvel for Jan 13, 2018 " title="Gary Varvel by Gary Varvel for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Gary Varvel</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Herman en Español</title>
-        <description>Herman en Español by Jim Unger</description>
         <link>http://www.gocomics.com/herman-en-espanol</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Herman en Español by Jim Unger</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Herman en Español</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/hmsp/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/herman-en-espanol</link>
         </image>
         <copyright>Copyright Jim Unger</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/herman-en-espanol.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Herman en Español by Jim Unger for Sep 28, 2014 ]]></title>
             <link>http://www.gocomics.com/herman-en-espanol/2014/09/28</link>
             <guid>http://www.gocomics.com/herman-en-espanol/2014/09/28</guid>
             <pubDate>Sun, 28 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6fe0a94015c401329a39005056a9545d" alt="Herman en Español by Jim Unger for Sep 28, 2014 " title="Herman en Español by Jim Unger for Sep 28, 2014 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman en Español by Jim Unger for Sep 21, 2014 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/herman-en-espanol/2014/09/21</guid>
             <pubDate>Sun, 21 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ba5f160107d01329882005056a9545d" alt="Herman en Español by Jim Unger for Sep 21, 2014 " title="Herman en Español by Jim Unger for Sep 21, 2014 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Herman en Español by Jim Unger for Sep 20, 2014 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/herman-en-espanol/2014/09/20</guid>
             <pubDate>Sat, 20 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2aefea3014fb013299df005056a9545d" alt="Herman en Español by Jim Unger for Sep 20, 2014 " title="Herman en Español by Jim Unger for Sep 20, 2014 ">]]></description>
-            <author>
-                <name>Jim Unger</name>
-            </author>
         </item>
     </channel>
 </rss>

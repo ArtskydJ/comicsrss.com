@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dan Wasserman</title>
-        <description>Dan Wasserman by Dan Wasserman</description>
         <link>http://www.gocomics.com/danwasserman</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Dan Wasserman by Dan Wasserman</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Dan Wasserman</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tmdwa/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/danwasserman</link>
         </image>
         <copyright>Copyright Dan Wasserman</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/danwasserman.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 22, 2018 ]]></title>
             <link>http://www.gocomics.com/danwasserman/2018/02/22</link>
             <guid>http://www.gocomics.com/danwasserman/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68da1fd0fa9a01351aad005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 22, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41be7a90f9d101351a47005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 21, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 20, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/17a71180f908013519d7005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 20, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 14, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/15f15880f45101351843005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 14, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 13, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9ca0d10f387013517d7005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 13, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 12, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c1bc39f0f2be01351774005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 12, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 7, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edf7ac40eed001351625005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 7, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 6, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c33993a0ee07013515be005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 6, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Feb 5, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98619890ed3e0135155d005056a9545d" alt="Dan Wasserman by Dan Wasserman for Feb 5, 2018 " title="Dan Wasserman by Dan Wasserman for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 31, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4f54e80e950013513f6005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 31, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 30, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9aa88ec0e8870135138f005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 30, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 29, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/707f1cc0e7be01351330005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 29, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 24, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9d5c1230e3d0013511e8005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 24, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 23, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/705b9ee0e30701351189005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 23, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 22, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45f4e6b0e23e01351126005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 22, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 17, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/72acd370de5001350fd3005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 17, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 16, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c547f20dd8701350f6c005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 16, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 12, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f102ee0da6201350e7a005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 12, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 10, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4aecc2d0d8d001350dca005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 10, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jan 9, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/01/09</guid>
             <pubDate>Tue, 09 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1f6d60c0d80701350d5e005056a9545d" alt="Dan Wasserman by Dan Wasserman for Jan 9, 2018 " title="Dan Wasserman by Dan Wasserman for Jan 9, 2018 ">]]></description>
-            <author>
-                <name>Dan Wasserman</name>
-            </author>
         </item>
     </channel>
 </rss>

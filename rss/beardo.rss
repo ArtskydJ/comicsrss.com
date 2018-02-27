@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Beardo</title>
-        <description>Beardo by Dan Dougherty</description>
         <link>http://www.gocomics.com/beardo</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Beardo by Dan Dougherty</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Beardo</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/bdo/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/beardo</link>
         </image>
         <copyright>Copyright Dan Dougherty</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/beardo.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/beardo/2018/02/26</link>
             <guid>http://www.gocomics.com/beardo/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8eb7c960fce501351b51005056a9545d" alt="Beardo by Dan Dougherty for Feb 26, 2018 " title="Beardo by Dan Dougherty for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bb820b90fc0d01351b26005056a9545d" alt="Beardo by Dan Dougherty for Feb 25, 2018 " title="Beardo by Dan Dougherty for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c89e9a0f9b601351a3d005056a9545d" alt="Beardo by Dan Dougherty for Feb 22, 2018 " title="Beardo by Dan Dougherty for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d31b4f60f8f9013519cd005056a9545d" alt="Beardo by Dan Dougherty for Feb 21, 2018 " title="Beardo by Dan Dougherty for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/780f6010f82c01351977005056a9545d" alt="Beardo by Dan Dougherty for Feb 20, 2018 " title="Beardo by Dan Dougherty for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/73f300c0f7a80135194f005056a9545d" alt="Beardo by Dan Dougherty for Feb 19, 2018 " title="Beardo by Dan Dougherty for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 18, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90b22010f68d0135191e005056a9545d" alt="Beardo by Dan Dougherty for Feb 18, 2018 " title="Beardo by Dan Dougherty for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee0ba0a0f4440135183c005056a9545d" alt="Beardo by Dan Dougherty for Feb 15, 2018 " title="Beardo by Dan Dougherty for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/17e46920f36d013517cb005056a9545d" alt="Beardo by Dan Dougherty for Feb 14, 2018 " title="Beardo by Dan Dougherty for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05ad0960f2a601351767005056a9545d" alt="Beardo by Dan Dougherty for Feb 13, 2018 " title="Beardo by Dan Dougherty for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 11, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98937a50f111013516e7005056a9545d" alt="Beardo by Dan Dougherty for Feb 11, 2018 " title="Beardo by Dan Dougherty for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 8, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7aafdee0eebe0135161b005056a9545d" alt="Beardo by Dan Dougherty for Feb 8, 2018 " title="Beardo by Dan Dougherty for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 7, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f111d7b0edec013515b0005056a9545d" alt="Beardo by Dan Dougherty for Feb 7, 2018 " title="Beardo by Dan Dougherty for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 6, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e8df3c0ed2a01351554005056a9545d" alt="Beardo by Dan Dougherty for Feb 6, 2018 " title="Beardo by Dan Dougherty for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 5, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b25885c0ec5c01351500005056a9545d" alt="Beardo by Dan Dougherty for Feb 5, 2018 " title="Beardo by Dan Dougherty for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 4, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2065a00eb95013514d9005056a9545d" alt="Beardo by Dan Dougherty for Feb 4, 2018 " title="Beardo by Dan Dougherty for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Feb 1, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/beardo/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/094cb980e938013513ee005056a9545d" alt="Beardo by Dan Dougherty for Feb 1, 2018 " title="Beardo by Dan Dougherty for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 31, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ad974050e86a01351382005056a9545d" alt="Beardo by Dan Dougherty for Jan 31, 2018 " title="Beardo by Dan Dougherty for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 30, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd2615c0e7ab01351327005056a9545d" alt="Beardo by Dan Dougherty for Jan 30, 2018 " title="Beardo by Dan Dougherty for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 29, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d386db60e6e2013512d3005056a9545d" alt="Beardo by Dan Dougherty for Jan 29, 2018 " title="Beardo by Dan Dougherty for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 28, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/21c74ef0e5f8013512a0005056a9545d" alt="Beardo by Dan Dougherty for Jan 28, 2018 " title="Beardo by Dan Dougherty for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 24, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48402690e2fb01351180005056a9545d" alt="Beardo by Dan Dougherty for Jan 24, 2018 " title="Beardo by Dan Dougherty for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 23, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1105fc40e21b01351114005056a9545d" alt="Beardo by Dan Dougherty for Jan 23, 2018 " title="Beardo by Dan Dougherty for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 22, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ce067db0e14f013510c4005056a9545d" alt="Beardo by Dan Dougherty for Jan 22, 2018 " title="Beardo by Dan Dougherty for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 21, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98be55f0e09b0135109c005056a9545d" alt="Beardo by Dan Dougherty for Jan 21, 2018 " title="Beardo by Dan Dougherty for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 18, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f1f4f40de3501350fc7005056a9545d" alt="Beardo by Dan Dougherty for Jan 18, 2018 " title="Beardo by Dan Dougherty for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 17, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/74b28e80dd6c01350f5f005056a9545d" alt="Beardo by Dan Dougherty for Jan 17, 2018 " title="Beardo by Dan Dougherty for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 16, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/62346020dca501350ef3005056a9545d" alt="Beardo by Dan Dougherty for Jan 16, 2018 " title="Beardo by Dan Dougherty for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jan 15, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/beardo/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7fb82fe0dbb601350eb3005056a9545d" alt="Beardo by Dan Dougherty for Jan 15, 2018 " title="Beardo by Dan Dougherty for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Dan Dougherty</name>
-            </author>
         </item>
     </channel>
 </rss>

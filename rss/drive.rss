@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Drive</title>
-        <description>Drive by Dave Kellett</description>
         <link>http://www.gocomics.com/drive</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Drive by Dave Kellett</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Drive</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/drv/mid_drv_u_201706221601.png</url>
             <link>http://www.gocomics.com/drive</link>
         </image>
         <copyright>Copyright Dave Kellett</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/drive.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/drive/2018/02/26</link>
             <guid>http://www.gocomics.com/drive/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/52f8a9f0e65401335418005056a9545d" alt="Drive by Dave Kellett for Feb 26, 2018 " title="Drive by Dave Kellett for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/drive/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/182872e0e65401335418005056a9545d" alt="Drive by Dave Kellett for Feb 19, 2018 " title="Drive by Dave Kellett for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Feb 5, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/drive/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ce59b80e65401335418005056a9545d" alt="Drive by Dave Kellett for Feb 5, 2018 " title="Drive by Dave Kellett for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Jan 29, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/drive/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e8a1b30e65401335418005056a9545d" alt="Drive by Dave Kellett for Jan 29, 2018 " title="Drive by Dave Kellett for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Jan 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/drive/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/94dbd020e65401335418005056a9545d" alt="Drive by Dave Kellett for Jan 22, 2018 " title="Drive by Dave Kellett for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Jan 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/drive/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13ae15e0e65401335418005056a9545d" alt="Drive by Dave Kellett for Jan 15, 2018 " title="Drive by Dave Kellett for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Jan 8, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/drive/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51a2a200e65401335418005056a9545d" alt="Drive by Dave Kellett for Jan 8, 2018 " title="Drive by Dave Kellett for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Drive by Dave Kellett for Dec 25, 2017 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/drive/2017/12/25</guid>
             <pubDate>Mon, 25 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ac6dd40e65401335418005056a9545d" alt="Drive by Dave Kellett for Dec 25, 2017 " title="Drive by Dave Kellett for Dec 25, 2017 ">]]></description>
-            <author>
-                <name>Dave Kellett</name>
-            </author>
         </item>
     </channel>
 </rss>

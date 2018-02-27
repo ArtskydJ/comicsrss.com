@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Out of the Gene Pool Re-Runs</title>
-        <description>Out of the Gene Pool Re-Runs by Matt Janz</description>
         <link>http://www.gocomics.com/outofthegenepool</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Out of the Gene Pool Re-Runs by Matt Janz</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Out of the Gene Pool Re-Runs</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wpgen/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/outofthegenepool</link>
         </image>
         <copyright>Copyright Matt Janz</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/outofthegenepool.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/outofthegenepool/2018/02/26</link>
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e3fa10f8323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 26, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4d25c856323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 25, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9863088323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 24, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b2261d8323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 23, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07e0f558323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 22, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/827f4128323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 21, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a1ae88e323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 20, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af7c1902323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 19, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab228c5c323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 18, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b7be7a6e323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 17, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eefda300323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 16, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13b87fd4323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 15, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0376868323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 14, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ec2050a323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 13, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6c084f6323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 12, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c71ea08323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 11, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/96a51624323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 10, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8c247852323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 9, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0fae8f28323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 8, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/092c99f8323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 7, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf1d541e323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 6, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3b3bc02323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 5, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6125016323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 4, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a3ad7232323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 3, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/486a5796323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 2, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98734b24323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Feb 1, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9361c954323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 31, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d00b5334323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 30, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d234460c323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 29, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c7d837c4323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 28, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/001a7fe2323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 27, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/237a585c323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 26, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31e0d336323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 25, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4ea33df0323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 24, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3eb095d2323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 23, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87203a32323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 22, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/43a82098323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 21, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37bd39d4323e102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 20, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/adfde820323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 19, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/029928f2323f102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 18, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ec081f2323d102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 17, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3ecfafa323c102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 16, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Out of the Gene Pool Re-Runs by Matt Janz for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/outofthegenepool/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bde6fe9e323b102d94d7001438c0f03b" alt="Out of the Gene Pool Re-Runs by Matt Janz for Jan 15, 2018 " title="Out of the Gene Pool Re-Runs by Matt Janz for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Matt Janz</name>
-            </author>
         </item>
     </channel>
 </rss>

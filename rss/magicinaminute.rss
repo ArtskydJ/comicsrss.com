@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Magic in a Minute</title>
-        <description>Magic in a Minute by Mac and Bill King</description>
         <link>http://www.gocomics.com/magicinaminute</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Magic in a Minute by Mac and Bill King</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Magic in a Minute</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/mag/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/magicinaminute</link>
         </image>
         <copyright>Copyright Mac and Bill King</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/magicinaminute.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/magicinaminute/2018/02/25</link>
             <guid>http://www.gocomics.com/magicinaminute/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d34e56f0de0d01350fb0005056a9545d" alt="Magic in a Minute by Mac and Bill King for Feb 25, 2018 " title="Magic in a Minute by Mac and Bill King for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Feb 18, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/84021390d73d01350d02005056a9545d" alt="Magic in a Minute by Mac and Bill King for Feb 18, 2018 " title="Magic in a Minute by Mac and Bill King for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Feb 11, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0dff8ff0d3d701350bf8005056a9545d" alt="Magic in a Minute by Mac and Bill King for Feb 11, 2018 " title="Magic in a Minute by Mac and Bill King for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Feb 4, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9272e500ceee01350a5b005056a9545d" alt="Magic in a Minute by Mac and Bill King for Feb 4, 2018 " title="Magic in a Minute by Mac and Bill King for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Jan 28, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97ea0b10ceee01350a5b005056a9545d" alt="Magic in a Minute by Mac and Bill King for Jan 28, 2018 " title="Magic in a Minute by Mac and Bill King for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Jan 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/80534620ceee01350a5b005056a9545d" alt="Magic in a Minute by Mac and Bill King for Jan 21, 2018 " title="Magic in a Minute by Mac and Bill King for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Jan 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86d88af0ceee01350a5b005056a9545d" alt="Magic in a Minute by Mac and Bill King for Jan 14, 2018 " title="Magic in a Minute by Mac and Bill King for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Jan 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2018/01/07</guid>
             <pubDate>Sun, 07 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ce6fd70ceee01350a5b005056a9545d" alt="Magic in a Minute by Mac and Bill King for Jan 7, 2018 " title="Magic in a Minute by Mac and Bill King for Jan 7, 2018 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Magic in a Minute by Mac and Bill King for Dec 31, 2017 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/magicinaminute/2017/12/31</guid>
             <pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e70bf40b18c0135ffeb005056a9545d" alt="Magic in a Minute by Mac and Bill King for Dec 31, 2017 " title="Magic in a Minute by Mac and Bill King for Dec 31, 2017 ">]]></description>
-            <author>
-                <name>Mac and Bill King</name>
-            </author>
         </item>
     </channel>
 </rss>

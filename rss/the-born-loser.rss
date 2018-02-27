@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Born Loser</title>
-        <description>The Born Loser by Art and Chip Sansom</description>
         <link>http://www.gocomics.com/the-born-loser</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Born Loser by Art and Chip Sansom</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Born Loser</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/bnl/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/the-born-loser</link>
         </image>
         <copyright>Copyright Art and Chip Sansom</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-born-loser.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/the-born-loser/2018/02/26</link>
             <guid>http://www.gocomics.com/the-born-loser/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/54a82ea0f89801351996005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 26, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/871e3bb0e2020135110f005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 25, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06f1c990f24f0135172e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 24, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05b43610f24f0135172e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 23, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0477e590f24f0135172e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 22, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9a415d40f24d0135172d005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 21, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/034cff30f24f0135172e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 20, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0201c900f24f0135172e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 19, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/81b8cc70dd4b01350f51005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 18, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e2750df0ecc70135151e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 17, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1441950ecc70135151e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 16, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e0030ba0ecc70135151e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 15, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dec14190ecc70135151e005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 14, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79673030ecc60135151d005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 13, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/403aed80ecc90135151f005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 12, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3a4e81f0d70201350cf3005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 11, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1b4eee60e749013512ee005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 10, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a1730a0e749013512ee005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 9, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/18e98090e749013512ee005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 8, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/84a4f020e74a013512ef005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 7, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b2622b10e747013512ed005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 6, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/837197c0e74a013512ef005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 5, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c10da2b0d3dd01350bff005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 4, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90253b40e1c7013510e8005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 3, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ef6dfd0e1c7013510e8005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 2, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8dc105b0e1c7013510e8005056a9545d" alt="The Born Loser by Art and Chip Sansom for Feb 1, 2018 " title="The Born Loser by Art and Chip Sansom for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20fc3880e1c6013510e7005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 31, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8c9039e0e1c7013510e8005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 30, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8b6e7ad0e1c7013510e8005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 29, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a3bb7a80cef701350a63005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 28, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef592c60dd0f01350f18005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 27, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/28d2a900dd0f01350f18005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 26, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57896f40dd0c01350f16005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 25, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/278a1dd0dd0f01350f18005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 24, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee3a17c0dd0f01350f18005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 23, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/265b48c0dd0f01350f18005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 22, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9e83dc0cef701350a63005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 21, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a09717f0d6c801350cc9005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 20, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6711f140d6cb01350ccd005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 19, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f682810d6c801350cc9005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 18, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0f20a490d6ca01350ccb005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 17, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e0385d0d6ca01350ccb005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 16, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Born Loser by Art and Chip Sansom for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/the-born-loser/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e488660d6c801350cc9005056a9545d" alt="The Born Loser by Art and Chip Sansom for Jan 15, 2018 " title="The Born Loser by Art and Chip Sansom for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Art and Chip Sansom</name>
-            </author>
         </item>
     </channel>
 </rss>

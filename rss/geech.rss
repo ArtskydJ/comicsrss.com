@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Geech</title>
-        <description>Geech by Jerry Bittle</description>
         <link>http://www.gocomics.com/geech</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Geech by Jerry Bittle</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Geech</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ge/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/geech</link>
         </image>
         <copyright>Copyright Jerry Bittle</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/geech.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/geech/2018/02/26</link>
             <guid>http://www.gocomics.com/geech/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5e25b97099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 26, 2018 " title="Geech by Jerry Bittle for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2a51df099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 25, 2018 " title="Geech by Jerry Bittle for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8bbedf2099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 24, 2018 " title="Geech by Jerry Bittle for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/529d15a099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 23, 2018 " title="Geech by Jerry Bittle for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/832d145099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 22, 2018 " title="Geech by Jerry Bittle for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1fa0ff1099ec012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 21, 2018 " title="Geech by Jerry Bittle for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a84a959099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 20, 2018 " title="Geech by Jerry Bittle for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f8f128099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 19, 2018 " title="Geech by Jerry Bittle for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d49b70099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 18, 2018 " title="Geech by Jerry Bittle for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61098b7099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 17, 2018 " title="Geech by Jerry Bittle for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ccdc1e099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 16, 2018 " title="Geech by Jerry Bittle for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/76ec8dc099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 15, 2018 " title="Geech by Jerry Bittle for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f616f23099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 14, 2018 " title="Geech by Jerry Bittle for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4f45be8099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 13, 2018 " title="Geech by Jerry Bittle for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87a83c1099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 12, 2018 " title="Geech by Jerry Bittle for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5694e7099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 11, 2018 " title="Geech by Jerry Bittle for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ac8472b099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 10, 2018 " title="Geech by Jerry Bittle for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4bfc3020c535012e2f9000163e41dd5b" alt="Geech by Jerry Bittle for Feb 9, 2018 " title="Geech by Jerry Bittle for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92ed98b099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 8, 2018 " title="Geech by Jerry Bittle for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cf0b928099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 7, 2018 " title="Geech by Jerry Bittle for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/919c3c0099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 6, 2018 " title="Geech by Jerry Bittle for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6a977d099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 5, 2018 " title="Geech by Jerry Bittle for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90296d5099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 4, 2018 " title="Geech by Jerry Bittle for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ee260c099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 3, 2018 " title="Geech by Jerry Bittle for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8056ef4099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Feb 2, 2018 " title="Geech by Jerry Bittle for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/geech/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/433ee430c535012e2f9000163e41dd5b" alt="Geech by Jerry Bittle for Feb 1, 2018 " title="Geech by Jerry Bittle for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ae64c29099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 31, 2018 " title="Geech by Jerry Bittle for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/73ce3c5099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 30, 2018 " title="Geech by Jerry Bittle for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/657f2f8099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 29, 2018 " title="Geech by Jerry Bittle for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b0aec1099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 28, 2018 " title="Geech by Jerry Bittle for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4909fa7099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 27, 2018 " title="Geech by Jerry Bittle for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4dd5624099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 26, 2018 " title="Geech by Jerry Bittle for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/446b3170c535012e2f9000163e41dd5b" alt="Geech by Jerry Bittle for Jan 25, 2018 " title="Geech by Jerry Bittle for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b25a2540c4f7012e2f9000163e41dd5b" alt="Geech by Jerry Bittle for Jan 24, 2018 " title="Geech by Jerry Bittle for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5553ad4099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 23, 2018 " title="Geech by Jerry Bittle for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/787b79a099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 22, 2018 " title="Geech by Jerry Bittle for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ebe6b5099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 21, 2018 " title="Geech by Jerry Bittle for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53f3aaa099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 20, 2018 " title="Geech by Jerry Bittle for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/74e33e7099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 19, 2018 " title="Geech by Jerry Bittle for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/732a6ad099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 18, 2018 " title="Geech by Jerry Bittle for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c6dde38099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 17, 2018 " title="Geech by Jerry Bittle for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/701d320099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 16, 2018 " title="Geech by Jerry Bittle for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/geech/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ba03a1099ea012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jan 15, 2018 " title="Geech by Jerry Bittle for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jerry Bittle</name>
-            </author>
         </item>
     </channel>
 </rss>

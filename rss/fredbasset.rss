@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Fred Basset</title>
-        <description>Fred Basset by Alex Graham</description>
         <link>http://www.gocomics.com/fredbasset</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Fred Basset by Alex Graham</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Fred Basset</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tmfba/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/fredbasset</link>
         </image>
         <copyright>Copyright Alex Graham</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/fredbasset.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/fredbasset/2018/02/26</link>
             <guid>http://www.gocomics.com/fredbasset/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0abf04b0f5a0013518f1005056a9545d" alt="Fred Basset by Alex Graham for Feb 26, 2018 " title="Fred Basset by Alex Graham for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5e7dcfc0de0c01350fb0005056a9545d" alt="Fred Basset by Alex Graham for Feb 25, 2018 " title="Fred Basset by Alex Graham for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a911a630f27a01351756005056a9545d" alt="Fred Basset by Alex Graham for Feb 24, 2018 " title="Fred Basset by Alex Graham for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a53b15c0f27a01351756005056a9545d" alt="Fred Basset by Alex Graham for Feb 23, 2018 " title="Fred Basset by Alex Graham for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab98b680f27a01351756005056a9545d" alt="Fred Basset by Alex Graham for Feb 22, 2018 " title="Fred Basset by Alex Graham for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7c4b040f27a01351756005056a9545d" alt="Fred Basset by Alex Graham for Feb 21, 2018 " title="Fred Basset by Alex Graham for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa49f6d0f27a01351756005056a9545d" alt="Fred Basset by Alex Graham for Feb 20, 2018 " title="Fred Basset by Alex Graham for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a68c5510f27a01351756005056a9545d" alt="Fred Basset by Alex Graham for Feb 19, 2018 " title="Fred Basset by Alex Graham for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c7bebc0d7c301350d44005056a9545d" alt="Fred Basset by Alex Graham for Feb 18, 2018 " title="Fred Basset by Alex Graham for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/93450270e84301351372005056a9545d" alt="Fred Basset by Alex Graham for Feb 17, 2018 " title="Fred Basset by Alex Graham for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9475c840e84301351372005056a9545d" alt="Fred Basset by Alex Graham for Feb 16, 2018 " title="Fred Basset by Alex Graham for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/95a5deb0e84301351372005056a9545d" alt="Fred Basset by Alex Graham for Feb 15, 2018 " title="Fred Basset by Alex Graham for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/96e2ec00e84301351372005056a9545d" alt="Fred Basset by Alex Graham for Feb 14, 2018 " title="Fred Basset by Alex Graham for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92168ce0e84301351372005056a9545d" alt="Fred Basset by Alex Graham for Feb 13, 2018 " title="Fred Basset by Alex Graham for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90dbfcc0e84301351372005056a9545d" alt="Fred Basset by Alex Graham for Feb 12, 2018 " title="Fred Basset by Alex Graham for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bcfa3f70d3d501350bf8005056a9545d" alt="Fred Basset by Alex Graham for Feb 11, 2018 " title="Fred Basset by Alex Graham for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8a117f0e77a01351311005056a9545d" alt="Fred Basset by Alex Graham for Feb 10, 2018 " title="Fred Basset by Alex Graham for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9c5d810e77a01351311005056a9545d" alt="Fred Basset by Alex Graham for Feb 9, 2018 " title="Fred Basset by Alex Graham for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a61c9970e77a01351311005056a9545d" alt="Fred Basset by Alex Graham for Feb 8, 2018 " title="Fred Basset by Alex Graham for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a3931db0e77a01351311005056a9545d" alt="Fred Basset by Alex Graham for Feb 7, 2018 " title="Fred Basset by Alex Graham for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4d5d970e77a01351311005056a9545d" alt="Fred Basset by Alex Graham for Feb 6, 2018 " title="Fred Basset by Alex Graham for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a75803b0e77a01351311005056a9545d" alt="Fred Basset by Alex Graham for Feb 5, 2018 " title="Fred Basset by Alex Graham for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/14ece690ceed01350a5b005056a9545d" alt="Fred Basset by Alex Graham for Feb 4, 2018 " title="Fred Basset by Alex Graham for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ad82e50e1fa0135110c005056a9545d" alt="Fred Basset by Alex Graham for Feb 3, 2018 " title="Fred Basset by Alex Graham for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/587b6900e1fa0135110c005056a9545d" alt="Fred Basset by Alex Graham for Feb 2, 2018 " title="Fred Basset by Alex Graham for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d3910c0e1fa0135110c005056a9545d" alt="Fred Basset by Alex Graham for Feb 1, 2018 " title="Fred Basset by Alex Graham for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/599c3630e1fa0135110c005056a9545d" alt="Fred Basset by Alex Graham for Jan 31, 2018 " title="Fred Basset by Alex Graham for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/573e23c0e1fa0135110c005056a9545d" alt="Fred Basset by Alex Graham for Jan 30, 2018 " title="Fred Basset by Alex Graham for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c00b740e1fa0135110c005056a9545d" alt="Fred Basset by Alex Graham for Jan 29, 2018 " title="Fred Basset by Alex Graham for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1c8fdc60ceed01350a5b005056a9545d" alt="Fred Basset by Alex Graham for Jan 28, 2018 " title="Fred Basset by Alex Graham for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51bdc910dd4301350f4a005056a9545d" alt="Fred Basset by Alex Graham for Jan 27, 2018 " title="Fred Basset by Alex Graham for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/52ec2470dd4301350f4a005056a9545d" alt="Fred Basset by Alex Graham for Jan 26, 2018 " title="Fred Basset by Alex Graham for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5076b5f0dd4301350f4a005056a9545d" alt="Fred Basset by Alex Graham for Jan 25, 2018 " title="Fred Basset by Alex Graham for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4f343990dd4301350f4a005056a9545d" alt="Fred Basset by Alex Graham for Jan 24, 2018 " title="Fred Basset by Alex Graham for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e025510dd4301350f4a005056a9545d" alt="Fred Basset by Alex Graham for Jan 23, 2018 " title="Fred Basset by Alex Graham for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4cad0060dd4301350f4a005056a9545d" alt="Fred Basset by Alex Graham for Jan 22, 2018 " title="Fred Basset by Alex Graham for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1135d500ceed01350a5b005056a9545d" alt="Fred Basset by Alex Graham for Jan 21, 2018 " title="Fred Basset by Alex Graham for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e336d150d6f901350cee005056a9545d" alt="Fred Basset by Alex Graham for Jan 20, 2018 " title="Fred Basset by Alex Graham for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e44bcfd0d6f901350cee005056a9545d" alt="Fred Basset by Alex Graham for Jan 19, 2018 " title="Fred Basset by Alex Graham for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1f89730d6f901350cee005056a9545d" alt="Fred Basset by Alex Graham for Jan 18, 2018 " title="Fred Basset by Alex Graham for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6b911d0d6f901350cee005056a9545d" alt="Fred Basset by Alex Graham for Jan 17, 2018 " title="Fred Basset by Alex Graham for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e57e1850d6f901350cee005056a9545d" alt="Fred Basset by Alex Graham for Jan 16, 2018 " title="Fred Basset by Alex Graham for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/fredbasset/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e0d43690d6f901350cee005056a9545d" alt="Fred Basset by Alex Graham for Jan 15, 2018 " title="Fred Basset by Alex Graham for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Alex Graham</name>
-            </author>
         </item>
     </channel>
 </rss>

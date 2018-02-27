@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>@Tavicat</title>
-        <description>@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons</description>
         <link>http://www.gocomics.com/tavicat</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>@Tavicat</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tav/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/tavicat</link>
         </image>
         <copyright>Copyright Rikki Simons and Tavisha Wolfgarth-Simons</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/tavicat.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/tavicat/2018/02/26</link>
             <guid>http://www.gocomics.com/tavicat/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dd01fa20fa5501351a92005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 26, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bac08560f91f013519d9005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 21, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 19, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cbf79770f7ed01351964005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 19, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 14, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cfa30d50f38e013517d9005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 14, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 12, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0caddc70f1b1013516fe005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 12, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 7, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ab51ff0ee45013515d0005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 7, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d5577d80ecb201351518005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 5, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 31, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/080a2980e8b001351399005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 31, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 29, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7cf41160e37f013511bb005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 29, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 24, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bc3b3c10e1f90135110b005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 24, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 22, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/afb9a6e0e15e013510cb005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 22, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 17, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/200fec80dda301350f71005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 17, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 15, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b17994b0dc0e01350ecf005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 15, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dafe6550d83301350d67005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 10, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 8, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/tavicat/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/048ba520d69901350cba005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 8, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Rikki Simons and Tavisha Wolfgarth-Simons</name>
-            </author>
         </item>
     </channel>
 </rss>

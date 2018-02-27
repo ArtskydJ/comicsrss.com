@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Thatababy</title>
-        <description>Thatababy by Paul Trap</description>
         <link>http://www.gocomics.com/thatababy</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Thatababy by Paul Trap</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Thatababy</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tab/mid_tab_u_201704101122.png</url>
             <link>http://www.gocomics.com/thatababy</link>
         </image>
         <copyright>Copyright Paul Trap</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/thatababy.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/thatababy/2018/02/26</link>
             <guid>http://www.gocomics.com/thatababy/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/17f47e50f89701351994005056a9545d" alt="Thatababy by Paul Trap for Feb 26, 2018 " title="Thatababy by Paul Trap for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7c8b1f0df9f0135106c005056a9545d" alt="Thatababy by Paul Trap for Feb 25, 2018 " title="Thatababy by Paul Trap for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e0b8f330f24d0135172d005056a9545d" alt="Thatababy by Paul Trap for Feb 24, 2018 " title="Thatababy by Paul Trap for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df7666d0f24d0135172d005056a9545d" alt="Thatababy by Paul Trap for Feb 23, 2018 " title="Thatababy by Paul Trap for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/de215b10f24d0135172d005056a9545d" alt="Thatababy by Paul Trap for Feb 22, 2018 " title="Thatababy by Paul Trap for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/538936f0f24f0135172e005056a9545d" alt="Thatababy by Paul Trap for Feb 21, 2018 " title="Thatababy by Paul Trap for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dca188a0f24d0135172d005056a9545d" alt="Thatababy by Paul Trap for Feb 20, 2018 " title="Thatababy by Paul Trap for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5240ec20f24f0135172e005056a9545d" alt="Thatababy by Paul Trap for Feb 19, 2018 " title="Thatababy by Paul Trap for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/457f9d20d95601350e03005056a9545d" alt="Thatababy by Paul Trap for Feb 18, 2018 " title="Thatababy by Paul Trap for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3b0b5a90ecc80135151e005056a9545d" alt="Thatababy by Paul Trap for Feb 17, 2018 " title="Thatababy by Paul Trap for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c4ff030ecc60135151d005056a9545d" alt="Thatababy by Paul Trap for Feb 16, 2018 " title="Thatababy by Paul Trap for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/39d06c50ecc80135151e005056a9545d" alt="Thatababy by Paul Trap for Feb 15, 2018 " title="Thatababy by Paul Trap for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9abea380ecc60135151d005056a9545d" alt="Thatababy by Paul Trap for Feb 14, 2018 " title="Thatababy by Paul Trap for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/995e2c20ecc60135151d005056a9545d" alt="Thatababy by Paul Trap for Feb 13, 2018 " title="Thatababy by Paul Trap for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97ccc7d0ecc60135151d005056a9545d" alt="Thatababy by Paul Trap for Feb 12, 2018 " title="Thatababy by Paul Trap for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c352e320d3d701350bf8005056a9545d" alt="Thatababy by Paul Trap for Feb 11, 2018 " title="Thatababy by Paul Trap for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d0138ce0e74a013512ef005056a9545d" alt="Thatababy by Paul Trap for Feb 10, 2018 " title="Thatababy by Paul Trap for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/63228610e749013512ee005056a9545d" alt="Thatababy by Paul Trap for Feb 9, 2018 " title="Thatababy by Paul Trap for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61cf3db0e749013512ee005056a9545d" alt="Thatababy by Paul Trap for Feb 8, 2018 " title="Thatababy by Paul Trap for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf39c220e747013512ed005056a9545d" alt="Thatababy by Paul Trap for Feb 7, 2018 " title="Thatababy by Paul Trap for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bdeb5550e747013512ed005056a9545d" alt="Thatababy by Paul Trap for Feb 6, 2018 " title="Thatababy by Paul Trap for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ced69c20e74a013512ef005056a9545d" alt="Thatababy by Paul Trap for Feb 5, 2018 " title="Thatababy by Paul Trap for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a24d4450ceef01350a5b005056a9545d" alt="Thatababy by Paul Trap for Feb 4, 2018 " title="Thatababy by Paul Trap for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e2e31f50e1c7013510e8005056a9545d" alt="Thatababy by Paul Trap for Feb 3, 2018 " title="Thatababy by Paul Trap for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87479e10e1c8013510e8005056a9545d" alt="Thatababy by Paul Trap for Feb 2, 2018 " title="Thatababy by Paul Trap for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/85d56780e1c8013510e8005056a9545d" alt="Thatababy by Paul Trap for Feb 1, 2018 " title="Thatababy by Paul Trap for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3c26cdc0e1c6013510e7005056a9545d" alt="Thatababy by Paul Trap for Jan 31, 2018 " title="Thatababy by Paul Trap for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/843f5910e1c8013510e8005056a9545d" alt="Thatababy by Paul Trap for Jan 30, 2018 " title="Thatababy by Paul Trap for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1b17c70e1c7013510e8005056a9545d" alt="Thatababy by Paul Trap for Jan 29, 2018 " title="Thatababy by Paul Trap for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97c2ff70ceef01350a5b005056a9545d" alt="Thatababy by Paul Trap for Jan 28, 2018 " title="Thatababy by Paul Trap for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c34e630dd0e01350f17005056a9545d" alt="Thatababy by Paul Trap for Jan 27, 2018 " title="Thatababy by Paul Trap for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88dbf2b0dd0f01350f18005056a9545d" alt="Thatababy by Paul Trap for Jan 26, 2018 " title="Thatababy by Paul Trap for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0afedcb0dd0e01350f17005056a9545d" alt="Thatababy by Paul Trap for Jan 25, 2018 " title="Thatababy by Paul Trap for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/616211d0dd0c01350f16005056a9545d" alt="Thatababy by Paul Trap for Jan 24, 2018 " title="Thatababy by Paul Trap for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/879131b0dd0f01350f18005056a9545d" alt="Thatababy by Paul Trap for Jan 23, 2018 " title="Thatababy by Paul Trap for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/864710e0dd0f01350f18005056a9545d" alt="Thatababy by Paul Trap for Jan 22, 2018 " title="Thatababy by Paul Trap for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9e9aa280ceef01350a5b005056a9545d" alt="Thatababy by Paul Trap for Jan 21, 2018 " title="Thatababy by Paul Trap for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6199c650d6ca01350ccb005056a9545d" alt="Thatababy by Paul Trap for Jan 20, 2018 " title="Thatababy by Paul Trap for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6063b740d6ca01350ccb005056a9545d" alt="Thatababy by Paul Trap for Jan 19, 2018 " title="Thatababy by Paul Trap for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f050e60d6ca01350ccb005056a9545d" alt="Thatababy by Paul Trap for Jan 18, 2018 " title="Thatababy by Paul Trap for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5dcb0080d6ca01350ccb005056a9545d" alt="Thatababy by Paul Trap for Jan 17, 2018 " title="Thatababy by Paul Trap for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5c9143f0d6ca01350ccb005056a9545d" alt="Thatababy by Paul Trap for Jan 16, 2018 " title="Thatababy by Paul Trap for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/thatababy/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c89c9680d6c801350cc9005056a9545d" alt="Thatababy by Paul Trap for Jan 15, 2018 " title="Thatababy by Paul Trap for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Paul Trap</name>
-            </author>
         </item>
     </channel>
 </rss>

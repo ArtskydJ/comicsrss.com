@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Cheap Thrills Cuisine</title>
-        <description>Cheap Thrills Cuisine by Bill Lombardo &amp;amp; Thach Bui</description>
         <link>http://www.gocomics.com/cheap-thrills-cuisine</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Cheap Thrills Cuisine by Bill Lombardo &amp;amp; Thach Bui</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Cheap Thrills Cuisine</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wpchp/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/cheap-thrills-cuisine</link>
         </image>
         <copyright>Copyright Bill Lombardo &amp;amp; Thach Bui</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/cheap-thrills-cuisine.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 21, 2018 ]]></title>
             <link>http://www.gocomics.com/cheap-thrills-cuisine/2018/02/21</link>
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e6f30420edd5013515a5005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 21, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 14, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e587eb00edd5013515a5005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 14, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 7, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e48d0ed0edd5013515a5005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 7, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 31, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da81cc50d20d01350b1a005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 31, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 24, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d72281b0d20d01350b1a005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 24, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 17, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d82d3bc0d20d01350b1a005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 17, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 10, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d94516c0d20d01350b1a005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 10, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 3, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/cheap-thrills-cuisine/2018/01/03</guid>
             <pubDate>Wed, 03 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db8f69f0d20d01350b1a005056a9545d" alt="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 3, 2018 " title="Cheap Thrills Cuisine by Bill Lombardo &amp; Thach Bui for Jan 3, 2018 ">]]></description>
-            <author>
-                <name>Bill Lombardo &amp;amp; Thach Bui</name>
-            </author>
         </item>
     </channel>
 </rss>

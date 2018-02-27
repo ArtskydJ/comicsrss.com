@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>ViewsLatinAmerica</title>
-        <description>ViewsLatinAmerica by CartoonArts International</description>
         <link>http://www.gocomics.com/viewslatinamerica</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>ViewsLatinAmerica by CartoonArts International</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>ViewsLatinAmerica</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/cwvla/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/viewslatinamerica</link>
         </image>
         <copyright>Copyright CartoonArts International</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/viewslatinamerica.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Feb 16, 2018 ]]></title>
             <link>http://www.gocomics.com/viewslatinamerica/2018/02/16</link>
             <guid>http://www.gocomics.com/viewslatinamerica/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1c6dcfd0f592013518e2005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Feb 16, 2018 " title="ViewsLatinAmerica by CartoonArts International for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Feb 9, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4f883b0f03d013516cb005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Feb 9, 2018 " title="ViewsLatinAmerica by CartoonArts International for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Feb 2, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d69d7680ea7c0135147e005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Feb 2, 2018 " title="ViewsLatinAmerica by CartoonArts International for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Jan 26, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88e88010e50f01351271005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Jan 26, 2018 " title="ViewsLatinAmerica by CartoonArts International for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Jan 19, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87571100df7c01351050005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Jan 19, 2018 " title="ViewsLatinAmerica by CartoonArts International for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Jan 12, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37a5f5a0da0f01350e5a005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Jan 12, 2018 " title="ViewsLatinAmerica by CartoonArts International for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Jan 5, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2018/01/05</guid>
             <pubDate>Fri, 05 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7f7f5200d4ae01350c5a005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Jan 5, 2018 " title="ViewsLatinAmerica by CartoonArts International for Jan 5, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[ViewsLatinAmerica by CartoonArts International for Dec 29, 2017 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/viewslatinamerica/2017/12/29</guid>
             <pubDate>Fri, 29 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6cb80990cf0401350a6c005056a9545d" alt="ViewsLatinAmerica by CartoonArts International for Dec 29, 2017 " title="ViewsLatinAmerica by CartoonArts International for Dec 29, 2017 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
     </channel>
 </rss>

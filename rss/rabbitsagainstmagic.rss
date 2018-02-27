@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Rabbits Against Magic</title>
-        <description>Rabbits Against Magic by Jonathan Lemon</description>
         <link>http://www.gocomics.com/rabbitsagainstmagic</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Rabbits Against Magic by Jonathan Lemon</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Rabbits Against Magic</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ram/mid_ram_u_201702011521.png</url>
             <link>http://www.gocomics.com/rabbitsagainstmagic</link>
         </image>
         <copyright>Copyright Jonathan Lemon</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/rabbitsagainstmagic.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/rabbitsagainstmagic/2018/02/26</link>
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6eeec0e0fa3a01351a75005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 26, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/517e16a0fb2901351afc005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 25, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6fe61310fa3a01351a75005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 24, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a7fee90f98a01351a1f005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 23, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2eb99bd0f82601351974005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 22, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2fad3290f82601351974005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 21, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d418e9a0c455013506c0005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 20, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fabfbf30f5d001351900005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 19, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/77440860f31d01351798005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 18, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64900ce0f598013518e9005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 17, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06a70840f41b0135182c005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 16, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/04c3df40f41b0135182c005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 15, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/30960840f001013516a5005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 14, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2f9f5900f001013516a5005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 13, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/237fdd50ee75013515eb005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 12, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a50fbb20ef5b01351669005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 11, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2462dcf0ee75013515eb005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 10, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56050440ecd80135152a005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 9, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55310af0ecd80135152a005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 8, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cc3c7e60ec5e01351501005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 7, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb1367e0ec5e01351501005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 6, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e777720ea8301351481005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 5, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b87d9160e82901351355005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 4, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5137c5d0e7710135130c005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 3, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64458260ea0501351456005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 2, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/522389b0e7710135130c005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Feb 1, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eaf2a200e51701351276005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 31, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ea18ee90e51701351276005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 30, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3e69a30e2ad01351156005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 29, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5edddf90e2a50135114c005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 28, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c306ac80e2ad01351156005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 27, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4df1790e2ad01351156005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 26, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c218efb0e2ad01351156005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 25, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60f878d0e130013510b9005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 24, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60101d40e130013510b9005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 23, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7c6af30de3b01350fc9005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 22, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12e26600dd3801350f40005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 21, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11466670dd3801350f40005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 20, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/51a9f020dbde01350ec1005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 19, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/50bf1aa0dbde01350ec1005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 18, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f07fd800dbd501350ebd005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 17, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eeaad850dbd501350ebd005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 16, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rabbits Against Magic by Jonathan Lemon for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/rabbitsagainstmagic/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/322fb300d7be01350d3f005056a9545d" alt="Rabbits Against Magic by Jonathan Lemon for Jan 15, 2018 " title="Rabbits Against Magic by Jonathan Lemon for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jonathan Lemon</name>
-            </author>
         </item>
     </channel>
 </rss>

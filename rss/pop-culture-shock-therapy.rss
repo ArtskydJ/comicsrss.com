@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pop Culture Shock Therapy</title>
-        <description>Pop Culture Shock Therapy by Doug Bratton</description>
         <link>http://www.gocomics.com/pop-culture-shock-therapy</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Pop Culture Shock Therapy by Doug Bratton</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Pop Culture Shock Therapy</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/pcst/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/pop-culture-shock-therapy</link>
         </image>
         <copyright>Copyright Doug Bratton</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/pop-culture-shock-therapy.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/26</link>
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66fd8b70ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 26, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b953b80ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 23, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 22, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70419eb0ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 22, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e739020ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 21, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 20, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68eea4e0ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 20, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 19, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ac3b530ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 19, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/720d6800ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 16, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 15, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/75af85e0ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 15, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 14, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7d5961c0ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 14, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 13, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c9bb670ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 13, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 12, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/79aa0420ef1401351631005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 12, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 9, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5cebca00e680013512b5005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 9, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b44b030e680013512b5005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 8, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 6, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5999ab80e680013512b5005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 6, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 5, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/57c380d0e680013512b5005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 5, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 2, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8ad14ff0b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 2, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Feb 1, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86121370b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Feb 1, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 31, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ab64a70b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 31, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 30, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99c18db0b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 30, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 29, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/930dbb60b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 29, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 26, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87b7e250b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 26, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 25, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ffe3a50b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 25, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 24, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66aa2d70b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 24, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 23, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/89729b70b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 23, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 22, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f2567e0b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 22, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 19, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9f14d860b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 19, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 18, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6be07220b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 18, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 17, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/916a7110b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 17, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 16, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5cb2b720b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 16, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Pop Culture Shock Therapy by Doug Bratton for Jan 15, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/pop-culture-shock-therapy/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5e56a3f0b8e401350263005056a9545d" alt="Pop Culture Shock Therapy by Doug Bratton for Jan 15, 2018 " title="Pop Culture Shock Therapy by Doug Bratton for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Doug Bratton</name>
-            </author>
         </item>
     </channel>
 </rss>

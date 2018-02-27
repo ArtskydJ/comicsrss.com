@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nick and Zuzu</title>
-        <description>Nick and Zuzu by Nick Galifianakis</description>
         <link>http://www.gocomics.com/nick-and-zuzu</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Nick and Zuzu by Nick Galifianakis</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Nick and Zuzu</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/nic/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/nick-and-zuzu</link>
         </image>
         <copyright>Copyright Nick Galifianakis</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/nick-and-zuzu.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/nick-and-zuzu/2018/02/25</link>
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5655c730f89701351995005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 25, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88c91700f01e013516be005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 23, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/899f9d80f01e013516be005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 21, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 18, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86861f60f01e013516be005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 18, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/873fd9a0f01e013516be005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 16, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/88073330f01e013516be005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 14, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 11, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/85a3c2d0f01e013516be005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 11, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d6ba110ecae01351516005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 9, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e2dd980ecae01351516005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 7, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 4, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6c83f140ecae01351516005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 4, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7cc68450e66d013512b0005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 2, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7c098e50e66d013512b0005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 31, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 28, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b39ea80e66d013512b0005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 28, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/80f60e90decc01351002005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 26, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8046e020decc01351002005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 24, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 21, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7f86b620decc01351002005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 21, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6da43f50dc3801350ed7005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 19, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6b8bb1e0dc3801350ed7005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 17, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 14, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6cc6b620dc3801350ed7005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 14, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61857c60d3fc01350c0a005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 12, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Nick Galifianakis</name>
-            </author>
         </item>
     </channel>
 </rss>

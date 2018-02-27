@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Poptropica</title>
-        <description>Poptropica by Paul Gilligan and Kory Merritt</description>
         <link>http://www.gocomics.com/poptropica</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Poptropica by Paul Gilligan and Kory Merritt</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Poptropica</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/popt/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/poptropica</link>
         </image>
         <copyright>Copyright Paul Gilligan and Kory Merritt</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/poptropica.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/poptropica/2018/02/26</link>
             <guid>http://www.gocomics.com/poptropica/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eebda810be310132d548005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 26, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/edd9eff0be310132d548005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 23, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/efcf7e10be310132d548005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 21, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f153ab60be310132d548005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 19, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2acdf20be310132d548005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 16, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7b0c0e00b8ab0132d367005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 14, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/81a036f0b8ab0132d367005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 12, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/80123fd0b8ab0132d367005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 9, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7ced4330b8ab0132d367005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 7, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e86dec0b8ab0132d367005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 5, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/99e2dcd0b31a0132d15f005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Feb 2, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/964766a0b31a0132d15f005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 31, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b7ba650b31a0132d15f005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 29, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/984a7cb0b31a0132d15f005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 26, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/94009430b31a0132d15f005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 24, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 22, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d4d564e0adb90132cf3e005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 22, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dab8b7d0adb90132cf3e005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 19, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d76ff8f0adb90132cf3e005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 17, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 15, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d9330250adb90132cf3e005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 15, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d629fdf0adb90132cf3e005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jan 12, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Paul Gilligan and Kory Merritt</name>
-            </author>
         </item>
     </channel>
 </rss>

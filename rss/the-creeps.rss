@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Creeps</title>
-        <description>The Creeps by Jean Floch</description>
         <link>http://www.gocomics.com/the-creeps</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Creeps by Jean Floch</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Creeps</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/cre/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/the-creeps</link>
         </image>
         <copyright>Copyright Jean Floch</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-creeps.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Creeps by Jean Floch for May 31, 2017 ]]></title>
             <link>http://www.gocomics.com/the-creeps/2017/05/31</link>
             <guid>http://www.gocomics.com/the-creeps/2017/05/31</guid>
             <pubDate>Wed, 31 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d72a1cb0d3e00132df24005056a9545d" alt="The Creeps by Jean Floch for May 31, 2017 " title="The Creeps by Jean Floch for May 31, 2017 ">]]></description>
-            <author>
-                <name>Jean Floch</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Creeps by Jean Floch for May 30, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-creeps/2017/05/30</guid>
             <pubDate>Tue, 30 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d5e8a470d3e00132df24005056a9545d" alt="The Creeps by Jean Floch for May 30, 2017 " title="The Creeps by Jean Floch for May 30, 2017 ">]]></description>
-            <author>
-                <name>Jean Floch</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Creeps by Jean Floch for May 29, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-creeps/2017/05/29</guid>
             <pubDate>Mon, 29 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1139db0d0310132dde8005056a9545d" alt="The Creeps by Jean Floch for May 29, 2017 " title="The Creeps by Jean Floch for May 29, 2017 ">]]></description>
-            <author>
-                <name>Jean Floch</name>
-            </author>
         </item>
     </channel>
 </rss>

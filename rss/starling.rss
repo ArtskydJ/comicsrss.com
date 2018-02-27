@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Starling</title>
-        <description>Starling by Sage Stossel</description>
         <link>http://www.gocomics.com/starling</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Starling by Sage Stossel</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Starling</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/star/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/starling</link>
         </image>
         <copyright>Copyright Sage Stossel</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/starling.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Starling by Sage Stossel for Nov 29, 2017 ]]></title>
             <link>http://www.gocomics.com/starling/2017/11/29</link>
             <guid>http://www.gocomics.com/starling/2017/11/29</guid>
             <pubDate>Wed, 29 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7778b230b3d50135008d005056a9545d" alt="Starling by Sage Stossel for Nov 29, 2017 " title="Starling by Sage Stossel for Nov 29, 2017 ">]]></description>
-            <author>
-                <name>Sage Stossel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Starling by Sage Stossel for Nov 27, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/starling/2017/11/27</guid>
             <pubDate>Mon, 27 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0bfedb10acae0135fdfd005056a9545d" alt="Starling by Sage Stossel for Nov 27, 2017 " title="Starling by Sage Stossel for Nov 27, 2017 ">]]></description>
-            <author>
-                <name>Sage Stossel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Starling by Sage Stossel for Nov 24, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/starling/2017/11/24</guid>
             <pubDate>Fri, 24 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0697a130acae0135fdfd005056a9545d" alt="Starling by Sage Stossel for Nov 24, 2017 " title="Starling by Sage Stossel for Nov 24, 2017 ">]]></description>
-            <author>
-                <name>Sage Stossel</name>
-            </author>
         </item>
     </channel>
 </rss>

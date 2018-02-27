@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sunshine State</title>
-        <description>Sunshine State by Graham Nolan</description>
         <link>http://www.gocomics.com/sunshine-state</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Sunshine State by Graham Nolan</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Sunshine State</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/sus/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/sunshine-state</link>
         </image>
         <copyright>Copyright Graham Nolan</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/sunshine-state.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/sunshine-state/2018/02/26</link>
             <guid>http://www.gocomics.com/sunshine-state/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f7446430faf401351ad4005056a9545d" alt="Sunshine State by Graham Nolan for Feb 26, 2018 " title="Sunshine State by Graham Nolan for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1b33efb0f62b01351913005056a9545d" alt="Sunshine State by Graham Nolan for Feb 19, 2018 " title="Sunshine State by Graham Nolan for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/625f8f90f0ca013516de005056a9545d" alt="Sunshine State by Graham Nolan for Feb 12, 2018 " title="Sunshine State by Graham Nolan for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e28449c0eb2c013514c5005056a9545d" alt="Sunshine State by Graham Nolan for Feb 5, 2018 " title="Sunshine State by Graham Nolan for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ebd9a760e5dc0135129e005056a9545d" alt="Sunshine State by Graham Nolan for Jan 29, 2018 " title="Sunshine State by Graham Nolan for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09ce6c80e0370135108c005056a9545d" alt="Sunshine State by Graham Nolan for Jan 22, 2018 " title="Sunshine State by Graham Nolan for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af601310dab201350e82005056a9545d" alt="Sunshine State by Graham Nolan for Jan 15, 2018 " title="Sunshine State by Graham Nolan for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7f3f680d49b01350c4d005056a9545d" alt="Sunshine State by Graham Nolan for Jan 8, 2018 " title="Sunshine State by Graham Nolan for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Sunshine State by Graham Nolan for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/sunshine-state/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dbaa1940ce4701350a17005056a9545d" alt="Sunshine State by Graham Nolan for Jan 1, 2018 " title="Sunshine State by Graham Nolan for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Graham Nolan</name>
-            </author>
         </item>
     </channel>
 </rss>

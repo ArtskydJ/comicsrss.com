@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Matt Wuerker</title>
-        <description>Matt Wuerker by Matt Wuerker</description>
         <link>http://www.gocomics.com/mattwuerker</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Matt Wuerker by Matt Wuerker</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Matt Wuerker</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wu/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/mattwuerker</link>
         </image>
         <copyright>Copyright Matt Wuerker</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/mattwuerker.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 24, 2018 ]]></title>
             <link>http://www.gocomics.com/mattwuerker/2018/02/24</link>
             <guid>http://www.gocomics.com/mattwuerker/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5ee685f0fb0801351ae9005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 24, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/194e0ca0fb0201351ae0005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 23, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 20, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4a6e2480f8a00135199d005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 20, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 16, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f659bc30f56c013518c7005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 16, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 15, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8963ec0f56c013518c7005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 15, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 13, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87f14790f328013517a2005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 13, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 8, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aeddc600ef0e01351630005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 8, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/19973630ee52013515d8005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 7, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 6, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a51b9020ed820135156c005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 6, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 3, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/439cbd90ea6401351472005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 3, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45d9cdf0ea6401351472005056a9545d" alt="Matt Wuerker by Matt Wuerker for Feb 2, 2018 " title="Matt Wuerker by Matt Wuerker for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 30, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ff65e1a0e8230135134e005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 30, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 26, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/371456f0e51201351273005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 26, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 25, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1f9e9730e44b01351215005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 25, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/960b09d0e379013511b3005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 24, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 19, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/62fe7e70df8301351055005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 19, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 17, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d914d080ddec01350f92005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 17, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 16, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e592380ddba01350f74005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 16, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 12, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9572d9f0d9df01350e38005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 12, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 10, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bbbe6de0d85701350d7f005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 10, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jan 8, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/mattwuerker/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed07e030d6e601350ce5005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jan 8, 2018 " title="Matt Wuerker by Matt Wuerker for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Matt Wuerker</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jim&amp;#39;s Journal</title>
-        <description>Jim&amp;#39;s Journal by Jim</description>
         <link>http://www.gocomics.com/jimsjournal</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jim&amp;#39;s Journal by Jim</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jim&amp;#39;s Journal</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/jjo/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/jimsjournal</link>
         </image>
         <copyright>Copyright Jim</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jimsjournal.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/jimsjournal/2018/02/26</link>
             <guid>http://www.gocomics.com/jimsjournal/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fdf38210d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 26, 2018 " title="Jim&#39;s Journal by Jim for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0622c8d0d3d901350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 23, 2018 " title="Jim&#39;s Journal by Jim for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e526bc60d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 21, 2018 " title="Jim&#39;s Journal by Jim for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07077890d3d901350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 19, 2018 " title="Jim&#39;s Journal by Jim for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ebe80970d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 16, 2018 " title="Jim&#39;s Journal by Jim for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ea42faf0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 15, 2018 " title="Jim&#39;s Journal by Jim for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 13, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dc1f2fe0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 13, 2018 " title="Jim&#39;s Journal by Jim for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 10, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9903dc0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 10, 2018 " title="Jim&#39;s Journal by Jim for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 8, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ef505550d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 8, 2018 " title="Jim&#39;s Journal by Jim for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 6, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cc393320d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 6, 2018 " title="Jim&#39;s Journal by Jim for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 3, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5490700d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 3, 2018 " title="Jim&#39;s Journal by Jim for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Feb 1, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb57ff10d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Feb 1, 2018 " title="Jim&#39;s Journal by Jim for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 30, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c8a97d80d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 30, 2018 " title="Jim&#39;s Journal by Jim for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 27, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0070a7f0d3d901350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 27, 2018 " title="Jim&#39;s Journal by Jim for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 25, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/febcaca0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 25, 2018 " title="Jim&#39;s Journal by Jim for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 23, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c370cb50d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 23, 2018 " title="Jim&#39;s Journal by Jim for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 22, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e26c3120d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 22, 2018 " title="Jim&#39;s Journal by Jim for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 18, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dec58650d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 18, 2018 " title="Jim&#39;s Journal by Jim for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 16, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cfda24d0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 16, 2018 " title="Jim&#39;s Journal by Jim for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 13, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/13</guid>
             <pubDate>Sat, 13 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ce397b40d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 13, 2018 " title="Jim&#39;s Journal by Jim for Jan 13, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jan 11, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/jimsjournal/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e60391f0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jan 11, 2018 " title="Jim&#39;s Journal by Jim for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Jim</name>
-            </author>
         </item>
     </channel>
 </rss>

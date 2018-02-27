@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Rosa Dominical</title>
-        <description>Rosa Dominical by Pat Brady and Don Wimmer</description>
         <link>http://www.gocomics.com/rosa-dominical</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Rosa Dominical by Pat Brady and Don Wimmer</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Rosa Dominical</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/rrsp/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/rosa-dominical</link>
         </image>
         <copyright>Copyright Pat Brady and Don Wimmer</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/rosa-dominical.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rosa Dominical by Pat Brady and Don Wimmer for Oct 5, 2014 ]]></title>
             <link>http://www.gocomics.com/rosa-dominical/2014/10/05</link>
             <guid>http://www.gocomics.com/rosa-dominical/2014/10/05</guid>
             <pubDate>Sun, 05 Oct 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/97f251201b4b01329c9b005056a9545d" alt="Rosa Dominical by Pat Brady and Don Wimmer for Oct 5, 2014 " title="Rosa Dominical by Pat Brady and Don Wimmer for Oct 5, 2014 ">]]></description>
-            <author>
-                <name>Pat Brady and Don Wimmer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rosa Dominical by Pat Brady and Don Wimmer for Sep 28, 2014 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/rosa-dominical/2014/09/28</guid>
             <pubDate>Sun, 28 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/added05015c401329a39005056a9545d" alt="Rosa Dominical by Pat Brady and Don Wimmer for Sep 28, 2014 " title="Rosa Dominical by Pat Brady and Don Wimmer for Sep 28, 2014 ">]]></description>
-            <author>
-                <name>Pat Brady and Don Wimmer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Rosa Dominical by Pat Brady and Don Wimmer for Sep 21, 2014 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/rosa-dominical/2014/09/21</guid>
             <pubDate>Sun, 21 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60db6a60107d01329882005056a9545d" alt="Rosa Dominical by Pat Brady and Don Wimmer for Sep 21, 2014 " title="Rosa Dominical by Pat Brady and Don Wimmer for Sep 21, 2014 ">]]></description>
-            <author>
-                <name>Pat Brady and Don Wimmer</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dorris McComics</title>
-        <description>Dorris McComics by Alex Norris</description>
         <link>http://www.gocomics.com/dorris-mccomics</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Dorris McComics by Alex Norris</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Dorris McComics</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/dmc/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/dorris-mccomics</link>
         </image>
         <copyright>Copyright Alex Norris</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/dorris-mccomics.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dorris McComics by Alex Norris for Nov 7, 2016 ]]></title>
             <link>http://www.gocomics.com/dorris-mccomics/2016/11/07</link>
             <guid>http://www.gocomics.com/dorris-mccomics/2016/11/07</guid>
             <pubDate>Mon, 07 Nov 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d0027370634b0134c661005056a9545d" alt="Dorris McComics by Alex Norris for Nov 7, 2016 " title="Dorris McComics by Alex Norris for Nov 7, 2016 ">]]></description>
-            <author>
-                <name>Alex Norris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dorris McComics by Alex Norris for Nov 3, 2016 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/dorris-mccomics/2016/11/03</guid>
             <pubDate>Thu, 03 Nov 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e8313c90634b0134c661005056a9545d" alt="Dorris McComics by Alex Norris for Nov 3, 2016 " title="Dorris McComics by Alex Norris for Nov 3, 2016 ">]]></description>
-            <author>
-                <name>Alex Norris</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Dorris McComics by Alex Norris for Oct 31, 2016 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/dorris-mccomics/2016/10/31</guid>
             <pubDate>Mon, 31 Oct 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e04e8920634b0134c661005056a9545d" alt="Dorris McComics by Alex Norris for Oct 31, 2016 " title="Dorris McComics by Alex Norris for Oct 31, 2016 ">]]></description>
-            <author>
-                <name>Alex Norris</name>
-            </author>
         </item>
     </channel>
 </rss>

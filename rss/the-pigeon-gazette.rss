@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Pigeon Gazette</title>
-        <description>The Pigeon Gazette by Jane Zei</description>
         <link>http://www.gocomics.com/the-pigeon-gazette</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>The Pigeon Gazette by Jane Zei</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>The Pigeon Gazette</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tpg/mid_tpg_u_201703291510.png</url>
             <link>http://www.gocomics.com/the-pigeon-gazette</link>
         </image>
         <copyright>Copyright Jane Zei</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/the-pigeon-gazette.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/the-pigeon-gazette/2018/02/25</link>
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00911590d4a001350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 25, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 21, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8c9cce0d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 21, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 18, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05a88250d4a001350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 18, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 14, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02799280d4a001350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 14, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 11, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd9c6f40d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 11, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 7, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb1b8e00d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 7, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Feb 4, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/04109fe0d4a001350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Feb 4, 2018 " title="The Pigeon Gazette by Jane Zei for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 31, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fcbe0820d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 31, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 28, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/03413410d4a001350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 28, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 24, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4a6bb20d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 24, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 21, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/04d946c0d4a001350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 21, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 17, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f63887b0d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 17, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f716dff0d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 14, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[The Pigeon Gazette by Jane Zei for Jan 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/the-pigeon-gazette/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f9afd2b0d49f01350c51005056a9545d" alt="The Pigeon Gazette by Jane Zei for Jan 10, 2018 " title="The Pigeon Gazette by Jane Zei for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Jane Zei</name>
-            </author>
         </item>
     </channel>
 </rss>

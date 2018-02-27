@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Winston</title>
-        <description>Winston by Andrew Hart</description>
         <link>http://www.gocomics.com/winston</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Winston by Andrew Hart</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Winston</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/win/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/winston</link>
         </image>
         <copyright>Copyright Andrew Hart</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/winston.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/winston/2018/02/23</link>
             <guid>http://www.gocomics.com/winston/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1050d470f9ae01351a39005056a9545d" alt="Winston by Andrew Hart for Feb 23, 2018 " title="Winston by Andrew Hart for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/winston/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/119ba1e0f9ae01351a39005056a9545d" alt="Winston by Andrew Hart for Feb 22, 2018 " title="Winston by Andrew Hart for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 17, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/winston/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56622640f61a01351911005056a9545d" alt="Winston by Andrew Hart for Feb 17, 2018 " title="Winston by Andrew Hart for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 16, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/winston/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f22b1e80f5b9013518f8005056a9545d" alt="Winston by Andrew Hart for Feb 16, 2018 " title="Winston by Andrew Hart for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 9, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/winston/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d5e2970efd30135168d005056a9545d" alt="Winston by Andrew Hart for Feb 9, 2018 " title="Winston by Andrew Hart for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 3, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/winston/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/59b09ab0ea9c013514a1005056a9545d" alt="Winston by Andrew Hart for Feb 3, 2018 " title="Winston by Andrew Hart for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Feb 2, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/winston/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f007a890e9ce0135143f005056a9545d" alt="Winston by Andrew Hart for Feb 2, 2018 " title="Winston by Andrew Hart for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Jan 26, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/winston/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7f974880e44801351211005056a9545d" alt="Winston by Andrew Hart for Jan 26, 2018 " title="Winston by Andrew Hart for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Jan 25, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/winston/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41757b20e37d013511b8005056a9545d" alt="Winston by Andrew Hart for Jan 25, 2018 " title="Winston by Andrew Hart for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Jan 19, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/winston/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/313725e0dd6601350f5d005056a9545d" alt="Winston by Andrew Hart for Jan 19, 2018 " title="Winston by Andrew Hart for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Jan 17, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/winston/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/32176ec0dd6601350f5d005056a9545d" alt="Winston by Andrew Hart for Jan 17, 2018 " title="Winston by Andrew Hart for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Jan 11, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/winston/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f35e7700d6c601350cc7005056a9545d" alt="Winston by Andrew Hart for Jan 11, 2018 " title="Winston by Andrew Hart for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Winston by Andrew Hart for Jan 8, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/winston/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f43c50f0d6c601350cc7005056a9545d" alt="Winston by Andrew Hart for Jan 8, 2018 " title="Winston by Andrew Hart for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Andrew Hart</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ham Shears</title>
-        <description>Ham Shears by Madeline Queripel</description>
         <link>http://www.gocomics.com/ham-shears</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Ham Shears by Madeline Queripel</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Ham Shears</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ham/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/ham-shears</link>
         </image>
         <copyright>Copyright Madeline Queripel</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/ham-shears.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/ham-shears/2018/02/26</link>
             <guid>http://www.gocomics.com/ham-shears/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7126120e3a8013175b2005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 26, 2018 " title="Ham Shears by Madeline Queripel for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/928b7d00e21601317449005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 23, 2018 " title="Ham Shears by Madeline Queripel for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/447fea80de1e0131710e005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 21, 2018 " title="Ham Shears by Madeline Queripel for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/43ffb2b0de1e0131710e005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 19, 2018 " title="Ham Shears by Madeline Queripel for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2d5b9a70dca701316fce005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 16, 2018 " title="Ham Shears by Madeline Queripel for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c0a625e0d7a401316b98005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 14, 2018 " title="Ham Shears by Madeline Queripel for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c02c3a30d7a401316b98005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 12, 2018 " title="Ham Shears by Madeline Queripel for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/42554640d74201316b44005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 9, 2018 " title="Ham Shears by Madeline Queripel for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0bcf2730d4ed01316988005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 7, 2018 " title="Ham Shears by Madeline Queripel for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cfbab230d18f0131666e005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 5, 2018 " title="Ham Shears by Madeline Queripel for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cf3d9400d18f0131666e005056a9545d" alt="Ham Shears by Madeline Queripel for Feb 2, 2018 " title="Ham Shears by Madeline Queripel for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20543490cc1a01316185005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 31, 2018 " title="Ham Shears by Madeline Queripel for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1fc07160cc1a01316185005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 29, 2018 " title="Ham Shears by Madeline Queripel for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/20cd7240cc1a01316185005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 26, 2018 " title="Ham Shears by Madeline Queripel for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92bceb40c97b01315f72005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 24, 2018 " title="Ham Shears by Madeline Queripel for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 22, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2fa2e5a0c46401315bfe005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 22, 2018 " title="Ham Shears by Madeline Queripel for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/571713b0c13b0131590c005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 19, 2018 " title="Ham Shears by Madeline Queripel for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56a450e0c13b0131590c005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 17, 2018 " title="Ham Shears by Madeline Queripel for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 15, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/560b8e50c13b0131590c005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 15, 2018 " title="Ham Shears by Madeline Queripel for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d7102b30bd6a013155e9005056a9545d" alt="Ham Shears by Madeline Queripel for Jan 12, 2018 " title="Ham Shears by Madeline Queripel for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Madeline Queripel</name>
-            </author>
         </item>
     </channel>
 </rss>

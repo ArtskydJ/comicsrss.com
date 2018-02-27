@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Compu-toon</title>
-        <description>Compu-toon by Charles Boyce</description>
         <link>http://www.gocomics.com/compu-toon</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Compu-toon by Charles Boyce</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Compu-toon</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tmcom/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/compu-toon</link>
         </image>
         <copyright>Copyright Charles Boyce</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/compu-toon.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/compu-toon/2018/02/26</link>
             <guid>http://www.gocomics.com/compu-toon/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5f26180fbf801351b1f005056a9545d" alt="Compu-toon by Charles Boyce for Feb 26, 2018 " title="Compu-toon by Charles Boyce for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c5659b40fa5701351a94005056a9545d" alt="Compu-toon by Charles Boyce for Feb 25, 2018 " title="Compu-toon by Charles Boyce for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d056b790fa1601351a5a005056a9545d" alt="Compu-toon by Charles Boyce for Feb 24, 2018 " title="Compu-toon by Charles Boyce for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee6b6ad0f953013519f2005056a9545d" alt="Compu-toon by Charles Boyce for Feb 23, 2018 " title="Compu-toon by Charles Boyce for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6f629a50f89901351997005056a9545d" alt="Compu-toon by Charles Boyce for Feb 22, 2018 " title="Compu-toon by Charles Boyce for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/62353bf0f8820135198c005056a9545d" alt="Compu-toon by Charles Boyce for Feb 21, 2018 " title="Compu-toon by Charles Boyce for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b372f430f7ef01351965005056a9545d" alt="Compu-toon by Charles Boyce for Feb 20, 2018 " title="Compu-toon by Charles Boyce for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ea6b8fd0f72e01351932005056a9545d" alt="Compu-toon by Charles Boyce for Feb 19, 2018 " title="Compu-toon by Charles Boyce for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/69ae4f90f64801351918005056a9545d" alt="Compu-toon by Charles Boyce for Feb 18, 2018 " title="Compu-toon by Charles Boyce for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3a6c3aa0f4cf01351886005056a9545d" alt="Compu-toon by Charles Boyce for Feb 17, 2018 " title="Compu-toon by Charles Boyce for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d899d70f49001351853005056a9545d" alt="Compu-toon by Charles Boyce for Feb 16, 2018 " title="Compu-toon by Charles Boyce for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/71b3dc00f40e01351820005056a9545d" alt="Compu-toon by Charles Boyce for Feb 15, 2018 " title="Compu-toon by Charles Boyce for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e0de5810f0eb013516e0005056a9545d" alt="Compu-toon by Charles Boyce for Feb 14, 2018 " title="Compu-toon by Charles Boyce for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1f9d260f0eb013516e0005056a9545d" alt="Compu-toon by Charles Boyce for Feb 13, 2018 " title="Compu-toon by Charles Boyce for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e010470ef1601351632005056a9545d" alt="Compu-toon by Charles Boyce for Feb 12, 2018 " title="Compu-toon by Charles Boyce for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e459480eea701351614005056a9545d" alt="Compu-toon by Charles Boyce for Feb 11, 2018 " title="Compu-toon by Charles Boyce for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2547f030ee75013515eb005056a9545d" alt="Compu-toon by Charles Boyce for Feb 10, 2018 " title="Compu-toon by Charles Boyce for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41c00a10ed8601351570005056a9545d" alt="Compu-toon by Charles Boyce for Feb 9, 2018 " title="Compu-toon by Charles Boyce for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/617a6340ecef0135153d005056a9545d" alt="Compu-toon by Charles Boyce for Feb 8, 2018 " title="Compu-toon by Charles Boyce for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a52f7fe0ecde01351534005056a9545d" alt="Compu-toon by Charles Boyce for Feb 7, 2018 " title="Compu-toon by Charles Boyce for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/240f5d10ecd401351524005056a9545d" alt="Compu-toon by Charles Boyce for Feb 6, 2018 " title="Compu-toon by Charles Boyce for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e2761030ec34013514f6005056a9545d" alt="Compu-toon by Charles Boyce for Feb 5, 2018 " title="Compu-toon by Charles Boyce for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/871713e0eb67013514d0005056a9545d" alt="Compu-toon by Charles Boyce for Feb 4, 2018 " title="Compu-toon by Charles Boyce for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/259281d0e9be01351431005056a9545d" alt="Compu-toon by Charles Boyce for Feb 3, 2018 " title="Compu-toon by Charles Boyce for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0d496fc0e9bc0135142e005056a9545d" alt="Compu-toon by Charles Boyce for Feb 2, 2018 " title="Compu-toon by Charles Boyce for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3a242580e910013513dc005056a9545d" alt="Compu-toon by Charles Boyce for Feb 1, 2018 " title="Compu-toon by Charles Boyce for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1b82c060e85e0135137c005056a9545d" alt="Compu-toon by Charles Boyce for Jan 31, 2018 " title="Compu-toon by Charles Boyce for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09191830e7970135131e005056a9545d" alt="Compu-toon by Charles Boyce for Jan 30, 2018 " title="Compu-toon by Charles Boyce for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3ed98cf0e6aa013512be005056a9545d" alt="Compu-toon by Charles Boyce for Jan 29, 2018 " title="Compu-toon by Charles Boyce for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/39f46d20e5fa013512a1005056a9545d" alt="Compu-toon by Charles Boyce for Jan 28, 2018 " title="Compu-toon by Charles Boyce for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c69a6290e52a0135127f005056a9545d" alt="Compu-toon by Charles Boyce for Jan 27, 2018 " title="Compu-toon by Charles Boyce for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cd313850e4650135122d005056a9545d" alt="Compu-toon by Charles Boyce for Jan 26, 2018 " title="Compu-toon by Charles Boyce for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ba94ad30e39e013511d7005056a9545d" alt="Compu-toon by Charles Boyce for Jan 25, 2018 " title="Compu-toon by Charles Boyce for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cda897c0e2c401351169005056a9545d" alt="Compu-toon by Charles Boyce for Jan 24, 2018 " title="Compu-toon by Charles Boyce for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2af39d0e1fb0135110d005056a9545d" alt="Compu-toon by Charles Boyce for Jan 23, 2018 " title="Compu-toon by Charles Boyce for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a3edc20e13f013510be005056a9545d" alt="Compu-toon by Charles Boyce for Jan 22, 2018 " title="Compu-toon by Charles Boyce for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3500b990e06701351092005056a9545d" alt="Compu-toon by Charles Boyce for Jan 21, 2018 " title="Compu-toon by Charles Boyce for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3045cf80dfb701351076005056a9545d" alt="Compu-toon by Charles Boyce for Jan 20, 2018 " title="Compu-toon by Charles Boyce for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/96e1e2d0dece01351005005056a9545d" alt="Compu-toon by Charles Boyce for Jan 19, 2018 " title="Compu-toon by Charles Boyce for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/17b28780de1401350fb4005056a9545d" alt="Compu-toon by Charles Boyce for Jan 18, 2018 " title="Compu-toon by Charles Boyce for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d484e4f0dd4801350f4d005056a9545d" alt="Compu-toon by Charles Boyce for Jan 17, 2018 " title="Compu-toon by Charles Boyce for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f3f09cf0dc8501350eea005056a9545d" alt="Compu-toon by Charles Boyce for Jan 16, 2018 " title="Compu-toon by Charles Boyce for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/compu-toon/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0617c0a0dbac01350eaf005056a9545d" alt="Compu-toon by Charles Boyce for Jan 15, 2018 " title="Compu-toon by Charles Boyce for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Charles Boyce</name>
-            </author>
         </item>
     </channel>
 </rss>

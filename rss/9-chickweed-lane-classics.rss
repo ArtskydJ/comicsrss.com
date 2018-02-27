@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>9 Chickweed Lane Classics</title>
-        <description>9 Chickweed Lane Classics by Brooke McEldowney</description>
         <link>http://www.gocomics.com/9-chickweed-lane-classics</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>9 Chickweed Lane Classics by Brooke McEldowney</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>9 Chickweed Lane Classics</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/cwcl/mid_cwcl_u_201801121317.png</url>
             <link>http://www.gocomics.com/9-chickweed-lane-classics</link>
         </image>
         <copyright>Copyright Brooke McEldowney</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/9-chickweed-lane-classics.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/26</link>
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a1e4bc0d7c001350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 26, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09094880d7c001350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 25, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/02fc0720d7c001350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 24, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01f43f40d7c001350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 23, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00b42860d7c001350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 22, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ffc91370d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 21, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fee01640d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 20, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fdef5280d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 19, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fcff68c0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 18, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f88dffc0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 17, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f7a2dbc0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 16, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f6c15f40d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 15, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f5deb300d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 14, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4f0a0f0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 13, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f41810e0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 12, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f310ed30d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 11, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee498e20d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 10, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed5fe800d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 9, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ec7f7880d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 8, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb95e6e0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 7, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eab032a0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 6, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9d53d80d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 5, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e8d691f0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 4, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e4382100d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 3, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e355b410d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 2, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e26667f0d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Feb 1, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1741b30d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Jan 31, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e088cd20d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Jan 30, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[9 Chickweed Lane Classics by Brooke McEldowney for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/9-chickweed-lane-classics/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dfa6f380d7bf01350d43005056a9545d" alt="9 Chickweed Lane Classics by Brooke McEldowney for Jan 29, 2018 " title="9 Chickweed Lane Classics by Brooke McEldowney for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Brooke McEldowney</name>
-            </author>
         </item>
     </channel>
 </rss>

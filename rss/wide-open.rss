@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Wide Open</title>
-        <description>Wide Open by Rich Powell</description>
         <link>http://www.gocomics.com/wide-open</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Wide Open by Rich Powell</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Wide Open</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/dix/mid_dix_u_201702071515.png</url>
             <link>http://www.gocomics.com/wide-open</link>
         </image>
         <copyright>Copyright Rich Powell</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/wide-open.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Feb 22, 2018 ]]></title>
             <link>http://www.gocomics.com/wide-open/2018/02/22</link>
             <guid>http://www.gocomics.com/wide-open/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df3c3090f26001351743005056a9545d" alt="Wide Open by Rich Powell for Feb 22, 2018 " title="Wide Open by Rich Powell for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Feb 15, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d698190ecda0135152e005056a9545d" alt="Wide Open by Rich Powell for Feb 15, 2018 " title="Wide Open by Rich Powell for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Feb 8, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0eec7b20eef70135162c005056a9545d" alt="Wide Open by Rich Powell for Feb 8, 2018 " title="Wide Open by Rich Powell for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Feb 1, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6b21760e27f01351136005056a9545d" alt="Wide Open by Rich Powell for Feb 1, 2018 " title="Wide Open by Rich Powell for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Jan 25, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a5f804c0e27f01351136005056a9545d" alt="Wide Open by Rich Powell for Jan 25, 2018 " title="Wide Open by Rich Powell for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Jan 18, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6cb0a480d78101350d11005056a9545d" alt="Wide Open by Rich Powell for Jan 18, 2018 " title="Wide Open by Rich Powell for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Jan 11, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/95587230d20701350b16005056a9545d" alt="Wide Open by Rich Powell for Jan 11, 2018 " title="Wide Open by Rich Powell for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Jan 4, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/01/04</guid>
             <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bbccc370c962013508a5005056a9545d" alt="Wide Open by Rich Powell for Jan 4, 2018 " title="Wide Open by Rich Powell for Jan 4, 2018 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Dec 28, 2017 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/wide-open/2017/12/28</guid>
             <pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0a8af620c65101350721005056a9545d" alt="Wide Open by Rich Powell for Dec 28, 2017 " title="Wide Open by Rich Powell for Dec 28, 2017 ">]]></description>
-            <author>
-                <name>Rich Powell</name>
-            </author>
         </item>
     </channel>
 </rss>

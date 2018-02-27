@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>(th)ink</title>
-        <description>(th)ink by Keith Knight</description>
         <link>http://www.gocomics.com/think</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>(th)ink by Keith Knight</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>(th)ink</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/tk/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/think</link>
         </image>
         <copyright>Copyright Keith Knight</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/think.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[(th)ink by Keith Knight for Dec 28, 2017 ]]></title>
             <link>http://www.gocomics.com/think/2017/12/28</link>
             <guid>http://www.gocomics.com/think/2017/12/28</guid>
             <pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/71661c20ce13013509f4005056a9545d" alt="(th)ink by Keith Knight for Dec 28, 2017 " title="(th)ink by Keith Knight for Dec 28, 2017 ">]]></description>
-            <author>
-                <name>Keith Knight</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[(th)ink by Keith Knight for Oct 11, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/think/2017/10/11</guid>
             <pubDate>Wed, 11 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/868de5d08f7f0135f31c005056a9545d" alt="(th)ink by Keith Knight for Oct 11, 2017 " title="(th)ink by Keith Knight for Oct 11, 2017 ">]]></description>
-            <author>
-                <name>Keith Knight</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[(th)ink by Keith Knight for Oct 2, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/think/2017/10/02</guid>
             <pubDate>Mon, 02 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07de7b20895e0135f0bf005056a9545d" alt="(th)ink by Keith Knight for Oct 2, 2017 " title="(th)ink by Keith Knight for Oct 2, 2017 ">]]></description>
-            <author>
-                <name>Keith Knight</name>
-            </author>
         </item>
     </channel>
 </rss>

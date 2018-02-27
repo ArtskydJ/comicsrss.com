@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Just Say Uncle</title>
-        <description>Just Say Uncle by Dan Pavelich</description>
         <link>http://www.gocomics.com/just-say-uncle</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Just Say Uncle by Dan Pavelich</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Just Say Uncle</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/jsu/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/just-say-uncle</link>
         </image>
         <copyright>Copyright Dan Pavelich</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/just-say-uncle.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/just-say-uncle/2018/02/26</link>
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/159a34d0fcdb01351b4c005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 26, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8157e70fb4601351b08005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 24, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/657f6430fa7b01351aa2005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 23, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/de967f60f7170135192d005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 19, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9cf9720f4ee01351898005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 16, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00cef2a0f36b013517ca005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 14, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 11, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fadc3600f119013516e9005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 11, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 7, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f2a8f160edec013515b0005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 7, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 4, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b98fb170eb97013514da005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 4, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Feb 2, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/33c39d10ea0101351454005056a9545d" alt="Just Say Uncle by Dan Pavelich for Feb 2, 2018 " title="Just Say Uncle by Dan Pavelich for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 30, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/feb1ec70e7ab01351327005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 30, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 27, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40a7a330e53501351281005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 27, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 25, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e84a900e3ab013511db005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 25, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 21, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/370918e0e0930135109a005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 21, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 18, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/871af540de3301350fc6005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 18, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 15, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c07e170dbe401350ec4005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 15, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 14, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dcd2e380db0e01350e93005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 14, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jan 11, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/479edf50d8a901350db8005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jan 11, 2018 " title="Just Say Uncle by Dan Pavelich for Jan 11, 2018 ">]]></description>
-            <author>
-                <name>Dan Pavelich</name>
-            </author>
         </item>
     </channel>
 </rss>

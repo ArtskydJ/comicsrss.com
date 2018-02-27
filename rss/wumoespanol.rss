@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Wumo en Español</title>
-        <description>Wumo en Español by Wulff &amp;amp; Morgenthaler</description>
         <link>http://www.gocomics.com/wumoespanol</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Wumo en Español by Wulff &amp;amp; Morgenthaler</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Wumo en Español</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/wmsp/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/wumoespanol</link>
         </image>
         <copyright>Copyright Wulff &amp;amp; Morgenthaler</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/wumoespanol.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/wumoespanol/2018/02/26</link>
             <guid>http://www.gocomics.com/wumoespanol/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b9303b10f950013519ee005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 26, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/006e02f0f49a0135185e005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 24, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fecf4490f4990135185e005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 23, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd584480f4990135185e005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 22, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 21, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fbcb4e20f4990135185e005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 21, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 20, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa47efa0f4990135185e005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 20, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 19, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8cbadc0f4990135185e005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 19, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 17, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/291a3ef0ee8f01351605005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 17, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 16, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/23dfa1b0ee8f01351605005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 16, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 15, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/24f12960ee8f01351605005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 15, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 14, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/270572b0ee8f01351605005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 14, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 13, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/28173630ee8f01351605005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 13, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 12, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/25f89160ee8f01351605005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 12, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 10, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4b63dd40e8d7013513ae005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 10, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 9, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/49e38db0e8d7013513ae005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 9, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 8, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/488ee0b0e8d7013513ae005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 8, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 7, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/47167320e8d7013513ae005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 7, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 6, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45c86000e8d7013513ae005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 6, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 5, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44685670e8d7013513ae005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 5, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 3, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7041f4b0e34601351196005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 3, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 2, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e8f20e0e34601351196005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 2, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Feb 1, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d188770e34601351196005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Feb 1, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 31, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6bcc82f0e34601351196005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 31, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 30, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a6d63f0e34601351196005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 30, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 29, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/692e63b0e34601351196005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 29, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 27, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12e57cb0ddc901350f80005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 27, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 26, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/114afb10ddc901350f80005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 26, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 25, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ff1cf30ddc901350f80005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 25, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 24, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e7f7590ddc901350f80005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 24, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 23, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0d27fdd0ddc901350f80005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 23, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 22, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0bdb77e0ddc901350f80005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 22, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 20, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/27757a50d85401350d7b005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 20, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 19, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/25f36830d85401350d7b005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 19, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 18, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2485a060d85401350d7b005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 18, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 17, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/23158b50d85401350d7b005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 17, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 16, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/21a3bd50d85401350d7b005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 16, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wumo en Español by Wulff &amp; Morgenthaler for Jan 15, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/wumoespanol/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/202371f0d85401350d7b005056a9545d" alt="Wumo en Español by Wulff &amp; Morgenthaler for Jan 15, 2018 " title="Wumo en Español by Wulff &amp; Morgenthaler for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Wulff &amp;amp; Morgenthaler</name>
-            </author>
         </item>
     </channel>
 </rss>

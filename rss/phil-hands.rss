@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Phil Hands</title>
-        <description>Phil Hands by Phil Hands</description>
         <link>http://www.gocomics.com/phil-hands</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Phil Hands by Phil Hands</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Phil Hands</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/ph/mid_u-201701251614.png</url>
             <link>http://www.gocomics.com/phil-hands</link>
         </image>
         <copyright>Copyright Phil Hands</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/phil-hands.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 25, 2018 ]]></title>
             <link>http://www.gocomics.com/phil-hands/2018/02/25</link>
             <guid>http://www.gocomics.com/phil-hands/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cc4d6c00fb0701351ae8005056a9545d" alt="Phil Hands by Phil Hands for Feb 25, 2018 " title="Phil Hands by Phil Hands for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 24, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cda36970fb0701351ae8005056a9545d" alt="Phil Hands by Phil Hands for Feb 24, 2018 " title="Phil Hands by Phil Hands for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 23, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cb1e75d0fb0701351ae8005056a9545d" alt="Phil Hands by Phil Hands for Feb 23, 2018 " title="Phil Hands by Phil Hands for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 21, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/76005fc0f949013519e7005056a9545d" alt="Phil Hands by Phil Hands for Feb 21, 2018 " title="Phil Hands by Phil Hands for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 19, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a785b300f63701351917005056a9545d" alt="Phil Hands by Phil Hands for Feb 19, 2018 " title="Phil Hands by Phil Hands for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 18, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/64c1b9e0f56c013518c6005056a9545d" alt="Phil Hands by Phil Hands for Feb 18, 2018 " title="Phil Hands by Phil Hands for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 16, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4a13fdd0f512013518a6005056a9545d" alt="Phil Hands by Phil Hands for Feb 16, 2018 " title="Phil Hands by Phil Hands for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 14, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/23582ad0f32c013517a5005056a9545d" alt="Phil Hands by Phil Hands for Feb 14, 2018 " title="Phil Hands by Phil Hands for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 11, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f8219200f23601351720005056a9545d" alt="Phil Hands by Phil Hands for Feb 11, 2018 " title="Phil Hands by Phil Hands for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 8, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0133a2d0ee88013515ff005056a9545d" alt="Phil Hands by Phil Hands for Feb 8, 2018 " title="Phil Hands by Phil Hands for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Feb 5, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d16b9170ecb60135151a005056a9545d" alt="Phil Hands by Phil Hands for Feb 5, 2018 " title="Phil Hands by Phil Hands for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d6ec28c0e8db013513b1005056a9545d" alt="Phil Hands by Phil Hands for Jan 31, 2018 " title="Phil Hands by Phil Hands for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 28, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/101e34e0e50501351265005056a9545d" alt="Phil Hands by Phil Hands for Jan 28, 2018 " title="Phil Hands by Phil Hands for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 27, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e244550e4d90135124b005056a9545d" alt="Phil Hands by Phil Hands for Jan 27, 2018 " title="Phil Hands by Phil Hands for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 25, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/caec2de0e41e013511f9005056a9545d" alt="Phil Hands by Phil Hands for Jan 25, 2018 " title="Phil Hands by Phil Hands for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 23, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c8f40de0e1e801351101005056a9545d" alt="Phil Hands by Phil Hands for Jan 23, 2018 " title="Phil Hands by Phil Hands for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 16, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70320f40dc6401350ee2005056a9545d" alt="Phil Hands by Phil Hands for Jan 16, 2018 " title="Phil Hands by Phil Hands for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 14, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/14</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6e40b260dc6401350ee2005056a9545d" alt="Phil Hands by Phil Hands for Jan 14, 2018 " title="Phil Hands by Phil Hands for Jan 14, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Jan 10, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/01/10</guid>
             <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/87c4f2c0d7af01350d31005056a9545d" alt="Phil Hands by Phil Hands for Jan 10, 2018 " title="Phil Hands by Phil Hands for Jan 10, 2018 ">]]></description>
-            <author>
-                <name>Phil Hands</name>
-            </author>
         </item>
     </channel>
 </rss>

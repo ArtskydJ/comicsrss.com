@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Wit of the World</title>
-        <description>Wit of the World by CartoonArts International</description>
         <link>http://www.gocomics.com/witoftheworld</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:13 GMT</lastBuildDate>
+        <description>Wit of the World by CartoonArts International</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Wit of the World</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/cwwit/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/witoftheworld</link>
         </image>
         <copyright>Copyright CartoonArts International</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/witoftheworld.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Feb 22, 2018 ]]></title>
             <link>http://www.gocomics.com/witoftheworld/2018/02/22</link>
             <guid>http://www.gocomics.com/witoftheworld/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2683c970f592013518e2005056a9545d" alt="Wit of the World by CartoonArts International for Feb 22, 2018 " title="Wit of the World by CartoonArts International for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Feb 16, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/25ab2550f592013518e2005056a9545d" alt="Wit of the World by CartoonArts International for Feb 16, 2018 " title="Wit of the World by CartoonArts International for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Jan 29, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9219fb40e50f01351271005056a9545d" alt="Wit of the World by CartoonArts International for Jan 29, 2018 " title="Wit of the World by CartoonArts International for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Jan 22, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92f34870e50f01351271005056a9545d" alt="Wit of the World by CartoonArts International for Jan 22, 2018 " title="Wit of the World by CartoonArts International for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Jan 19, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40a845f0da0f01350e5a005056a9545d" alt="Wit of the World by CartoonArts International for Jan 19, 2018 " title="Wit of the World by CartoonArts International for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Jan 12, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3fe4ae10da0f01350e5a005056a9545d" alt="Wit of the World by CartoonArts International for Jan 12, 2018 " title="Wit of the World by CartoonArts International for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Dec 29, 2017 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2017/12/29</guid>
             <pubDate>Fri, 29 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/792934e0cf0401350a6c005056a9545d" alt="Wit of the World by CartoonArts International for Dec 29, 2017 " title="Wit of the World by CartoonArts International for Dec 29, 2017 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Wit of the World by CartoonArts International for Dec 23, 2017 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/witoftheworld/2017/12/23</guid>
             <pubDate>Sat, 23 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/43bbbb60c406013506a0005056a9545d" alt="Wit of the World by CartoonArts International for Dec 23, 2017 " title="Wit of the World by CartoonArts International for Dec 23, 2017 ">]]></description>
-            <author>
-                <name>CartoonArts International</name>
-            </author>
         </item>
     </channel>
 </rss>

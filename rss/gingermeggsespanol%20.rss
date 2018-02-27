@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ginger Meggs en Español</title>
-        <description>Ginger Meggs en Español by Jason Chatfield</description>
         <link>http://www.gocomics.com/gingermeggsespanol%20</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Ginger Meggs en Español by Jason Chatfield</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Ginger Meggs en Español</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/spgin/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/gingermeggsespanol%20</link>
         </image>
         <copyright>Copyright Jason Chatfield</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/gingermeggsespanol%20.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/gingermeggsespanol /2018/02/26</link>
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/621ac100f98d01351a20005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 26, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/95f88090e8860135138d005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 25, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0eab70b0f40d0135181f005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 24, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11968e10f40d0135181f005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 23, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0db343d0f40d0135181f005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 22, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12a1c790f40d0135181f005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 21, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/109bd4d0f40d0135181f005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 20, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0fa19610f40d0135181f005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 19, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a49acd80e30601351187005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 18, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0402ce40ee8d01351605005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 17, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/074de010ee8d01351605005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 16, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/087528c0ee8d01351605005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 15, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09742120ee8d01351605005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 14, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05084590ee8d01351605005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 13, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0646e4b0ee8d01351605005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 12, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8cd1ef40de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 11, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bf992310e90c013513db005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 10, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c09a0610e90c013513db005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 9, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c291b070e90c013513db005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 8, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c195a750e90c013513db005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 7, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4787760e90c013513db005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 6, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c38a3c70e90c013513db005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 5, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67560ea0d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 4, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8bc33ea0e38c013511cc005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 3, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8cc62be0e38c013511cc005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 2, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8f96cdb0e38c013511cc005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Feb 1, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8eacf940e38c013511cc005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 31, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8db39210e38c013511cc005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 30, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/90d85080e38c013511cc005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 29, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ce96ef0d3d601350bf8005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 28, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/895b9970de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 27, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8a41a730de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 26, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/85a00400de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 25, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86921cc0de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 24, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8784a060de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 23, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/886b57f0de0c01350fb0005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 22, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d7af0d30ceed01350a5b005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 21, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/639bd810d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 20, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/657460f0d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 19, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/616c0680d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 18, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6491b5f0d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 17, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/629ef640d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 16, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60789e40d88c01350da9005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Jan 15, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Jason Chatfield</name>
-            </author>
         </item>
     </channel>
 </rss>

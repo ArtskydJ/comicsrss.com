@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>My Cage: New and Old</title>
-        <description>My Cage: New and Old by Melissa DeJesus and Ed Power</description>
         <link>http://www.gocomics.com/mycage</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>My Cage: New and Old by Melissa DeJesus and Ed Power</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>My Cage: New and Old</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/cage/mid_u-201701251613.png</url>
             <link>http://www.gocomics.com/mycage</link>
         </image>
         <copyright>Copyright Melissa DeJesus and Ed Power</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/mycage.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/mycage/2018/02/26</link>
             <guid>http://www.gocomics.com/mycage/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45b48350fcdf01351b4e005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 26, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/70694cf0fc0701351b23005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 25, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c444570fb5b01351b0c005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 24, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7161ecf0fa9201351aa8005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 23, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/166df2b0f9c501351a3f005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 22, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5969ff50f8ef013519ca005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 21, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/abaf5820f83001351978005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 20, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aac77bf0f83001351978005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 19, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c337b270f69101351920005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 18, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a402cc20f5df01351903005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 17, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e3615120f4850135184a005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 16, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b8e25610f3bc013517e1005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 15, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8e8d9dd0f2f301351780005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 14, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c91ad1e0f2b60135176f005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 13, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0ca41a60f1e10135170d005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 12, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 10, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e52602e0efce0135168b005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 10, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 9, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1a21020ef030135162d005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 9, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 8, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/774c5500ee3a013515c9005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 8, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 7, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e3c3f100ee01013515b9005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 7, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 6, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2089750ed3601351558005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 6, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 5, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f37f2bc0ec4b013514fc005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 5, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 4, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2816eac0eb8b013514d7005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 4, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 3, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b46062d0eae7013514bd005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 3, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 2, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9144eed0e98501351400005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 2, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 1, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/mycage/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2df08660e951013513f8005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 1, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 31, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a2219b90e87f0135138a005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 31, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 30, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/779e7820e7b60135132a005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 30, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 29, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/28075cb0e6d4013512cd005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 29, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 28, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4765bd30e611013512a4005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 28, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 27, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10a54f70e55d0135128b005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 27, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 26, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cf926360e17b013510d5005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 26, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 25, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1e435e80e09101351099005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 25, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 24, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb1cde00e27001351130005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 24, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 23, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6734f4e0e23801351120005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 23, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 20, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/56ae4be0df4c01351034005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 20, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 19, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/275d7ae0de8301350fd9005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 19, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 18, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fcf17530ddb901350f73005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 18, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 17, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eab92a00dcf201350f04005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 17, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 16, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c43ad140dcad01350ef6005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 16, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 15, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/mycage/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d633aa0dbcd01350ebb005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 15, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Melissa DeJesus and Ed Power</name>
-            </author>
         </item>
     </channel>
 </rss>

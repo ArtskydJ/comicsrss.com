@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Basic Instructions</title>
-        <description>Basic Instructions by Scott Meyer</description>
         <link>http://www.gocomics.com/basicinstructions</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Basic Instructions by Scott Meyer</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Basic Instructions</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/basic/mid_u-201701251611.png</url>
             <link>http://www.gocomics.com/basicinstructions</link>
         </image>
         <copyright>Copyright Scott Meyer</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/basicinstructions.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/basicinstructions/2018/02/26</link>
             <guid>http://www.gocomics.com/basicinstructions/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aff83050fad901351abb005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 26, 2018 " title="Basic Instructions by Scott Meyer for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b08553a0fad901351abb005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 23, 2018 " title="Basic Instructions by Scott Meyer for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1190040fad901351abb005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 21, 2018 " title="Basic Instructions by Scott Meyer for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b2464d80fad901351abb005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 19, 2018 " title="Basic Instructions by Scott Meyer for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/053e3130ebf6013514e8005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 16, 2018 " title="Basic Instructions by Scott Meyer for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/05ddef90ebf6013514e8005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 14, 2018 " title="Basic Instructions by Scott Meyer for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/04aa3790ebf6013514e8005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 12, 2018 " title="Basic Instructions by Scott Meyer for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/041e3710ebf6013514e8005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 9, 2018 " title="Basic Instructions by Scott Meyer for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06812a10ebf6013514e8005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 7, 2018 " title="Basic Instructions by Scott Meyer for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0724a960ebf6013514e8005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 5, 2018 " title="Basic Instructions by Scott Meyer for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9f97d80e10a013510b0005056a9545d" alt="Basic Instructions by Scott Meyer for Feb 2, 2018 " title="Basic Instructions by Scott Meyer for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a8d44210e10a013510b0005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 31, 2018 " title="Basic Instructions by Scott Meyer for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a9641190e10a013510b0005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 29, 2018 " title="Basic Instructions by Scott Meyer for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7bf0310e10a013510b0005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 26, 2018 " title="Basic Instructions by Scott Meyer for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a735d3e0e10a013510b0005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 24, 2018 " title="Basic Instructions by Scott Meyer for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 22, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a846e480e10a013510b0005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 22, 2018 " title="Basic Instructions by Scott Meyer for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e0c3590d60801350c96005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 19, 2018 " title="Basic Instructions by Scott Meyer for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e900a50d60801350c96005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 17, 2018 " title="Basic Instructions by Scott Meyer for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 15, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3d78e430d60801350c96005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 15, 2018 " title="Basic Instructions by Scott Meyer for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/basicinstructions/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3c770bb0d60801350c96005056a9545d" alt="Basic Instructions by Scott Meyer for Jan 12, 2018 " title="Basic Instructions by Scott Meyer for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Scott Meyer</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bob Gorrell</title>
-        <description>Bob Gorrell by Bob Gorrell</description>
         <link>http://www.gocomics.com/bobgorrell</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Bob Gorrell by Bob Gorrell</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Bob Gorrell</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crbgo/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/bobgorrell</link>
         </image>
         <copyright>Copyright Bob Gorrell</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/bobgorrell.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 23, 2018 ]]></title>
             <link>http://www.gocomics.com/bobgorrell/2018/02/23</link>
             <guid>http://www.gocomics.com/bobgorrell/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dc22a360fb0101351adf005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 23, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 22, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67b5a540f96f01351a04005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 22, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a0247f0f96f01351a04005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 21, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 20, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c1232e0f8a6013519a1005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 20, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 19, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c93ab970f7560135193b005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 19, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 15, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4cc3280f4960135185c005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 15, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 14, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b97118d0f25c0135173e005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 14, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 13, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bad81fd0f25c0135173e005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 13, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 12, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10ecde20f1b5013516ff005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 12, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 2, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9be22ed0e9960135140c005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 2, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Feb 1, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/72918260e910013513dd005056a9545d" alt="Bob Gorrell by Bob Gorrell for Feb 1, 2018 " title="Bob Gorrell by Bob Gorrell for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e8ae9960e8ee013513b8005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 31, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 25, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f82f3c30e43701351203005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 25, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 23, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd6e4b40e28301351137005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 23, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 22, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ade73e0e134013510bb005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 22, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 18, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4b585f80de9601350fe3005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 18, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 17, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5b56fd60dd2501350f29005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 17, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 16, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f07d80b0db9201350ea9005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 16, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jan 12, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5302d150d9df01350e36005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jan 12, 2018 " title="Bob Gorrell by Bob Gorrell for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Bob Gorrell</name>
-            </author>
         </item>
     </channel>
 </rss>

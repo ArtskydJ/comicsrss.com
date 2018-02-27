@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Clay Jones</title>
-        <description>Clay Jones by Clay Jones</description>
         <link>http://www.gocomics.com/clayjones</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:11 GMT</lastBuildDate>
+        <description>Clay Jones by Clay Jones</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Clay Jones</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/crcjo/mid_u-201701251612.png</url>
             <link>http://www.gocomics.com/clayjones</link>
         </image>
         <copyright>Copyright Clay Jones</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/clayjones.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/clayjones/2018/02/26</link>
             <guid>http://www.gocomics.com/clayjones/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fcd80890fced01351b54005056a9545d" alt="Clay Jones by Clay Jones for Feb 26, 2018 " title="Clay Jones by Clay Jones for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 25, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/25</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a427e830fac201351ab2005056a9545d" alt="Clay Jones by Clay Jones for Feb 25, 2018 " title="Clay Jones by Clay Jones for Feb 25, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 24, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/24</guid>
             <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a61a5910fac201351ab2005056a9545d" alt="Clay Jones by Clay Jones for Feb 24, 2018 " title="Clay Jones by Clay Jones for Feb 24, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 23, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d5a32da0f925013519da005056a9545d" alt="Clay Jones by Clay Jones for Feb 23, 2018 " title="Clay Jones by Clay Jones for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 22, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c7a32280f8e2013519c4005056a9545d" alt="Clay Jones by Clay Jones for Feb 22, 2018 " title="Clay Jones by Clay Jones for Feb 22, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 21, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f5746220f86201351981005056a9545d" alt="Clay Jones by Clay Jones for Feb 21, 2018 " title="Clay Jones by Clay Jones for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 20, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/20</guid>
             <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2ac4cf30f77601351948005056a9545d" alt="Clay Jones by Clay Jones for Feb 20, 2018 " title="Clay Jones by Clay Jones for Feb 20, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 19, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3954cb70f61801351910005056a9545d" alt="Clay Jones by Clay Jones for Feb 19, 2018 " title="Clay Jones by Clay Jones for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 18, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/18</guid>
             <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e97d4920f535013518b1005056a9545d" alt="Clay Jones by Clay Jones for Feb 18, 2018 " title="Clay Jones by Clay Jones for Feb 18, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 17, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/17</guid>
             <pubDate>Sat, 17 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/753457a0f46601351847005056a9545d" alt="Clay Jones by Clay Jones for Feb 17, 2018 " title="Clay Jones by Clay Jones for Feb 17, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 16, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bcc03d90f41401351828005056a9545d" alt="Clay Jones by Clay Jones for Feb 16, 2018 " title="Clay Jones by Clay Jones for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 15, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0f630840f3ae013517e0005056a9545d" alt="Clay Jones by Clay Jones for Feb 15, 2018 " title="Clay Jones by Clay Jones for Feb 15, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 14, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/260e4b00f384013517d2005056a9545d" alt="Clay Jones by Clay Jones for Feb 14, 2018 " title="Clay Jones by Clay Jones for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 13, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/13</guid>
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c55c13b0f20601351713005056a9545d" alt="Clay Jones by Clay Jones for Feb 13, 2018 " title="Clay Jones by Clay Jones for Feb 13, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 12, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e4758590f143013516ee005056a9545d" alt="Clay Jones by Clay Jones for Feb 12, 2018 " title="Clay Jones by Clay Jones for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 11, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/11</guid>
             <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6ff04130f074013516d5005056a9545d" alt="Clay Jones by Clay Jones for Feb 11, 2018 " title="Clay Jones by Clay Jones for Feb 11, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 10, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/10</guid>
             <pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82858410ef9a01351684005056a9545d" alt="Clay Jones by Clay Jones for Feb 10, 2018 " title="Clay Jones by Clay Jones for Feb 10, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 9, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6570ac70eee80135162a005056a9545d" alt="Clay Jones by Clay Jones for Feb 9, 2018 " title="Clay Jones by Clay Jones for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 8, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/08</guid>
             <pubDate>Thu, 08 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f670d640eec80135161f005056a9545d" alt="Clay Jones by Clay Jones for Feb 8, 2018 " title="Clay Jones by Clay Jones for Feb 8, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 7, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee40d9f0ee16013515c2005056a9545d" alt="Clay Jones by Clay Jones for Feb 7, 2018 " title="Clay Jones by Clay Jones for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 6, 2018 ]]></title>
@@ -219,9 +160,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d988a540ec750135150a005056a9545d" alt="Clay Jones by Clay Jones for Feb 6, 2018 " title="Clay Jones by Clay Jones for Feb 6, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 5, 2018 ]]></title>
@@ -229,9 +167,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/23bc5190eb07013514c0005056a9545d" alt="Clay Jones by Clay Jones for Feb 5, 2018 " title="Clay Jones by Clay Jones for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 4, 2018 ]]></title>
@@ -239,9 +174,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/04</guid>
             <pubDate>Sun, 04 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e624520ea3301351462005056a9545d" alt="Clay Jones by Clay Jones for Feb 4, 2018 " title="Clay Jones by Clay Jones for Feb 4, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 3, 2018 ]]></title>
@@ -249,9 +181,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/03</guid>
             <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c948c70e964013513fc005056a9545d" alt="Clay Jones by Clay Jones for Feb 3, 2018 " title="Clay Jones by Clay Jones for Feb 3, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 2, 2018 ]]></title>
@@ -259,9 +188,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0b281f80e964013513fc005056a9545d" alt="Clay Jones by Clay Jones for Feb 2, 2018 " title="Clay Jones by Clay Jones for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Feb 1, 2018 ]]></title>
@@ -269,9 +195,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/02/01</guid>
             <pubDate>Thu, 01 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1acc3770e83201351361005056a9545d" alt="Clay Jones by Clay Jones for Feb 1, 2018 " title="Clay Jones by Clay Jones for Feb 1, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 31, 2018 ]]></title>
@@ -279,9 +202,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1c39fd10e83201351361005056a9545d" alt="Clay Jones by Clay Jones for Jan 31, 2018 " title="Clay Jones by Clay Jones for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 30, 2018 ]]></title>
@@ -289,9 +209,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4cec600e6b2013512c2005056a9545d" alt="Clay Jones by Clay Jones for Jan 30, 2018 " title="Clay Jones by Clay Jones for Jan 30, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 29, 2018 ]]></title>
@@ -299,9 +216,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82c6ff90e5a801351296005056a9545d" alt="Clay Jones by Clay Jones for Jan 29, 2018 " title="Clay Jones by Clay Jones for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 28, 2018 ]]></title>
@@ -309,9 +223,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/28</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e82de470e4bf01351245005056a9545d" alt="Clay Jones by Clay Jones for Jan 28, 2018 " title="Clay Jones by Clay Jones for Jan 28, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 27, 2018 ]]></title>
@@ -319,9 +230,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/27</guid>
             <pubDate>Sat, 27 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f03964f0e3fa013511ef005056a9545d" alt="Clay Jones by Clay Jones for Jan 27, 2018 " title="Clay Jones by Clay Jones for Jan 27, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 26, 2018 ]]></title>
@@ -329,9 +237,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/72741f80e398013511d3005056a9545d" alt="Clay Jones by Clay Jones for Jan 26, 2018 " title="Clay Jones by Clay Jones for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 25, 2018 ]]></title>
@@ -339,9 +244,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/25</guid>
             <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0e6122e0e33801351191005056a9545d" alt="Clay Jones by Clay Jones for Jan 25, 2018 " title="Clay Jones by Clay Jones for Jan 25, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 24, 2018 ]]></title>
@@ -349,9 +251,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/92c6cb00e30101351183005056a9545d" alt="Clay Jones by Clay Jones for Jan 24, 2018 " title="Clay Jones by Clay Jones for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 23, 2018 ]]></title>
@@ -359,9 +258,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2c148d80e2490135112a005056a9545d" alt="Clay Jones by Clay Jones for Jan 23, 2018 " title="Clay Jones by Clay Jones for Jan 23, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 22, 2018 ]]></title>
@@ -369,9 +265,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67ba3e90e06b01351093005056a9545d" alt="Clay Jones by Clay Jones for Jan 22, 2018 " title="Clay Jones by Clay Jones for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 21, 2018 ]]></title>
@@ -379,9 +272,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/21</guid>
             <pubDate>Sun, 21 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31ba10f0dfb701351076005056a9545d" alt="Clay Jones by Clay Jones for Jan 21, 2018 " title="Clay Jones by Clay Jones for Jan 21, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 20, 2018 ]]></title>
@@ -389,9 +279,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/20</guid>
             <pubDate>Sat, 20 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cecfecb0df5601351037005056a9545d" alt="Clay Jones by Clay Jones for Jan 20, 2018 " title="Clay Jones by Clay Jones for Jan 20, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 19, 2018 ]]></title>
@@ -399,9 +286,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/04f0d400de9601350fe2005056a9545d" alt="Clay Jones by Clay Jones for Jan 19, 2018 " title="Clay Jones by Clay Jones for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 18, 2018 ]]></title>
@@ -409,9 +293,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/18</guid>
             <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/16864f90ddbc01350f76005056a9545d" alt="Clay Jones by Clay Jones for Jan 18, 2018 " title="Clay Jones by Clay Jones for Jan 18, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 17, 2018 ]]></title>
@@ -419,9 +300,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dec58380dcdb01350f00005056a9545d" alt="Clay Jones by Clay Jones for Jan 17, 2018 " title="Clay Jones by Clay Jones for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 16, 2018 ]]></title>
@@ -429,9 +307,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/78da1f80dc2301350ed3005056a9545d" alt="Clay Jones by Clay Jones for Jan 16, 2018 " title="Clay Jones by Clay Jones for Jan 16, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jan 15, 2018 ]]></title>
@@ -439,9 +314,6 @@
             <guid>http://www.gocomics.com/clayjones/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9dc96390da9b01350e7d005056a9545d" alt="Clay Jones by Clay Jones for Jan 15, 2018 " title="Clay Jones by Clay Jones for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Clay Jones</name>
-            </author>
         </item>
     </channel>
 </rss>

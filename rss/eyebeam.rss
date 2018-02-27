@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Eyebeam</title>
-        <description>Eyebeam by Sam Hurt</description>
         <link>http://www.gocomics.com/eyebeam</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Eyebeam by Sam Hurt</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Eyebeam</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/eye/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/eyebeam</link>
         </image>
         <copyright>Copyright Sam Hurt</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/eyebeam.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/eyebeam/2018/02/26</link>
             <guid>http://www.gocomics.com/eyebeam/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/279730d0f8bb013519b2005056a9545d" alt="Eyebeam by Sam Hurt for Feb 26, 2018 " title="Eyebeam by Sam Hurt for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Feb 19, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/028ded70f33b013517b5005056a9545d" alt="Eyebeam by Sam Hurt for Feb 19, 2018 " title="Eyebeam by Sam Hurt for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Feb 12, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b50e1a90eda10135157f005056a9545d" alt="Eyebeam by Sam Hurt for Feb 12, 2018 " title="Eyebeam by Sam Hurt for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Feb 5, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c568ba60e83c0135136d005056a9545d" alt="Eyebeam by Sam Hurt for Feb 5, 2018 " title="Eyebeam by Sam Hurt for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Jan 29, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55e12940e2b60135115d005056a9545d" alt="Eyebeam by Sam Hurt for Jan 29, 2018 " title="Eyebeam by Sam Hurt for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Jan 22, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e04f4820dd2f01350f39005056a9545d" alt="Eyebeam by Sam Hurt for Jan 22, 2018 " title="Eyebeam by Sam Hurt for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Jan 15, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ff8dea20d92a01350de6005056a9545d" alt="Eyebeam by Sam Hurt for Jan 15, 2018 " title="Eyebeam by Sam Hurt for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Jan 8, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/01/08</guid>
             <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bbc03730d21e01350b26005056a9545d" alt="Eyebeam by Sam Hurt for Jan 8, 2018 " title="Eyebeam by Sam Hurt for Jan 8, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Eyebeam by Sam Hurt for Jan 1, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/eyebeam/2018/01/01</guid>
             <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/224981a0c9bf013508e4005056a9545d" alt="Eyebeam by Sam Hurt for Jan 1, 2018 " title="Eyebeam by Sam Hurt for Jan 1, 2018 ">]]></description>
-            <author>
-                <name>Sam Hurt</name>
-            </author>
         </item>
     </channel>
 </rss>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Snowflakes</title>
-        <description>Snowflakes by Zach Weinersmith, Chris Jones and James Ashby</description>
         <link>http://www.gocomics.com/snowflakes</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Snowflakes by Zach Weinersmith, Chris Jones and James Ashby</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Snowflakes</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/snow/mid_u-201701251615.png</url>
             <link>http://www.gocomics.com/snowflakes</link>
         </image>
         <copyright>Copyright Zach Weinersmith, Chris Jones and James Ashby</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/snowflakes.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 26, 2018 ]]></title>
             <link>http://www.gocomics.com/snowflakes/2018/02/26</link>
             <guid>http://www.gocomics.com/snowflakes/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2dc58f20587301331168005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 26, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 26, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 23, 2018 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/23</guid>
             <pubDate>Fri, 23 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0176e33057aa0133112d005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 23, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 23, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 21, 2018 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/21</guid>
             <pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f4f39ed0573a01331117005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 21, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 21, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 19, 2018 ]]></title>
@@ -49,9 +41,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c15afe0566d013310e7005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 19, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 19, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 16, 2018 ]]></title>
@@ -59,9 +48,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/16</guid>
             <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b44378f055520133106f005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 16, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 16, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 14, 2018 ]]></title>
@@ -69,9 +55,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/14</guid>
             <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8aa315f054890133100a005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 14, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 14, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 12, 2018 ]]></title>
@@ -79,9 +62,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/12</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ec55a0053db01330fa2005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 12, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 12, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 9, 2018 ]]></title>
@@ -89,9 +69,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/09</guid>
             <pubDate>Fri, 09 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d18ef1052f501330f43005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 9, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 9, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 7, 2018 ]]></title>
@@ -99,9 +76,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/07</guid>
             <pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1fb7fee052f501330f43005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 7, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 7, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 5, 2018 ]]></title>
@@ -109,9 +83,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/05</guid>
             <pubDate>Mon, 05 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1ee3668052f501330f43005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 5, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 5, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 2, 2018 ]]></title>
@@ -119,9 +90,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/00519c2050a201330e8a005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 2, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Feb 2, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 31, 2018 ]]></title>
@@ -129,9 +97,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/31</guid>
             <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06894dc04fdd01330e2a005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 31, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 31, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 29, 2018 ]]></title>
@@ -139,9 +104,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/29</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/787a68304f0b01330dca005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 29, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 29, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 26, 2018 ]]></title>
@@ -149,9 +111,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/26</guid>
             <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4e58a1c04e4201330d6b005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 26, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 26, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 24, 2018 ]]></title>
@@ -159,9 +118,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/24</guid>
             <pubDate>Wed, 24 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/24f4cae04d7901330d0a005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 24, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 24, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 22, 2018 ]]></title>
@@ -169,9 +125,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/22</guid>
             <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e06f88704cad01330ccf005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 22, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 22, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 19, 2018 ]]></title>
@@ -179,9 +132,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cf46d7904be601330ca8005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 19, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 19, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 17, 2018 ]]></title>
@@ -189,9 +139,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/17</guid>
             <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2b5a9c004b1301330c5c005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 17, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 17, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 15, 2018 ]]></title>
@@ -199,9 +146,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9b66c7e04ada01330c4b005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 15, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 15, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 12, 2018 ]]></title>
@@ -209,9 +153,6 @@
             <guid>http://www.gocomics.com/snowflakes/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3b15370499301330ba3005056a9545d" alt="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 12, 2018 " title="Snowflakes by Zach Weinersmith, Chris Jones and James Ashby for Jan 12, 2018 ">]]></description>
-            <author>
-                <name>Zach Weinersmith, Chris Jones and James Ashby</name>
-            </author>
         </item>
     </channel>
 </rss>

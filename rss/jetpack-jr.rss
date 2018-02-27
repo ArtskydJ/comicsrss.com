@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jetpack Jr.</title>
-        <description>Jetpack Jr. by Geoff Grogan</description>
         <link>http://www.gocomics.com/jetpack-jr</link>
-        <lastBuildDate>Mon, 26 Feb 2018 07:26:12 GMT</lastBuildDate>
+        <description>Jetpack Jr. by Geoff Grogan</description>
+        <lastBuildDate>Tue, 27 Feb 2018 00:57:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Jetpack Jr.</title>
             <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/pbh/mid_pbh_u_201702060940.png</url>
             <link>http://www.gocomics.com/jetpack-jr</link>
         </image>
         <copyright>Copyright Geoff Grogan</copyright>
-        <generator>Feed for Node.js</generator>
+        <atom:link href="http://www.comicsrss.com/rss/jetpack-jr.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jetpack Jr. by Geoff Grogan for Apr 7, 2017 ]]></title>
             <link>http://www.gocomics.com/jetpack-jr/2017/04/07</link>
             <guid>http://www.gocomics.com/jetpack-jr/2017/04/07</guid>
             <pubDate>Fri, 07 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fa89e9d0fc2e013484f0005056a9545d" alt="Jetpack Jr. by Geoff Grogan for Apr 7, 2017 " title="Jetpack Jr. by Geoff Grogan for Apr 7, 2017 ">]]></description>
-            <author>
-                <name>Geoff Grogan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jetpack Jr. by Geoff Grogan for Apr 5, 2017 ]]></title>
@@ -29,9 +27,6 @@
             <guid>http://www.gocomics.com/jetpack-jr/2017/04/05</guid>
             <pubDate>Wed, 05 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b0d30fa0fa2f01348206005056a9545d" alt="Jetpack Jr. by Geoff Grogan for Apr 5, 2017 " title="Jetpack Jr. by Geoff Grogan for Apr 5, 2017 ">]]></description>
-            <author>
-                <name>Geoff Grogan</name>
-            </author>
         </item>
         <item>
             <title><![CDATA[Jetpack Jr. by Geoff Grogan for Apr 3, 2017 ]]></title>
@@ -39,9 +34,6 @@
             <guid>http://www.gocomics.com/jetpack-jr/2017/04/03</guid>
             <pubDate>Mon, 03 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af0b8560fa2f01348206005056a9545d" alt="Jetpack Jr. by Geoff Grogan for Apr 3, 2017 " title="Jetpack Jr. by Geoff Grogan for Apr 3, 2017 ">]]></description>
-            <author>
-                <name>Geoff Grogan</name>
-            </author>
         </item>
     </channel>
 </rss>
