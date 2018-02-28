@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>GoComics</title>
+        <link>http://www.gocomics.com/test</link>
+        <description>GoComics by The GoComics Team</description>
+        <lastBuildDate>Wed, 28 Feb 2018 14:53:50 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>GoComics</title>
+            <url>http://avatar.amuniversal.com/feature_avatars/ubadge_images/features/test/mid_test_u_201802141519.png</url>
+            <link>http://www.gocomics.com/test</link>
+        </image>
+        <copyright>Copyright The GoComics Team</copyright>
+        <atom:link href="http://www.comicsrss.com/rss/test.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GoComics by The GoComics Team for Feb 14, 2018 ]]></title>
+            <link>http://www.gocomics.com/test/2018/02/14</link>
+            <guid>http://www.gocomics.com/test/2018/02/14</guid>
+            <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/854b2000f3fb01351811005056a9545d" alt="GoComics by The GoComics Team for Feb 14, 2018 " title="GoComics by The GoComics Team for Feb 14, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GoComics by The GoComics Team for Sep 1, 2016 ]]></title>
+            <link>http://www.gocomics.com/test/2016/09/01</link>
+            <guid>http://www.gocomics.com/test/2016/09/01</guid>
+            <pubDate>Thu, 01 Sep 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/c10cb680da83013455f1005056a9545d" alt="GoComics by The GoComics Team for Sep 1, 2016 " title="GoComics by The GoComics Team for Sep 1, 2016 ">]]></description>
+        </item>
+    </channel>
+</rss>
