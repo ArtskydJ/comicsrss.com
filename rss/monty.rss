@@ -4,7 +4,7 @@
         <title>Monty</title>
         <link>http://www.gocomics.com/monty</link>
         <description>Monty by Jim Meddick</description>
-        <lastBuildDate>Wed, 28 Feb 2018 14:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Mar 2018 07:26:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Meddick</copyright>
         <atom:link href="http://www.comicsrss.com/rss/monty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monty by Jim Meddick for Mar 1, 2018 ]]></title>
+            <link>http://www.gocomics.com/monty/2018/03/01</link>
+            <guid>http://www.gocomics.com/monty/2018/03/01</guid>
+            <pubDate>Thu, 01 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/73d93ec0f8cc013519bb005056a9545d" alt="Monty by Jim Meddick for Mar 1, 2018 " title="Monty by Jim Meddick for Mar 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Monty by Jim Meddick for Feb 28, 2018 ]]></title>
             <link>http://www.gocomics.com/monty/2018/02/28</link>
