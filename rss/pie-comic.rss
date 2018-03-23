@@ -4,7 +4,7 @@
         <title>Pie Comic</title>
         <link>http://www.gocomics.com/pie-comic</link>
         <description>Pie Comic by John McNamee</description>
-        <lastBuildDate>Thu, 22 Mar 2018 06:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Mar 2018 06:27:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John McNamee</copyright>
         <atom:link href="http://www.comicsrss.com/rss/pie-comic.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pie Comic by John McNamee for Mar 23, 2018 ]]></title>
+            <link>http://www.gocomics.com/pie-comic/2018/03/23</link>
+            <guid>http://www.gocomics.com/pie-comic/2018/03/23</guid>
+            <pubDate>Fri, 23 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/5d9556f00f8b013622b0005056a9545d" alt="Pie Comic by John McNamee for Mar 23, 2018 " title="Pie Comic by John McNamee for Mar 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pie Comic by John McNamee for Mar 22, 2018 ]]></title>
             <link>http://www.gocomics.com/pie-comic/2018/03/22</link>
