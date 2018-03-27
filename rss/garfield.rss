@@ -4,7 +4,7 @@
         <title>Garfield</title>
         <link>http://www.gocomics.com/garfield</link>
         <description>Garfield by Jim Davis</description>
-        <lastBuildDate>Mon, 26 Mar 2018 06:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Mar 2018 06:32:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Jim Davis</copyright>
         <atom:link href="http://www.comicsrss.com/rss/garfield.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Garfield by Jim Davis for Mar 27, 2018 ]]></title>
+            <link>http://www.gocomics.com/garfield/2018/03/27</link>
+            <guid>http://www.gocomics.com/garfield/2018/03/27</guid>
+            <pubDate>Tue, 27 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/3b196220fe4401351bea005056a9545d" alt="Garfield by Jim Davis for Mar 27, 2018 " title="Garfield by Jim Davis for Mar 27, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Garfield by Jim Davis for Mar 26, 2018 ]]></title>
+            <link>http://www.gocomics.com/garfield/2018/03/26</link>
+            <guid>http://www.gocomics.com/garfield/2018/03/26</guid>
+            <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/4877eb70fe4401351bea005056a9545d" alt="Garfield by Jim Davis for Mar 26, 2018 " title="Garfield by Jim Davis for Mar 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Garfield by Jim Davis for Mar 25, 2018 ]]></title>
             <link>http://www.gocomics.com/garfield/2018/03/25</link>
