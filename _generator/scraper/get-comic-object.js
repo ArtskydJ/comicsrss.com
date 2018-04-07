@@ -1,7 +1,7 @@
 var httpGet = require('./http-get.js')
 var url = require('url')
 
-module.exports = function getComicObject(pageUrl, previousComicObject) {
+module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 	var comicStrips = []
 	var previousComicStrips = []
 	var previousUrl = null
@@ -10,7 +10,8 @@ module.exports = function getComicObject(pageUrl, previousComicObject) {
 		previousUrl = previousComicStrips[0].url
 	}
 
-	return getPage(pageUrl)
+	return getOverviewPage(overviewPageUrl)
+		.then(getPage)
 		.then(getPage)
 		.then(getPage)
 		.then(getPage)
@@ -38,6 +39,14 @@ module.exports = function getComicObject(pageUrl, previousComicObject) {
 			}
 		})
 
+	function getOverviewPage(overviewPageUrl) {
+		return httpGet(overviewPageUrl)
+		.then(getRelUrlFromOverviewPath)
+		.then(function (relUrl) {
+			return url.resolve(overviewPageUrl, relUrl)
+		})
+	}
+
 	function getPage(pageUrl) {
 		if (!pageUrl) return null
 		if (previousUrl === pageUrl) {
@@ -56,6 +65,12 @@ module.exports = function getComicObject(pageUrl, previousComicObject) {
 	}
 }
 
+
+function getRelUrlFromOverviewPath(html) {
+	var comicsTabRelUrl = html.match(/<a class="nav-link" data-link="comics" href="([^">]+)">Comics<\/a>/)
+	if (comicsTabRelUrl === null || !comicsTabRelUrl[1]) throw new Error('Unable to parse comicsTabRelUrl')
+	return comicsTabRelUrl[1]
+}
 
 function parseComicPage(pageUrl, html) {
 	var comicImageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
