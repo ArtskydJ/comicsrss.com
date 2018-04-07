@@ -35,7 +35,7 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 						date: comicStrip.date,
 						comicImageUrl: comicStrip.comicImageUrl
 					}
-				})
+				}).slice(0, 25)
 			}
 		})
 

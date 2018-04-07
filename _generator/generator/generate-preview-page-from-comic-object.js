@@ -21,12 +21,15 @@ module.exports = function generatePreviewPage(comicObject) {
 }
 
 function generateComicImagesHtml(comicObject) {
-	return comicObject.comicStrips.map(function (comicStrip) {
+	return comicObject.comicStrips
+	.slice(0, 14) // two weeks
+	.map(function (comicStrip) {
 		return `<p>
 			<a href="${comicStrip.url}" alt="${comicStrip.titleAuthorDate}">
 				<span class="preview-header">${comicStrip.titleAuthorDate}</span>
 				<img class="preview-comic" src="${comicStrip.comicImageUrl}">
 			</a>
 		</p>`
-	}).join('')
+	})
+	.join('')
 }
