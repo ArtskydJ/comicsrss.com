@@ -26,7 +26,7 @@ getPageList()
 		})
 	})
 	.then(function (comicObjects) {
-		writeFile('../tmp/_comic-objects.json', JSON.stringify(comicObjects))
+		writeFile('../tmp/_comic-objects.json', JSON.stringify(comicObjects, null, '\t'))
 	})
 	.catch(function (err) {
 		console.error(err)
