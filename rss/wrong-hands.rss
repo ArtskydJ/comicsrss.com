@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Wrong Hands</title>
-        <link>http://www.gocomics.com/wrong-hands</link>
+        <link>http://www.gocomics.com/wrong-hands/2018/04/06</link>
         <description>Wrong Hands by John Atkinson</description>
-        <lastBuildDate>Thu, 05 Apr 2018 06:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Apr 2018 22:19:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Wrong Hands</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wh/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/wrong-hands</link>
+            <link>http://www.gocomics.com/wrong-hands/2018/04/06</link>
         </image>
         <copyright>Copyright John Atkinson</copyright>
         <atom:link href="http://www.comicsrss.com/rss/wrong-hands.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wrong Hands by John Atkinson for Apr 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/wrong-hands/2018/04/06</link>
+            <guid>http://www.gocomics.com/wrong-hands/2018/04/06</guid>
+            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/4e38b450180c013625d6005056a9545d" alt="Wrong Hands by John Atkinson for Apr 6, 2018 " title="Wrong Hands by John Atkinson for Apr 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wrong Hands by John Atkinson for Apr 3, 2018 ]]></title>
             <link>http://www.gocomics.com/wrong-hands/2018/04/03</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/wrong-hands/2018/01/12</guid>
             <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bef7d500d63e01350ca3005056a9545d" alt="Wrong Hands by John Atkinson for Jan 12, 2018 " title="Wrong Hands by John Atkinson for Jan 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wrong Hands by John Atkinson for Jan 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/wrong-hands/2018/01/09</link>
-            <guid>http://www.gocomics.com/wrong-hands/2018/01/09</guid>
-            <pubDate>Tue, 09 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/bff5b070d63e01350ca3005056a9545d" alt="Wrong Hands by John Atkinson for Jan 9, 2018 " title="Wrong Hands by John Atkinson for Jan 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tim Campbell</title>
-        <link>http://www.gocomics.com/tim-campbell</link>
+        <link>http://www.gocomics.com/tim-campbell/2018/04/06</link>
         <description>Tim Campbell by Tim Campbell</description>
-        <lastBuildDate>Thu, 05 Apr 2018 06:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Apr 2018 22:19:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Tim Campbell</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tca/large_tca_rec_201707061129.jpg</url>
-            <link>http://www.gocomics.com/tim-campbell</link>
+            <link>http://www.gocomics.com/tim-campbell/2018/04/06</link>
         </image>
         <copyright>Copyright Tim Campbell</copyright>
         <atom:link href="http://www.comicsrss.com/rss/tim-campbell.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tim Campbell by Tim Campbell for Apr 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/tim-campbell/2018/04/06</link>
+            <guid>http://www.gocomics.com/tim-campbell/2018/04/06</guid>
+            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/02d044501b5a0136276b005056a9545d" alt="Tim Campbell by Tim Campbell for Apr 6, 2018 " title="Tim Campbell by Tim Campbell for Apr 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tim Campbell by Tim Campbell for Apr 4, 2018 ]]></title>
             <link>http://www.gocomics.com/tim-campbell/2018/04/04</link>
@@ -181,41 +188,6 @@
             <guid>http://www.gocomics.com/tim-campbell/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6b7def70e28b01351139005056a9545d" alt="Tim Campbell by Tim Campbell for Jan 23, 2018 " title="Tim Campbell by Tim Campbell for Jan 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tim Campbell by Tim Campbell for Jan 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/tim-campbell/2018/01/22</link>
-            <guid>http://www.gocomics.com/tim-campbell/2018/01/22</guid>
-            <pubDate>Mon, 22 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/39d757a0e1c2013510e5005056a9545d" alt="Tim Campbell by Tim Campbell for Jan 22, 2018 " title="Tim Campbell by Tim Campbell for Jan 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tim Campbell by Tim Campbell for Jan 17, 2018 ]]></title>
-            <link>http://www.gocomics.com/tim-campbell/2018/01/17</link>
-            <guid>http://www.gocomics.com/tim-campbell/2018/01/17</guid>
-            <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/af8893e0ddc301350f79005056a9545d" alt="Tim Campbell by Tim Campbell for Jan 17, 2018 " title="Tim Campbell by Tim Campbell for Jan 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tim Campbell by Tim Campbell for Jan 12, 2018 ]]></title>
-            <link>http://www.gocomics.com/tim-campbell/2018/01/12</link>
-            <guid>http://www.gocomics.com/tim-campbell/2018/01/12</guid>
-            <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9117dc50d9e601350e40005056a9545d" alt="Tim Campbell by Tim Campbell for Jan 12, 2018 " title="Tim Campbell by Tim Campbell for Jan 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tim Campbell by Tim Campbell for Jan 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/tim-campbell/2018/01/11</link>
-            <guid>http://www.gocomics.com/tim-campbell/2018/01/11</guid>
-            <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b043b7f0d90c01350dd6005056a9545d" alt="Tim Campbell by Tim Campbell for Jan 11, 2018 " title="Tim Campbell by Tim Campbell for Jan 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tim Campbell by Tim Campbell for Jan 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/tim-campbell/2018/01/04</link>
-            <guid>http://www.gocomics.com/tim-campbell/2018/01/04</guid>
-            <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/819e68a0d38c01350bca005056a9545d" alt="Tim Campbell by Tim Campbell for Jan 4, 2018 " title="Tim Campbell by Tim Campbell for Jan 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

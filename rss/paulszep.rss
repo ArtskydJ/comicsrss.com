@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Paul Szep</title>
-        <link>http://www.gocomics.com/paulszep</link>
+        <link>http://www.gocomics.com/paulszep/2018/04/06</link>
         <description>Paul Szep by Paul Szep</description>
-        <lastBuildDate>Thu, 05 Apr 2018 06:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Apr 2018 22:19:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Paul Szep</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crpsz/large_rec-201701251555.jpg</url>
-            <link>http://www.gocomics.com/paulszep</link>
+            <link>http://www.gocomics.com/paulszep/2018/04/06</link>
         </image>
         <copyright>Copyright Paul Szep</copyright>
         <atom:link href="http://www.comicsrss.com/rss/paulszep.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paul Szep by Paul Szep for Apr 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/paulszep/2018/04/06</link>
+            <guid>http://www.gocomics.com/paulszep/2018/04/06</guid>
+            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/da4123901c1b013627b8005056a9545d" alt="Paul Szep by Paul Szep for Apr 6, 2018 " title="Paul Szep by Paul Szep for Apr 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Paul Szep by Paul Szep for Apr 2, 2018 ]]></title>
             <link>http://www.gocomics.com/paulszep/2018/04/02</link>
@@ -181,27 +188,6 @@
             <guid>http://www.gocomics.com/paulszep/2018/01/19</guid>
             <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e4b907f0df8001351054005056a9545d" alt="Paul Szep by Paul Szep for Jan 19, 2018 " title="Paul Szep by Paul Szep for Jan 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Paul Szep by Paul Szep for Jan 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/paulszep/2018/01/05</link>
-            <guid>http://www.gocomics.com/paulszep/2018/01/05</guid>
-            <pubDate>Fri, 05 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/18b46e70d4a201350c52005056a9545d" alt="Paul Szep by Paul Szep for Jan 5, 2018 " title="Paul Szep by Paul Szep for Jan 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Paul Szep by Paul Szep for Jan 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/paulszep/2018/01/04</link>
-            <guid>http://www.gocomics.com/paulszep/2018/01/04</guid>
-            <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/16e21c90d4a201350c52005056a9545d" alt="Paul Szep by Paul Szep for Jan 4, 2018 " title="Paul Szep by Paul Szep for Jan 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Paul Szep by Paul Szep for Jan 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/paulszep/2018/01/03</link>
-            <guid>http://www.gocomics.com/paulszep/2018/01/03</guid>
-            <pubDate>Wed, 03 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/13edde80d4a201350c52005056a9545d" alt="Paul Szep by Paul Szep for Jan 3, 2018 " title="Paul Szep by Paul Szep for Jan 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
