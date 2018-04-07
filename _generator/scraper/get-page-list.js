@@ -11,7 +11,7 @@ module.exports = function getPages() {
 			.map(getPageUrl)
 			.filter(isComicPage)
 			.sort()
-			//.slice(0, 15) // DEBUG
+			// .slice(0, 5) // DEBUG
 	})
 }
 
@@ -23,7 +23,7 @@ function siteMapParser(resolve, reject) {
 
 	var parserEvents = {
 		onopentag: function (name, attribs) { currentTag = name },
-		ontext: function (text) {currentPage[currentTag] = (currentPage[currentTag] || '') + text },
+		ontext: function (text) { currentPage[currentTag] = (currentPage[currentTag] || '') + text },
 		onclosetag: function (name) {
 			if (name === 'url') {
 				pages.push(currentPage)
