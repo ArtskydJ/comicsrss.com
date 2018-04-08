@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mustard and Boloney</title>
-        <link>http://www.gocomics.com/mustard-and-boloney</link>
+        <link>http://www.gocomics.com/mustard-and-boloney/2018/04/08</link>
         <description>Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard</description>
-        <lastBuildDate>Sat, 07 Apr 2018 22:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Mustard and Boloney</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/mad/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/mustard-and-boloney</link>
+            <link>http://www.gocomics.com/mustard-and-boloney/2018/04/08</link>
         </image>
         <copyright>Copyright Jeffrey Caulfield and Alexandre Rouillard</copyright>
         <atom:link href="http://www.comicsrss.com/rss/mustard-and-boloney.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Apr 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/mustard-and-boloney/2018/04/08</link>
+            <guid>http://www.gocomics.com/mustard-and-boloney/2018/04/08</guid>
+            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/a3e11f5017f7013625d0005056a9545d" alt="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Apr 8, 2018 " title="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Apr 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Apr 5, 2018 ]]></title>
             <link>http://www.gocomics.com/mustard-and-boloney/2018/04/05</link>
@@ -181,20 +188,6 @@
             <guid>http://www.gocomics.com/mustard-and-boloney/2018/01/16</guid>
             <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a758db10cc9e01350962005056a9545d" alt="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 16, 2018 " title="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/mustard-and-boloney/2018/01/14</link>
-            <guid>http://www.gocomics.com/mustard-and-boloney/2018/01/14</guid>
-            <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a4d77870cc9e01350962005056a9545d" alt="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 14, 2018 " title="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/mustard-and-boloney/2018/01/11</link>
-            <guid>http://www.gocomics.com/mustard-and-boloney/2018/01/11</guid>
-            <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b0307eb0cc9e01350962005056a9545d" alt="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 11, 2018 " title="Mustard and Boloney by Jeffrey Caulfield and Alexandre Rouillard for Jan 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

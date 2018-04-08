@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>FoxTrot</title>
-        <link>http://www.gocomics.com/foxtrot</link>
+        <link>http://www.gocomics.com/foxtrot/2018/04/08</link>
         <description>FoxTrot by Bill Amend</description>
-        <lastBuildDate>Sat, 07 Apr 2018 22:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>FoxTrot</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ft/large_rec-201701251556.jpg</url>
-            <link>http://www.gocomics.com/foxtrot</link>
+            <link>http://www.gocomics.com/foxtrot/2018/04/08</link>
         </image>
         <copyright>Copyright Bill Amend</copyright>
         <atom:link href="http://www.comicsrss.com/rss/foxtrot.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FoxTrot by Bill Amend for Apr 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/foxtrot/2018/04/08</link>
+            <guid>http://www.gocomics.com/foxtrot/2018/04/08</guid>
+            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/80530c00ffd601351cb9005056a9545d" alt="FoxTrot by Bill Amend for Apr 8, 2018 " title="FoxTrot by Bill Amend for Apr 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[FoxTrot by Bill Amend for Apr 1, 2018 ]]></title>
             <link>http://www.gocomics.com/foxtrot/2018/04/01</link>
