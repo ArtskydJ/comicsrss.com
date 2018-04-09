@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pearls Before Swine</title>
-        <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/08</link>
+        <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/09</link>
         <description>Pearls Before Swine by Stephan Pastis</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Pearls Before Swine</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pb/large_pb_rec_201804050954.jpg</url>
-            <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/08</link>
+            <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/09</link>
         </image>
         <copyright>Copyright Stephan Pastis</copyright>
         <atom:link href="http://www.comicsrss.com/rss/pearlsbeforeswine.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pearls Before Swine by Stephan Pastis for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/09</link>
+            <guid>http://www.gocomics.com/pearlsbeforeswine/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/80be6b1018bf01362611005056a9545d" alt="Pearls Before Swine by Stephan Pastis for Apr 9, 2018 " title="Pearls Before Swine by Stephan Pastis for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pearls Before Swine by Stephan Pastis for Apr 8, 2018 ]]></title>
             <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/08</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/pearlsbeforeswine/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/195ba2701353013623ee005056a9545d" alt="Pearls Before Swine by Stephan Pastis for Apr 5, 2018 " title="Pearls Before Swine by Stephan Pastis for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pearls Before Swine by Stephan Pastis for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/pearlsbeforeswine/2018/04/04</link>
-            <guid>http://www.gocomics.com/pearlsbeforeswine/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/79cc2d101354013623f1005056a9545d" alt="Pearls Before Swine by Stephan Pastis for Apr 4, 2018 " title="Pearls Before Swine by Stephan Pastis for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

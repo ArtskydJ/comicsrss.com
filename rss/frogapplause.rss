@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Frog Applause</title>
-        <link>http://www.gocomics.com/frogapplause/2018/04/08</link>
+        <link>http://www.gocomics.com/frogapplause/2018/04/09</link>
         <description>Frog Applause by Teresa Burritt</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Frog Applause</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/frog/large_frog_rec_201704111329.jpg</url>
-            <link>http://www.gocomics.com/frogapplause/2018/04/08</link>
+            <link>http://www.gocomics.com/frogapplause/2018/04/09</link>
         </image>
         <copyright>Copyright Teresa Burritt</copyright>
         <atom:link href="http://www.comicsrss.com/rss/frogapplause.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frog Applause by Teresa Burritt for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/frogapplause/2018/04/09</link>
+            <guid>http://www.gocomics.com/frogapplause/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/53ae63c01de201362808005056a9545d" alt="Frog Applause by Teresa Burritt for Apr 9, 2018 " title="Frog Applause by Teresa Burritt for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Apr 8, 2018 ]]></title>
             <link>http://www.gocomics.com/frogapplause/2018/04/08</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/frogapplause/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13d4c2401a2d013626b6005056a9545d" alt="Frog Applause by Teresa Burritt for Apr 5, 2018 " title="Frog Applause by Teresa Burritt for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frog Applause by Teresa Burritt for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/frogapplause/2018/04/04</link>
-            <guid>http://www.gocomics.com/frogapplause/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9052f05018ee01362633005056a9545d" alt="Frog Applause by Teresa Burritt for Apr 4, 2018 " title="Frog Applause by Teresa Burritt for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

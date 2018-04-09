@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gentle Creatures</title>
-        <link>http://www.gocomics.com/gentle-creatures/2018/04/06</link>
+        <link>http://www.gocomics.com/gentle-creatures/2018/04/09</link>
         <description>Gentle Creatures by Mel Henze</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Gentle Creatures</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gen/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/gentle-creatures/2018/04/06</link>
+            <link>http://www.gocomics.com/gentle-creatures/2018/04/09</link>
         </image>
         <copyright>Copyright Mel Henze</copyright>
         <atom:link href="http://www.comicsrss.com/rss/gentle-creatures.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gentle Creatures by Mel Henze for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/gentle-creatures/2018/04/09</link>
+            <guid>http://www.gocomics.com/gentle-creatures/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/c7dca6a0690c0131e237005056a9545d" alt="Gentle Creatures by Mel Henze for Apr 9, 2018 " title="Gentle Creatures by Mel Henze for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gentle Creatures by Mel Henze for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/gentle-creatures/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/gentle-creatures/2018/03/30</guid>
             <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61e517c0639d01316bd1001dd8b71c47" alt="Gentle Creatures by Mel Henze for Mar 30, 2018 " title="Gentle Creatures by Mel Henze for Mar 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gentle Creatures by Mel Henze for Mar 28, 2018 ]]></title>
-            <link>http://www.gocomics.com/gentle-creatures/2018/03/28</link>
-            <guid>http://www.gocomics.com/gentle-creatures/2018/03/28</guid>
-            <pubDate>Wed, 28 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/607669b0639d01316bd1001dd8b71c47" alt="Gentle Creatures by Mel Henze for Mar 28, 2018 " title="Gentle Creatures by Mel Henze for Mar 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

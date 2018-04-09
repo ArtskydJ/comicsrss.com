@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Maria&amp;#39;s Day</title>
-        <link>http://www.gocomics.com/marias-day/2018/04/08</link>
+        <link>http://www.gocomics.com/marias-day/2018/04/09</link>
         <description>Maria&amp;#39;s Day by John Zakour and Scott Roberts</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Maria&amp;#39;s Day</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/mar/large_rec-201701251557.jpg</url>
-            <link>http://www.gocomics.com/marias-day/2018/04/08</link>
+            <link>http://www.gocomics.com/marias-day/2018/04/09</link>
         </image>
         <copyright>Copyright John Zakour and Scott Roberts</copyright>
         <atom:link href="http://www.comicsrss.com/rss/marias-day.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maria&#39;s Day by John Zakour and Scott Roberts for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/marias-day/2018/04/09</link>
+            <guid>http://www.gocomics.com/marias-day/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/30c357201dc9013627fe005056a9545d" alt="Maria&#39;s Day by John Zakour and Scott Roberts for Apr 9, 2018 " title="Maria&#39;s Day by John Zakour and Scott Roberts for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Maria&#39;s Day by John Zakour and Scott Roberts for Apr 8, 2018 ]]></title>
             <link>http://www.gocomics.com/marias-day/2018/04/08</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/marias-day/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6a95f7f01851013625ea005056a9545d" alt="Maria&#39;s Day by John Zakour and Scott Roberts for Apr 5, 2018 " title="Maria&#39;s Day by John Zakour and Scott Roberts for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Maria&#39;s Day by John Zakour and Scott Roberts for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/marias-day/2018/04/04</link>
-            <guid>http://www.gocomics.com/marias-day/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/6cd64e501851013625ea005056a9545d" alt="Maria&#39;s Day by John Zakour and Scott Roberts for Apr 4, 2018 " title="Maria&#39;s Day by John Zakour and Scott Roberts for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

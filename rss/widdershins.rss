@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Widdershins</title>
-        <link>http://www.gocomics.com/widdershins/2018/04/06</link>
+        <link>http://www.gocomics.com/widdershins/2018/04/09</link>
         <description>Widdershins by Kate Ashwin</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Widdershins</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wid/large_wid_rec_201703081409.jpg</url>
-            <link>http://www.gocomics.com/widdershins/2018/04/06</link>
+            <link>http://www.gocomics.com/widdershins/2018/04/09</link>
         </image>
         <copyright>Copyright Kate Ashwin</copyright>
         <atom:link href="http://www.comicsrss.com/rss/widdershins.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Widdershins by Kate Ashwin for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/widdershins/2018/04/09</link>
+            <guid>http://www.gocomics.com/widdershins/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/78b334c079f60135eb33005056a9545d" alt="Widdershins by Kate Ashwin for Apr 9, 2018 " title="Widdershins by Kate Ashwin for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Widdershins by Kate Ashwin for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/widdershins/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/widdershins/2018/04/02</guid>
             <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/91d1e02079f60135eb33005056a9545d" alt="Widdershins by Kate Ashwin for Apr 2, 2018 " title="Widdershins by Kate Ashwin for Apr 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Widdershins by Kate Ashwin for Mar 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/widdershins/2018/03/30</link>
-            <guid>http://www.gocomics.com/widdershins/2018/03/30</guid>
-            <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c39705f079f60135eb33005056a9545d" alt="Widdershins by Kate Ashwin for Mar 30, 2018 " title="Widdershins by Kate Ashwin for Mar 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

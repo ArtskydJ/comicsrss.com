@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Momma</title>
-        <link>http://www.gocomics.com/momma/2018/04/08</link>
+        <link>http://www.gocomics.com/momma/2018/04/09</link>
         <description>Momma by Mell Lazarus</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Momma</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmom/large_rec-201701251555.jpg</url>
-            <link>http://www.gocomics.com/momma/2018/04/08</link>
+            <link>http://www.gocomics.com/momma/2018/04/09</link>
         </image>
         <copyright>Copyright Mell Lazarus</copyright>
         <atom:link href="http://www.comicsrss.com/rss/momma.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Momma by Mell Lazarus for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/momma/2018/04/09</link>
+            <guid>http://www.gocomics.com/momma/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/270059f017e0013625cd005056a9545d" alt="Momma by Mell Lazarus for Apr 9, 2018 " title="Momma by Mell Lazarus for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Momma by Mell Lazarus for Apr 8, 2018 ]]></title>
             <link>http://www.gocomics.com/momma/2018/04/08</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/momma/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fd6c10a0125f013623a7005056a9545d" alt="Momma by Mell Lazarus for Apr 5, 2018 " title="Momma by Mell Lazarus for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Momma by Mell Lazarus for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/momma/2018/04/04</link>
-            <guid>http://www.gocomics.com/momma/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/f8314ab0125f013623a7005056a9545d" alt="Momma by Mell Lazarus for Apr 4, 2018 " title="Momma by Mell Lazarus for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

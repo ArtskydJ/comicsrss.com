@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Next Door Neighbors</title>
-        <link>http://www.gocomics.com/next-door-neighbors/2018/04/06</link>
+        <link>http://www.gocomics.com/next-door-neighbors/2018/04/09</link>
         <description>Next Door Neighbors by Pat Sandy</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Next Door Neighbors</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ndn/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/next-door-neighbors/2018/04/06</link>
+            <link>http://www.gocomics.com/next-door-neighbors/2018/04/09</link>
         </image>
         <copyright>Copyright Pat Sandy</copyright>
         <atom:link href="http://www.comicsrss.com/rss/next-door-neighbors.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Next Door Neighbors by Pat Sandy for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/next-door-neighbors/2018/04/09</link>
+            <guid>http://www.gocomics.com/next-door-neighbors/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/ab35eaf01dcd013627ff005056a9545d" alt="Next Door Neighbors by Pat Sandy for Apr 9, 2018 " title="Next Door Neighbors by Pat Sandy for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/next-door-neighbors/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/04/03</guid>
             <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ddfa5630191a01362640005056a9545d" alt="Next Door Neighbors by Pat Sandy for Apr 3, 2018 " title="Next Door Neighbors by Pat Sandy for Apr 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Next Door Neighbors by Pat Sandy for Apr 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/next-door-neighbors/2018/04/02</link>
-            <guid>http://www.gocomics.com/next-door-neighbors/2018/04/02</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0bba6d801858013625ed005056a9545d" alt="Next Door Neighbors by Pat Sandy for Apr 2, 2018 " title="Next Door Neighbors by Pat Sandy for Apr 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

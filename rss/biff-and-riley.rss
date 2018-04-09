@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Biff &amp;amp; Riley</title>
-        <link>http://www.gocomics.com/biff-and-riley/2018/04/06</link>
+        <link>http://www.gocomics.com/biff-and-riley/2018/04/09</link>
         <description>Biff &amp;amp; Riley by Jeff Payden</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Biff &amp;amp; Riley</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bnr/large_rec-201701251557.jpg</url>
-            <link>http://www.gocomics.com/biff-and-riley/2018/04/06</link>
+            <link>http://www.gocomics.com/biff-and-riley/2018/04/09</link>
         </image>
         <copyright>Copyright Jeff Payden</copyright>
         <atom:link href="http://www.comicsrss.com/rss/biff-and-riley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Biff &amp; Riley by Jeff Payden for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/biff-and-riley/2018/04/09</link>
+            <guid>http://www.gocomics.com/biff-and-riley/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/bafbe2f02cb001313ee2001dd8b71c47" alt="Biff &amp; Riley by Jeff Payden for Apr 9, 2018 " title="Biff &amp; Riley by Jeff Payden for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Biff &amp; Riley by Jeff Payden for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/biff-and-riley/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/biff-and-riley/2018/03/30</guid>
             <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4f7a01e02535013138e5001dd8b71c47" alt="Biff &amp; Riley by Jeff Payden for Mar 30, 2018 " title="Biff &amp; Riley by Jeff Payden for Mar 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Biff &amp; Riley by Jeff Payden for Mar 28, 2018 ]]></title>
-            <link>http://www.gocomics.com/biff-and-riley/2018/03/28</link>
-            <guid>http://www.gocomics.com/biff-and-riley/2018/03/28</guid>
-            <pubDate>Wed, 28 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/bf0eb3902342013137b1001dd8b71c47" alt="Biff &amp; Riley by Jeff Payden for Mar 28, 2018 " title="Biff &amp; Riley by Jeff Payden for Mar 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

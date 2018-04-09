@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Peanuts en Español</title>
-        <link>http://www.gocomics.com/peanuts-espanol/2018/04/08</link>
+        <link>http://www.gocomics.com/peanuts-espanol/2018/04/09</link>
         <description>Peanuts en Español by Charles Schulz</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Peanuts en Español</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sppe/large_rec.jpg</url>
-            <link>http://www.gocomics.com/peanuts-espanol/2018/04/08</link>
+            <link>http://www.gocomics.com/peanuts-espanol/2018/04/09</link>
         </image>
         <copyright>Copyright Charles Schulz</copyright>
         <atom:link href="http://www.comicsrss.com/rss/peanuts-espanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peanuts en Español by Charles Schulz for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/peanuts-espanol/2018/04/09</link>
+            <guid>http://www.gocomics.com/peanuts-espanol/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/5a6f96001b070136272d005056a9545d" alt="Peanuts en Español by Charles Schulz for Apr 9, 2018 " title="Peanuts en Español by Charles Schulz for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Peanuts en Español by Charles Schulz for Apr 8, 2018 ]]></title>
             <link>http://www.gocomics.com/peanuts-espanol/2018/04/08</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/peanuts-espanol/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df6f0d4014bc0136248f005056a9545d" alt="Peanuts en Español by Charles Schulz for Apr 5, 2018 " title="Peanuts en Español by Charles Schulz for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Peanuts en Español by Charles Schulz for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/peanuts-espanol/2018/04/04</link>
-            <guid>http://www.gocomics.com/peanuts-espanol/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/dd56614014bc0136248f005056a9545d" alt="Peanuts en Español by Charles Schulz for Apr 4, 2018 " title="Peanuts en Español by Charles Schulz for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

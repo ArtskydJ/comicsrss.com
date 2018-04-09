@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hutch Owen</title>
-        <link>http://www.gocomics.com/hutch-owen</link>
+        <link>http://www.gocomics.com/hutch-owen/2018/04/09</link>
         <description>Hutch Owen by Tom Hart</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Hutch Owen</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hut/large_rec-201701251557.jpg</url>
-            <link>http://www.gocomics.com/hutch-owen</link>
+            <link>http://www.gocomics.com/hutch-owen/2018/04/09</link>
         </image>
         <copyright>Copyright Tom Hart</copyright>
         <atom:link href="http://www.comicsrss.com/rss/hutch-owen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hutch Owen by Tom Hart for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/hutch-owen/2018/04/09</link>
+            <guid>http://www.gocomics.com/hutch-owen/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/a92dd0008ec00132c422005056a9545d" alt="Hutch Owen by Tom Hart for Apr 9, 2018 " title="Hutch Owen by Tom Hart for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Hutch Owen by Tom Hart for Apr 5, 2018 ]]></title>
             <link>http://www.gocomics.com/hutch-owen/2018/04/05</link>
@@ -181,20 +188,6 @@
             <guid>http://www.gocomics.com/hutch-owen/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/41d47f402a550132a1c0005056a9545d" alt="Hutch Owen by Tom Hart for Jan 15, 2018 " title="Hutch Owen by Tom Hart for Jan 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hutch Owen by Tom Hart for Jan 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/hutch-owen/2018/01/11</link>
-            <guid>http://www.gocomics.com/hutch-owen/2018/01/11</guid>
-            <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/40615d502a550132a1c0005056a9545d" alt="Hutch Owen by Tom Hart for Jan 11, 2018 " title="Hutch Owen by Tom Hart for Jan 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hutch Owen by Tom Hart for Jan 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/hutch-owen/2018/01/08</link>
-            <guid>http://www.gocomics.com/hutch-owen/2018/01/08</guid>
-            <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/411ce0002a550132a1c0005056a9545d" alt="Hutch Owen by Tom Hart for Jan 8, 2018 " title="Hutch Owen by Tom Hart for Jan 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

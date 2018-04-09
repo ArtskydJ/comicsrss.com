@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Buni</title>
-        <link>http://www.gocomics.com/buni/2018/04/06</link>
+        <link>http://www.gocomics.com/buni/2018/04/09</link>
         <description>Buni by Ryan Pagelow</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Buni</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/buni/large_rec-201701251557.jpg</url>
-            <link>http://www.gocomics.com/buni/2018/04/06</link>
+            <link>http://www.gocomics.com/buni/2018/04/09</link>
         </image>
         <copyright>Copyright Ryan Pagelow</copyright>
         <atom:link href="http://www.comicsrss.com/rss/buni.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buni by Ryan Pagelow for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/buni/2018/04/09</link>
+            <guid>http://www.gocomics.com/buni/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/23c5f0b01dde01362806005056a9545d" alt="Buni by Ryan Pagelow for Apr 9, 2018 " title="Buni by Ryan Pagelow for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Buni by Ryan Pagelow for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/buni/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/buni/2018/03/26</guid>
             <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a17c07b012d9013623c7005056a9545d" alt="Buni by Ryan Pagelow for Mar 26, 2018 " title="Buni by Ryan Pagelow for Mar 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Buni by Ryan Pagelow for Mar 23, 2018 ]]></title>
-            <link>http://www.gocomics.com/buni/2018/03/23</link>
-            <guid>http://www.gocomics.com/buni/2018/03/23</guid>
-            <pubDate>Fri, 23 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/6baaad80108401362335005056a9545d" alt="Buni by Ryan Pagelow for Mar 23, 2018 " title="Buni by Ryan Pagelow for Mar 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

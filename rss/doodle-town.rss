@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Doodle Town</title>
-        <link>http://www.gocomics.com/doodle-town</link>
+        <link>http://www.gocomics.com/doodle-town/2018/04/09</link>
         <description>Doodle Town by Melissa Lomax</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Doodle Town</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dot/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/doodle-town</link>
+            <link>http://www.gocomics.com/doodle-town/2018/04/09</link>
         </image>
         <copyright>Copyright Melissa Lomax</copyright>
         <atom:link href="http://www.comicsrss.com/rss/doodle-town.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doodle Town by Melissa Lomax for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/doodle-town/2018/04/09</link>
+            <guid>http://www.gocomics.com/doodle-town/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/a85829601da7013627f7005056a9545d" alt="Doodle Town by Melissa Lomax for Apr 9, 2018 " title="Doodle Town by Melissa Lomax for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Doodle Town by Melissa Lomax for Apr 4, 2018 ]]></title>
             <link>http://www.gocomics.com/doodle-town/2018/04/04</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/doodle-town/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/691ceef0dbb401350eb1005056a9545d" alt="Doodle Town by Melissa Lomax for Jan 15, 2018 " title="Doodle Town by Melissa Lomax for Jan 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Doodle Town by Melissa Lomax for Jan 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/doodle-town/2018/01/10</link>
-            <guid>http://www.gocomics.com/doodle-town/2018/01/10</guid>
-            <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/70d45730d7d901350d4e005056a9545d" alt="Doodle Town by Melissa Lomax for Jan 10, 2018 " title="Doodle Town by Melissa Lomax for Jan 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

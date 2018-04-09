@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WaynoVision</title>
-        <link>http://www.gocomics.com/waynovision</link>
+        <link>http://www.gocomics.com/waynovision/2018/04/09</link>
         <description>WaynoVision by Wayno</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>WaynoVision</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wayne/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/waynovision</link>
+            <link>http://www.gocomics.com/waynovision/2018/04/09</link>
         </image>
         <copyright>Copyright Wayno</copyright>
         <atom:link href="http://www.comicsrss.com/rss/waynovision.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WaynoVision by Wayno for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/waynovision/2018/04/09</link>
+            <guid>http://www.gocomics.com/waynovision/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/d659e1408f8b0132c46c005056a9545d" alt="WaynoVision by Wayno for Apr 9, 2018 " title="WaynoVision by Wayno for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Apr 4, 2018 ]]></title>
             <link>http://www.gocomics.com/waynovision/2018/04/04</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/waynovision/2018/01/15</guid>
             <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8d961a4041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 15, 2018 " title="WaynoVision by Wayno for Jan 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WaynoVision by Wayno for Jan 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/waynovision/2018/01/10</link>
-            <guid>http://www.gocomics.com/waynovision/2018/01/10</guid>
-            <pubDate>Wed, 10 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/79bdb66041d70132a9c8005056a9545d" alt="WaynoVision by Wayno for Jan 10, 2018 " title="WaynoVision by Wayno for Jan 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

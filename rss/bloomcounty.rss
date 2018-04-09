@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bloom County</title>
-        <link>http://www.gocomics.com/bloomcounty/2018/04/07</link>
+        <link>http://www.gocomics.com/bloomcounty/2018/04/09</link>
         <description>Bloom County by Berkeley Breathed</description>
-        <lastBuildDate>Sun, 08 Apr 2018 07:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Bloom County</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/blm/large_blm_rec_201709261531.jpg</url>
-            <link>http://www.gocomics.com/bloomcounty/2018/04/07</link>
+            <link>http://www.gocomics.com/bloomcounty/2018/04/09</link>
         </image>
         <copyright>Copyright Berkeley Breathed</copyright>
         <atom:link href="http://www.comicsrss.com/rss/bloomcounty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bloom County by Berkeley Breathed for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/bloomcounty/2018/04/09</link>
+            <guid>http://www.gocomics.com/bloomcounty/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/305d59607a090135eb40005056a9545d" alt="Bloom County by Berkeley Breathed for Apr 9, 2018 " title="Bloom County by Berkeley Breathed for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bloom County by Berkeley Breathed for Apr 7, 2018 ]]></title>
             <link>http://www.gocomics.com/bloomcounty/2018/04/07</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/bloomcounty/2018/04/04</guid>
             <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/260f6a607a090135eb40005056a9545d" alt="Bloom County by Berkeley Breathed for Apr 4, 2018 " title="Bloom County by Berkeley Breathed for Apr 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bloom County by Berkeley Breathed for Apr 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/bloomcounty/2018/04/03</link>
-            <guid>http://www.gocomics.com/bloomcounty/2018/04/03</guid>
-            <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/241538e07a090135eb40005056a9545d" alt="Bloom County by Berkeley Breathed for Apr 3, 2018 " title="Bloom County by Berkeley Breathed for Apr 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
