@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tom Stiglich</title>
-        <link>http://www.gocomics.com/tom-stiglich/2018/04/09</link>
+        <link>http://www.gocomics.com/tom-stiglich/2018/04/10</link>
         <description>Tom Stiglich by Tom Stiglich</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Tom Stiglich</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crstg/large_crstg_rec_201709280934.jpg</url>
-            <link>http://www.gocomics.com/tom-stiglich/2018/04/09</link>
+            <link>http://www.gocomics.com/tom-stiglich/2018/04/10</link>
         </image>
         <copyright>Copyright Tom Stiglich</copyright>
         <atom:link href="http://www.comicsrss.com/rss/tom-stiglich.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tom Stiglich by Tom Stiglich for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/tom-stiglich/2018/04/10</link>
+            <guid>http://www.gocomics.com/tom-stiglich/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/57f8ca801eba01362866005056a9545d" alt="Tom Stiglich by Tom Stiglich for Apr 10, 2018 " title="Tom Stiglich by Tom Stiglich for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tom Stiglich by Tom Stiglich for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/tom-stiglich/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/tom-stiglich/2018/04/03</guid>
             <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/326739e0193a01362650005056a9545d" alt="Tom Stiglich by Tom Stiglich for Apr 3, 2018 " title="Tom Stiglich by Tom Stiglich for Apr 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tom Stiglich by Tom Stiglich for Apr 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/tom-stiglich/2018/04/02</link>
-            <guid>http://www.gocomics.com/tom-stiglich/2018/04/02</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/604a5f20184f013625e9005056a9545d" alt="Tom Stiglich by Tom Stiglich for Apr 2, 2018 " title="Tom Stiglich by Tom Stiglich for Apr 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

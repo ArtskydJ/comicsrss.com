@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Two Party Opera</title>
-        <link>http://www.gocomics.com/two-party-opera/2018/04/06</link>
+        <link>http://www.gocomics.com/two-party-opera/2018/04/09</link>
         <description>Two Party Opera by Brian Carroll</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Two Party Opera</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tpo/large_tpo_rec_201704181028.jpg</url>
-            <link>http://www.gocomics.com/two-party-opera/2018/04/06</link>
+            <link>http://www.gocomics.com/two-party-opera/2018/04/09</link>
         </image>
         <copyright>Copyright Brian Carroll</copyright>
         <atom:link href="http://www.comicsrss.com/rss/two-party-opera.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two Party Opera by Brian Carroll for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/two-party-opera/2018/04/09</link>
+            <guid>http://www.gocomics.com/two-party-opera/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/be3736001e100136280f005056a9545d" alt="Two Party Opera by Brian Carroll for Apr 9, 2018 " title="Two Party Opera by Brian Carroll for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Two Party Opera by Brian Carroll for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/two-party-opera/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/two-party-opera/2018/04/03</guid>
             <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3a8a5e0195701362655005056a9545d" alt="Two Party Opera by Brian Carroll for Apr 3, 2018 " title="Two Party Opera by Brian Carroll for Apr 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Two Party Opera by Brian Carroll for Apr 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/two-party-opera/2018/04/02</link>
-            <guid>http://www.gocomics.com/two-party-opera/2018/04/02</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fa8693f01883013625fa005056a9545d" alt="Two Party Opera by Brian Carroll for Apr 2, 2018 " title="Two Party Opera by Brian Carroll for Apr 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

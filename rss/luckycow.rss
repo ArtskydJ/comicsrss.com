@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lucky Cow</title>
-        <link>http://www.gocomics.com/luckycow/2018/04/09</link>
+        <link>http://www.gocomics.com/luckycow/2018/04/10</link>
         <description>Lucky Cow by Mark Pett</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Lucky Cow</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/luc/large_rec-201701251556.jpg</url>
-            <link>http://www.gocomics.com/luckycow/2018/04/09</link>
+            <link>http://www.gocomics.com/luckycow/2018/04/10</link>
         </image>
         <copyright>Copyright Mark Pett</copyright>
         <atom:link href="http://www.comicsrss.com/rss/luckycow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucky Cow by Mark Pett for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/luckycow/2018/04/10</link>
+            <guid>http://www.gocomics.com/luckycow/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/13d3a30c2a9e102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 10, 2018 " title="Lucky Cow by Mark Pett for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lucky Cow by Mark Pett for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/luckycow/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/luckycow/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/01b54e9c2a9d102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 6, 2018 " title="Lucky Cow by Mark Pett for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lucky Cow by Mark Pett for Apr 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/luckycow/2018/04/05</link>
-            <guid>http://www.gocomics.com/luckycow/2018/04/05</guid>
-            <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/261b2e522a9b102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 5, 2018 " title="Lucky Cow by Mark Pett for Apr 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

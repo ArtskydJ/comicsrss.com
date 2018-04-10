@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gary Varvel</title>
-        <link>http://www.gocomics.com/garyvarvel/2018/04/06</link>
+        <link>http://www.gocomics.com/garyvarvel/2018/04/08</link>
         <description>Gary Varvel by Gary Varvel</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Gary Varvel</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crgva/large_rec-201701251555.jpg</url>
-            <link>http://www.gocomics.com/garyvarvel/2018/04/06</link>
+            <link>http://www.gocomics.com/garyvarvel/2018/04/08</link>
         </image>
         <copyright>Copyright Gary Varvel</copyright>
         <atom:link href="http://www.comicsrss.com/rss/garyvarvel.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gary Varvel by Gary Varvel for Apr 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/garyvarvel/2018/04/08</link>
+            <guid>http://www.gocomics.com/garyvarvel/2018/04/08</guid>
+            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/086698701df10136280d005056a9545d" alt="Gary Varvel by Gary Varvel for Apr 8, 2018 " title="Gary Varvel by Gary Varvel for Apr 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Apr 6, 2018 ]]></title>
             <link>http://www.gocomics.com/garyvarvel/2018/04/06</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/garyvarvel/2018/03/30</guid>
             <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7e617d70161501362546005056a9545d" alt="Gary Varvel by Gary Varvel for Mar 30, 2018 " title="Gary Varvel by Gary Varvel for Mar 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gary Varvel by Gary Varvel for Mar 29, 2018 ]]></title>
-            <link>http://www.gocomics.com/garyvarvel/2018/03/29</link>
-            <guid>http://www.gocomics.com/garyvarvel/2018/03/29</guid>
-            <pubDate>Thu, 29 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/51a72250154c013624e6005056a9545d" alt="Gary Varvel by Gary Varvel for Mar 29, 2018 " title="Gary Varvel by Gary Varvel for Mar 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Working Daze</title>
-        <link>http://www.gocomics.com/working-daze/2018/04/09</link>
+        <link>http://www.gocomics.com/working-daze/2018/04/10</link>
         <description>Working Daze by John Zakour and Scott Roberts</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Working Daze</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wd/large_rec-201701251557.jpg</url>
-            <link>http://www.gocomics.com/working-daze/2018/04/09</link>
+            <link>http://www.gocomics.com/working-daze/2018/04/10</link>
         </image>
         <copyright>Copyright John Zakour and Scott Roberts</copyright>
         <atom:link href="http://www.comicsrss.com/rss/working-daze.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Working Daze by John Zakour and Scott Roberts for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/working-daze/2018/04/10</link>
+            <guid>http://www.gocomics.com/working-daze/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/40b4c2d01dc9013627fe005056a9545d" alt="Working Daze by John Zakour and Scott Roberts for Apr 10, 2018 " title="Working Daze by John Zakour and Scott Roberts for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Working Daze by John Zakour and Scott Roberts for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/working-daze/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/working-daze/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/86f9ced01b690136276f005056a9545d" alt="Working Daze by John Zakour and Scott Roberts for Apr 6, 2018 " title="Working Daze by John Zakour and Scott Roberts for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Working Daze by John Zakour and Scott Roberts for Apr 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/working-daze/2018/04/05</link>
-            <guid>http://www.gocomics.com/working-daze/2018/04/05</guid>
-            <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/f88c02401a9701362702005056a9545d" alt="Working Daze by John Zakour and Scott Roberts for Apr 5, 2018 " title="Working Daze by John Zakour and Scott Roberts for Apr 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

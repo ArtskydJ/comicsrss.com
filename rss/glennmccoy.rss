@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Glenn McCoy</title>
-        <link>http://www.gocomics.com/glennmccoy/2018/04/05</link>
+        <link>http://www.gocomics.com/glennmccoy/2018/04/10</link>
         <description>Glenn McCoy by Glenn McCoy</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Glenn McCoy</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gm/large_rec-201701251556.jpg</url>
-            <link>http://www.gocomics.com/glennmccoy/2018/04/05</link>
+            <link>http://www.gocomics.com/glennmccoy/2018/04/10</link>
         </image>
         <copyright>Copyright Glenn McCoy</copyright>
         <atom:link href="http://www.comicsrss.com/rss/glennmccoy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glenn McCoy by Glenn McCoy for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/glennmccoy/2018/04/10</link>
+            <guid>http://www.gocomics.com/glennmccoy/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/192719701e6b01362849005056a9545d" alt="Glenn McCoy by Glenn McCoy for Apr 10, 2018 " title="Glenn McCoy by Glenn McCoy for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Glenn McCoy by Glenn McCoy for Apr 5, 2018 ]]></title>
             <link>http://www.gocomics.com/glennmccoy/2018/04/05</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/glennmccoy/2018/04/01</guid>
             <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0eb8e80016870136257c005056a9545d" alt="Glenn McCoy by Glenn McCoy for Apr 1, 2018 " title="Glenn McCoy by Glenn McCoy for Apr 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Glenn McCoy by Glenn McCoy for Mar 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/glennmccoy/2018/03/30</link>
-            <guid>http://www.gocomics.com/glennmccoy/2018/03/30</guid>
-            <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0d7f5870165b01362551005056a9545d" alt="Glenn McCoy by Glenn McCoy for Mar 30, 2018 " title="Glenn McCoy by Glenn McCoy for Mar 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

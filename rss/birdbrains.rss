@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Birdbrains</title>
-        <link>http://www.gocomics.com/birdbrains/2018/04/09</link>
+        <link>http://www.gocomics.com/birdbrains/2018/04/10</link>
         <description>Birdbrains by Thom Bluemel</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Birdbrains</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bbs/large_rec-201701251554.jpg</url>
-            <link>http://www.gocomics.com/birdbrains/2018/04/09</link>
+            <link>http://www.gocomics.com/birdbrains/2018/04/10</link>
         </image>
         <copyright>Copyright Thom Bluemel</copyright>
         <atom:link href="http://www.comicsrss.com/rss/birdbrains.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Birdbrains by Thom Bluemel for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/birdbrains/2018/04/10</link>
+            <guid>http://www.gocomics.com/birdbrains/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/c5699c901e5901362838005056a9545d" alt="Birdbrains by Thom Bluemel for Apr 10, 2018 " title="Birdbrains by Thom Bluemel for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Birdbrains by Thom Bluemel for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/birdbrains/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/birdbrains/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bb0f0fa01b580136276a005056a9545d" alt="Birdbrains by Thom Bluemel for Apr 6, 2018 " title="Birdbrains by Thom Bluemel for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Birdbrains by Thom Bluemel for Apr 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/birdbrains/2018/04/05</link>
-            <guid>http://www.gocomics.com/birdbrains/2018/04/05</guid>
-            <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/90b4d7d01a8f013626fe005056a9545d" alt="Birdbrains by Thom Bluemel for Apr 5, 2018 " title="Birdbrains by Thom Bluemel for Apr 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

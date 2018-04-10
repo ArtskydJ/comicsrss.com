@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ginger Meggs</title>
-        <link>http://www.gocomics.com/gingermeggs/2018/04/09</link>
+        <link>http://www.gocomics.com/gingermeggs/2018/04/10</link>
         <description>Ginger Meggs by Jason Chatfield</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Ginger Meggs</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gin/large_rec-201701251554.jpg</url>
-            <link>http://www.gocomics.com/gingermeggs/2018/04/09</link>
+            <link>http://www.gocomics.com/gingermeggs/2018/04/10</link>
         </image>
         <copyright>Copyright Jason Chatfield</copyright>
         <atom:link href="http://www.comicsrss.com/rss/gingermeggs.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ginger Meggs by Jason Chatfield for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/gingermeggs/2018/04/10</link>
+            <guid>http://www.gocomics.com/gingermeggs/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/e1e794a0159e013624ff005056a9545d" alt="Ginger Meggs by Jason Chatfield for Apr 10, 2018 " title="Ginger Meggs by Jason Chatfield for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ginger Meggs by Jason Chatfield for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/gingermeggs/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/gingermeggs/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eeb7ddb00f4d0136227b005056a9545d" alt="Ginger Meggs by Jason Chatfield for Apr 6, 2018 " title="Ginger Meggs by Jason Chatfield for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ginger Meggs by Jason Chatfield for Apr 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/gingermeggs/2018/04/05</link>
-            <guid>http://www.gocomics.com/gingermeggs/2018/04/05</guid>
-            <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ed5a63000f4d0136227b005056a9545d" alt="Ginger Meggs by Jason Chatfield for Apr 5, 2018 " title="Ginger Meggs by Jason Chatfield for Apr 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

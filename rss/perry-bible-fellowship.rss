@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Perry Bible Fellowship</title>
-        <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/09</link>
+        <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/10</link>
         <description>Perry Bible Fellowship by Nicholas Gurewitch</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Perry Bible Fellowship</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pbf/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/09</link>
+            <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/10</link>
         </image>
         <copyright>Copyright Nicholas Gurewitch</copyright>
         <atom:link href="http://www.comicsrss.com/rss/perry-bible-fellowship.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Perry Bible Fellowship by Nicholas Gurewitch for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/10</link>
+            <guid>http://www.gocomics.com/perry-bible-fellowship/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/66621ea0c86701334742005056a9545d" alt="Perry Bible Fellowship by Nicholas Gurewitch for Apr 10, 2018 " title="Perry Bible Fellowship by Nicholas Gurewitch for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Perry Bible Fellowship by Nicholas Gurewitch for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/perry-bible-fellowship/2018/04/04</guid>
             <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3aabc380c2ee013344ca005056a9545d" alt="Perry Bible Fellowship by Nicholas Gurewitch for Apr 4, 2018 " title="Perry Bible Fellowship by Nicholas Gurewitch for Apr 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Perry Bible Fellowship by Nicholas Gurewitch for Apr 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/perry-bible-fellowship/2018/04/03</link>
-            <guid>http://www.gocomics.com/perry-bible-fellowship/2018/04/03</guid>
-            <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e3e9a6d0bd620133425f005056a9545d" alt="Perry Bible Fellowship by Nicholas Gurewitch for Apr 3, 2018 " title="Perry Bible Fellowship by Nicholas Gurewitch for Apr 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

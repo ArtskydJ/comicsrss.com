@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>AJ and Magnus</title>
-        <link>http://www.gocomics.com/aj-and-magnus/2018/04/08</link>
+        <link>http://www.gocomics.com/aj-and-magnus/2018/04/10</link>
         <description>AJ and Magnus by Bryan and Simon Steel</description>
-        <lastBuildDate>Mon, 09 Apr 2018 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:14:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>AJ and Magnus</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ajm/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/aj-and-magnus/2018/04/08</link>
+            <link>http://www.gocomics.com/aj-and-magnus/2018/04/10</link>
         </image>
         <copyright>Copyright Bryan and Simon Steel</copyright>
         <atom:link href="http://www.comicsrss.com/rss/aj-and-magnus.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AJ and Magnus by Bryan and Simon Steel for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/aj-and-magnus/2018/04/10</link>
+            <guid>http://www.gocomics.com/aj-and-magnus/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/fd5b43001e8301362852005056a9545d" alt="AJ and Magnus by Bryan and Simon Steel for Apr 10, 2018 " title="AJ and Magnus by Bryan and Simon Steel for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[AJ and Magnus by Bryan and Simon Steel for Apr 8, 2018 ]]></title>
             <link>http://www.gocomics.com/aj-and-magnus/2018/04/08</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/aj-and-magnus/2018/03/25</guid>
             <pubDate>Sun, 25 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/927e31b011e001362393005056a9545d" alt="AJ and Magnus by Bryan and Simon Steel for Mar 25, 2018 " title="AJ and Magnus by Bryan and Simon Steel for Mar 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AJ and Magnus by Bryan and Simon Steel for Mar 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/aj-and-magnus/2018/03/19</link>
-            <guid>http://www.gocomics.com/aj-and-magnus/2018/03/19</guid>
-            <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9afe78400d14013621a3005056a9545d" alt="AJ and Magnus by Bryan and Simon Steel for Mar 19, 2018 " title="AJ and Magnus by Bryan and Simon Steel for Mar 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
