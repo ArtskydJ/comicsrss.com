@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>F Minus</title>
-        <link>http://www.gocomics.com/fminus/2018/04/10</link>
+        <link>http://www.gocomics.com/fminus/2018/04/11</link>
         <description>F Minus by Tony Carrillo</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>F Minus</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/fm/large_rec-201701251556.jpg</url>
-            <link>http://www.gocomics.com/fminus/2018/04/10</link>
+            <link>http://www.gocomics.com/fminus/2018/04/11</link>
         </image>
         <copyright>Copyright Tony Carrillo</copyright>
         <atom:link href="http://www.comicsrss.com/rss/fminus.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[F Minus by Tony Carrillo for Apr 11, 2018 ]]></title>
+            <link>http://www.gocomics.com/fminus/2018/04/11</link>
+            <guid>http://www.gocomics.com/fminus/2018/04/11</guid>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/f6ec8390169101362585005056a9545d" alt="F Minus by Tony Carrillo for Apr 11, 2018 " title="F Minus by Tony Carrillo for Apr 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[F Minus by Tony Carrillo for Apr 10, 2018 ]]></title>
             <link>http://www.gocomics.com/fminus/2018/04/10</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/fminus/2018/04/07</guid>
             <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/94cd01e0134e013623e9005056a9545d" alt="F Minus by Tony Carrillo for Apr 7, 2018 " title="F Minus by Tony Carrillo for Apr 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[F Minus by Tony Carrillo for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/fminus/2018/04/06</link>
-            <guid>http://www.gocomics.com/fminus/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/939250f0134e013623e9005056a9545d" alt="F Minus by Tony Carrillo for Apr 6, 2018 " title="F Minus by Tony Carrillo for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

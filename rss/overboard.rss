@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Overboard</title>
-        <link>http://www.gocomics.com/overboard/2018/04/10</link>
+        <link>http://www.gocomics.com/overboard/2018/04/11</link>
         <description>Overboard by Chip Dunham</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Overboard</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ob/large_rec-201701251556.jpg</url>
-            <link>http://www.gocomics.com/overboard/2018/04/10</link>
+            <link>http://www.gocomics.com/overboard/2018/04/11</link>
         </image>
         <copyright>Copyright Chip Dunham</copyright>
         <atom:link href="http://www.comicsrss.com/rss/overboard.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overboard by Chip Dunham for Apr 11, 2018 ]]></title>
+            <link>http://www.gocomics.com/overboard/2018/04/11</link>
+            <guid>http://www.gocomics.com/overboard/2018/04/11</guid>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/2eaa0570198301362665005056a9545d" alt="Overboard by Chip Dunham for Apr 11, 2018 " title="Overboard by Chip Dunham for Apr 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Overboard by Chip Dunham for Apr 10, 2018 ]]></title>
             <link>http://www.gocomics.com/overboard/2018/04/10</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/overboard/2018/04/07</guid>
             <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f3620e0140401362436005056a9545d" alt="Overboard by Chip Dunham for Apr 7, 2018 " title="Overboard by Chip Dunham for Apr 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Overboard by Chip Dunham for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/overboard/2018/04/06</link>
-            <guid>http://www.gocomics.com/overboard/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b4f10740140501362438005056a9545d" alt="Overboard by Chip Dunham for Apr 6, 2018 " title="Overboard by Chip Dunham for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

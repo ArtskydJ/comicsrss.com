@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dan Wasserman</title>
-        <link>http://www.gocomics.com/danwasserman/2018/04/04</link>
+        <link>http://www.gocomics.com/danwasserman/2018/04/09</link>
         <description>Dan Wasserman by Dan Wasserman</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Dan Wasserman</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmdwa/large_rec-201701251555.jpg</url>
-            <link>http://www.gocomics.com/danwasserman/2018/04/04</link>
+            <link>http://www.gocomics.com/danwasserman/2018/04/09</link>
         </image>
         <copyright>Copyright Dan Wasserman</copyright>
         <atom:link href="http://www.comicsrss.com/rss/danwasserman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dan Wasserman by Dan Wasserman for Apr 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/danwasserman/2018/04/09</link>
+            <guid>http://www.gocomics.com/danwasserman/2018/04/09</guid>
+            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/a70151f01eb701362865005056a9545d" alt="Dan Wasserman by Dan Wasserman for Apr 9, 2018 " title="Dan Wasserman by Dan Wasserman for Apr 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Apr 4, 2018 ]]></title>
             <link>http://www.gocomics.com/danwasserman/2018/04/04</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/danwasserman/2018/03/28</guid>
             <pubDate>Wed, 28 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/acc41ae01549013624e4005056a9545d" alt="Dan Wasserman by Dan Wasserman for Mar 28, 2018 " title="Dan Wasserman by Dan Wasserman for Mar 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dan Wasserman by Dan Wasserman for Mar 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/danwasserman/2018/03/27</link>
-            <guid>http://www.gocomics.com/danwasserman/2018/03/27</guid>
-            <pubDate>Tue, 27 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/85a46e60148001362483005056a9545d" alt="Dan Wasserman by Dan Wasserman for Mar 27, 2018 " title="Dan Wasserman by Dan Wasserman for Mar 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

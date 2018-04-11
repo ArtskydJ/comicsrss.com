@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mr. Lowe</title>
-        <link>http://www.gocomics.com/mr-lowe/2018/04/09</link>
+        <link>http://www.gocomics.com/mr-lowe/2018/04/11</link>
         <description>Mr. Lowe by Mark Pett</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Mr. Lowe</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ml/large_rec-201701251558.jpg</url>
-            <link>http://www.gocomics.com/mr-lowe/2018/04/09</link>
+            <link>http://www.gocomics.com/mr-lowe/2018/04/11</link>
         </image>
         <copyright>Copyright Mark Pett</copyright>
         <atom:link href="http://www.comicsrss.com/rss/mr-lowe.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mr. Lowe by Mark Pett for Apr 11, 2018 ]]></title>
+            <link>http://www.gocomics.com/mr-lowe/2018/04/11</link>
+            <guid>http://www.gocomics.com/mr-lowe/2018/04/11</guid>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/4f6791e0db0b0132e20d005056a9545d" alt="Mr. Lowe by Mark Pett for Apr 11, 2018 " title="Mr. Lowe by Mark Pett for Apr 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mr. Lowe by Mark Pett for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/mr-lowe/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/mr-lowe/2018/04/02</guid>
             <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9eb3aa20db0b0132e20d005056a9545d" alt="Mr. Lowe by Mark Pett for Apr 2, 2018 " title="Mr. Lowe by Mark Pett for Apr 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mr. Lowe by Mark Pett for Mar 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/mr-lowe/2018/03/30</link>
-            <guid>http://www.gocomics.com/mr-lowe/2018/03/30</guid>
-            <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7a4490c0db0c0132e210005056a9545d" alt="Mr. Lowe by Mark Pett for Mar 30, 2018 " title="Mr. Lowe by Mark Pett for Mar 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

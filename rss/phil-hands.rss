@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Phil Hands</title>
-        <link>http://www.gocomics.com/phil-hands/2018/04/10</link>
+        <link>http://www.gocomics.com/phil-hands/2018/04/11</link>
         <description>Phil Hands by Phil Hands</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Phil Hands</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ph/large_rec-201701251557.jpg</url>
-            <link>http://www.gocomics.com/phil-hands/2018/04/10</link>
+            <link>http://www.gocomics.com/phil-hands/2018/04/11</link>
         </image>
         <copyright>Copyright Phil Hands</copyright>
         <atom:link href="http://www.comicsrss.com/rss/phil-hands.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phil Hands by Phil Hands for Apr 11, 2018 ]]></title>
+            <link>http://www.gocomics.com/phil-hands/2018/04/11</link>
+            <guid>http://www.gocomics.com/phil-hands/2018/04/11</guid>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/9e1cd3201f31013628a1005056a9545d" alt="Phil Hands by Phil Hands for Apr 11, 2018 " title="Phil Hands by Phil Hands for Apr 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Phil Hands by Phil Hands for Apr 10, 2018 ]]></title>
             <link>http://www.gocomics.com/phil-hands/2018/04/10</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/phil-hands/2018/03/15</guid>
             <pubDate>Thu, 15 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f160786009f50136209a005056a9545d" alt="Phil Hands by Phil Hands for Mar 15, 2018 " title="Phil Hands by Phil Hands for Mar 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Phil Hands by Phil Hands for Mar 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/phil-hands/2018/03/14</link>
-            <guid>http://www.gocomics.com/phil-hands/2018/03/14</guid>
-            <pubDate>Wed, 14 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0891fe9009cc01362077005056a9545d" alt="Phil Hands by Phil Hands for Mar 14, 2018 " title="Phil Hands by Phil Hands for Mar 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

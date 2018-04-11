@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Clay Bennett</title>
-        <link>http://www.gocomics.com/claybennett/2018/04/09</link>
+        <link>http://www.gocomics.com/claybennett/2018/04/10</link>
         <description>Clay Bennett by Clay Bennett</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Clay Bennett</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wpcbe/large_rec-201701251555.jpg</url>
-            <link>http://www.gocomics.com/claybennett/2018/04/09</link>
+            <link>http://www.gocomics.com/claybennett/2018/04/10</link>
         </image>
         <copyright>Copyright Clay Bennett</copyright>
         <atom:link href="http://www.comicsrss.com/rss/claybennett.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clay Bennett by Clay Bennett for Apr 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/claybennett/2018/04/10</link>
+            <guid>http://www.gocomics.com/claybennett/2018/04/10</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/ff30c6801ef301362871005056a9545d" alt="Clay Bennett by Clay Bennett for Apr 10, 2018 " title="Clay Bennett by Clay Bennett for Apr 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Clay Bennett by Clay Bennett for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/claybennett/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/claybennett/2018/04/03</guid>
             <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db38596019730136265c005056a9545d" alt="Clay Bennett by Clay Bennett for Apr 3, 2018 " title="Clay Bennett by Clay Bennett for Apr 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Clay Bennett by Clay Bennett for Apr 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/claybennett/2018/04/02</link>
-            <guid>http://www.gocomics.com/claybennett/2018/04/02</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ac22bb3018aa01362602005056a9545d" alt="Clay Bennett by Clay Bennett for Apr 2, 2018 " title="Clay Bennett by Clay Bennett for Apr 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

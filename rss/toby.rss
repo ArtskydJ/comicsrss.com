@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>TOBY</title>
-        <link>http://www.gocomics.com/toby/2018/04/09</link>
+        <link>http://www.gocomics.com/toby/2018/04/11</link>
         <description>TOBY by Corey Pandolph</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>TOBY</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/toby/large_rec-201701251554.jpg</url>
-            <link>http://www.gocomics.com/toby/2018/04/09</link>
+            <link>http://www.gocomics.com/toby/2018/04/11</link>
         </image>
         <copyright>Copyright Corey Pandolph</copyright>
         <atom:link href="http://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TOBY by Corey Pandolph for Apr 11, 2018 ]]></title>
+            <link>http://www.gocomics.com/toby/2018/04/11</link>
+            <guid>http://www.gocomics.com/toby/2018/04/11</guid>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/663791c2e2627faf5cba44a4eaa70968" alt="TOBY by Corey Pandolph for Apr 11, 2018 " title="TOBY by Corey Pandolph for Apr 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[TOBY by Corey Pandolph for Apr 9, 2018 ]]></title>
             <link>http://www.gocomics.com/toby/2018/04/09</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/toby/2018/04/02</guid>
             <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/69468206af1e08e9b8690921b8772d1c" alt="TOBY by Corey Pandolph for Apr 2, 2018 " title="TOBY by Corey Pandolph for Apr 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TOBY by Corey Pandolph for Mar 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/toby/2018/03/30</link>
-            <guid>http://www.gocomics.com/toby/2018/03/30</guid>
-            <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0dec702f44b129852ccdaaa2e01d6685" alt="TOBY by Corey Pandolph for Mar 30, 2018 " title="TOBY by Corey Pandolph for Mar 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

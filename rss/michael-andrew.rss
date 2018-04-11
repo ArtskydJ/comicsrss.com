@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Michael Andrew</title>
-        <link>http://www.gocomics.com/michael-andrew/2018/04/10</link>
+        <link>http://www.gocomics.com/michael-andrew/2018/04/11</link>
         <description>Michael Andrew by Michael Andrew</description>
-        <lastBuildDate>Tue, 10 Apr 2018 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Apr 2018 07:15:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Michael Andrew</title>
             <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmt/large_tmt_rec_201703061139.jpg</url>
-            <link>http://www.gocomics.com/michael-andrew/2018/04/10</link>
+            <link>http://www.gocomics.com/michael-andrew/2018/04/11</link>
         </image>
         <copyright>Copyright Michael Andrew</copyright>
         <atom:link href="http://www.comicsrss.com/rss/michael-andrew.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Andrew by Michael Andrew for Apr 11, 2018 ]]></title>
+            <link>http://www.gocomics.com/michael-andrew/2018/04/11</link>
+            <guid>http://www.gocomics.com/michael-andrew/2018/04/11</guid>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/c0f96bc01f4a013628b0005056a9545d" alt="Michael Andrew by Michael Andrew for Apr 11, 2018 " title="Michael Andrew by Michael Andrew for Apr 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Michael Andrew by Michael Andrew for Apr 10, 2018 ]]></title>
             <link>http://www.gocomics.com/michael-andrew/2018/04/10</link>
@@ -41,13 +48,6 @@
             <guid>http://www.gocomics.com/michael-andrew/2018/04/04</guid>
             <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/67bd857019c601362696005056a9545d" alt="Michael Andrew by Michael Andrew for Apr 4, 2018 " title="Michael Andrew by Michael Andrew for Apr 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Michael Andrew by Michael Andrew for Apr 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/michael-andrew/2018/04/03</link>
-            <guid>http://www.gocomics.com/michael-andrew/2018/04/03</guid>
-            <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/54f6d98018ff0136263a005056a9545d" alt="Michael Andrew by Michael Andrew for Apr 3, 2018 " title="Michael Andrew by Michael Andrew for Apr 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
