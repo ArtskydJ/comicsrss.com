@@ -32,6 +32,9 @@
 			<img src="../static/rss_sm.png" class="icon rss-icon">
 			Copy RSS URL
 		</a>
+		<span class="tooltip">
+			<span class="triangle"></span><span class="box">Copied!</span>
+		</span>
 	</p>
 
 	<p>
@@ -90,7 +93,7 @@
 		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
 		Made by <a href="http://www.josephdykstra.com">Joseph Dykstra</a> -
 		<a href="https://www.patreon.com/josephdykstra">Patreon</a>
-		<br><span class="gray">Generated on Wed Apr 11 2018</span>
+		<br><span class="gray">Generated on Thu Apr 12 2018</span>
 	</p>
 
 	<script>
@@ -106,20 +109,17 @@
 		}
 
 		function showTooltip(self, text) {
-			var span = document.createElement('span')
-			span.style.display = 'inline-block'
-			span.style.paddingLeft = '20px'
-			span.innerHTML = text
-			self.parentNode.appendChild(span)
+			var tooltip = document.querySelector('.tooltip')
+			tooltip.classList.add('visible')
 			setTimeout(function () {
-				span.parentNode.removeChild(span)
-			}, 2000)
+				tooltip.classList.remove('visible')
+			}, 1)
 		}
 
 		function copy(self, event) {
 			var text = self.href
 			if (copyToClipboard(text)) {
-				showTooltip(self, 'Copied!')
+				showTooltip(self)
 				event.preventDefault()
 			}
 			return false

@@ -134,3 +134,27 @@ textarea.copyable {
 img.preview-comic {
 	max-width:100%;
 }
+
+.tooltip {
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s 1.5s, opacity 1.5s cubic-bezier(1, 0, 1, 1);
+}
+.tooltip.visible {
+	visibility: visible;
+	opacity: 1;
+	transition: visibility 0s, opacity 0s;
+}
+.tooltip .triangle {
+	display: inline-block;
+	width: 0px;
+    height: 0px;
+    border: 6px solid transparent;
+    border-right-color: #000;
+}
+.tooltip .box {
+	display: inline-block;
+	background-color: #000;
+	color: #FFF;
+	padding: 0 0.25em;
+}
