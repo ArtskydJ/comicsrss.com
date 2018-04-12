@@ -24,7 +24,7 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 
 			return {
 				titleAndAuthor: comicStrips[0].titleAuthorDate.split(' for ')[0],
-				basename: comicStrips[0].comicUrl.split('/')[3].trim(),
+				basename: getBasename(comicStrips[0].comicUrl),
 				author: comicStrips[0].author,
 				comicUrl: comicStrips[0].comicUrl,
 				headerImageUrl: comicStrips[0].headerImageUrl,
@@ -103,4 +103,8 @@ function parseComicPage(pageUrl, html) {
 		// newerRelUrl: newerRelUrlMatches[1],
 		headerImageUrl: headerImageUrlMatches[1]
 	}
+}
+
+function getBasename(comicUrl) {
+	return comicUrl.split('/')[3].trim()
 }
