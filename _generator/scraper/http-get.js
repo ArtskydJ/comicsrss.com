@@ -1,10 +1,11 @@
 var http = require('http')
+var isDebug = !!process.env.DEBUG
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
 		setTimeout(function () { // Rate limiting, haha
 			http.get(url, handleResponse.bind(null, resolve, reject))
-		}, 900) // 800 might work, 700 doesn't
+		}, isDebug ? 0 : 900) // 800 might work, 700 doesn't
 	})
 }
 

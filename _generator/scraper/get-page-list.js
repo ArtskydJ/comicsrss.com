@@ -1,5 +1,6 @@
 var http = require('http')
 var htmlParser = require('htmlparser2')
+var isDebug = !!process.env.DEBUG
 
 module.exports = function getPages() {
 	return new Promise(function (resolve, reject) {
@@ -7,11 +8,11 @@ module.exports = function getPages() {
 			res.pipe( siteMapParser(resolve, reject) )
 		})
 	}).then(function (pages) {
-		return pages
+		var pageUrls = pages
 			.map(getPageUrl)
 			.filter(isComicPage)
 			.sort()
-			// .slice(0, 5) // DEBUG
+		return isDebug ? pageUrls.slice(0, 5) : pageUrls
 	})
 }
 
