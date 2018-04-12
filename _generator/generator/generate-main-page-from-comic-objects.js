@@ -20,7 +20,7 @@ function comicObjectsToHtml(comicObjects) {
 		.map(function (comicObject) {
 			var comicsRssFeedUrl = 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss'
 			return `
-				<li data-search="${comicObject.titleAndAuthor}">
+				<li data-search="${comicObject.titleAndAuthor.toLowerCase()}">
 					<a href="./preview/${encodeURI(comicObject.basename)}" class="comic-title">${comicObject.titleAndAuthor}</a>
 				</li>`.replace(/^\t{4}/mg, '')
 		})
