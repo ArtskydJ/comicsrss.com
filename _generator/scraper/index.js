@@ -8,8 +8,9 @@ var previousComicObjects = require('../tmp/_comic-objects.json')
 getPageList()
 	.then(function (pageUrls) {
 		return pMap(pageUrls, function (pageUrl) {
+			var basename = getBasename(pageUrl)
 			var previousComicObject = previousComicObjects.find(function (comicObject) {
-				return (comicObject && comicObject.comicUrl === pageUrl)
+				return (comicObject && comicObject.basename === basename)
 			})
 
 			return getComicObject(pageUrl, previousComicObject)
@@ -36,4 +37,8 @@ getPageList()
 function writeFile(filename, contents) {
 	var filePath = path.resolve(__dirname, filename)
 	fs.writeFileSync(filePath, contents, 'utf-8')
+}
+
+function getBasename(pageUrl) {
+	return pageUrl.split('/')[3].trim()
 }
