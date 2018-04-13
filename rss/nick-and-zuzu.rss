@@ -4,7 +4,7 @@
         <title>Nick and Zuzu</title>
         <link>http://www.comicsrss.com/preview/nick-and-zuzu</link>
         <description>Nick and Zuzu by Nick Galifianakis</description>
-        <lastBuildDate>Thu, 12 Apr 2018 06:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Apr 2018 06:33:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nick Galifianakis</copyright>
         <atom:link href="http://www.comicsrss.com/rss/nick-and-zuzu.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Apr 13, 2018 ]]></title>
+            <link>http://www.gocomics.com/nick-and-zuzu/2018/04/13</link>
+            <guid>http://www.gocomics.com/nick-and-zuzu/2018/04/13</guid>
+            <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/e9dbcc401ffc01362910005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Apr 13, 2018 " title="Nick and Zuzu by Nick Galifianakis for Apr 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Apr 11, 2018 ]]></title>
             <link>http://www.gocomics.com/nick-and-zuzu/2018/04/11</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/nick-and-zuzu/2018/02/02</guid>
             <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7cc68450e66d013512b0005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Feb 2, 2018 " title="Nick and Zuzu by Nick Galifianakis for Feb 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nick and Zuzu by Nick Galifianakis for Jan 31, 2018 ]]></title>
-            <link>http://www.gocomics.com/nick-and-zuzu/2018/01/31</link>
-            <guid>http://www.gocomics.com/nick-and-zuzu/2018/01/31</guid>
-            <pubDate>Wed, 31 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7c098e50e66d013512b0005056a9545d" alt="Nick and Zuzu by Nick Galifianakis for Jan 31, 2018 " title="Nick and Zuzu by Nick Galifianakis for Jan 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
