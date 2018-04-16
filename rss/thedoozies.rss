@@ -4,7 +4,7 @@
         <title>The Doozies</title>
         <link>http://www.comicsrss.com/preview/thedoozies</link>
         <description>The Doozies by Tom Gammill</description>
-        <lastBuildDate>Sun, 15 Apr 2018 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Apr 2018 06:33:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tom Gammill</copyright>
         <atom:link href="http://www.comicsrss.com/rss/thedoozies.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Doozies by Tom Gammill for Apr 16, 2018 ]]></title>
+            <link>http://www.gocomics.com/thedoozies/2018/04/16</link>
+            <guid>http://www.gocomics.com/thedoozies/2018/04/16</guid>
+            <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/019de320232c01362a27005056a9545d" alt="The Doozies by Tom Gammill for Apr 16, 2018 " title="The Doozies by Tom Gammill for Apr 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Doozies by Tom Gammill for Apr 11, 2018 ]]></title>
             <link>http://www.gocomics.com/thedoozies/2018/04/11</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/thedoozies/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/31f4c220eb4a013514ca005056a9545d" alt="The Doozies by Tom Gammill for Feb 19, 2018 " title="The Doozies by Tom Gammill for Feb 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Doozies by Tom Gammill for Feb 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/thedoozies/2018/02/18</link>
-            <guid>http://www.gocomics.com/thedoozies/2018/02/18</guid>
-            <pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/3a29c900f6700135191c005056a9545d" alt="The Doozies by Tom Gammill for Feb 18, 2018 " title="The Doozies by Tom Gammill for Feb 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
