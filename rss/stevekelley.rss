@@ -4,7 +4,7 @@
         <title>Steve Kelley</title>
         <link>http://www.comicsrss.com/preview/stevekelley</link>
         <description>Steve Kelley by Steve Kelley</description>
-        <lastBuildDate>Tue, 17 Apr 2018 06:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Apr 2018 06:33:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Kelley</copyright>
         <atom:link href="http://www.comicsrss.com/rss/stevekelley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Kelley by Steve Kelley for Apr 17, 2018 ]]></title>
+            <link>http://www.gocomics.com/stevekelley/2018/04/17</link>
+            <guid>http://www.gocomics.com/stevekelley/2018/04/17</guid>
+            <pubDate>Tue, 17 Apr 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/7cbf85d0243a01362a90005056a9545d" alt="Steve Kelley by Steve Kelley for Apr 17, 2018 " title="Steve Kelley by Steve Kelley for Apr 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Kelley by Steve Kelley for Apr 12, 2018 ]]></title>
             <link>http://www.gocomics.com/stevekelley/2018/04/12</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/stevekelley/2018/01/23</guid>
             <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5fcffca0e21f01351116005056a9545d" alt="Steve Kelley by Steve Kelley for Jan 23, 2018 " title="Steve Kelley by Steve Kelley for Jan 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Kelley by Steve Kelley for Jan 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/stevekelley/2018/01/18</link>
-            <guid>http://www.gocomics.com/stevekelley/2018/01/18</guid>
-            <pubDate>Thu, 18 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b195ad20de3101350fc5005056a9545d" alt="Steve Kelley by Steve Kelley for Jan 18, 2018 " title="Steve Kelley by Steve Kelley for Jan 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
