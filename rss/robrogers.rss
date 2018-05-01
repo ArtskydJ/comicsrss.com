@@ -4,7 +4,7 @@
         <title>Rob Rogers</title>
         <link>http://www.comicsrss.com/preview/robrogers</link>
         <description>Rob Rogers by Rob Rogers</description>
-        <lastBuildDate>Mon, 30 Apr 2018 18:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 May 2018 06:32:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rob Rogers</copyright>
         <atom:link href="http://www.comicsrss.com/rss/robrogers.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rob Rogers by Rob Rogers for May 1, 2018 ]]></title>
+            <link>http://www.gocomics.com/robrogers/2018/05/01</link>
+            <guid>http://www.gocomics.com/robrogers/2018/05/01</guid>
+            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/94a238002eeb01362e7d005056a9545d" alt="Rob Rogers by Rob Rogers for May 1, 2018 " title="Rob Rogers by Rob Rogers for May 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rob Rogers by Rob Rogers for Apr 29, 2018 ]]></title>
             <link>http://www.gocomics.com/robrogers/2018/04/29</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/robrogers/2018/03/21</guid>
             <pubDate>Wed, 21 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc9fa7500eb70136223d005056a9545d" alt="Rob Rogers by Rob Rogers for Mar 21, 2018 " title="Rob Rogers by Rob Rogers for Mar 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rob Rogers by Rob Rogers for Mar 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/robrogers/2018/03/20</link>
-            <guid>http://www.gocomics.com/robrogers/2018/03/20</guid>
-            <pubDate>Tue, 20 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/cf8169800dee013621e8005056a9545d" alt="Rob Rogers by Rob Rogers for Mar 20, 2018 " title="Rob Rogers by Rob Rogers for Mar 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
