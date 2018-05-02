@@ -4,7 +4,7 @@
         <title>The Knight Life</title>
         <link>http://www.comicsrss.com/preview/theknightlife</link>
         <description>The Knight Life by Keith Knight</description>
-        <lastBuildDate>Tue, 01 May 2018 06:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 May 2018 06:33:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith Knight</copyright>
         <atom:link href="http://www.comicsrss.com/rss/theknightlife.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Knight Life by Keith Knight for May 2, 2018 ]]></title>
+            <link>http://www.gocomics.com/theknightlife/2018/05/02</link>
+            <guid>http://www.gocomics.com/theknightlife/2018/05/02</guid>
+            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/813daad02a0301362ca5005056a9545d" alt="The Knight Life by Keith Knight for May 2, 2018 " title="The Knight Life by Keith Knight for May 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Knight Life by Keith Knight for May 1, 2018 ]]></title>
             <link>http://www.gocomics.com/theknightlife/2018/05/01</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/theknightlife/2018/04/08</guid>
             <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eeba3050ffde01351cbd005056a9545d" alt="The Knight Life by Keith Knight for Apr 8, 2018 " title="The Knight Life by Keith Knight for Apr 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Knight Life by Keith Knight for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/theknightlife/2018/04/07</link>
-            <guid>http://www.gocomics.com/theknightlife/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/50cd4110140401362436005056a9545d" alt="The Knight Life by Keith Knight for Apr 7, 2018 " title="The Knight Life by Keith Knight for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

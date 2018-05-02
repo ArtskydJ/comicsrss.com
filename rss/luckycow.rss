@@ -4,7 +4,7 @@
         <title>Lucky Cow</title>
         <link>http://www.comicsrss.com/preview/luckycow</link>
         <description>Lucky Cow by Mark Pett</description>
-        <lastBuildDate>Tue, 01 May 2018 06:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 May 2018 06:33:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Pett</copyright>
         <atom:link href="http://www.comicsrss.com/rss/luckycow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucky Cow by Mark Pett for May 2, 2018 ]]></title>
+            <link>http://www.gocomics.com/luckycow/2018/05/02</link>
+            <guid>http://www.gocomics.com/luckycow/2018/05/02</guid>
+            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/096125882a9f102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for May 2, 2018 " title="Lucky Cow by Mark Pett for May 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lucky Cow by Mark Pett for May 1, 2018 ]]></title>
             <link>http://www.gocomics.com/luckycow/2018/05/01</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/luckycow/2018/04/08</guid>
             <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3e67e9e42a9d102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 8, 2018 " title="Lucky Cow by Mark Pett for Apr 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lucky Cow by Mark Pett for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/luckycow/2018/04/07</link>
-            <guid>http://www.gocomics.com/luckycow/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/bd7707742a9d102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 7, 2018 " title="Lucky Cow by Mark Pett for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

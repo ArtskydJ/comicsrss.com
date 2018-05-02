@@ -4,7 +4,7 @@
         <title>El Café de Poncho</title>
         <link>http://www.comicsrss.com/preview/el-cafe-de-poncho</link>
         <description>El Café de Poncho by Paul Gilligan</description>
-        <lastBuildDate>Tue, 01 May 2018 06:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 May 2018 06:33:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Gilligan</copyright>
         <atom:link href="http://www.comicsrss.com/rss/el-cafe-de-poncho.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El Café de Poncho by Paul Gilligan for May 2, 2018 ]]></title>
+            <link>http://www.gocomics.com/el-cafe-de-poncho/2018/05/02</link>
+            <guid>http://www.gocomics.com/el-cafe-de-poncho/2018/05/02</guid>
+            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/bf0e6d102ae801362d16005056a9545d" alt="El Café de Poncho by Paul Gilligan for May 2, 2018 " title="El Café de Poncho by Paul Gilligan for May 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[El Café de Poncho by Paul Gilligan for May 1, 2018 ]]></title>
             <link>http://www.gocomics.com/el-cafe-de-poncho/2018/05/01</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/el-cafe-de-poncho/2018/04/08</guid>
             <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aeb616e0098101362059005056a9545d" alt="El Café de Poncho by Paul Gilligan for Apr 8, 2018 " title="El Café de Poncho by Paul Gilligan for Apr 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[El Café de Poncho by Paul Gilligan for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/el-cafe-de-poncho/2018/04/07</link>
-            <guid>http://www.gocomics.com/el-cafe-de-poncho/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8ebaecf014bf01362493005056a9545d" alt="El Café de Poncho by Paul Gilligan for Apr 7, 2018 " title="El Café de Poncho by Paul Gilligan for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

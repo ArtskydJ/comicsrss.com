@@ -4,7 +4,7 @@
         <title>Family Tree</title>
         <link>http://www.comicsrss.com/preview/familytree</link>
         <description>Family Tree by Signe Wilkinson</description>
-        <lastBuildDate>Tue, 01 May 2018 06:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 May 2018 06:33:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Signe Wilkinson</copyright>
         <atom:link href="http://www.comicsrss.com/rss/familytree.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Family Tree by Signe Wilkinson for May 2, 2018 ]]></title>
+            <link>http://www.gocomics.com/familytree/2018/05/02</link>
+            <guid>http://www.gocomics.com/familytree/2018/05/02</guid>
+            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/29925b10a5540131428e005056a9545d" alt="Family Tree by Signe Wilkinson for May 2, 2018 " title="Family Tree by Signe Wilkinson for May 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Family Tree by Signe Wilkinson for May 1, 2018 ]]></title>
             <link>http://www.gocomics.com/familytree/2018/05/01</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/familytree/2018/04/08</guid>
             <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/601499c0a56e013142a3005056a9545d" alt="Family Tree by Signe Wilkinson for Apr 8, 2018 " title="Family Tree by Signe Wilkinson for Apr 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Family Tree by Signe Wilkinson for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/familytree/2018/04/07</link>
-            <guid>http://www.gocomics.com/familytree/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/1280f860a5540131428e005056a9545d" alt="Family Tree by Signe Wilkinson for Apr 7, 2018 " title="Family Tree by Signe Wilkinson for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
