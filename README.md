@@ -1,6 +1,6 @@
 # comicsrss.com
 
-Source code for the site generator and rss feed generator for [comicsrss.com](http://www.comicsrss.com)
+Source code for the site generator and rss feed generator for [comicsrss.com](https://www.comicsrss.com)
 
 ### Install
 
