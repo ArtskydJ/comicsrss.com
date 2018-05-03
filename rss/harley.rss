@@ -4,7 +4,7 @@
         <title>Harley</title>
         <link>http://www.comicsrss.com/preview/harley</link>
         <description>Harley by Dan Thompson</description>
-        <lastBuildDate>Wed, 02 May 2018 06:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 May 2018 06:32:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="http://www.comicsrss.com/rss/harley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Harley by Dan Thompson for May 3, 2018 ]]></title>
+            <link>http://www.gocomics.com/harley/2018/05/03</link>
+            <guid>http://www.gocomics.com/harley/2018/05/03</guid>
+            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/fb7b8d10306e01362f32005056a9545d" alt="Harley by Dan Thompson for May 3, 2018 " title="Harley by Dan Thompson for May 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Harley by Dan Thompson for May 2, 2018 ]]></title>
             <link>http://www.gocomics.com/harley/2018/05/02</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/harley/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5d78bff01d84013627f1005056a9545d" alt="Harley by Dan Thompson for Apr 9, 2018 " title="Harley by Dan Thompson for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Harley by Dan Thompson for Apr 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/harley/2018/04/08</link>
-            <guid>http://www.gocomics.com/harley/2018/04/08</guid>
-            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fd9fb1001bda0136278e005056a9545d" alt="Harley by Dan Thompson for Apr 8, 2018 " title="Harley by Dan Thompson for Apr 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

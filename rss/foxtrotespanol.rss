@@ -4,7 +4,7 @@
         <title>FoxTrot en Español</title>
         <link>http://www.comicsrss.com/preview/foxtrotespanol</link>
         <description>FoxTrot en Español by Bill Amend</description>
-        <lastBuildDate>Wed, 02 May 2018 06:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 May 2018 06:32:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Amend</copyright>
         <atom:link href="http://www.comicsrss.com/rss/foxtrotespanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FoxTrot en Español by Bill Amend for May 3, 2018 ]]></title>
+            <link>http://www.gocomics.com/foxtrotespanol/2018/05/03</link>
+            <guid>http://www.gocomics.com/foxtrotespanol/2018/05/03</guid>
+            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/c869a800f59f013518f1005056a9545d" alt="FoxTrot en Español by Bill Amend for May 3, 2018 " title="FoxTrot en Español by Bill Amend for May 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[FoxTrot en Español by Bill Amend for May 2, 2018 ]]></title>
             <link>http://www.gocomics.com/foxtrotespanol/2018/05/02</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/foxtrotespanol/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/feaf45e0f59f013518f1005056a9545d" alt="FoxTrot en Español by Bill Amend for Apr 9, 2018 " title="FoxTrot en Español by Bill Amend for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FoxTrot en Español by Bill Amend for Apr 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/foxtrotespanol/2018/04/08</link>
-            <guid>http://www.gocomics.com/foxtrotespanol/2018/04/08</guid>
-            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/22c4e1b00f030136225b005056a9545d" alt="FoxTrot en Español by Bill Amend for Apr 8, 2018 " title="FoxTrot en Español by Bill Amend for Apr 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
