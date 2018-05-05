@@ -4,16 +4,18 @@
         <title>Marshall Ramsey</title>
         <link>http://www.comicsrss.com/preview/marshallramsey</link>
         <description>Marshall Ramsey by Marshall Ramsey</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Marshall Ramsey</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmra/large_rec-201701251555.jpg</url>
-            <link>http://www.comicsrss.com/preview/marshallramsey</link>
-        </image>
         <copyright>Copyright Marshall Ramsey</copyright>
         <atom:link href="http://www.comicsrss.com/rss/marshallramsey.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marshall Ramsey by Marshall Ramsey for May 3, 2018 ]]></title>
+            <link>http://www.gocomics.com/marshallramsey/2018/05/03</link>
+            <guid>http://www.gocomics.com/marshallramsey/2018/05/03</guid>
+            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/4aa618d0315301362fb0005056a9545d" alt="Marshall Ramsey by Marshall Ramsey for May 3, 2018 " title="Marshall Ramsey by Marshall Ramsey for May 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Marshall Ramsey by Marshall Ramsey for Apr 28, 2018 ]]></title>
             <link>http://www.gocomics.com/marshallramsey/2018/04/28</link>
@@ -181,13 +183,6 @@
             <guid>http://www.gocomics.com/marshallramsey/2018/01/30</guid>
             <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ecb61c20e77d01351312005056a9545d" alt="Marshall Ramsey by Marshall Ramsey for Jan 30, 2018 " title="Marshall Ramsey by Marshall Ramsey for Jan 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marshall Ramsey by Marshall Ramsey for Jan 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/marshallramsey/2018/01/26</link>
-            <guid>http://www.gocomics.com/marshallramsey/2018/01/26</guid>
-            <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/912b9a10e5220135127b005056a9545d" alt="Marshall Ramsey by Marshall Ramsey for Jan 26, 2018 " title="Marshall Ramsey by Marshall Ramsey for Jan 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,25 @@
         <title>Andy Capp</title>
         <link>http://www.comicsrss.com/preview/andycapp</link>
         <description>Andy Capp by Reg Smythe</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Andy Capp</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crcap/large_rec-201701251555.jpg</url>
-            <link>http://www.comicsrss.com/preview/andycapp</link>
-        </image>
         <copyright>Copyright Reg Smythe</copyright>
         <atom:link href="http://www.comicsrss.com/rss/andycapp.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andy Capp by Reg Smythe for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/andycapp/2018/05/05</link>
+            <guid>http://www.gocomics.com/andycapp/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/3b44c760286201362c27005056a9545d" alt="Andy Capp by Reg Smythe for May 5, 2018 " title="Andy Capp by Reg Smythe for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Andy Capp by Reg Smythe for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/andycapp/2018/05/04</link>
+            <guid>http://www.gocomics.com/andycapp/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/403de480286201362c27005056a9545d" alt="Andy Capp by Reg Smythe for May 4, 2018 " title="Andy Capp by Reg Smythe for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Andy Capp by Reg Smythe for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/andycapp/2018/05/03</link>
@@ -174,20 +183,6 @@
             <guid>http://www.gocomics.com/andycapp/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c9cf71e017e1013625cd005056a9545d" alt="Andy Capp by Reg Smythe for Apr 11, 2018 " title="Andy Capp by Reg Smythe for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Andy Capp by Reg Smythe for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/andycapp/2018/04/10</link>
-            <guid>http://www.gocomics.com/andycapp/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/cefa6ce017e1013625cd005056a9545d" alt="Andy Capp by Reg Smythe for Apr 10, 2018 " title="Andy Capp by Reg Smythe for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Andy Capp by Reg Smythe for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/andycapp/2018/04/09</link>
-            <guid>http://www.gocomics.com/andycapp/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/cd50f21017e1013625cd005056a9545d" alt="Andy Capp by Reg Smythe for Apr 9, 2018 " title="Andy Capp by Reg Smythe for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

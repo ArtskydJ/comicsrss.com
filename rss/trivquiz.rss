@@ -4,16 +4,18 @@
         <title>Trivquiz</title>
         <link>http://www.comicsrss.com/preview/trivquiz</link>
         <description>Trivquiz by Steve McGarry</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Trivquiz</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tq/large_rec-201701251557.jpg</url>
-            <link>http://www.comicsrss.com/preview/trivquiz</link>
-        </image>
         <copyright>Copyright Steve McGarry</copyright>
         <atom:link href="http://www.comicsrss.com/rss/trivquiz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trivquiz by Steve McGarry for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/trivquiz/2018/05/05</link>
+            <guid>http://www.gocomics.com/trivquiz/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/eaa18ca0322a01363005005056a9545d" alt="Trivquiz by Steve McGarry for May 5, 2018 " title="Trivquiz by Steve McGarry for May 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Trivquiz by Steve McGarry for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/trivquiz/2018/05/03</link>
@@ -181,13 +183,6 @@
             <guid>http://www.gocomics.com/trivquiz/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e94c05101aac01362714005056a9545d" alt="Trivquiz by Steve McGarry for Apr 5, 2018 " title="Trivquiz by Steve McGarry for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trivquiz by Steve McGarry for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/trivquiz/2018/04/04</link>
-            <guid>http://www.gocomics.com/trivquiz/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a5d99ab019e10136269f005056a9545d" alt="Trivquiz by Steve McGarry for Apr 4, 2018 " title="Trivquiz by Steve McGarry for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

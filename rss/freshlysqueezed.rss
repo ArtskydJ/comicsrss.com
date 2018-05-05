@@ -4,16 +4,25 @@
         <title>Freshly Squeezed</title>
         <link>http://www.comicsrss.com/preview/freshlysqueezed</link>
         <description>Freshly Squeezed by Ed Stein</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Freshly Squeezed</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/fs/large_rec-201701251556.jpg</url>
-            <link>http://www.comicsrss.com/preview/freshlysqueezed</link>
-        </image>
         <copyright>Copyright Ed Stein</copyright>
         <atom:link href="http://www.comicsrss.com/rss/freshlysqueezed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Freshly Squeezed by Ed Stein for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/freshlysqueezed/2018/05/05</link>
+            <guid>http://www.gocomics.com/freshlysqueezed/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/70624ef03aba0132a740005056a9545d" alt="Freshly Squeezed by Ed Stein for May 5, 2018 " title="Freshly Squeezed by Ed Stein for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Freshly Squeezed by Ed Stein for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/freshlysqueezed/2018/05/04</link>
+            <guid>http://www.gocomics.com/freshlysqueezed/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/6f2334603aba0132a740005056a9545d" alt="Freshly Squeezed by Ed Stein for May 4, 2018 " title="Freshly Squeezed by Ed Stein for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Freshly Squeezed by Ed Stein for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/freshlysqueezed/2018/05/03</link>
@@ -174,20 +183,6 @@
             <guid>http://www.gocomics.com/freshlysqueezed/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13727ed03aa50132a733005056a9545d" alt="Freshly Squeezed by Ed Stein for Apr 11, 2018 " title="Freshly Squeezed by Ed Stein for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Freshly Squeezed by Ed Stein for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/freshlysqueezed/2018/04/10</link>
-            <guid>http://www.gocomics.com/freshlysqueezed/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/12574b303aa50132a733005056a9545d" alt="Freshly Squeezed by Ed Stein for Apr 10, 2018 " title="Freshly Squeezed by Ed Stein for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Freshly Squeezed by Ed Stein for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/freshlysqueezed/2018/04/09</link>
-            <guid>http://www.gocomics.com/freshlysqueezed/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/112f1f703aa50132a733005056a9545d" alt="Freshly Squeezed by Ed Stein for Apr 9, 2018 " title="Freshly Squeezed by Ed Stein for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

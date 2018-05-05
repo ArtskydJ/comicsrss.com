@@ -4,16 +4,18 @@
         <title>Ken Catalino</title>
         <link>http://www.comicsrss.com/preview/kencatalino</link>
         <description>Ken Catalino by Ken Catalino</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Ken Catalino</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crkca/large_rec-201701251555.jpg</url>
-            <link>http://www.comicsrss.com/preview/kencatalino</link>
-        </image>
         <copyright>Copyright Ken Catalino</copyright>
         <atom:link href="http://www.comicsrss.com/rss/kencatalino.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ken Catalino by Ken Catalino for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/kencatalino/2018/05/05</link>
+            <guid>http://www.gocomics.com/kencatalino/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/b3e91de0313101362f8e005056a9545d" alt="Ken Catalino by Ken Catalino for May 5, 2018 " title="Ken Catalino by Ken Catalino for May 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ken Catalino by Ken Catalino for May 2, 2018 ]]></title>
             <link>http://www.gocomics.com/kencatalino/2018/05/02</link>
@@ -181,13 +183,6 @@
             <guid>http://www.gocomics.com/kencatalino/2018/03/20</guid>
             <pubDate>Tue, 20 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/639fc9a00ca701362197005056a9545d" alt="Ken Catalino by Ken Catalino for Mar 20, 2018 " title="Ken Catalino by Ken Catalino for Mar 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ken Catalino by Ken Catalino for Mar 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/kencatalino/2018/03/19</link>
-            <guid>http://www.gocomics.com/kencatalino/2018/03/19</guid>
-            <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/61e2d8000ca701362197005056a9545d" alt="Ken Catalino by Ken Catalino for Mar 19, 2018 " title="Ken Catalino by Ken Catalino for Mar 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

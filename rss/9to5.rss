@@ -4,16 +4,25 @@
         <title>9 to 5</title>
         <link>http://www.comicsrss.com/preview/9to5</link>
         <description>9 to 5 by Harley Schwadron</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>9 to 5</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmntf/large_rec-201701251555.jpg</url>
-            <link>http://www.comicsrss.com/preview/9to5</link>
-        </image>
         <copyright>Copyright Harley Schwadron</copyright>
         <atom:link href="http://www.comicsrss.com/rss/9to5.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[9 to 5 by Harley Schwadron for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/9to5/2018/05/05</link>
+            <guid>http://www.gocomics.com/9to5/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/f15a107020490136293c005056a9545d" alt="9 to 5 by Harley Schwadron for May 5, 2018 " title="9 to 5 by Harley Schwadron for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[9 to 5 by Harley Schwadron for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/9to5/2018/05/04</link>
+            <guid>http://www.gocomics.com/9to5/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/dea3cf7020490136293c005056a9545d" alt="9 to 5 by Harley Schwadron for May 4, 2018 " title="9 to 5 by Harley Schwadron for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[9 to 5 by Harley Schwadron for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/9to5/2018/05/03</link>
@@ -174,13 +183,6 @@
             <guid>http://www.gocomics.com/9to5/2018/04/07</guid>
             <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98164f60059a01361ef2005056a9545d" alt="9 to 5 by Harley Schwadron for Apr 7, 2018 " title="9 to 5 by Harley Schwadron for Apr 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9 to 5 by Harley Schwadron for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/9to5/2018/04/06</link>
-            <guid>http://www.gocomics.com/9to5/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9eb4ffc0059a01361ef2005056a9545d" alt="9 to 5 by Harley Schwadron for Apr 6, 2018 " title="9 to 5 by Harley Schwadron for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

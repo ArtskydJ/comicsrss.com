@@ -4,16 +4,25 @@
         <title>Emmy Lou</title>
         <link>http://www.comicsrss.com/preview/emmy-lou</link>
         <description>Emmy Lou by Marty Links</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Emmy Lou</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/eml/large_rec-201701251557.jpg</url>
-            <link>http://www.comicsrss.com/preview/emmy-lou</link>
-        </image>
         <copyright>Copyright Marty Links</copyright>
         <atom:link href="http://www.comicsrss.com/rss/emmy-lou.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emmy Lou by Marty Links for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/emmy-lou/2018/05/04</link>
+            <guid>http://www.gocomics.com/emmy-lou/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/cdbf17b0312001362f81005056a9545d" alt="Emmy Lou by Marty Links for May 4, 2018 " title="Emmy Lou by Marty Links for May 4, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Emmy Lou by Marty Links for May 3, 2018 ]]></title>
+            <link>http://www.gocomics.com/emmy-lou/2018/05/03</link>
+            <guid>http://www.gocomics.com/emmy-lou/2018/05/03</guid>
+            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/cbff1f30312001362f81005056a9545d" alt="Emmy Lou by Marty Links for May 3, 2018 " title="Emmy Lou by Marty Links for May 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Emmy Lou by Marty Links for May 2, 2018 ]]></title>
             <link>http://www.gocomics.com/emmy-lou/2018/05/02</link>
@@ -174,20 +183,6 @@
             <guid>http://www.gocomics.com/emmy-lou/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c3dc1401e4f01362829005056a9545d" alt="Emmy Lou by Marty Links for Apr 10, 2018 " title="Emmy Lou by Marty Links for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Emmy Lou by Marty Links for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/emmy-lou/2018/04/09</link>
-            <guid>http://www.gocomics.com/emmy-lou/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4dcaa8001e4f01362829005056a9545d" alt="Emmy Lou by Marty Links for Apr 9, 2018 " title="Emmy Lou by Marty Links for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Emmy Lou by Marty Links for Apr 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/emmy-lou/2018/04/08</link>
-            <guid>http://www.gocomics.com/emmy-lou/2018/04/08</guid>
-            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/612eb9601c58013627c7005056a9545d" alt="Emmy Lou by Marty Links for Apr 8, 2018 " title="Emmy Lou by Marty Links for Apr 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,25 @@
         <title>Graffiti</title>
         <link>http://www.comicsrss.com/preview/graffiti</link>
         <description>Graffiti by Gene Mora</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Graffiti</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gf/large_rec-201701251556.jpg</url>
-            <link>http://www.comicsrss.com/preview/graffiti</link>
-        </image>
         <copyright>Copyright Gene Mora</copyright>
         <atom:link href="http://www.comicsrss.com/rss/graffiti.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Graffiti by Gene Mora for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/graffiti/2018/05/05</link>
+            <guid>http://www.gocomics.com/graffiti/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/55ec5e50297c01362c7a005056a9545d" alt="Graffiti by Gene Mora for May 5, 2018 " title="Graffiti by Gene Mora for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Graffiti by Gene Mora for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/graffiti/2018/05/04</link>
+            <guid>http://www.gocomics.com/graffiti/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/54030d70297c01362c7a005056a9545d" alt="Graffiti by Gene Mora for May 4, 2018 " title="Graffiti by Gene Mora for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Graffiti by Gene Mora for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/graffiti/2018/05/03</link>
@@ -174,13 +183,6 @@
             <guid>http://www.gocomics.com/graffiti/2018/04/07</guid>
             <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9db10170137b01362408005056a9545d" alt="Graffiti by Gene Mora for Apr 7, 2018 " title="Graffiti by Gene Mora for Apr 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Graffiti by Gene Mora for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/graffiti/2018/04/06</link>
-            <guid>http://www.gocomics.com/graffiti/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9f8dd5f0137b01362408005056a9545d" alt="Graffiti by Gene Mora for Apr 6, 2018 " title="Graffiti by Gene Mora for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

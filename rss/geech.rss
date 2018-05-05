@@ -4,16 +4,25 @@
         <title>Geech</title>
         <link>http://www.comicsrss.com/preview/geech</link>
         <description>Geech by Jerry Bittle</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Geech</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ge/large_ge_rec_201702011735.jpg</url>
-            <link>http://www.comicsrss.com/preview/geech</link>
-        </image>
         <copyright>Copyright Jerry Bittle</copyright>
         <atom:link href="http://www.comicsrss.com/rss/geech.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Geech by Jerry Bittle for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/geech/2018/05/05</link>
+            <guid>http://www.gocomics.com/geech/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/7cdfac701395012f2fc600163e41dd5b" alt="Geech by Jerry Bittle for May 5, 2018 " title="Geech by Jerry Bittle for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Geech by Jerry Bittle for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/geech/2018/05/04</link>
+            <guid>http://www.gocomics.com/geech/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/3d52c34099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for May 4, 2018 " title="Geech by Jerry Bittle for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/geech/2018/05/03</link>
@@ -174,20 +183,6 @@
             <guid>http://www.gocomics.com/geech/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e86c065099eb012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Apr 11, 2018 " title="Geech by Jerry Bittle for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Geech by Jerry Bittle for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/geech/2018/04/10</link>
-            <guid>http://www.gocomics.com/geech/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7d1bf0d099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Apr 10, 2018 " title="Geech by Jerry Bittle for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Geech by Jerry Bittle for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/geech/2018/04/09</link>
-            <guid>http://www.gocomics.com/geech/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/94e70f8099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Apr 9, 2018 " title="Geech by Jerry Bittle for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

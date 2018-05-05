@@ -4,16 +4,25 @@
         <title>Ten Cats</title>
         <link>http://www.comicsrss.com/preview/ten-cats</link>
         <description>Ten Cats by Graham Harrop</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Ten Cats</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tc/large_rec-201701251557.jpg</url>
-            <link>http://www.comicsrss.com/preview/ten-cats</link>
-        </image>
         <copyright>Copyright Graham Harrop</copyright>
         <atom:link href="http://www.comicsrss.com/rss/ten-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten Cats by Graham Harrop for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/ten-cats/2018/05/05</link>
+            <guid>http://www.gocomics.com/ten-cats/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/049bb900308c01362f50005056a9545d" alt="Ten Cats by Graham Harrop for May 5, 2018 " title="Ten Cats by Graham Harrop for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ten Cats by Graham Harrop for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/ten-cats/2018/05/04</link>
+            <guid>http://www.gocomics.com/ten-cats/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/08bf5430308c01362f50005056a9545d" alt="Ten Cats by Graham Harrop for May 4, 2018 " title="Ten Cats by Graham Harrop for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ten Cats by Graham Harrop for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/ten-cats/2018/05/03</link>
@@ -174,20 +183,6 @@
             <guid>http://www.gocomics.com/ten-cats/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3d067d901e790136284d005056a9545d" alt="Ten Cats by Graham Harrop for Apr 11, 2018 " title="Ten Cats by Graham Harrop for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ten Cats by Graham Harrop for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/ten-cats/2018/04/10</link>
-            <guid>http://www.gocomics.com/ten-cats/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/38caa5a01e790136284d005056a9545d" alt="Ten Cats by Graham Harrop for Apr 10, 2018 " title="Ten Cats by Graham Harrop for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ten Cats by Graham Harrop for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/ten-cats/2018/04/09</link>
-            <guid>http://www.gocomics.com/ten-cats/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e429eab01b450136275b005056a9545d" alt="Ten Cats by Graham Harrop for Apr 9, 2018 " title="Ten Cats by Graham Harrop for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,25 @@
         <title>Animal Crackers</title>
         <link>http://www.comicsrss.com/preview/animalcrackers</link>
         <description>Animal Crackers by Mike Osbun</description>
-        <lastBuildDate>Fri, 04 May 2018 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 06:39:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <image>
-            <title>Animal Crackers</title>
-            <url>http://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmani/large_rec-201701251555.jpg</url>
-            <link>http://www.comicsrss.com/preview/animalcrackers</link>
-        </image>
         <copyright>Copyright Mike Osbun</copyright>
         <atom:link href="http://www.comicsrss.com/rss/animalcrackers.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animal Crackers by Mike Osbun for May 5, 2018 ]]></title>
+            <link>http://www.gocomics.com/animalcrackers/2018/05/05</link>
+            <guid>http://www.gocomics.com/animalcrackers/2018/05/05</guid>
+            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/18e976e0204a0136293c005056a9545d" alt="Animal Crackers by Mike Osbun for May 5, 2018 " title="Animal Crackers by Mike Osbun for May 5, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Animal Crackers by Mike Osbun for May 4, 2018 ]]></title>
+            <link>http://www.gocomics.com/animalcrackers/2018/05/04</link>
+            <guid>http://www.gocomics.com/animalcrackers/2018/05/04</guid>
+            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/0dd7e1b0204a0136293c005056a9545d" alt="Animal Crackers by Mike Osbun for May 4, 2018 " title="Animal Crackers by Mike Osbun for May 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Animal Crackers by Mike Osbun for May 3, 2018 ]]></title>
             <link>http://www.gocomics.com/animalcrackers/2018/05/03</link>
@@ -174,20 +183,6 @@
             <guid>http://www.gocomics.com/animalcrackers/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6745f9a013b70136241f005056a9545d" alt="Animal Crackers by Mike Osbun for Apr 11, 2018 " title="Animal Crackers by Mike Osbun for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Animal Crackers by Mike Osbun for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/animalcrackers/2018/04/10</link>
-            <guid>http://www.gocomics.com/animalcrackers/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/6a85d4c013b70136241f005056a9545d" alt="Animal Crackers by Mike Osbun for Apr 10, 2018 " title="Animal Crackers by Mike Osbun for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Animal Crackers by Mike Osbun for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/animalcrackers/2018/04/09</link>
-            <guid>http://www.gocomics.com/animalcrackers/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5a14257013b70136241f005056a9545d" alt="Animal Crackers by Mike Osbun for Apr 9, 2018 " title="Animal Crackers by Mike Osbun for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
