@@ -4,11 +4,18 @@
         <title>Ten Cats</title>
         <link>http://www.comicsrss.com/preview/ten-cats</link>
         <description>Ten Cats by Graham Harrop</description>
-        <lastBuildDate>Sun, 06 May 2018 11:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 12:00:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Graham Harrop</copyright>
         <atom:link href="http://www.comicsrss.com/rss/ten-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten Cats by Graham Harrop for May 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/ten-cats/2018/05/06</link>
+            <guid>http://www.gocomics.com/ten-cats/2018/05/06</guid>
+            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/06f86d90308c01362f50005056a9545d" alt="Ten Cats by Graham Harrop for May 6, 2018 " title="Ten Cats by Graham Harrop for May 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ten Cats by Graham Harrop for May 5, 2018 ]]></title>
             <link>http://www.gocomics.com/ten-cats/2018/05/05</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/ten-cats/2018/04/12</guid>
             <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/37098d101e790136284d005056a9545d" alt="Ten Cats by Graham Harrop for Apr 12, 2018 " title="Ten Cats by Graham Harrop for Apr 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ten Cats by Graham Harrop for Apr 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/ten-cats/2018/04/11</link>
-            <guid>http://www.gocomics.com/ten-cats/2018/04/11</guid>
-            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/3d067d901e790136284d005056a9545d" alt="Ten Cats by Graham Harrop for Apr 11, 2018 " title="Ten Cats by Graham Harrop for Apr 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

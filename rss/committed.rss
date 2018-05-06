@@ -4,11 +4,18 @@
         <title>Committed</title>
         <link>http://www.comicsrss.com/preview/committed</link>
         <description>Committed by Michael Fry</description>
-        <lastBuildDate>Sun, 06 May 2018 11:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 12:00:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Michael Fry</copyright>
         <atom:link href="http://www.comicsrss.com/rss/committed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Committed by Michael Fry for May 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/committed/2018/05/06</link>
+            <guid>http://www.gocomics.com/committed/2018/05/06</guid>
+            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/f29b29408be7012ee3c400163e41dd5b" alt="Committed by Michael Fry for May 6, 2018 " title="Committed by Michael Fry for May 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Committed by Michael Fry for May 5, 2018 ]]></title>
             <link>http://www.gocomics.com/committed/2018/05/05</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/committed/2018/04/12</guid>
             <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5e46e7108be4012ee3c400163e41dd5b" alt="Committed by Michael Fry for Apr 12, 2018 " title="Committed by Michael Fry for Apr 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Committed by Michael Fry for Apr 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/committed/2018/04/11</link>
-            <guid>http://www.gocomics.com/committed/2018/04/11</guid>
-            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/99ee89608bd8012ee3c400163e41dd5b" alt="Committed by Michael Fry for Apr 11, 2018 " title="Committed by Michael Fry for Apr 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

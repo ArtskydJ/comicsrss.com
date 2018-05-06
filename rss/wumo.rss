@@ -4,11 +4,18 @@
         <title>WuMo</title>
         <link>http://www.comicsrss.com/preview/wumo</link>
         <description>WuMo by Wulff &amp;amp; Morgenthaler</description>
-        <lastBuildDate>Sun, 06 May 2018 11:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 12:00:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Wulff &amp;amp; Morgenthaler</copyright>
         <atom:link href="http://www.comicsrss.com/rss/wumo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WuMo by Wulff &amp; Morgenthaler for May 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/wumo/2018/05/06</link>
+            <guid>http://www.gocomics.com/wumo/2018/05/06</guid>
+            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/f9435af0137601362404005056a9545d" alt="WuMo by Wulff &amp; Morgenthaler for May 6, 2018 " title="WuMo by Wulff &amp; Morgenthaler for May 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[WuMo by Wulff &amp; Morgenthaler for May 5, 2018 ]]></title>
             <link>http://www.gocomics.com/wumo/2018/05/05</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/wumo/2018/04/12</guid>
             <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13198bb0166801362557005056a9545d" alt="WuMo by Wulff &amp; Morgenthaler for Apr 12, 2018 " title="WuMo by Wulff &amp; Morgenthaler for Apr 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WuMo by Wulff &amp; Morgenthaler for Apr 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/wumo/2018/04/11</link>
-            <guid>http://www.gocomics.com/wumo/2018/04/11</guid>
-            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/11c36450166801362557005056a9545d" alt="WuMo by Wulff &amp; Morgenthaler for Apr 11, 2018 " title="WuMo by Wulff &amp; Morgenthaler for Apr 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

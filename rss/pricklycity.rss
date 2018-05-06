@@ -4,11 +4,18 @@
         <title>Prickly City</title>
         <link>http://www.comicsrss.com/preview/pricklycity</link>
         <description>Prickly City by Scott Stantis</description>
-        <lastBuildDate>Sun, 06 May 2018 11:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 12:00:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Scott Stantis</copyright>
         <atom:link href="http://www.comicsrss.com/rss/pricklycity.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prickly City by Scott Stantis for May 6, 2018 ]]></title>
+            <link>http://www.gocomics.com/pricklycity/2018/05/06</link>
+            <guid>http://www.gocomics.com/pricklycity/2018/05/06</guid>
+            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/7985a28016a00136258e005056a9545d" alt="Prickly City by Scott Stantis for May 6, 2018 " title="Prickly City by Scott Stantis for May 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Prickly City by Scott Stantis for May 5, 2018 ]]></title>
             <link>http://www.gocomics.com/pricklycity/2018/05/05</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/pricklycity/2018/04/12</guid>
             <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/39fbd1f0198301362665005056a9545d" alt="Prickly City by Scott Stantis for Apr 12, 2018 " title="Prickly City by Scott Stantis for Apr 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Prickly City by Scott Stantis for Apr 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/pricklycity/2018/04/11</link>
-            <guid>http://www.gocomics.com/pricklycity/2018/04/11</guid>
-            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/384106a0198301362665005056a9545d" alt="Prickly City by Scott Stantis for Apr 11, 2018 " title="Prickly City by Scott Stantis for Apr 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
