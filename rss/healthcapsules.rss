@@ -4,11 +4,18 @@
         <title>Health Capsules</title>
         <link>http://www.comicsrss.com/preview/healthcapsules</link>
         <description>Health Capsules by Bron Smith</description>
-        <lastBuildDate>Mon, 07 May 2018 06:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 May 2018 13:25:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Bron Smith</copyright>
         <atom:link href="http://www.comicsrss.com/rss/healthcapsules.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Health Capsules by Bron Smith for May 7, 2018 ]]></title>
+            <link>http://www.gocomics.com/healthcapsules/2018/05/07</link>
+            <guid>http://www.gocomics.com/healthcapsules/2018/05/07</guid>
+            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/86bdf5f0258e01362b42005056a9545d" alt="Health Capsules by Bron Smith for May 7, 2018 " title="Health Capsules by Bron Smith for May 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Health Capsules by Bron Smith for May 5, 2018 ]]></title>
             <link>http://www.gocomics.com/healthcapsules/2018/05/05</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/healthcapsules/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa58d0b00f0701362261005056a9545d" alt="Health Capsules by Bron Smith for Apr 9, 2018 " title="Health Capsules by Bron Smith for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Health Capsules by Bron Smith for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/healthcapsules/2018/04/07</link>
-            <guid>http://www.gocomics.com/healthcapsules/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/75d2518009870136205f005056a9545d" alt="Health Capsules by Bron Smith for Apr 7, 2018 " title="Health Capsules by Bron Smith for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

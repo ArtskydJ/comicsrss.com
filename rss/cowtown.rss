@@ -4,11 +4,18 @@
         <title>CowTown</title>
         <link>http://www.comicsrss.com/preview/cowtown</link>
         <description>CowTown by Charlie Podrebarac</description>
-        <lastBuildDate>Mon, 07 May 2018 06:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 May 2018 13:25:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Charlie Podrebarac</copyright>
         <atom:link href="http://www.comicsrss.com/rss/cowtown.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CowTown by Charlie Podrebarac for May 7, 2018 ]]></title>
+            <link>http://www.gocomics.com/cowtown/2018/05/07</link>
+            <guid>http://www.gocomics.com/cowtown/2018/05/07</guid>
+            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/ce99b82032c10136301c005056a9545d" alt="CowTown by Charlie Podrebarac for May 7, 2018 " title="CowTown by Charlie Podrebarac for May 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[CowTown by Charlie Podrebarac for May 6, 2018 ]]></title>
             <link>http://www.gocomics.com/cowtown/2018/05/06</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/cowtown/2018/04/13</guid>
             <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7587b41020b90136297c005056a9545d" alt="CowTown by Charlie Podrebarac for Apr 13, 2018 " title="CowTown by Charlie Podrebarac for Apr 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CowTown by Charlie Podrebarac for Apr 12, 2018 ]]></title>
-            <link>http://www.gocomics.com/cowtown/2018/04/12</link>
-            <guid>http://www.gocomics.com/cowtown/2018/04/12</guid>
-            <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/f6af27101e5d0136283d005056a9545d" alt="CowTown by Charlie Podrebarac for Apr 12, 2018 " title="CowTown by Charlie Podrebarac for Apr 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

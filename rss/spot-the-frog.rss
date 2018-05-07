@@ -4,11 +4,18 @@
         <title>Spot the Frog</title>
         <link>http://www.comicsrss.com/preview/spot-the-frog</link>
         <description>Spot the Frog by Mark Heath</description>
-        <lastBuildDate>Mon, 07 May 2018 06:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 May 2018 13:25:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Mark Heath</copyright>
         <atom:link href="http://www.comicsrss.com/rss/spot-the-frog.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spot the Frog by Mark Heath for May 7, 2018 ]]></title>
+            <link>http://www.gocomics.com/spot-the-frog/2018/05/07</link>
+            <guid>http://www.gocomics.com/spot-the-frog/2018/05/07</guid>
+            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/fe2acb107503012ee3c400163e41dd5b" alt="Spot the Frog by Mark Heath for May 7, 2018 " title="Spot the Frog by Mark Heath for May 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Spot the Frog by Mark Heath for May 5, 2018 ]]></title>
             <link>http://www.gocomics.com/spot-the-frog/2018/05/05</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/spot-the-frog/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1e509207503012ee3c400163e41dd5b" alt="Spot the Frog by Mark Heath for Apr 9, 2018 " title="Spot the Frog by Mark Heath for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Spot the Frog by Mark Heath for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/spot-the-frog/2018/04/07</link>
-            <guid>http://www.gocomics.com/spot-the-frog/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b8af5da07503012ee3c400163e41dd5b" alt="Spot the Frog by Mark Heath for Apr 7, 2018 " title="Spot the Frog by Mark Heath for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

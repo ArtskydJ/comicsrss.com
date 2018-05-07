@@ -4,11 +4,18 @@
         <title>Frazz</title>
         <link>http://www.comicsrss.com/preview/frazz</link>
         <description>Frazz by Jef Mallett</description>
-        <lastBuildDate>Mon, 07 May 2018 06:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 May 2018 13:25:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Jef Mallett</copyright>
         <atom:link href="http://www.comicsrss.com/rss/frazz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frazz by Jef Mallett for May 7, 2018 ]]></title>
+            <link>http://www.gocomics.com/frazz/2018/05/07</link>
+            <guid>http://www.gocomics.com/frazz/2018/05/07</guid>
+            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/77a7d1602f8601362eb5005056a9545d" alt="Frazz by Jef Mallett for May 7, 2018 " title="Frazz by Jef Mallett for May 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frazz by Jef Mallett for May 6, 2018 ]]></title>
             <link>http://www.gocomics.com/frazz/2018/05/06</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/frazz/2018/04/13</guid>
             <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ffc23f40198201362665005056a9545d" alt="Frazz by Jef Mallett for Apr 13, 2018 " title="Frazz by Jef Mallett for Apr 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frazz by Jef Mallett for Apr 12, 2018 ]]></title>
-            <link>http://www.gocomics.com/frazz/2018/04/12</link>
-            <guid>http://www.gocomics.com/frazz/2018/04/12</guid>
-            <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fe01a100198201362665005056a9545d" alt="Frazz by Jef Mallett for Apr 12, 2018 " title="Frazz by Jef Mallett for Apr 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
