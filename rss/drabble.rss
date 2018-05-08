@@ -4,11 +4,18 @@
         <title>Drabble</title>
         <link>http://www.comicsrss.com/preview/drabble</link>
         <description>Drabble by Kevin Fagan</description>
-        <lastBuildDate>Mon, 07 May 2018 13:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 May 2018 06:32:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Kevin Fagan</copyright>
         <atom:link href="http://www.comicsrss.com/rss/drabble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drabble by Kevin Fagan for May 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/drabble/2018/05/08</link>
+            <guid>http://www.gocomics.com/drabble/2018/05/08</guid>
+            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/70f93ef01e6201362843005056a9545d" alt="Drabble by Kevin Fagan for May 8, 2018 " title="Drabble by Kevin Fagan for May 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drabble by Kevin Fagan for May 7, 2018 ]]></title>
             <link>http://www.gocomics.com/drabble/2018/05/07</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/drabble/2018/04/14</guid>
             <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f566d7009330136202b005056a9545d" alt="Drabble by Kevin Fagan for Apr 14, 2018 " title="Drabble by Kevin Fagan for Apr 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Drabble by Kevin Fagan for Apr 13, 2018 ]]></title>
-            <link>http://www.gocomics.com/drabble/2018/04/13</link>
-            <guid>http://www.gocomics.com/drabble/2018/04/13</guid>
-            <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5dff514009330136202b005056a9545d" alt="Drabble by Kevin Fagan for Apr 13, 2018 " title="Drabble by Kevin Fagan for Apr 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

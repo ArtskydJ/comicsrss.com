@@ -4,11 +4,18 @@
         <title>Sylvia</title>
         <link>http://www.comicsrss.com/preview/sylvia</link>
         <description>Sylvia by Nicole Hollander</description>
-        <lastBuildDate>Mon, 07 May 2018 13:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 May 2018 06:32:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Nicole Hollander</copyright>
         <atom:link href="http://www.comicsrss.com/rss/sylvia.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sylvia by Nicole Hollander for May 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/sylvia/2018/05/08</link>
+            <guid>http://www.gocomics.com/sylvia/2018/05/08</guid>
+            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/0c22b5e0345a012d63bd00163e41dd5b" alt="Sylvia by Nicole Hollander for May 8, 2018 " title="Sylvia by Nicole Hollander for May 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Sylvia by Nicole Hollander for May 7, 2018 ]]></title>
             <link>http://www.gocomics.com/sylvia/2018/05/07</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/sylvia/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/40e5b5d68829102d8793001438c0f03b" alt="Sylvia by Nicole Hollander for Apr 10, 2018 " title="Sylvia by Nicole Hollander for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia by Nicole Hollander for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/sylvia/2018/04/09</link>
-            <guid>http://www.gocomics.com/sylvia/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/420e042c8829102d8793001438c0f03b" alt="Sylvia by Nicole Hollander for Apr 9, 2018 " title="Sylvia by Nicole Hollander for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

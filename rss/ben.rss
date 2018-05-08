@@ -4,11 +4,18 @@
         <title>Ben</title>
         <link>http://www.comicsrss.com/preview/ben</link>
         <description>Ben by Daniel Shelton</description>
-        <lastBuildDate>Mon, 07 May 2018 13:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 May 2018 06:32:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Daniel Shelton</copyright>
         <atom:link href="http://www.comicsrss.com/rss/ben.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ben by Daniel Shelton for May 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/ben/2018/05/08</link>
+            <guid>http://www.gocomics.com/ben/2018/05/08</guid>
+            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/6daa230031f201362fdd005056a9545d" alt="Ben by Daniel Shelton for May 8, 2018 " title="Ben by Daniel Shelton for May 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ben by Daniel Shelton for May 7, 2018 ]]></title>
             <link>http://www.gocomics.com/ben/2018/05/07</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/ben/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ccbae76012c6013623c0005056a9545d" alt="Ben by Daniel Shelton for Apr 10, 2018 " title="Ben by Daniel Shelton for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ben by Daniel Shelton for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/ben/2018/04/09</link>
-            <guid>http://www.gocomics.com/ben/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/cfc5a41012c6013623c0005056a9545d" alt="Ben by Daniel Shelton for Apr 9, 2018 " title="Ben by Daniel Shelton for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
