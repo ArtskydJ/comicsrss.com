@@ -4,11 +4,18 @@
         <title>Warped</title>
         <link>http://www.comicsrss.com/preview/warped</link>
         <description>Warped by Michael Cavna</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Michael Cavna</copyright>
         <atom:link href="http://www.comicsrss.com/rss/warped.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Warped by Michael Cavna for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/warped/2018/05/09</link>
+            <guid>http://www.gocomics.com/warped/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/22c846d034e7013630b1005056a9545d" alt="Warped by Michael Cavna for May 9, 2018 " title="Warped by Michael Cavna for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Warped by Michael Cavna for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/warped/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/warped/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ed673f10225e013629ff005056a9545d" alt="Warped by Michael Cavna for Apr 15, 2018 " title="Warped by Michael Cavna for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Warped by Michael Cavna for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/warped/2018/04/14</link>
-            <guid>http://www.gocomics.com/warped/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4012a6f021cc013629ec005056a9545d" alt="Warped by Michael Cavna for Apr 14, 2018 " title="Warped by Michael Cavna for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

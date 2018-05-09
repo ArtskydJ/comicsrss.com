@@ -4,11 +4,18 @@
         <title>Brevity</title>
         <link>http://www.comicsrss.com/preview/brevity</link>
         <description>Brevity by Dan Thompson</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="http://www.comicsrss.com/rss/brevity.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brevity by Dan Thompson for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/brevity/2018/05/09</link>
+            <guid>http://www.gocomics.com/brevity/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/15f240302f3701362e9e005056a9545d" alt="Brevity by Dan Thompson for May 9, 2018 " title="Brevity by Dan Thompson for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Brevity by Dan Thompson for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/brevity/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/brevity/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/068ea700fd7b01351b8f005056a9545d" alt="Brevity by Dan Thompson for Apr 15, 2018 " title="Brevity by Dan Thompson for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Brevity by Dan Thompson for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/brevity/2018/04/14</link>
-            <guid>http://www.gocomics.com/brevity/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5fe2128018f301362635005056a9545d" alt="Brevity by Dan Thompson for Apr 14, 2018 " title="Brevity by Dan Thompson for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

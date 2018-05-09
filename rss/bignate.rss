@@ -4,11 +4,18 @@
         <title>Big Nate</title>
         <link>http://www.comicsrss.com/preview/bignate</link>
         <description>Big Nate by Lincoln Peirce</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Lincoln Peirce</copyright>
         <atom:link href="http://www.comicsrss.com/rss/bignate.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Nate by Lincoln Peirce for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/bignate/2018/05/09</link>
+            <guid>http://www.gocomics.com/bignate/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/4ea21d80294101362c53005056a9545d" alt="Big Nate by Lincoln Peirce for May 9, 2018 " title="Big Nate by Lincoln Peirce for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Big Nate by Lincoln Peirce for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/bignate/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/bignate/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/13f1ae20055f01361edb005056a9545d" alt="Big Nate by Lincoln Peirce for Apr 15, 2018 " title="Big Nate by Lincoln Peirce for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Big Nate by Lincoln Peirce for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/bignate/2018/04/14</link>
-            <guid>http://www.gocomics.com/bignate/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/02fb4c9018be0136260f005056a9545d" alt="Big Nate by Lincoln Peirce for Apr 14, 2018 " title="Big Nate by Lincoln Peirce for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

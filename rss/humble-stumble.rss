@@ -4,11 +4,18 @@
         <title>The Humble Stumble</title>
         <link>http://www.comicsrss.com/preview/humble-stumble</link>
         <description>The Humble Stumble by Roy Schneider</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Roy Schneider</copyright>
         <atom:link href="http://www.comicsrss.com/rss/humble-stumble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Humble Stumble by Roy Schneider for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/humble-stumble/2018/05/09</link>
+            <guid>http://www.gocomics.com/humble-stumble/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/149bba5025ee012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for May 9, 2018 " title="The Humble Stumble by Roy Schneider for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Humble Stumble by Roy Schneider for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/humble-stumble/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/humble-stumble/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/81ecb60025e7012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Apr 15, 2018 " title="The Humble Stumble by Roy Schneider for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Humble Stumble by Roy Schneider for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/humble-stumble/2018/04/14</link>
-            <guid>http://www.gocomics.com/humble-stumble/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/791c45d025e7012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Apr 14, 2018 " title="The Humble Stumble by Roy Schneider for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

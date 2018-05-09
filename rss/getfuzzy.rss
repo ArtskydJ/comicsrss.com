@@ -4,11 +4,18 @@
         <title>Get Fuzzy</title>
         <link>http://www.comicsrss.com/preview/getfuzzy</link>
         <description>Get Fuzzy by Darby Conley</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Darby Conley</copyright>
         <atom:link href="http://www.comicsrss.com/rss/getfuzzy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Fuzzy by Darby Conley for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/getfuzzy/2018/05/09</link>
+            <guid>http://www.gocomics.com/getfuzzy/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/64f02e502ed601362e73005056a9545d" alt="Get Fuzzy by Darby Conley for May 9, 2018 " title="Get Fuzzy by Darby Conley for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Get Fuzzy by Darby Conley for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/getfuzzy/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/getfuzzy/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0da95a60105701362329005056a9545d" alt="Get Fuzzy by Darby Conley for Apr 15, 2018 " title="Get Fuzzy by Darby Conley for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Get Fuzzy by Darby Conley for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/getfuzzy/2018/04/14</link>
-            <guid>http://www.gocomics.com/getfuzzy/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/761526d018bf01362611005056a9545d" alt="Get Fuzzy by Darby Conley for Apr 14, 2018 " title="Get Fuzzy by Darby Conley for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

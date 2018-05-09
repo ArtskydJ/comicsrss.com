@@ -4,11 +4,18 @@
         <title>Annie</title>
         <link>http://www.comicsrss.com/preview/annie</link>
         <description>Annie by Jay Maeder and Alan Kupperberg</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Jay Maeder and Alan Kupperberg</copyright>
         <atom:link href="http://www.comicsrss.com/rss/annie.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/annie/2018/05/09</link>
+            <guid>http://www.gocomics.com/annie/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/aa1d3d505cee012ee3bd00163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for May 9, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/annie/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/annie/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a07811c06362012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for Apr 15, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/annie/2018/04/14</link>
-            <guid>http://www.gocomics.com/annie/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5554c4f06364012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for Apr 14, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

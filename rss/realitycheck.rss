@@ -4,11 +4,18 @@
         <title>Reality Check</title>
         <link>http://www.comicsrss.com/preview/realitycheck</link>
         <description>Reality Check by Dave Whamond</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Dave Whamond</copyright>
         <atom:link href="http://www.comicsrss.com/rss/realitycheck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reality Check by Dave Whamond for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/realitycheck/2018/05/09</link>
+            <guid>http://www.gocomics.com/realitycheck/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/a4058b102f8601362eb5005056a9545d" alt="Reality Check by Dave Whamond for May 9, 2018 " title="Reality Check by Dave Whamond for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Reality Check by Dave Whamond for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/realitycheck/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/realitycheck/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f581b510e2cb0135116d005056a9545d" alt="Reality Check by Dave Whamond for Apr 15, 2018 " title="Reality Check by Dave Whamond for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reality Check by Dave Whamond for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/realitycheck/2018/04/14</link>
-            <guid>http://www.gocomics.com/realitycheck/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/99ed0df018bf01362611005056a9545d" alt="Reality Check by Dave Whamond for Apr 14, 2018 " title="Reality Check by Dave Whamond for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

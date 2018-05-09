@@ -4,11 +4,18 @@
         <title>Calvin and Hobbes</title>
         <link>http://www.comicsrss.com/preview/calvinandhobbes</link>
         <description>Calvin and Hobbes by Bill Watterson</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Bill Watterson</copyright>
         <atom:link href="http://www.comicsrss.com/rss/calvinandhobbes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Calvin and Hobbes by Bill Watterson for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/calvinandhobbes/2018/05/09</link>
+            <guid>http://www.gocomics.com/calvinandhobbes/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/e784f9f0200501362920005056a9545d" alt="Calvin and Hobbes by Bill Watterson for May 9, 2018 " title="Calvin and Hobbes by Bill Watterson for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Calvin and Hobbes by Bill Watterson for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/calvinandhobbes/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/calvinandhobbes/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1d8b6940f01f013516bf005056a9545d" alt="Calvin and Hobbes by Bill Watterson for Apr 15, 2018 " title="Calvin and Hobbes by Bill Watterson for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Calvin and Hobbes by Bill Watterson for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/calvinandhobbes/2018/04/14</link>
-            <guid>http://www.gocomics.com/calvinandhobbes/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/50301f10ff0d01351c55005056a9545d" alt="Calvin and Hobbes by Bill Watterson for Apr 14, 2018 " title="Calvin and Hobbes by Bill Watterson for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

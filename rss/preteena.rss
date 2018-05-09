@@ -4,11 +4,18 @@
         <title>PreTeena</title>
         <link>http://www.comicsrss.com/preview/preteena</link>
         <description>PreTeena by Allison Barrows</description>
-        <lastBuildDate>Tue, 08 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 06:33:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Allison Barrows</copyright>
         <atom:link href="http://www.comicsrss.com/rss/preteena.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PreTeena by Allison Barrows for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/preteena/2018/05/09</link>
+            <guid>http://www.gocomics.com/preteena/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/17136b50c563012fdf20001dd8b71c47" alt="PreTeena by Allison Barrows for May 9, 2018 " title="PreTeena by Allison Barrows for May 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[PreTeena by Allison Barrows for May 8, 2018 ]]></title>
             <link>http://www.gocomics.com/preteena/2018/05/08</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/preteena/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09ad00e0cf66012fe2a9001dd8b71c47" alt="PreTeena by Allison Barrows for Apr 15, 2018 " title="PreTeena by Allison Barrows for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PreTeena by Allison Barrows for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/preteena/2018/04/14</link>
-            <guid>http://www.gocomics.com/preteena/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/56766a40c863012fdffa001dd8b71c47" alt="PreTeena by Allison Barrows for Apr 14, 2018 " title="PreTeena by Allison Barrows for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
