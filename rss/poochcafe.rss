@@ -4,11 +4,18 @@
         <title>Pooch Cafe</title>
         <link>http://www.comicsrss.com/preview/poochcafe</link>
         <description>Pooch Cafe by Paul Gilligan</description>
-        <lastBuildDate>Wed, 09 May 2018 06:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 06:32:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Paul Gilligan</copyright>
         <atom:link href="http://www.comicsrss.com/rss/poochcafe.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pooch Cafe by Paul Gilligan for May 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/poochcafe/2018/05/10</link>
+            <guid>http://www.gocomics.com/poochcafe/2018/05/10</guid>
+            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/3bca77002ed201362e6d005056a9545d" alt="Pooch Cafe by Paul Gilligan for May 10, 2018 " title="Pooch Cafe by Paul Gilligan for May 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pooch Cafe by Paul Gilligan for May 9, 2018 ]]></title>
             <link>http://www.gocomics.com/poochcafe/2018/05/09</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/poochcafe/2018/04/16</guid>
             <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/66a3ca201e4501362822005056a9545d" alt="Pooch Cafe by Paul Gilligan for Apr 16, 2018 " title="Pooch Cafe by Paul Gilligan for Apr 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pooch Cafe by Paul Gilligan for Apr 15, 2018 ]]></title>
-            <link>http://www.gocomics.com/poochcafe/2018/04/15</link>
-            <guid>http://www.gocomics.com/poochcafe/2018/04/15</guid>
-            <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/dcd4c790048f01361e7e005056a9545d" alt="Pooch Cafe by Paul Gilligan for Apr 15, 2018 " title="Pooch Cafe by Paul Gilligan for Apr 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

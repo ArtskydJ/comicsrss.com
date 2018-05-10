@@ -4,11 +4,18 @@
         <title>Imagine This</title>
         <link>http://www.comicsrss.com/preview/imaginethis</link>
         <description>Imagine This by Lucas Turnbloom</description>
-        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 06:32:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Lucas Turnbloom</copyright>
         <atom:link href="http://www.comicsrss.com/rss/imaginethis.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Imagine This by Lucas Turnbloom for May 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/imaginethis/2018/05/10</link>
+            <guid>http://www.gocomics.com/imaginethis/2018/05/10</guid>
+            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/1b3afa50da83012da5c400163e41dd5b" alt="Imagine This by Lucas Turnbloom for May 10, 2018 " title="Imagine This by Lucas Turnbloom for May 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Imagine This by Lucas Turnbloom for May 9, 2018 ]]></title>
             <link>http://www.gocomics.com/imaginethis/2018/05/09</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/imaginethis/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eebf6560c2bf012d63f600163e41dd5b" alt="Imagine This by Lucas Turnbloom for Apr 6, 2018 " title="Imagine This by Lucas Turnbloom for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Imagine This by Lucas Turnbloom for Apr 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/imaginethis/2018/04/05</link>
-            <guid>http://www.gocomics.com/imaginethis/2018/04/05</guid>
-            <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/770c64c0c1c4012d63f600163e41dd5b" alt="Imagine This by Lucas Turnbloom for Apr 5, 2018 " title="Imagine This by Lucas Turnbloom for Apr 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

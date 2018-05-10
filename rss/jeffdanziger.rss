@@ -4,11 +4,25 @@
         <title>Jeff Danziger</title>
         <link>http://www.comicsrss.com/preview/jeffdanziger</link>
         <description>Jeff Danziger by Jeff Danziger</description>
-        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 06:32:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Jeff Danziger</copyright>
         <atom:link href="http://www.comicsrss.com/rss/jeffdanziger.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeff Danziger by Jeff Danziger for May 9, 2018 ]]></title>
+            <link>http://www.gocomics.com/jeffdanziger/2018/05/09</link>
+            <guid>http://www.gocomics.com/jeffdanziger/2018/05/09</guid>
+            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/d7acb1d035bd0136311f005056a9545d" alt="Jeff Danziger by Jeff Danziger for May 9, 2018 " title="Jeff Danziger by Jeff Danziger for May 9, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Danziger by Jeff Danziger for May 8, 2018 ]]></title>
+            <link>http://www.gocomics.com/jeffdanziger/2018/05/08</link>
+            <guid>http://www.gocomics.com/jeffdanziger/2018/05/08</guid>
+            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/d9bc0f8035bd0136311f005056a9545d" alt="Jeff Danziger by Jeff Danziger for May 8, 2018 " title="Jeff Danziger by Jeff Danziger for May 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for May 7, 2018 ]]></title>
             <link>http://www.gocomics.com/jeffdanziger/2018/05/07</link>
@@ -169,20 +183,6 @@
             <guid>http://www.gocomics.com/jeffdanziger/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a76de8b01c01013627a4005056a9545d" alt="Jeff Danziger by Jeff Danziger for Apr 9, 2018 " title="Jeff Danziger by Jeff Danziger for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Danziger by Jeff Danziger for Apr 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/jeffdanziger/2018/04/08</link>
-            <guid>http://www.gocomics.com/jeffdanziger/2018/04/08</guid>
-            <pubDate>Sun, 08 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/57b73d501bcf01362788005056a9545d" alt="Jeff Danziger by Jeff Danziger for Apr 8, 2018 " title="Jeff Danziger by Jeff Danziger for Apr 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Danziger by Jeff Danziger for Apr 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/jeffdanziger/2018/04/07</link>
-            <guid>http://www.gocomics.com/jeffdanziger/2018/04/07</guid>
-            <pubDate>Sat, 07 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/75f16bb01b3801362751005056a9545d" alt="Jeff Danziger by Jeff Danziger for Apr 7, 2018 " title="Jeff Danziger by Jeff Danziger for Apr 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

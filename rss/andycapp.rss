@@ -4,11 +4,18 @@
         <title>Andy Capp</title>
         <link>http://www.comicsrss.com/preview/andycapp</link>
         <description>Andy Capp by Reg Smythe</description>
-        <lastBuildDate>Wed, 09 May 2018 06:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 06:32:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Reg Smythe</copyright>
         <atom:link href="http://www.comicsrss.com/rss/andycapp.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andy Capp by Reg Smythe for May 10, 2018 ]]></title>
+            <link>http://www.gocomics.com/andycapp/2018/05/10</link>
+            <guid>http://www.gocomics.com/andycapp/2018/05/10</guid>
+            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="http://assets.amuniversal.com/51d9cbe02de201362e24005056a9545d" alt="Andy Capp by Reg Smythe for May 10, 2018 " title="Andy Capp by Reg Smythe for May 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Andy Capp by Reg Smythe for May 9, 2018 ]]></title>
             <link>http://www.gocomics.com/andycapp/2018/05/09</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/andycapp/2018/04/16</guid>
             <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d7364c901d61013627eb005056a9545d" alt="Andy Capp by Reg Smythe for Apr 16, 2018 " title="Andy Capp by Reg Smythe for Apr 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Andy Capp by Reg Smythe for Apr 15, 2018 ]]></title>
-            <link>http://www.gocomics.com/andycapp/2018/04/15</link>
-            <guid>http://www.gocomics.com/andycapp/2018/04/15</guid>
-            <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e84b9ee01d60013627eb005056a9545d" alt="Andy Capp by Reg Smythe for Apr 15, 2018 " title="Andy Capp by Reg Smythe for Apr 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
