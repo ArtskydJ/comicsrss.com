@@ -1,10 +1,10 @@
-var http = require('http')
+var https = require('https')
 var htmlParser = require('htmlparser2')
 var isDebug = !!process.env.DEBUG
 
 module.exports = function getPages() {
 	return new Promise(function (resolve, reject) {
-		http.get('http://www.gocomics.com/sitemap.xml', function (res) {
+		https.get('https://www.gocomics.com/sitemap.xml', function (res) {
 			res.pipe( siteMapParser(resolve, reject) )
 		})
 	}).then(function (pages) {
@@ -44,10 +44,10 @@ function siteMapParser(resolve, reject) {
 
 function isComicPage(pageUrl) {
 	return !(
-		pageUrl === 'http://www.gocomics.com' ||
-		pageUrl.startsWith('http://www.gocomics.com/news') ||
-		pageUrl.startsWith('http://www.gocomics.com/comics') ||
-		pageUrl.startsWith('http://www.gocomics.com/profiles')
+		pageUrl === 'https://www.gocomics.com' ||
+		pageUrl.startsWith('https://www.gocomics.com/news') ||
+		pageUrl.startsWith('https://www.gocomics.com/comics') ||
+		pageUrl.startsWith('https://www.gocomics.com/profiles')
 	)
 }
 

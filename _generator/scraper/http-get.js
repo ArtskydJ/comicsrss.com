@@ -1,10 +1,10 @@
-var http = require('http')
+var https = require('https')
 var isDebug = !!process.env.DEBUG
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
 		setTimeout(function () { // Rate limiting, haha
-			http.get(url, handleResponse.bind(null, resolve, reject))
+			https.get(url, handleResponse.bind(null, resolve, reject))
 		}, isDebug ? 0 : 900) // 800 might work, 700 doesn't
 	})
 }
@@ -15,7 +15,7 @@ function handleResponse(resolve, reject, response) {
 
 	if (statusCode == 200) {
 		concat(response, resolve, reject)
-	} else if (statusCode >= 300 && statusCode < 400 && location === 'http://www.gocomics.com/') {
+	} else if (statusCode >= 300 && statusCode < 400 && location === 'https://www.gocomics.com/') {
 		reject(new Error('Comic no longer exists'))
 	} else {
 		reject(new Error(statusCode + ' error'))
