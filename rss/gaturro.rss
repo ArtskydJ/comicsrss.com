@@ -4,11 +4,18 @@
         <title>Gaturro</title>
         <link>http://www.comicsrss.com/preview/gaturro</link>
         <description>Gaturro by NIK</description>
-        <lastBuildDate>Sat, 12 May 2018 20:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 May 2018 06:48:41 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright NIK</copyright>
         <atom:link href="http://www.comicsrss.com/rss/gaturro.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gaturro by NIK for May 13, 2018 ]]></title>
+            <link>https://www.gocomics.com/gaturro/2018/05/13</link>
+            <guid>https://www.gocomics.com/gaturro/2018/05/13</guid>
+            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2fab87d023c801362a55005056a9545d" alt="Gaturro by NIK for May 13, 2018 " title="Gaturro by NIK for May 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gaturro by NIK for May 12, 2018 ]]></title>
             <link>https://www.gocomics.com/gaturro/2018/05/12</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/gaturro/2018/04/19</guid>
             <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1654bb80046d01361e59005056a9545d" alt="Gaturro by NIK for Apr 19, 2018 " title="Gaturro by NIK for Apr 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gaturro by NIK for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/gaturro/2018/04/18</link>
-            <guid>http://www.gocomics.com/gaturro/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/14b9b0d0046d01361e59005056a9545d" alt="Gaturro by NIK for Apr 18, 2018 " title="Gaturro by NIK for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

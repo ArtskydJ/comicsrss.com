@@ -4,11 +4,18 @@
         <title>Red and Rover</title>
         <link>http://www.comicsrss.com/preview/redandrover</link>
         <description>Red and Rover by Brian Basset</description>
-        <lastBuildDate>Sat, 12 May 2018 20:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 May 2018 06:48:41 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Brian Basset</copyright>
         <atom:link href="http://www.comicsrss.com/rss/redandrover.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red and Rover by Brian Basset for May 13, 2018 ]]></title>
+            <link>https://www.gocomics.com/redandrover/2018/05/13</link>
+            <guid>https://www.gocomics.com/redandrover/2018/05/13</guid>
+            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fb5aa7a01c1a013627b6005056a9545d" alt="Red and Rover by Brian Basset for May 13, 2018 " title="Red and Rover by Brian Basset for May 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Red and Rover by Brian Basset for May 12, 2018 ]]></title>
             <link>https://www.gocomics.com/redandrover/2018/05/12</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/redandrover/2018/04/19</guid>
             <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0d7a21301f0d01362880005056a9545d" alt="Red and Rover by Brian Basset for Apr 19, 2018 " title="Red and Rover by Brian Basset for Apr 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Red and Rover by Brian Basset for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/redandrover/2018/04/18</link>
-            <guid>http://www.gocomics.com/redandrover/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d55554401f0b0136287e005056a9545d" alt="Red and Rover by Brian Basset for Apr 18, 2018 " title="Red and Rover by Brian Basset for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
