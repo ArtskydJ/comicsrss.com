@@ -4,11 +4,18 @@
         <title>Back in the Day</title>
         <link>http://www.comicsrss.com/preview/backintheday</link>
         <description>Back in the Day by Eric Scott</description>
-        <lastBuildDate>Sun, 13 May 2018 06:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Eric Scott</copyright>
         <atom:link href="http://www.comicsrss.com/rss/backintheday.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Back in the Day by Eric Scott for May 14, 2018 ]]></title>
+            <link>https://www.gocomics.com/backintheday/2018/05/14</link>
+            <guid>https://www.gocomics.com/backintheday/2018/05/14</guid>
+            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/36978b20376c013631f3005056a9545d" alt="Back in the Day by Eric Scott for May 14, 2018 " title="Back in the Day by Eric Scott for May 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Back in the Day by Eric Scott for May 11, 2018 ]]></title>
             <link>https://www.gocomics.com/backintheday/2018/05/11</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/backintheday/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4b58bb501e4f01362829005056a9545d" alt="Back in the Day by Eric Scott for Apr 10, 2018 " title="Back in the Day by Eric Scott for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Back in the Day by Eric Scott for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/backintheday/2018/04/06</link>
-            <guid>http://www.gocomics.com/backintheday/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c6a317601b430136275a005056a9545d" alt="Back in the Day by Eric Scott for Apr 6, 2018 " title="Back in the Day by Eric Scott for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

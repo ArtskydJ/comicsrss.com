@@ -4,11 +4,18 @@
         <title>Liberty Meadows</title>
         <link>http://www.comicsrss.com/preview/libertymeadows</link>
         <description>Liberty Meadows by Frank Cho</description>
-        <lastBuildDate>Sun, 13 May 2018 06:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Frank Cho</copyright>
         <atom:link href="http://www.comicsrss.com/rss/libertymeadows.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Liberty Meadows by Frank Cho for May 14, 2018 ]]></title>
+            <link>https://www.gocomics.com/libertymeadows/2018/05/14</link>
+            <guid>https://www.gocomics.com/libertymeadows/2018/05/14</guid>
+            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/43ee62c0336101363029005056a9545d" alt="Liberty Meadows by Frank Cho for May 14, 2018 " title="Liberty Meadows by Frank Cho for May 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Liberty Meadows by Frank Cho for May 13, 2018 ]]></title>
             <link>https://www.gocomics.com/libertymeadows/2018/05/13</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/libertymeadows/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a23313401d60013627eb005056a9545d" alt="Liberty Meadows by Frank Cho for Apr 20, 2018 " title="Liberty Meadows by Frank Cho for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Liberty Meadows by Frank Cho for Apr 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/libertymeadows/2018/04/19</link>
-            <guid>http://www.gocomics.com/libertymeadows/2018/04/19</guid>
-            <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9e72cb201d60013627eb005056a9545d" alt="Liberty Meadows by Frank Cho for Apr 19, 2018 " title="Liberty Meadows by Frank Cho for Apr 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

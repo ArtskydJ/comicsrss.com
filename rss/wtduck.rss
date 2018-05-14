@@ -4,11 +4,18 @@
         <title>W.T. Duck</title>
         <link>http://www.comicsrss.com/preview/wtduck</link>
         <description>W.T. Duck by Aaron Johnson</description>
-        <lastBuildDate>Sun, 13 May 2018 06:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Aaron Johnson</copyright>
         <atom:link href="http://www.comicsrss.com/rss/wtduck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[W.T. Duck by Aaron Johnson for May 14, 2018 ]]></title>
+            <link>https://www.gocomics.com/wtduck/2018/05/14</link>
+            <guid>https://www.gocomics.com/wtduck/2018/05/14</guid>
+            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cf5edb20b315012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for May 14, 2018 " title="W.T. Duck by Aaron Johnson for May 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[W.T. Duck by Aaron Johnson for May 13, 2018 ]]></title>
             <link>https://www.gocomics.com/wtduck/2018/05/13</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/wtduck/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c3890b809cc2012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for Apr 20, 2018 " title="W.T. Duck by Aaron Johnson for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W.T. Duck by Aaron Johnson for Apr 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/wtduck/2018/04/19</link>
-            <guid>http://www.gocomics.com/wtduck/2018/04/19</guid>
-            <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c4543c409cc2012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for Apr 19, 2018 " title="W.T. Duck by Aaron Johnson for Apr 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
         <title>Tarzan</title>
         <link>http://www.comicsrss.com/preview/tarzan</link>
         <description>Tarzan by Edgar Rice Burroughs</description>
-        <lastBuildDate>Sun, 13 May 2018 06:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Edgar Rice Burroughs</copyright>
         <atom:link href="http://www.comicsrss.com/rss/tarzan.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tarzan by Edgar Rice Burroughs for May 14, 2018 ]]></title>
+            <link>https://www.gocomics.com/tarzan/2018/05/14</link>
+            <guid>https://www.gocomics.com/tarzan/2018/05/14</guid>
+            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4a0f0d8019c501362695005056a9545d" alt="Tarzan by Edgar Rice Burroughs for May 14, 2018 " title="Tarzan by Edgar Rice Burroughs for May 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tarzan by Edgar Rice Burroughs for May 13, 2018 ]]></title>
             <link>https://www.gocomics.com/tarzan/2018/05/13</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/tarzan/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3fb68400a50013620c9005056a9545d" alt="Tarzan by Edgar Rice Burroughs for Apr 20, 2018 " title="Tarzan by Edgar Rice Burroughs for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tarzan by Edgar Rice Burroughs for Apr 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/tarzan/2018/04/19</link>
-            <guid>http://www.gocomics.com/tarzan/2018/04/19</guid>
-            <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ac8ac8600a50013620c9005056a9545d" alt="Tarzan by Edgar Rice Burroughs for Apr 19, 2018 " title="Tarzan by Edgar Rice Burroughs for Apr 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
         <title>Eek!</title>
         <link>http://www.comicsrss.com/preview/eek</link>
         <description>Eek! by Scott Nickel</description>
-        <lastBuildDate>Sun, 13 May 2018 06:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Scott Nickel</copyright>
         <atom:link href="http://www.comicsrss.com/rss/eek.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eek! by Scott Nickel for May 14, 2018 ]]></title>
+            <link>https://www.gocomics.com/eek/2018/05/14</link>
+            <guid>https://www.gocomics.com/eek/2018/05/14</guid>
+            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/14a6532036360136316a005056a9545d" alt="Eek! by Scott Nickel for May 14, 2018 " title="Eek! by Scott Nickel for May 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Eek! by Scott Nickel for May 11, 2018 ]]></title>
             <link>https://www.gocomics.com/eek/2018/05/11</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/eek/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/724852701b5201362765005056a9545d" alt="Eek! by Scott Nickel for Apr 9, 2018 " title="Eek! by Scott Nickel for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eek! by Scott Nickel for Apr 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/eek/2018/04/05</link>
-            <guid>http://www.gocomics.com/eek/2018/04/05</guid>
-            <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/3421c3c019960136266e005056a9545d" alt="Eek! by Scott Nickel for Apr 5, 2018 " title="Eek! by Scott Nickel for Apr 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

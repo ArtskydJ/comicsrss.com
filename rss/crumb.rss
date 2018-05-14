@@ -4,11 +4,18 @@
         <title>Crumb</title>
         <link>http://www.comicsrss.com/preview/crumb</link>
         <description>Crumb by David Fletcher</description>
-        <lastBuildDate>Sun, 13 May 2018 06:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright David Fletcher</copyright>
         <atom:link href="http://www.comicsrss.com/rss/crumb.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crumb by David Fletcher for May 14, 2018 ]]></title>
+            <link>https://www.gocomics.com/crumb/2018/05/14</link>
+            <guid>https://www.gocomics.com/crumb/2018/05/14</guid>
+            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5f3a7ae02fb801362edd005056a9545d" alt="Crumb by David Fletcher for May 14, 2018 " title="Crumb by David Fletcher for May 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Crumb by David Fletcher for May 12, 2018 ]]></title>
             <link>https://www.gocomics.com/crumb/2018/05/12</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/crumb/2018/04/16</guid>
             <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f06b65f019bb01362690005056a9545d" alt="Crumb by David Fletcher for Apr 16, 2018 " title="Crumb by David Fletcher for Apr 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Crumb by David Fletcher for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/crumb/2018/04/14</link>
-            <guid>http://www.gocomics.com/crumb/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/313f6a30142f0136245a005056a9545d" alt="Crumb by David Fletcher for Apr 14, 2018 " title="Crumb by David Fletcher for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
