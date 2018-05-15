@@ -4,11 +4,18 @@
         <title>Rubes</title>
         <link>http://www.comicsrss.com/preview/rubes</link>
         <description>Rubes by Leigh Rubin</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Leigh Rubin</copyright>
         <atom:link href="http://www.comicsrss.com/rss/rubes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rubes by Leigh Rubin for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/rubes/2018/05/15</link>
+            <guid>https://www.gocomics.com/rubes/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8f0aaa603558013630fd005056a9545d" alt="Rubes by Leigh Rubin for May 15, 2018 " title="Rubes by Leigh Rubin for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rubes by Leigh Rubin for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/rubes/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/rubes/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3df6be101d62013627eb005056a9545d" alt="Rubes by Leigh Rubin for Apr 21, 2018 " title="Rubes by Leigh Rubin for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rubes by Leigh Rubin for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/rubes/2018/04/20</link>
-            <guid>http://www.gocomics.com/rubes/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/43127cf01d62013627eb005056a9545d" alt="Rubes by Leigh Rubin for Apr 20, 2018 " title="Rubes by Leigh Rubin for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

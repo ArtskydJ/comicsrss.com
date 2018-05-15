@@ -4,11 +4,18 @@
         <title>Wee Pals</title>
         <link>http://www.comicsrss.com/preview/weepals</link>
         <description>Wee Pals by Morrie Turner</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Morrie Turner</copyright>
         <atom:link href="http://www.comicsrss.com/rss/weepals.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wee Pals by Morrie Turner for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/weepals/2018/05/15</link>
+            <guid>https://www.gocomics.com/weepals/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0246e830336101363029005056a9545d" alt="Wee Pals by Morrie Turner for May 15, 2018 " title="Wee Pals by Morrie Turner for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/weepals/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/weepals/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53ac47a01d60013627eb005056a9545d" alt="Wee Pals by Morrie Turner for Apr 21, 2018 " title="Wee Pals by Morrie Turner for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wee Pals by Morrie Turner for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/weepals/2018/04/20</link>
-            <guid>http://www.gocomics.com/weepals/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/52851aa01d60013627eb005056a9545d" alt="Wee Pals by Morrie Turner for Apr 20, 2018 " title="Wee Pals by Morrie Turner for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

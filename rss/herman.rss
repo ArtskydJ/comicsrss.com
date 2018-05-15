@@ -4,11 +4,18 @@
         <title>Herman</title>
         <link>http://www.comicsrss.com/preview/herman</link>
         <description>Herman by Jim Unger</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Jim Unger</copyright>
         <atom:link href="http://www.comicsrss.com/rss/herman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Herman by Jim Unger for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/herman/2018/05/15</link>
+            <guid>https://www.gocomics.com/herman/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8f0731602efc01362e84005056a9545d" alt="Herman by Jim Unger for May 15, 2018 " title="Herman by Jim Unger for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/herman/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/herman/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/de4aed2018fb01362637005056a9545d" alt="Herman by Jim Unger for Apr 21, 2018 " title="Herman by Jim Unger for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Herman by Jim Unger for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/herman/2018/04/20</link>
-            <guid>http://www.gocomics.com/herman/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e327768018fb01362637005056a9545d" alt="Herman by Jim Unger for Apr 20, 2018 " title="Herman by Jim Unger for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

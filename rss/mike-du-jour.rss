@@ -4,11 +4,18 @@
         <title>Mike du Jour</title>
         <link>http://www.comicsrss.com/preview/mike-du-jour</link>
         <description>Mike du Jour by Mike Lester</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Mike Lester</copyright>
         <atom:link href="http://www.comicsrss.com/rss/mike-du-jour.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike du Jour by Mike Lester for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/mike-du-jour/2018/05/15</link>
+            <guid>https://www.gocomics.com/mike-du-jour/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3056b280313901362f95005056a9545d" alt="Mike du Jour by Mike Lester for May 15, 2018 " title="Mike du Jour by Mike Lester for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mike du Jour by Mike Lester for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/mike-du-jour/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/mike-du-jour/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d0bdb6801c01013627a4005056a9545d" alt="Mike du Jour by Mike Lester for Apr 21, 2018 " title="Mike du Jour by Mike Lester for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mike du Jour by Mike Lester for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/mike-du-jour/2018/04/20</link>
-            <guid>http://www.gocomics.com/mike-du-jour/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d9c4cd401c01013627a4005056a9545d" alt="Mike du Jour by Mike Lester for Apr 20, 2018 " title="Mike du Jour by Mike Lester for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

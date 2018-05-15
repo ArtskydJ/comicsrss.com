@@ -4,11 +4,18 @@
         <title>The Duplex</title>
         <link>http://www.comicsrss.com/preview/duplex</link>
         <description>The Duplex by Glenn McCoy and Gary McCoy</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Glenn McCoy and Gary McCoy</copyright>
         <atom:link href="http://www.comicsrss.com/rss/duplex.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Duplex by Glenn McCoy and Gary McCoy for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/duplex/2018/05/15</link>
+            <guid>https://www.gocomics.com/duplex/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fb1efb40344201363064005056a9545d" alt="The Duplex by Glenn McCoy and Gary McCoy for May 15, 2018 " title="The Duplex by Glenn McCoy and Gary McCoy for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Duplex by Glenn McCoy and Gary McCoy for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/duplex/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/duplex/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44cc69101e4501362822005056a9545d" alt="The Duplex by Glenn McCoy and Gary McCoy for Apr 21, 2018 " title="The Duplex by Glenn McCoy and Gary McCoy for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Duplex by Glenn McCoy and Gary McCoy for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/duplex/2018/04/20</link>
-            <guid>http://www.gocomics.com/duplex/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/432755c01e4501362822005056a9545d" alt="The Duplex by Glenn McCoy and Gary McCoy for Apr 20, 2018 " title="The Duplex by Glenn McCoy and Gary McCoy for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

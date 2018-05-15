@@ -4,11 +4,18 @@
         <title>HUBRIS!</title>
         <link>http://www.comicsrss.com/preview/hubris</link>
         <description>HUBRIS! by Greg Cravens</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Greg Cravens</copyright>
         <atom:link href="http://www.comicsrss.com/rss/hubris.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HUBRIS! by Greg Cravens for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/hubris/2018/05/15</link>
+            <guid>https://www.gocomics.com/hubris/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/470cfa80234701362a32005056a9545d" alt="HUBRIS! by Greg Cravens for May 15, 2018 " title="HUBRIS! by Greg Cravens for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[HUBRIS! by Greg Cravens for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/hubris/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/hubris/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9a7c50d01855013625ec005056a9545d" alt="HUBRIS! by Greg Cravens for Apr 11, 2018 " title="HUBRIS! by Greg Cravens for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HUBRIS! by Greg Cravens for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/hubris/2018/04/10</link>
-            <guid>http://www.gocomics.com/hubris/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9b3e23401855013625ec005056a9545d" alt="HUBRIS! by Greg Cravens for Apr 10, 2018 " title="HUBRIS! by Greg Cravens for Apr 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

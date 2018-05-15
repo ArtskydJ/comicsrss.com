@@ -4,11 +4,18 @@
         <title>Bully</title>
         <link>http://www.comicsrss.com/preview/bully</link>
         <description>Bully by Andrew Paavola</description>
-        <lastBuildDate>Mon, 14 May 2018 06:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Andrew Paavola</copyright>
         <atom:link href="http://www.comicsrss.com/rss/bully.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bully by Andrew Paavola for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/bully/2018/05/15</link>
+            <guid>https://www.gocomics.com/bully/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ddb08ad03763013631ea005056a9545d" alt="Bully by Andrew Paavola for May 15, 2018 " title="Bully by Andrew Paavola for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bully by Andrew Paavola for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/bully/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/bully/2018/04/16</guid>
             <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e9bae6e02171013629c6005056a9545d" alt="Bully by Andrew Paavola for Apr 16, 2018 " title="Bully by Andrew Paavola for Apr 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bully by Andrew Paavola for Apr 15, 2018 ]]></title>
-            <link>http://www.gocomics.com/bully/2018/04/15</link>
-            <guid>http://www.gocomics.com/bully/2018/04/15</guid>
-            <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/2c8612c01e360136281b005056a9545d" alt="Bully by Andrew Paavola for Apr 15, 2018 " title="Bully by Andrew Paavola for Apr 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
