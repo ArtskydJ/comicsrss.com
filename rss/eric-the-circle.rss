@@ -4,11 +4,18 @@
         <title>Eric the Circle</title>
         <link>http://www.comicsrss.com/preview/eric-the-circle</link>
         <description>Eric the Circle by .....</description>
-        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright .....</copyright>
         <atom:link href="http://www.comicsrss.com/rss/eric-the-circle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eric the Circle by ..... for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/eric-the-circle/2018/05/16</link>
+            <guid>https://www.gocomics.com/eric-the-circle/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/29415490024a0130f815001dd8b71c47" alt="Eric the Circle by ..... for May 16, 2018 " title="Eric the Circle by ..... for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Eric the Circle by ..... for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/eric-the-circle/2018/05/15</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/eric-the-circle/2018/04/12</guid>
             <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ec56f50ef61012ff158001dd8b71c47" alt="Eric the Circle by ..... for Apr 12, 2018 " title="Eric the Circle by ..... for Apr 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eric the Circle by ..... for Apr 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/eric-the-circle/2018/04/11</link>
-            <guid>http://www.gocomics.com/eric-the-circle/2018/04/11</guid>
-            <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9f4e02c0ef61012ff158001dd8b71c47" alt="Eric the Circle by ..... for Apr 11, 2018 " title="Eric the Circle by ..... for Apr 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
         <title>Monty</title>
         <link>http://www.comicsrss.com/preview/monty</link>
         <description>Monty by Jim Meddick</description>
-        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Jim Meddick</copyright>
         <atom:link href="http://www.comicsrss.com/rss/monty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monty by Jim Meddick for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/monty/2018/05/16</link>
+            <guid>https://www.gocomics.com/monty/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fe680d203545013630f6005056a9545d" alt="Monty by Jim Meddick for May 16, 2018 " title="Monty by Jim Meddick for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Monty by Jim Meddick for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/monty/2018/05/15</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/monty/2018/04/22</guid>
             <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0067dd800ba001362170005056a9545d" alt="Monty by Jim Meddick for Apr 22, 2018 " title="Monty by Jim Meddick for Apr 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monty by Jim Meddick for Apr 21, 2018 ]]></title>
-            <link>http://www.gocomics.com/monty/2018/04/21</link>
-            <guid>http://www.gocomics.com/monty/2018/04/21</guid>
-            <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/2067d3901f45013628ad005056a9545d" alt="Monty by Jim Meddick for Apr 21, 2018 " title="Monty by Jim Meddick for Apr 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

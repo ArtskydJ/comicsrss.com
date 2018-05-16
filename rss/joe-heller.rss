@@ -4,11 +4,18 @@
         <title>Joe Heller</title>
         <link>http://www.comicsrss.com/preview/joe-heller</link>
         <description>Joe Heller by Joe Heller</description>
-        <lastBuildDate>Tue, 15 May 2018 06:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Joe Heller</copyright>
         <atom:link href="http://www.comicsrss.com/rss/joe-heller.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Heller by Joe Heller for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/joe-heller/2018/05/15</link>
+            <guid>https://www.gocomics.com/joe-heller/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ecf347b03aa7013632e2005056a9545d" alt="Joe Heller by Joe Heller for May 15, 2018 " title="Joe Heller by Joe Heller for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Joe Heller by Joe Heller for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/joe-heller/2018/05/14</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/joe-heller/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09a349701c0f013627af005056a9545d" alt="Joe Heller by Joe Heller for Apr 6, 2018 " title="Joe Heller by Joe Heller for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Joe Heller by Joe Heller for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/joe-heller/2018/04/04</link>
-            <guid>http://www.gocomics.com/joe-heller/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/983bb53019ca01362698005056a9545d" alt="Joe Heller by Joe Heller for Apr 4, 2018 " title="Joe Heller by Joe Heller for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
         <title>Rose is Rose</title>
         <link>http://www.comicsrss.com/preview/roseisrose</link>
         <description>Rose is Rose by Don Wimmer and Pat Brady</description>
-        <lastBuildDate>Tue, 15 May 2018 06:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <copyright>Copyright Don Wimmer and Pat Brady</copyright>
         <atom:link href="http://www.comicsrss.com/rss/roseisrose.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rose is Rose by Don Wimmer and Pat Brady for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/roseisrose/2018/05/16</link>
+            <guid>https://www.gocomics.com/roseisrose/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0659fa5031fb01362fe3005056a9545d" alt="Rose is Rose by Don Wimmer and Pat Brady for May 16, 2018 " title="Rose is Rose by Don Wimmer and Pat Brady for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rose is Rose by Don Wimmer and Pat Brady for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/roseisrose/2018/05/15</link>
@@ -176,13 +183,6 @@
             <guid>http://www.gocomics.com/roseisrose/2018/04/22</guid>
             <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/546d006008be01361ff6005056a9545d" alt="Rose is Rose by Don Wimmer and Pat Brady for Apr 22, 2018 " title="Rose is Rose by Don Wimmer and Pat Brady for Apr 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rose is Rose by Don Wimmer and Pat Brady for Apr 21, 2018 ]]></title>
-            <link>http://www.gocomics.com/roseisrose/2018/04/21</link>
-            <guid>http://www.gocomics.com/roseisrose/2018/04/21</guid>
-            <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/76c95c901bde01362790005056a9545d" alt="Rose is Rose by Don Wimmer and Pat Brady for Apr 21, 2018 " title="Rose is Rose by Don Wimmer and Pat Brady for Apr 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
