@@ -102,6 +102,9 @@ textarea.copyable {
 	width: 28px;
 	height: 28px;
 }
+.section {
+	margin: 1em 0;
+}
 
 .gray {
 	color: #aaa;

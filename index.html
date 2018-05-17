@@ -26,9 +26,10 @@
 		<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>.
 	</p>
 
-	<div class="main-page-header">Suggested</div>
-	<div class="suggested">
-		<a href="./preview/calvinandhobbes" class="suggested-item">
+	<div class="section">
+		<div class="main-page-header">Suggested</div>
+		<div class="suggested">
+			<a href="./preview/calvinandhobbes" class="suggested-item">
 				<img src="https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ch/large_rec-201701251556.jpg">
 				<span class="title-and-author">
 				Calvin and Hobbes<br>by Bill Watterson
@@ -59,39 +60,41 @@
 				Pearls Before Swine<br>by Stephan Pastis
 				</span>
 			</a>
+		</div>
 	</div>
 
-	<div class="main-page-header">Browse</div>
-	<input type="text" class="search" placeholder="Search">
+	<div class="section">
+		<div class="main-page-header large-margin">Browse</div>
+		<input type="text" class="search" placeholder="Search">
 
-	<script>
-		var input = document.querySelector('input.search')
+		<script>
+			var input = document.querySelector('input.search')
 
-		input.addEventListener('keydown', function () {
-			setTimeout(updateFilter, 0)
-		})
-
-		function updateFilter() {
-			var searchWords = normalizeSearchString(input.value).split(' ')
-			;[].forEach.call(document.querySelector('ul').children, function (li) {
-				var itemString = normalizeSearchString(li.getAttribute('data-search'))
-				var searchMatchesItem = searchWords.every(function (searchWord) {
-					return itemString.indexOf(searchWord) !== -1
-				})
-				li.className = searchMatchesItem ?
-					li.className.replace(/ ?hidden ?/g, '') :
-					li.className += ' hidden'
+			input.addEventListener('keydown', function () {
+				setTimeout(updateFilter, 0)
 			})
-		}
 
-		function normalizeSearchString(titleOrAuthor) {
-			return titleOrAuthor
-				.replace(/&/g, 'and')
-				.toLowerCase()
-		}
-	</script>
+			function updateFilter() {
+				var searchWords = normalizeSearchString(input.value).split(' ')
+				;[].forEach.call(document.querySelector('ul').children, function (li) {
+					var itemString = normalizeSearchString(li.getAttribute('data-search'))
+					var searchMatchesItem = searchWords.every(function (searchWord) {
+						return itemString.indexOf(searchWord) !== -1
+					})
+					li.className = searchMatchesItem ?
+						li.className.replace(/ ?hidden ?/g, '') :
+						li.className += ' hidden'
+				})
+			}
 
-	<ul>
+			function normalizeSearchString(titleOrAuthor) {
+				return titleOrAuthor
+					.replace(/&/g, 'and')
+					.toLowerCase()
+			}
+		</script>
+
+		<ul>
 <li data-search="(th)ink by keith knight">
 	<a href="./preview/think" class="comic-title">(th)ink by Keith Knight</a>
 </li>
@@ -2307,6 +2310,7 @@
 <li data-search="ziggy en español by tom wilson &amp; tom ii">
 	<a href="./preview/ziggyespanol" class="comic-title">Ziggy en Español by Tom Wilson &amp; Tom II</a>
 </li></ul>
+	</div>
 
 	<p class="text-center">
 		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -

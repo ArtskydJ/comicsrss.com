@@ -26,42 +26,46 @@
 		<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>.
 	</p>
 
-	<div class="main-page-header">Suggested</div>
-	<div class="suggested">
-		<!-- SUGGESTED PAGES -->
+	<div class="section">
+		<div class="main-page-header">Suggested</div>
+		<div class="suggested">
+			<!-- SUGGESTED PAGES -->
+		</div>
 	</div>
 
-	<div class="main-page-header">Browse</div>
-	<input type="text" class="search" placeholder="Search">
+	<div class="section">
+		<div class="main-page-header large-margin">Browse</div>
+		<input type="text" class="search" placeholder="Search">
 
-	<script>
-		var input = document.querySelector('input.search')
+		<script>
+			var input = document.querySelector('input.search')
 
-		input.addEventListener('keydown', function () {
-			setTimeout(updateFilter, 0)
-		})
-
-		function updateFilter() {
-			var searchWords = normalizeSearchString(input.value).split(' ')
-			;[].forEach.call(document.querySelector('ul').children, function (li) {
-				var itemString = normalizeSearchString(li.getAttribute('data-search'))
-				var searchMatchesItem = searchWords.every(function (searchWord) {
-					return itemString.indexOf(searchWord) !== -1
-				})
-				li.className = searchMatchesItem ?
-					li.className.replace(/ ?hidden ?/g, '') :
-					li.className += ' hidden'
+			input.addEventListener('keydown', function () {
+				setTimeout(updateFilter, 0)
 			})
-		}
 
-		function normalizeSearchString(titleOrAuthor) {
-			return titleOrAuthor
-				.replace(/&/g, 'and')
-				.toLowerCase()
-		}
-	</script>
+			function updateFilter() {
+				var searchWords = normalizeSearchString(input.value).split(' ')
+				;[].forEach.call(document.querySelector('ul').children, function (li) {
+					var itemString = normalizeSearchString(li.getAttribute('data-search'))
+					var searchMatchesItem = searchWords.every(function (searchWord) {
+						return itemString.indexOf(searchWord) !== -1
+					})
+					li.className = searchMatchesItem ?
+						li.className.replace(/ ?hidden ?/g, '') :
+						li.className += ' hidden'
+				})
+			}
 
-	<!-- RSS FEED LIST -->
+			function normalizeSearchString(titleOrAuthor) {
+				return titleOrAuthor
+					.replace(/&/g, 'and')
+					.toLowerCase()
+			}
+		</script>
+
+		<!-- RSS FEED LIST -->
+	</div>
 
 	<p class="text-center">
 		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
