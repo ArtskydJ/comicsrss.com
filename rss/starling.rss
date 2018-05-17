@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Starling</title>
-        <link>http://www.comicsrss.com/preview/starling</link>
+        <link>https://www.comicsrss.com/preview/starling</link>
         <description>Starling by Sage Stossel</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Starling</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/star/large_rec-201701251559.jpg</url>
+            <link>https://www.comicsrss.com/preview/starling</link>
+        </image>
         <copyright>Copyright Sage Stossel</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/starling.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/starling.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Starling by Sage Stossel for Nov 29, 2017 ]]></title>
             <link>https://www.gocomics.com/starling/2017/11/29</link>

@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Humble Stumble</title>
-        <link>http://www.comicsrss.com/preview/humble-stumble</link>
+        <link>https://www.comicsrss.com/preview/humble-stumble</link>
         <description>The Humble Stumble by Roy Schneider</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>The Humble Stumble</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hu/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/humble-stumble</link>
+        </image>
         <copyright>Copyright Roy Schneider</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/humble-stumble.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/humble-stumble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Humble Stumble by Roy Schneider for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/humble-stumble/2018/05/17</link>
+            <guid>https://www.gocomics.com/humble-stumble/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1b6f41f025ee012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for May 17, 2018 " title="The Humble Stumble by Roy Schneider for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Humble Stumble by Roy Schneider for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/humble-stumble/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/humble-stumble/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65813ec025ed012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Apr 23, 2018 " title="The Humble Stumble by Roy Schneider for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Humble Stumble by Roy Schneider for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/humble-stumble/2018/04/22</link>
-            <guid>http://www.gocomics.com/humble-stumble/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/6843588025ed012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Apr 22, 2018 " title="The Humble Stumble by Roy Schneider for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

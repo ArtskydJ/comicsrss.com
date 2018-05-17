@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>The Norm Classics</title>
-        <link>http://www.comicsrss.com/preview/thenorm</link>
+        <link>https://www.comicsrss.com/preview/thenorm</link>
         <description>The Norm Classics by Michael Jantze</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>The Norm Classics</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/kfnrm/large_kfnrm_rec_201704041457.jpg</url>
+            <link>https://www.comicsrss.com/preview/thenorm</link>
+        </image>
         <copyright>Copyright Michael Jantze</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/thenorm.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/thenorm.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Norm Classics by Michael Jantze for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/thenorm/2018/05/17</link>
+            <guid>https://www.gocomics.com/thenorm/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f4676220d8a801350db8005056a9545d" alt="The Norm Classics by Michael Jantze for May 17, 2018 " title="The Norm Classics by Michael Jantze for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Norm Classics by Michael Jantze for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/thenorm/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/thenorm/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1a367380d8a901350db8005056a9545d" alt="The Norm Classics by Michael Jantze for Apr 23, 2018 " title="The Norm Classics by Michael Jantze for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Norm Classics by Michael Jantze for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/thenorm/2018/04/22</link>
-            <guid>http://www.gocomics.com/thenorm/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0d809940d8a901350db8005056a9545d" alt="The Norm Classics by Michael Jantze for Apr 22, 2018 " title="The Norm Classics by Michael Jantze for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

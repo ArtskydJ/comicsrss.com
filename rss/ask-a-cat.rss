@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ask a Cat</title>
-        <link>http://www.comicsrss.com/preview/ask-a-cat</link>
+        <link>https://www.comicsrss.com/preview/ask-a-cat</link>
         <description>Ask a Cat by Charles Brubaker</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Ask a Cat</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/aac/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/ask-a-cat</link>
+        </image>
         <copyright>Copyright Charles Brubaker</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/ask-a-cat.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/ask-a-cat.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ask a Cat by Charles Brubaker for May 13, 2018 ]]></title>
             <link>https://www.gocomics.com/ask-a-cat/2018/05/13</link>

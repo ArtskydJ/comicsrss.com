@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Jane&amp;#39;s World</title>
-        <link>http://www.comicsrss.com/preview/janesworld</link>
+        <link>https://www.comicsrss.com/preview/janesworld</link>
         <description>Jane&amp;#39;s World by Paige Braddock</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Jane&amp;#39;s World</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jw/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/janesworld</link>
+        </image>
         <copyright>Copyright Paige Braddock</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/janesworld.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/janesworld.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jane&#39;s World by Paige Braddock for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/janesworld/2018/05/14</link>

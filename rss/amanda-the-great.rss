@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Amanda the Great</title>
-        <link>http://www.comicsrss.com/preview/amanda-the-great</link>
+        <link>https://www.comicsrss.com/preview/amanda-the-great</link>
         <description>Amanda the Great by Amanda El-Dweek</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Amanda the Great</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/atg/large_rec-201701251559.jpg</url>
+            <link>https://www.comicsrss.com/preview/amanda-the-great</link>
+        </image>
         <copyright>Copyright Amanda El-Dweek</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/amanda-the-great.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/amanda-the-great.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amanda the Great by Amanda El-Dweek for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/amanda-the-great/2018/05/17</link>
+            <guid>https://www.gocomics.com/amanda-the-great/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d1f2ffc03ba30136336a005056a9545d" alt="Amanda the Great by Amanda El-Dweek for May 17, 2018 " title="Amanda the Great by Amanda El-Dweek for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Amanda the Great by Amanda El-Dweek for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/amanda-the-great/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/amanda-the-great/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/664d60d028c101362c36005056a9545d" alt="Amanda the Great by Amanda El-Dweek for Apr 23, 2018 " title="Amanda the Great by Amanda El-Dweek for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Amanda the Great by Amanda El-Dweek for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/amanda-the-great/2018/04/22</link>
-            <guid>http://www.gocomics.com/amanda-the-great/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7deefa10281301362c1c005056a9545d" alt="Amanda the Great by Amanda El-Dweek for Apr 22, 2018 " title="Amanda the Great by Amanda El-Dweek for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

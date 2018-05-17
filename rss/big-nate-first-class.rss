@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Big Nate: First Class</title>
-        <link>http://www.comicsrss.com/preview/big-nate-first-class</link>
+        <link>https://www.comicsrss.com/preview/big-nate-first-class</link>
         <description>Big Nate: First Class by Lincoln Peirce</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Big Nate: First Class</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bncl/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/big-nate-first-class</link>
+        </image>
         <copyright>Copyright Lincoln Peirce</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/big-nate-first-class.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/big-nate-first-class.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Nate: First Class by Lincoln Peirce for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/big-nate-first-class/2018/05/17</link>
+            <guid>https://www.gocomics.com/big-nate-first-class/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ddfe33503756013631e2005056a9545d" alt="Big Nate: First Class by Lincoln Peirce for May 17, 2018 " title="Big Nate: First Class by Lincoln Peirce for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Big Nate: First Class by Lincoln Peirce for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/big-nate-first-class/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/big-nate-first-class/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1922ab30e4420135120d005056a9545d" alt="Big Nate: First Class by Lincoln Peirce for Apr 23, 2018 " title="Big Nate: First Class by Lincoln Peirce for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Big Nate: First Class by Lincoln Peirce for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/big-nate-first-class/2018/04/22</link>
-            <guid>http://www.gocomics.com/big-nate-first-class/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/96f6c3a0ce4501350a16005056a9545d" alt="Big Nate: First Class by Lincoln Peirce for Apr 22, 2018 " title="Big Nate: First Class by Lincoln Peirce for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

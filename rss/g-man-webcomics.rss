@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>G-Man Webcomics</title>
-        <link>http://www.comicsrss.com/preview/g-man-webcomics</link>
+        <link>https://www.comicsrss.com/preview/g-man-webcomics</link>
         <description>G-Man Webcomics by Chris Giarrusso</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>G-Man Webcomics</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gman/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/g-man-webcomics</link>
+        </image>
         <copyright>Copyright Chris Giarrusso</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/g-man-webcomics.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/g-man-webcomics.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[G-Man Webcomics by Chris Giarrusso for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/g-man-webcomics/2018/05/14</link>

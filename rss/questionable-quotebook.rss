@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Questionable Quotebook</title>
-        <link>http://www.comicsrss.com/preview/questionable-quotebook</link>
+        <link>https://www.comicsrss.com/preview/questionable-quotebook</link>
         <description>Questionable Quotebook by Sam Hepburn</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Questionable Quotebook</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/qn/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/questionable-quotebook</link>
+        </image>
         <copyright>Copyright Sam Hepburn</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/questionable-quotebook.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/questionable-quotebook.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Questionable Quotebook by Sam Hepburn for Apr 22, 2018 ]]></title>
             <link>https://www.gocomics.com/questionable-quotebook/2018/04/22</link>

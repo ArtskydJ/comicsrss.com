@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lil&amp;#39; Donnie</title>
-        <link>http://www.comicsrss.com/preview/lil-donnie</link>
+        <link>https://www.comicsrss.com/preview/lil-donnie</link>
         <description>Lil&amp;#39; Donnie by Mike Norton</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Lil&amp;#39; Donnie</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ld/large_ld_rec_201709121031.jpg</url>
+            <link>https://www.comicsrss.com/preview/lil-donnie</link>
+        </image>
         <copyright>Copyright Mike Norton</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/lil-donnie.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/lil-donnie.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lil&#39; Donnie by Mike Norton for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/lil-donnie/2018/05/16</link>
+            <guid>https://www.gocomics.com/lil-donnie/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e88397103b6401363336005056a9545d" alt="Lil&#39; Donnie by Mike Norton for May 16, 2018 " title="Lil&#39; Donnie by Mike Norton for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lil&#39; Donnie by Mike Norton for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/lil-donnie/2018/05/14</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/lil-donnie/2018/03/07</guid>
             <pubDate>Wed, 07 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/10d66720047601361e66005056a9545d" alt="Lil&#39; Donnie by Mike Norton for Mar 7, 2018 " title="Lil&#39; Donnie by Mike Norton for Mar 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lil&#39; Donnie by Mike Norton for Mar 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/lil-donnie/2018/03/05</link>
-            <guid>http://www.gocomics.com/lil-donnie/2018/03/05</guid>
-            <pubDate>Mon, 05 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8356c61002c801361d8a005056a9545d" alt="Lil&#39; Donnie by Mike Norton for Mar 5, 2018 " title="Lil&#39; Donnie by Mike Norton for Mar 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Yaffle</title>
-        <link>http://www.comicsrss.com/preview/yaffle</link>
+        <link>https://www.comicsrss.com/preview/yaffle</link>
         <description>Yaffle by Jeffrey Caulfield and Brian Ponshock</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Yaffle</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/yaff/large_yaff_rec_201803270907.jpg</url>
+            <link>https://www.comicsrss.com/preview/yaffle</link>
+        </image>
         <copyright>Copyright Jeffrey Caulfield and Brian Ponshock</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/yaffle.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/yaffle.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Yaffle by Jeffrey Caulfield and Brian Ponshock for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/yaffle/2018/05/16</link>

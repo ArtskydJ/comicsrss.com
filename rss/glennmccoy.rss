@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Glenn McCoy</title>
-        <link>http://www.comicsrss.com/preview/glennmccoy</link>
+        <link>https://www.comicsrss.com/preview/glennmccoy</link>
         <description>Glenn McCoy by Glenn McCoy</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Glenn McCoy</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gm/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/glennmccoy</link>
+        </image>
         <copyright>Copyright Glenn McCoy</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/glennmccoy.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/glennmccoy.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Glenn McCoy by Glenn McCoy for May 10, 2018 ]]></title>
             <link>https://www.gocomics.com/glennmccoy/2018/05/10</link>

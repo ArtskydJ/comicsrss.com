@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Over the Hedge</title>
-        <link>http://www.comicsrss.com/preview/overthehedge</link>
+        <link>https://www.comicsrss.com/preview/overthehedge</link>
         <description>Over the Hedge by T Lewis and Michael Fry</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Over the Hedge</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/oh/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/overthehedge</link>
+        </image>
         <copyright>Copyright T Lewis and Michael Fry</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/overthehedge.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/overthehedge.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Over the Hedge by T Lewis and Michael Fry for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/overthehedge/2018/05/17</link>
+            <guid>https://www.gocomics.com/overthehedge/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3d14b4d03501013630b8005056a9545d" alt="Over the Hedge by T Lewis and Michael Fry for May 17, 2018 " title="Over the Hedge by T Lewis and Michael Fry for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Over the Hedge by T Lewis and Michael Fry for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/overthehedge/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/overthehedge/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d69fa81023d001362a5c005056a9545d" alt="Over the Hedge by T Lewis and Michael Fry for Apr 23, 2018 " title="Over the Hedge by T Lewis and Michael Fry for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Over the Hedge by T Lewis and Michael Fry for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/overthehedge/2018/04/22</link>
-            <guid>http://www.gocomics.com/overthehedge/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/103757c00be301362186005056a9545d" alt="Over the Hedge by T Lewis and Michael Fry for Apr 22, 2018 " title="Over the Hedge by T Lewis and Michael Fry for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

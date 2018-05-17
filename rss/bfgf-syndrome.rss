@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>BFGF Syndrome</title>
-        <link>http://www.comicsrss.com/preview/bfgf-syndrome</link>
+        <link>https://www.comicsrss.com/preview/bfgf-syndrome</link>
         <description>BFGF Syndrome by Patabot</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>BFGF Syndrome</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bfgf/large_bfgf_rec_201707060819.jpg</url>
+            <link>https://www.comicsrss.com/preview/bfgf-syndrome</link>
+        </image>
         <copyright>Copyright Patabot</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/bfgf-syndrome.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/bfgf-syndrome.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BFGF Syndrome by Patabot for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/bfgf-syndrome/2018/05/17</link>
+            <guid>https://www.gocomics.com/bfgf-syndrome/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/22dd42701bf201362798005056a9545d" alt="BFGF Syndrome by Patabot for May 17, 2018 " title="BFGF Syndrome by Patabot for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[BFGF Syndrome by Patabot for May 10, 2018 ]]></title>
             <link>https://www.gocomics.com/bfgf-syndrome/2018/05/10</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/bfgf-syndrome/2018/02/15</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ab744220c11c0135053f005056a9545d" alt="BFGF Syndrome by Patabot for Feb 15, 2018 " title="BFGF Syndrome by Patabot for Feb 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BFGF Syndrome by Patabot for Feb 13, 2018 ]]></title>
-            <link>http://www.gocomics.com/bfgf-syndrome/2018/02/13</link>
-            <guid>http://www.gocomics.com/bfgf-syndrome/2018/02/13</guid>
-            <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ae35c410c11c0135053f005056a9545d" alt="BFGF Syndrome by Patabot for Feb 13, 2018 " title="BFGF Syndrome by Patabot for Feb 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

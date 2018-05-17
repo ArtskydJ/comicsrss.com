@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Michael Andrew</title>
-        <link>http://www.comicsrss.com/preview/michael-andrew</link>
+        <link>https://www.comicsrss.com/preview/michael-andrew</link>
         <description>Michael Andrew by Michael Andrew</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Michael Andrew</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmt/large_tmt_rec_201703061139.jpg</url>
+            <link>https://www.comicsrss.com/preview/michael-andrew</link>
+        </image>
         <copyright>Copyright Michael Andrew</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/michael-andrew.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/michael-andrew.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Andrew by Michael Andrew for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/michael-andrew/2018/05/17</link>
+            <guid>https://www.gocomics.com/michael-andrew/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bc1fe6703b9401363367005056a9545d" alt="Michael Andrew by Michael Andrew for May 17, 2018 " title="Michael Andrew by Michael Andrew for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Michael Andrew by Michael Andrew for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/michael-andrew/2018/05/15</link>

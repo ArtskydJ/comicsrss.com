@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bent Objects</title>
-        <link>http://www.comicsrss.com/preview/bent-objects</link>
+        <link>https://www.comicsrss.com/preview/bent-objects</link>
         <description>Bent Objects by Terry Border</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Bent Objects</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/beo/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/bent-objects</link>
+        </image>
         <copyright>Copyright Terry Border</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/bent-objects.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/bent-objects.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bent Objects by Terry Border for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/bent-objects/2018/05/17</link>
+            <guid>https://www.gocomics.com/bent-objects/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cedf98d0a776013337bf005056a9545d" alt="Bent Objects by Terry Border for May 17, 2018 " title="Bent Objects by Terry Border for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bent Objects by Terry Border for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/bent-objects/2018/05/14</link>

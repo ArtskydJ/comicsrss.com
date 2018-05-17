@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lisa Benson</title>
-        <link>http://www.comicsrss.com/preview/lisabenson</link>
+        <link>https://www.comicsrss.com/preview/lisabenson</link>
         <description>Lisa Benson by Lisa Benson</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Lisa Benson</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wplbe/large_rec-201701251555.jpg</url>
+            <link>https://www.comicsrss.com/preview/lisabenson</link>
+        </image>
         <copyright>Copyright Lisa Benson</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/lisabenson.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/lisabenson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lisa Benson by Lisa Benson for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/lisabenson/2018/05/17</link>
+            <guid>https://www.gocomics.com/lisabenson/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c9cf1f003b9101363363005056a9545d" alt="Lisa Benson by Lisa Benson for May 17, 2018 " title="Lisa Benson by Lisa Benson for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/lisabenson/2018/05/15</link>

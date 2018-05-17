@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Capsulas Medicas </title>
-        <link>http://www.comicsrss.com/preview/capsulas-medicas%20</link>
+        <link>https://www.comicsrss.com/preview/capsulas-medicas%20</link>
         <description>Capsulas Medicas  by Bron Smith</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Capsulas Medicas </title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hcpsp/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/capsulas-medicas%20</link>
+        </image>
         <copyright>Copyright Bron Smith</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/capsulas-medicas%20.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/capsulas-medicas%20.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Capsulas Medicas  by Bron Smith for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/capsulas-medicas /2018/05/17</link>
+            <guid>https://www.gocomics.com/capsulas-medicas /2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/035ce4d0360f0136315d005056a9545d" alt="Capsulas Medicas  by Bron Smith for May 17, 2018 " title="Capsulas Medicas  by Bron Smith for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Capsulas Medicas  by Bron Smith for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/capsulas-medicas /2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/capsulas-medicas /2018/04/19</guid>
             <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5cc67450200e01362923005056a9545d" alt="Capsulas Medicas  by Bron Smith for Apr 19, 2018 " title="Capsulas Medicas  by Bron Smith for Apr 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Capsulas Medicas  by Bron Smith for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/capsulas-medicas /2018/04/18</link>
-            <guid>http://www.gocomics.com/capsulas-medicas /2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/57d62e60200e01362923005056a9545d" alt="Capsulas Medicas  by Bron Smith for Apr 18, 2018 " title="Capsulas Medicas  by Bron Smith for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

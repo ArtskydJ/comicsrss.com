@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>GoComics Fan Art</title>
-        <link>http://www.comicsrss.com/preview/fan-art</link>
+        <link>https://www.comicsrss.com/preview/fan-art</link>
         <description>GoComics Fan Art by The Fans!</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>GoComics Fan Art</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/luc/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/fan-art</link>
+        </image>
         <copyright>Copyright The Fans!</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/fan-art.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/fan-art.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GoComics Fan Art by The Fans! for Oct 31, 2015 ]]></title>
             <link>https://www.gocomics.com/fan-art/2015/10/31</link>

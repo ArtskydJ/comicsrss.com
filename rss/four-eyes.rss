@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Four Eyes</title>
-        <link>http://www.comicsrss.com/preview/four-eyes</link>
+        <link>https://www.comicsrss.com/preview/four-eyes</link>
         <description>Four Eyes by Gemma Correll</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Four Eyes</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/feye/large_rec-201701261319.jpg</url>
+            <link>https://www.comicsrss.com/preview/four-eyes</link>
+        </image>
         <copyright>Copyright Gemma Correll</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/four-eyes.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/four-eyes.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Four Eyes by Gemma Correll for Dec 11, 2017 ]]></title>
             <link>https://www.gocomics.com/four-eyes/2017/12/11</link>

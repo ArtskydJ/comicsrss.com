@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>@Tavicat</title>
-        <link>http://www.comicsrss.com/preview/tavicat</link>
+        <link>https://www.comicsrss.com/preview/tavicat</link>
         <description>@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>@Tavicat</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tav/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/tavicat</link>
+        </image>
         <copyright>Copyright Rikki Simons and Tavisha Wolfgarth-Simons</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/tavicat.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/tavicat.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/tavicat/2018/05/16</link>
+            <guid>https://www.gocomics.com/tavicat/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/19a025c03b2801363314005056a9545d" alt="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for May 16, 2018 " title="@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[@Tavicat by Rikki Simons and Tavisha Wolfgarth-Simons for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/tavicat/2018/05/14</link>

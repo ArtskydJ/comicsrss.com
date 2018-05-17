@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Joe Heller</title>
-        <link>http://www.comicsrss.com/preview/joe-heller</link>
+        <link>https://www.comicsrss.com/preview/joe-heller</link>
         <description>Joe Heller by Joe Heller</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Joe Heller</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jhe/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/joe-heller</link>
+        </image>
         <copyright>Copyright Joe Heller</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/joe-heller.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/joe-heller.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Heller by Joe Heller for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/joe-heller/2018/05/16</link>
+            <guid>https://www.gocomics.com/joe-heller/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/432d19203b8a01363358005056a9545d" alt="Joe Heller by Joe Heller for May 16, 2018 " title="Joe Heller by Joe Heller for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Joe Heller by Joe Heller for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/joe-heller/2018/05/15</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/joe-heller/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e91101701e4601362824005056a9545d" alt="Joe Heller by Joe Heller for Apr 9, 2018 " title="Joe Heller by Joe Heller for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Joe Heller by Joe Heller for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/joe-heller/2018/04/06</link>
-            <guid>http://www.gocomics.com/joe-heller/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/09a349701c0f013627af005056a9545d" alt="Joe Heller by Joe Heller for Apr 6, 2018 " title="Joe Heller by Joe Heller for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

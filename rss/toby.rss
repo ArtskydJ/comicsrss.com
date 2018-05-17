@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>TOBY</title>
-        <link>http://www.comicsrss.com/preview/toby</link>
+        <link>https://www.comicsrss.com/preview/toby</link>
         <description>TOBY by Corey Pandolph</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>TOBY</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/toby/large_rec-201701251554.jpg</url>
+            <link>https://www.comicsrss.com/preview/toby</link>
+        </image>
         <copyright>Copyright Corey Pandolph</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TOBY by Corey Pandolph for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/toby/2018/05/16</link>

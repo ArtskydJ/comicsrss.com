@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Medium Large</title>
-        <link>http://www.comicsrss.com/preview/medium-large</link>
+        <link>https://www.comicsrss.com/preview/medium-large</link>
         <description>Medium Large by Francesco Marciuliano</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Medium Large</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/mlg/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/medium-large</link>
+        </image>
         <copyright>Copyright Francesco Marciuliano</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/medium-large.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/medium-large.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Medium Large by Francesco Marciuliano for Feb 14, 2018 ]]></title>
             <link>https://www.gocomics.com/medium-large/2018/02/14</link>

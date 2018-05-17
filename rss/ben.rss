@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ben</title>
-        <link>http://www.comicsrss.com/preview/ben</link>
+        <link>https://www.comicsrss.com/preview/ben</link>
         <description>Ben by Daniel Shelton</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Ben</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ben/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/ben</link>
+        </image>
         <copyright>Copyright Daniel Shelton</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/ben.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/ben.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ben by Daniel Shelton for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/ben/2018/05/17</link>
+            <guid>https://www.gocomics.com/ben/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/57b52a1031f201362fdd005056a9545d" alt="Ben by Daniel Shelton for May 17, 2018 " title="Ben by Daniel Shelton for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ben by Daniel Shelton for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/ben/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/ben/2018/04/19</guid>
             <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/46cb1fe0231b01362a24005056a9545d" alt="Ben by Daniel Shelton for Apr 19, 2018 " title="Ben by Daniel Shelton for Apr 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ben by Daniel Shelton for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/ben/2018/04/18</link>
-            <guid>http://www.gocomics.com/ben/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/431e6e20231b01362a24005056a9545d" alt="Ben by Daniel Shelton for Apr 18, 2018 " title="Ben by Daniel Shelton for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

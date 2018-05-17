@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Grand Avenue</title>
-        <link>http://www.comicsrss.com/preview/grand-avenue</link>
+        <link>https://www.comicsrss.com/preview/grand-avenue</link>
         <description>Grand Avenue by Mike Thompson</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Grand Avenue</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gr/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/grand-avenue</link>
+        </image>
         <copyright>Copyright Mike Thompson</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/grand-avenue.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/grand-avenue.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grand Avenue by Mike Thompson for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/grand-avenue/2018/05/17</link>
+            <guid>https://www.gocomics.com/grand-avenue/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/07acd8003501013630b8005056a9545d" alt="Grand Avenue by Mike Thompson for May 17, 2018 " title="Grand Avenue by Mike Thompson for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Grand Avenue by Mike Thompson for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/grand-avenue/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/grand-avenue/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1489e30248801362aaa005056a9545d" alt="Grand Avenue by Mike Thompson for Apr 23, 2018 " title="Grand Avenue by Mike Thompson for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grand Avenue by Mike Thompson for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/grand-avenue/2018/04/22</link>
-            <guid>http://www.gocomics.com/grand-avenue/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/878d235009440136203e005056a9545d" alt="Grand Avenue by Mike Thompson for Apr 22, 2018 " title="Grand Avenue by Mike Thompson for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

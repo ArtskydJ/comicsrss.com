@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ink Pen</title>
-        <link>http://www.comicsrss.com/preview/inkpen</link>
+        <link>https://www.comicsrss.com/preview/inkpen</link>
         <description>Ink Pen by Phil Dunlap</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Ink Pen</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ink/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/inkpen</link>
+        </image>
         <copyright>Copyright Phil Dunlap</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/inkpen.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/inkpen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ink Pen by Phil Dunlap for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/inkpen/2018/05/17</link>
+            <guid>https://www.gocomics.com/inkpen/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dc23399002f201361da5005056a9545d" alt="Ink Pen by Phil Dunlap for May 17, 2018 " title="Ink Pen by Phil Dunlap for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ink Pen by Phil Dunlap for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/inkpen/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/inkpen/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fda292805efa012ee3bf00163e41dd5b" alt="Ink Pen by Phil Dunlap for Apr 23, 2018 " title="Ink Pen by Phil Dunlap for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ink Pen by Phil Dunlap for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/inkpen/2018/04/22</link>
-            <guid>http://www.gocomics.com/inkpen/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a8961c1002f501361da5005056a9545d" alt="Ink Pen by Phil Dunlap for Apr 22, 2018 " title="Ink Pen by Phil Dunlap for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

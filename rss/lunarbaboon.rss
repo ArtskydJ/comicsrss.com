@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lunarbaboon</title>
-        <link>http://www.comicsrss.com/preview/lunarbaboon</link>
+        <link>https://www.comicsrss.com/preview/lunarbaboon</link>
         <description>Lunarbaboon by Christopher Grady</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Lunarbaboon</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lb/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/lunarbaboon</link>
+        </image>
         <copyright>Copyright Christopher Grady</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/lunarbaboon.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/lunarbaboon.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lunarbaboon by Christopher Grady for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/lunarbaboon/2018/05/15</link>

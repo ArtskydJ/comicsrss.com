@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Drew Sheneman</title>
-        <link>http://www.comicsrss.com/preview/drewsheneman</link>
+        <link>https://www.comicsrss.com/preview/drewsheneman</link>
         <description>Drew Sheneman by Drew Sheneman</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Drew Sheneman</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmdsh/large_rec-201701251555.jpg</url>
+            <link>https://www.comicsrss.com/preview/drewsheneman</link>
+        </image>
         <copyright>Copyright Drew Sheneman</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/drewsheneman.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/drewsheneman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drew Sheneman by Drew Sheneman for May 15, 2018 ]]></title>
+            <link>https://www.gocomics.com/drewsheneman/2018/05/15</link>
+            <guid>https://www.gocomics.com/drewsheneman/2018/05/15</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9d5ab3f03b010136330e005056a9545d" alt="Drew Sheneman by Drew Sheneman for May 15, 2018 " title="Drew Sheneman by Drew Sheneman for May 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drew Sheneman by Drew Sheneman for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/drewsheneman/2018/05/14</link>

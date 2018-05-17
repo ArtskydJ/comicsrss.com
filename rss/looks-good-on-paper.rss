@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Looks Good on Paper</title>
-        <link>http://www.comicsrss.com/preview/looks-good-on-paper</link>
+        <link>https://www.comicsrss.com/preview/looks-good-on-paper</link>
         <description>Looks Good on Paper by Dan Collins</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Looks Good on Paper</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lgop/large_lgop_rec_201702061125.jpg</url>
+            <link>https://www.comicsrss.com/preview/looks-good-on-paper</link>
+        </image>
         <copyright>Copyright Dan Collins</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/looks-good-on-paper.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/looks-good-on-paper.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Looks Good on Paper by Dan Collins for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/looks-good-on-paper/2018/05/17</link>
+            <guid>https://www.gocomics.com/looks-good-on-paper/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/39d52930376c013631f3005056a9545d" alt="Looks Good on Paper by Dan Collins for May 17, 2018 " title="Looks Good on Paper by Dan Collins for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Looks Good on Paper by Dan Collins for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/looks-good-on-paper/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/looks-good-on-paper/2018/04/22</guid>
             <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/48e9607023f701362a6f005056a9545d" alt="Looks Good on Paper by Dan Collins for Apr 22, 2018 " title="Looks Good on Paper by Dan Collins for Apr 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Looks Good on Paper by Dan Collins for Apr 21, 2018 ]]></title>
-            <link>http://www.gocomics.com/looks-good-on-paper/2018/04/21</link>
-            <guid>http://www.gocomics.com/looks-good-on-paper/2018/04/21</guid>
-            <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4dd7aeb00aac013620f0005056a9545d" alt="Looks Good on Paper by Dan Collins for Apr 21, 2018 " title="Looks Good on Paper by Dan Collins for Apr 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

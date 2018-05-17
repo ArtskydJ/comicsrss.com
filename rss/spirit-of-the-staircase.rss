@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Spirit of the Staircase</title>
-        <link>http://www.comicsrss.com/preview/spirit-of-the-staircase</link>
+        <link>https://www.comicsrss.com/preview/spirit-of-the-staircase</link>
         <description>Spirit of the Staircase by Matthew Foltz-Gray</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Spirit of the Staircase</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sots/large_rec.jpg</url>
+            <link>https://www.comicsrss.com/preview/spirit-of-the-staircase</link>
+        </image>
         <copyright>Copyright Matthew Foltz-Gray</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/spirit-of-the-staircase.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/spirit-of-the-staircase.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Spirit of the Staircase by Matthew Foltz-Gray for May 7, 2018 ]]></title>
             <link>https://www.gocomics.com/spirit-of-the-staircase/2018/05/07</link>

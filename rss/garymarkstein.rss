@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gary Markstein</title>
-        <link>http://www.comicsrss.com/preview/garymarkstein</link>
+        <link>https://www.comicsrss.com/preview/garymarkstein</link>
         <description>Gary Markstein by Gary Markstein</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Gary Markstein</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crgma/large_rec-201701251555.jpg</url>
+            <link>https://www.comicsrss.com/preview/garymarkstein</link>
+        </image>
         <copyright>Copyright Gary Markstein</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/garymarkstein.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/garymarkstein.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gary Markstein by Gary Markstein for May 10, 2018 ]]></title>
             <link>https://www.gocomics.com/garymarkstein/2018/05/10</link>

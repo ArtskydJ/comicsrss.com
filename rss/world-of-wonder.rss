@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>World of Wonder</title>
-        <link>http://www.comicsrss.com/preview/world-of-wonder</link>
+        <link>https://www.comicsrss.com/preview/world-of-wonder</link>
         <description>World of Wonder by Laurie Triefeldt</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>World of Wonder</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wow/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/world-of-wonder</link>
+        </image>
         <copyright>Copyright Laurie Triefeldt</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/world-of-wonder.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/world-of-wonder.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[World of Wonder by Laurie Triefeldt for May 13, 2018 ]]></title>
             <link>https://www.gocomics.com/world-of-wonder/2018/05/13</link>

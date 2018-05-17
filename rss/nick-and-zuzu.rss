@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nick and Zuzu</title>
-        <link>http://www.comicsrss.com/preview/nick-and-zuzu</link>
+        <link>https://www.comicsrss.com/preview/nick-and-zuzu</link>
         <description>Nick and Zuzu by Nick Galifianakis</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Nick and Zuzu</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/nic/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/nick-and-zuzu</link>
+        </image>
         <copyright>Copyright Nick Galifianakis</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/nick-and-zuzu.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/nick-and-zuzu.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nick and Zuzu by Nick Galifianakis for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/nick-and-zuzu/2018/05/16</link>

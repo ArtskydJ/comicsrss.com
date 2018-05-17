@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Understanding Chaos</title>
-        <link>http://www.comicsrss.com/preview/understanding-chaos</link>
+        <link>https://www.comicsrss.com/preview/understanding-chaos</link>
         <description>Understanding Chaos by Gustavo Rodriguez</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Understanding Chaos</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/uc/large_rec-201701251557.jpg</url>
+            <link>https://www.comicsrss.com/preview/understanding-chaos</link>
+        </image>
         <copyright>Copyright Gustavo Rodriguez</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/understanding-chaos.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/understanding-chaos.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Understanding Chaos by Gustavo Rodriguez for Mar 25, 2018 ]]></title>
             <link>https://www.gocomics.com/understanding-chaos/2018/03/25</link>

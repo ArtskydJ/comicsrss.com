@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lost Side of Suburbia</title>
-        <link>http://www.comicsrss.com/preview/lostsideofsuburbia</link>
+        <link>https://www.comicsrss.com/preview/lostsideofsuburbia</link>
         <description>Lost Side of Suburbia by Kory Merritt</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Lost Side of Suburbia</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lss/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/lostsideofsuburbia</link>
+        </image>
         <copyright>Copyright Kory Merritt</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/lostsideofsuburbia.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/lostsideofsuburbia.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lost Side of Suburbia by Kory Merritt for Oct 9, 2015 ]]></title>
             <link>https://www.gocomics.com/lostsideofsuburbia/2015/10/09</link>

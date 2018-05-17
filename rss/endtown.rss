@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Endtown</title>
-        <link>http://www.comicsrss.com/preview/endtown</link>
+        <link>https://www.comicsrss.com/preview/endtown</link>
         <description>Endtown by Aaron Neathery</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Endtown</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/end/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/endtown</link>
+        </image>
         <copyright>Copyright Aaron Neathery</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/endtown.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/endtown.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Endtown by Aaron Neathery for May 16, 2018 ]]></title>
+            <link>https://www.gocomics.com/endtown/2018/05/16</link>
+            <guid>https://www.gocomics.com/endtown/2018/05/16</guid>
+            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/796c60503b7901363345005056a9545d" alt="Endtown by Aaron Neathery for May 16, 2018 " title="Endtown by Aaron Neathery for May 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/endtown/2018/05/14</link>

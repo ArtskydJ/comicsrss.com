@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Graffiti</title>
-        <link>http://www.comicsrss.com/preview/graffiti</link>
+        <link>https://www.comicsrss.com/preview/graffiti</link>
         <description>Graffiti by Gene Mora</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Graffiti</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gf/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/graffiti</link>
+        </image>
         <copyright>Copyright Gene Mora</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/graffiti.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/graffiti.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Graffiti by Gene Mora for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/graffiti/2018/05/17</link>
+            <guid>https://www.gocomics.com/graffiti/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9597da10347c0136308e005056a9545d" alt="Graffiti by Gene Mora for May 17, 2018 " title="Graffiti by Gene Mora for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Graffiti by Gene Mora for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/graffiti/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/graffiti/2018/04/19</guid>
             <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f695bf201e7b0136284f005056a9545d" alt="Graffiti by Gene Mora for Apr 19, 2018 " title="Graffiti by Gene Mora for Apr 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Graffiti by Gene Mora for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/graffiti/2018/04/18</link>
-            <guid>http://www.gocomics.com/graffiti/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/f15e15801e7b0136284f005056a9545d" alt="Graffiti by Gene Mora for Apr 18, 2018 " title="Graffiti by Gene Mora for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

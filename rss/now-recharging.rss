@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Now Recharging</title>
-        <link>http://www.comicsrss.com/preview/now-recharging</link>
+        <link>https://www.comicsrss.com/preview/now-recharging</link>
         <description>Now Recharging by Maiji/Mary Huang</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Now Recharging</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/recharge/large_recharge_rec_201702011734.jpg</url>
+            <link>https://www.comicsrss.com/preview/now-recharging</link>
+        </image>
         <copyright>Copyright Maiji/Mary Huang</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/now-recharging.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/now-recharging.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Now Recharging by Maiji/Mary Huang for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/now-recharging/2018/05/17</link>
+            <guid>https://www.gocomics.com/now-recharging/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/26dd1500359c0135d390005056a9545d" alt="Now Recharging by Maiji/Mary Huang for May 17, 2018 " title="Now Recharging by Maiji/Mary Huang for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Now Recharging by Maiji/Mary Huang for May 14, 2018 ]]></title>
             <link>https://www.gocomics.com/now-recharging/2018/05/14</link>

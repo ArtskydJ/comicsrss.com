@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ginger Meggs en Español</title>
-        <link>http://www.comicsrss.com/preview/gingermeggsespanol%20</link>
+        <link>https://www.comicsrss.com/preview/gingermeggsespanol%20</link>
         <description>Ginger Meggs en Español by Jason Chatfield</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Ginger Meggs en Español</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/spgin/large_rec-201701251556.jpg</url>
+            <link>https://www.comicsrss.com/preview/gingermeggsespanol%20</link>
+        </image>
         <copyright>Copyright Jason Chatfield</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/gingermeggsespanol%20.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/gingermeggsespanol%20.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/gingermeggsespanol /2018/05/17</link>
+            <guid>https://www.gocomics.com/gingermeggsespanol /2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/af749880360601363157005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for May 17, 2018 " title="Ginger Meggs en Español by Jason Chatfield for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/gingermeggsespanol /2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/gingermeggsespanol /2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1ea94f10258601362b3d005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Apr 23, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/gingermeggsespanol /2018/04/22</link>
-            <guid>http://www.gocomics.com/gingermeggsespanol /2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7dfc3dd0147f01362481005056a9545d" alt="Ginger Meggs en Español by Jason Chatfield for Apr 22, 2018 " title="Ginger Meggs en Español by Jason Chatfield for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

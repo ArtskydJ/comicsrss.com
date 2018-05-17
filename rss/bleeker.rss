@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bleeker: The Rechargeable Dog</title>
-        <link>http://www.comicsrss.com/preview/bleeker</link>
+        <link>https://www.comicsrss.com/preview/bleeker</link>
         <description>Bleeker: The Rechargeable Dog by Jonathan Mahood</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Bleeker: The Rechargeable Dog</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/blk/large_rec-201701251554.jpg</url>
+            <link>https://www.comicsrss.com/preview/bleeker</link>
+        </image>
         <copyright>Copyright Jonathan Mahood</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/bleeker.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/bleeker.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bleeker: The Rechargeable Dog by Jonathan Mahood for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/bleeker/2018/05/17</link>
+            <guid>https://www.gocomics.com/bleeker/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/56fb93c03bb801363370005056a9545d" alt="Bleeker: The Rechargeable Dog by Jonathan Mahood for May 17, 2018 " title="Bleeker: The Rechargeable Dog by Jonathan Mahood for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bleeker: The Rechargeable Dog by Jonathan Mahood for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/bleeker/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/bleeker/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5cd2ec1028dc01362c3e005056a9545d" alt="Bleeker: The Rechargeable Dog by Jonathan Mahood for Apr 23, 2018 " title="Bleeker: The Rechargeable Dog by Jonathan Mahood for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bleeker: The Rechargeable Dog by Jonathan Mahood for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/bleeker/2018/04/22</link>
-            <guid>http://www.gocomics.com/bleeker/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d8ca8500274501362bff005056a9545d" alt="Bleeker: The Rechargeable Dog by Jonathan Mahood for Apr 22, 2018 " title="Bleeker: The Rechargeable Dog by Jonathan Mahood for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

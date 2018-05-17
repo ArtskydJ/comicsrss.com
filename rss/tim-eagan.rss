@@ -2,13 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tim Eagan</title>
-        <link>http://www.comicsrss.com/preview/tim-eagan</link>
+        <link>https://www.comicsrss.com/preview/tim-eagan</link>
         <description>Tim Eagan by Tim Eagan</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Tim Eagan</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/deep/large_rec-201701251554.jpg</url>
+            <link>https://www.comicsrss.com/preview/tim-eagan</link>
+        </image>
         <copyright>Copyright Tim Eagan</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/tim-eagan.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/tim-eagan.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tim Eagan by Tim Eagan for May 10, 2018 ]]></title>
             <link>https://www.gocomics.com/tim-eagan/2018/05/10</link>

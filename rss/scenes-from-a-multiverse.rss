@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Scenes from a Multiverse</title>
-        <link>http://www.comicsrss.com/preview/scenes-from-a-multiverse</link>
+        <link>https://www.comicsrss.com/preview/scenes-from-a-multiverse</link>
         <description>Scenes from a Multiverse by Jon Rosenberg</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Scenes from a Multiverse</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sfm/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/scenes-from-a-multiverse</link>
+        </image>
         <copyright>Copyright Jon Rosenberg</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/scenes-from-a-multiverse.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/scenes-from-a-multiverse.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scenes from a Multiverse by Jon Rosenberg for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/scenes-from-a-multiverse/2018/05/17</link>
+            <guid>https://www.gocomics.com/scenes-from-a-multiverse/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ba6d0ec06e5a01331cd2005056a9545d" alt="Scenes from a Multiverse by Jon Rosenberg for May 17, 2018 " title="Scenes from a Multiverse by Jon Rosenberg for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Scenes from a Multiverse by Jon Rosenberg for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/scenes-from-a-multiverse/2018/05/16</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/scenes-from-a-multiverse/2018/04/13</guid>
             <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/706a95803eaa01330771005056a9545d" alt="Scenes from a Multiverse by Jon Rosenberg for Apr 13, 2018 " title="Scenes from a Multiverse by Jon Rosenberg for Apr 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scenes from a Multiverse by Jon Rosenberg for Apr 12, 2018 ]]></title>
-            <link>http://www.gocomics.com/scenes-from-a-multiverse/2018/04/12</link>
-            <guid>http://www.gocomics.com/scenes-from-a-multiverse/2018/04/12</guid>
-            <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/721f2db03eaa01330771005056a9545d" alt="Scenes from a Multiverse by Jon Rosenberg for Apr 12, 2018 " title="Scenes from a Multiverse by Jon Rosenberg for Apr 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

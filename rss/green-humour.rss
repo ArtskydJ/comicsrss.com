@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Green Humour</title>
-        <link>http://www.comicsrss.com/preview/green-humour</link>
+        <link>https://www.comicsrss.com/preview/green-humour</link>
         <description>Green Humour by Rohan Chakravarty</description>
-        <lastBuildDate>Wed, 16 May 2018 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <image>
+            <title>Green Humour</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/grnh/large_rec-201701251558.jpg</url>
+            <link>https://www.comicsrss.com/preview/green-humour</link>
+        </image>
         <copyright>Copyright Rohan Chakravarty</copyright>
-        <atom:link href="http://www.comicsrss.com/rss/green-humour.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.comicsrss.com/rss/green-humour.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Green Humour by Rohan Chakravarty for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/green-humour/2018/05/17</link>
+            <guid>https://www.gocomics.com/green-humour/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dd9949c08e100135f2b1005056a9545d" alt="Green Humour by Rohan Chakravarty for May 17, 2018 " title="Green Humour by Rohan Chakravarty for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Green Humour by Rohan Chakravarty for May 11, 2018 ]]></title>
             <link>https://www.gocomics.com/green-humour/2018/05/11</link>
@@ -176,13 +188,6 @@
             <guid>http://www.gocomics.com/green-humour/2018/01/11</guid>
             <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c4132df08e0e0135f2b0005056a9545d" alt="Green Humour by Rohan Chakravarty for Jan 11, 2018 " title="Green Humour by Rohan Chakravarty for Jan 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Green Humour by Rohan Chakravarty for Jan 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/green-humour/2018/01/04</link>
-            <guid>http://www.gocomics.com/green-humour/2018/01/04</guid>
-            <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8d889f508e0a0135f2af005056a9545d" alt="Green Humour by Rohan Chakravarty for Jan 4, 2018 " title="Green Humour by Rohan Chakravarty for Jan 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
