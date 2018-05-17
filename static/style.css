@@ -17,7 +17,6 @@ body {
 	padding: 0 20px;
 }
 ul {
-	border-top: 1px solid #aaa;
 	padding: 0;
 	margin-top: 0;
 	margin-bottom: 16px;
@@ -30,10 +29,6 @@ li {
 }
 nav {
 	border-bottom: 1px solid #aaa;
-	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
-	align-items:center;
 }
 a {
 	color: #0366d6;
@@ -45,12 +40,10 @@ nav > a {
 }
 input.search {
 	padding: 4px 4px;
-	height: 20px;
-	border: none;
+	height: 38px;
 	border: 1px solid #aaa;
-	flex: 1 0 auto;
-	/* Hide the nav underline when collapsed (mobile) */
-	margin-bottom: -1px;
+	width: 100%;
+	box-sizing: border-box;
 }
 input.search:focus{
 	flex-basis: 30%;
@@ -155,6 +148,34 @@ img.preview-comic {
 .tooltip .box {
 	display: inline-block;
 	background-color: #000;
-	color: #FFF;
+	color: #fff;
 	padding: 0 0.25em;
+}
+
+.main-page-header {
+	font-size: 1.5em;
+	font-weight: 300;
+	text-align: center;
+}
+.suggested {
+	text-align: center;
+}
+.suggested-item {
+	display: inline-block;
+	position: relative;
+	width: 220px;
+	margin: 5px;
+	text-align: left;
+	color: #0366d6;
+	border: 1px solid #0366d6;
+}
+.suggested-item img {
+	max-width: 100%;
+}
+.suggested-item .title-and-author {
+	display: block;
+	position: relative;
+	top: -8px;
+	padding: 0.2em 0.5em;
+	font-size: 14pt;
 }
