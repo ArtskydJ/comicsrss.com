@@ -50,5 +50,6 @@ function comicObjectsToHtml(comicObjects) {
 		})
 		.sort()
 		.join('\n') +
-	'</ul>'
+	`<li id="no-results-found" class="hidden" data-search=""><span class="comic-title">No results found</span></li>
+	</ul>`
 }

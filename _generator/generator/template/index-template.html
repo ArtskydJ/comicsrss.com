@@ -46,15 +46,21 @@
 
 			function updateFilter() {
 				var searchWords = normalizeSearchString(input.value).split(' ')
+				var didMatchSome = false
 				;[].forEach.call(document.querySelector('ul').children, function (li) {
 					var itemString = normalizeSearchString(li.getAttribute('data-search'))
 					var searchMatchesItem = searchWords.every(function (searchWord) {
 						return itemString.indexOf(searchWord) !== -1
 					})
-					li.className = searchMatchesItem ?
-						li.className.replace(/ ?hidden ?/g, '') :
-						li.className += ' hidden'
+					if (searchMatchesItem) {
+						li.className = ''
+						didMatchSome = true
+					} else {
+						li.className = 'hidden'
+					}
 				})
+
+				document.getElementById('no-results-found').className = didMatchSome ? 'hidden' : ''
 			}
 
 			function normalizeSearchString(titleOrAuthor) {
