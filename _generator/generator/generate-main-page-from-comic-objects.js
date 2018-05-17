@@ -18,7 +18,6 @@ function comicObjectsToHtml(comicObjects) {
 	comicObjects
 		.filter(Boolean)
 		.map(function (comicObject) {
-			var comicsRssFeedUrl = 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss'
 			return `
 				<li data-search="${comicObject.titleAndAuthor.toLowerCase()}">
 					<a href="./preview/${encodeURI(comicObject.basename)}" class="comic-title">${comicObject.titleAndAuthor}</a>

@@ -81,7 +81,7 @@ function parseComicPage(pageUrl, html) {
 	var isFirstComic = /<a.+class=["'][^"']*fa-caret-left[^"']*disabled/.test(html)
 	var olderRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
 	var newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
-	var headerImageUrlMatches = html.match(/src="(http:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
+	var headerImageUrlMatches = html.match(/src="(https:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
 
 	if (comicImageUrlMatches === null || !comicImageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + pageUrl)
 	if (titleAuthorDateMatches === null || !titleAuthorDateMatches[1]) throw new Error('Unable to parse title, author, date in ' + pageUrl)

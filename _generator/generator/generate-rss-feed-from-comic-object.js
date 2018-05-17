@@ -12,9 +12,9 @@ module.exports = function (comicObject) {
 	var feed = new Feed({
 		title: comicObject.titleAndAuthor.split(' by ')[0],
 		description: comicObject.titleAndAuthor,
-		link: 'http://www.comicsrss.com/preview/' + comicObject.basename,
+		link: 'https://www.comicsrss.com/preview/' + comicObject.basename,
 		image: comicObject.headerImageUrl,
-		feed: 'http://www.comicsrss.com/rss/' + comicObject.basename + '.rss',
+		feed: 'https://www.comicsrss.com/rss/' + comicObject.basename + '.rss',
 		copyright: 'Copyright ' + feedAuthor,
 		author: { name: feedAuthor },
 		id: makeId(comicObject.comicUrl)
