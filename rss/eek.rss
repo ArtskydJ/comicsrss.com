@@ -4,7 +4,7 @@
         <title>Eek!</title>
         <link>https://www.comicsrss.com/preview/eek</link>
         <description>Eek! by Scott Nickel</description>
-        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 May 2018 06:33:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Nickel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/eek.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eek! by Scott Nickel for May 18, 2018 ]]></title>
+            <link>https://www.gocomics.com/eek/2018/05/18</link>
+            <guid>https://www.gocomics.com/eek/2018/05/18</guid>
+            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0612ee203ad6013632fe005056a9545d" alt="Eek! by Scott Nickel for May 18, 2018 " title="Eek! by Scott Nickel for May 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Eek! by Scott Nickel for May 17, 2018 ]]></title>
             <link>https://www.gocomics.com/eek/2018/05/17</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/eek/2018/04/16</guid>
             <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6b589e60229b01362a09005056a9545d" alt="Eek! by Scott Nickel for Apr 16, 2018 " title="Eek! by Scott Nickel for Apr 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eek! by Scott Nickel for Apr 13, 2018 ]]></title>
-            <link>http://www.gocomics.com/eek/2018/04/13</link>
-            <guid>http://www.gocomics.com/eek/2018/04/13</guid>
-            <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0e0c0dc0200101362919005056a9545d" alt="Eek! by Scott Nickel for Apr 13, 2018 " title="Eek! by Scott Nickel for Apr 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

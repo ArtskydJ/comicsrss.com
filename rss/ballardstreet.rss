@@ -4,7 +4,7 @@
         <title>Ballard Street</title>
         <link>https://www.comicsrss.com/preview/ballardstreet</link>
         <description>Ballard Street by Jerry Van Amerongen</description>
-        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 May 2018 06:33:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Van Amerongen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ballardstreet.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ballard Street by Jerry Van Amerongen for May 18, 2018 ]]></title>
+            <link>https://www.gocomics.com/ballardstreet/2018/05/18</link>
+            <guid>https://www.gocomics.com/ballardstreet/2018/05/18</guid>
+            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7f2ef620336201363029005056a9545d" alt="Ballard Street by Jerry Van Amerongen for May 18, 2018 " title="Ballard Street by Jerry Van Amerongen for May 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for May 17, 2018 ]]></title>
             <link>https://www.gocomics.com/ballardstreet/2018/05/17</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ballardstreet/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ccf6d4d01d61013627eb005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Apr 20, 2018 " title="Ballard Street by Jerry Van Amerongen for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ballard Street by Jerry Van Amerongen for Apr 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/ballardstreet/2018/04/19</link>
-            <guid>http://www.gocomics.com/ballardstreet/2018/04/19</guid>
-            <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c8b1e6001d61013627eb005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Apr 19, 2018 " title="Ballard Street by Jerry Van Amerongen for Apr 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

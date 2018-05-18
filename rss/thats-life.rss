@@ -4,7 +4,7 @@
         <title>That&amp;#39;s Life</title>
         <link>https://www.comicsrss.com/preview/thats-life</link>
         <description>That&amp;#39;s Life by Mike Twohy</description>
-        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 May 2018 06:33:51 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Twohy</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thats-life.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That&#39;s Life by Mike Twohy for May 18, 2018 ]]></title>
+            <link>https://www.gocomics.com/thats-life/2018/05/18</link>
+            <guid>https://www.gocomics.com/thats-life/2018/05/18</guid>
+            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/041ff1c0741f012ee3c400163e41dd5b" alt="That&#39;s Life by Mike Twohy for May 18, 2018 " title="That&#39;s Life by Mike Twohy for May 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[That&#39;s Life by Mike Twohy for May 17, 2018 ]]></title>
             <link>https://www.gocomics.com/thats-life/2018/05/17</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/thats-life/2018/04/16</guid>
             <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fb6ec6f0741e012ee3c400163e41dd5b" alt="That&#39;s Life by Mike Twohy for Apr 16, 2018 " title="That&#39;s Life by Mike Twohy for Apr 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[That&#39;s Life by Mike Twohy for Apr 13, 2018 ]]></title>
-            <link>http://www.gocomics.com/thats-life/2018/04/13</link>
-            <guid>http://www.gocomics.com/thats-life/2018/04/13</guid>
-            <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b18a6e60741e012ee3c400163e41dd5b" alt="That&#39;s Life by Mike Twohy for Apr 13, 2018 " title="That&#39;s Life by Mike Twohy for Apr 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

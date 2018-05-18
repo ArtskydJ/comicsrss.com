@@ -4,7 +4,7 @@
         <title>Wide Open</title>
         <link>https://www.comicsrss.com/preview/wide-open</link>
         <description>Wide Open by Rich Powell</description>
-        <lastBuildDate>Thu, 17 May 2018 06:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 May 2018 06:33:51 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rich Powell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wide-open.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wide Open by Rich Powell for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/wide-open/2018/05/17</link>
+            <guid>https://www.gocomics.com/wide-open/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/696173003bfb0136337e005056a9545d" alt="Wide Open by Rich Powell for May 17, 2018 " title="Wide Open by Rich Powell for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for May 10, 2018 ]]></title>
             <link>https://www.gocomics.com/wide-open/2018/05/10</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/01/04</guid>
             <pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/bbccc370c962013508a5005056a9545d" alt="Wide Open by Rich Powell for Jan 4, 2018 " title="Wide Open by Rich Powell for Jan 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wide Open by Rich Powell for Dec 28, 2017 ]]></title>
-            <link>http://www.gocomics.com/wide-open/2017/12/28</link>
-            <guid>http://www.gocomics.com/wide-open/2017/12/28</guid>
-            <pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0a8af620c65101350721005056a9545d" alt="Wide Open by Rich Powell for Dec 28, 2017 " title="Wide Open by Rich Powell for Dec 28, 2017 ">]]></description>
         </item>
     </channel>
 </rss>

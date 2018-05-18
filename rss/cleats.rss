@@ -4,7 +4,7 @@
         <title>Cleats</title>
         <link>https://www.comicsrss.com/preview/cleats</link>
         <description>Cleats by Bill Hinds</description>
-        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 May 2018 06:33:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Hinds</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cleats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cleats by Bill Hinds for May 18, 2018 ]]></title>
+            <link>https://www.gocomics.com/cleats/2018/05/18</link>
+            <guid>https://www.gocomics.com/cleats/2018/05/18</guid>
+            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ced87de002cc01358e71005056a9545d" alt="Cleats by Bill Hinds for May 18, 2018 " title="Cleats by Bill Hinds for May 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Cleats by Bill Hinds for May 17, 2018 ]]></title>
             <link>https://www.gocomics.com/cleats/2018/05/17</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/cleats/2018/04/24</guid>
             <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a027374002cc01358e71005056a9545d" alt="Cleats by Bill Hinds for Apr 24, 2018 " title="Cleats by Bill Hinds for Apr 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cleats by Bill Hinds for Apr 23, 2018 ]]></title>
-            <link>http://www.gocomics.com/cleats/2018/04/23</link>
-            <guid>http://www.gocomics.com/cleats/2018/04/23</guid>
-            <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9e3c4d8002cc01358e71005056a9545d" alt="Cleats by Bill Hinds for Apr 23, 2018 " title="Cleats by Bill Hinds for Apr 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

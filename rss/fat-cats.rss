@@ -4,7 +4,7 @@
         <title>Fat Cats</title>
         <link>https://www.comicsrss.com/preview/fat-cats</link>
         <description>Fat Cats by Charlie Podrebarac</description>
-        <lastBuildDate>Thu, 17 May 2018 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 May 2018 06:33:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Charlie Podrebarac</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fat-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fat Cats by Charlie Podrebarac for May 18, 2018 ]]></title>
+            <link>https://www.gocomics.com/fat-cats/2018/05/18</link>
+            <guid>https://www.gocomics.com/fat-cats/2018/05/18</guid>
+            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/84ae34303c290136339a005056a9545d" alt="Fat Cats by Charlie Podrebarac for May 18, 2018 " title="Fat Cats by Charlie Podrebarac for May 18, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fat Cats by Charlie Podrebarac for May 17, 2018 ]]></title>
+            <link>https://www.gocomics.com/fat-cats/2018/05/17</link>
+            <guid>https://www.gocomics.com/fat-cats/2018/05/17</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6b1557b03c2701363398005056a9545d" alt="Fat Cats by Charlie Podrebarac for May 17, 2018 " title="Fat Cats by Charlie Podrebarac for May 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Fat Cats by Charlie Podrebarac for May 16, 2018 ]]></title>
             <link>https://www.gocomics.com/fat-cats/2018/05/16</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/fat-cats/2018/04/24</guid>
             <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/98934420262201362b72005056a9545d" alt="Fat Cats by Charlie Podrebarac for Apr 24, 2018 " title="Fat Cats by Charlie Podrebarac for Apr 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fat Cats by Charlie Podrebarac for Apr 23, 2018 ]]></title>
-            <link>http://www.gocomics.com/fat-cats/2018/04/23</link>
-            <guid>http://www.gocomics.com/fat-cats/2018/04/23</guid>
-            <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/958be060262201362b72005056a9545d" alt="Fat Cats by Charlie Podrebarac for Apr 23, 2018 " title="Fat Cats by Charlie Podrebarac for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fat Cats by Charlie Podrebarac for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/fat-cats/2018/04/22</link>
-            <guid>http://www.gocomics.com/fat-cats/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/938513f0262201362b72005056a9545d" alt="Fat Cats by Charlie Podrebarac for Apr 22, 2018 " title="Fat Cats by Charlie Podrebarac for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
