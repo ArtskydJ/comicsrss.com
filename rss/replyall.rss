@@ -4,7 +4,7 @@
         <title>Reply All</title>
         <link>https://www.comicsrss.com/preview/replyall</link>
         <description>Reply All by Donna A. Lewis</description>
-        <lastBuildDate>Fri, 18 May 2018 06:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 May 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Donna A. Lewis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/replyall.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reply All by Donna A. Lewis for May 19, 2018 ]]></title>
+            <link>https://www.gocomics.com/replyall/2018/05/19</link>
+            <guid>https://www.gocomics.com/replyall/2018/05/19</guid>
+            <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e4debf30322301363002005056a9545d" alt="Reply All by Donna A. Lewis for May 19, 2018 " title="Reply All by Donna A. Lewis for May 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Reply All by Donna A. Lewis for May 18, 2018 ]]></title>
             <link>https://www.gocomics.com/replyall/2018/05/18</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/replyall/2018/04/25</guid>
             <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5f25226021a3013629e3005056a9545d" alt="Reply All by Donna A. Lewis for Apr 25, 2018 " title="Reply All by Donna A. Lewis for Apr 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reply All by Donna A. Lewis for Apr 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/replyall/2018/04/24</link>
-            <guid>http://www.gocomics.com/replyall/2018/04/24</guid>
-            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/62cccb9021a3013629e3005056a9545d" alt="Reply All by Donna A. Lewis for Apr 24, 2018 " title="Reply All by Donna A. Lewis for Apr 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

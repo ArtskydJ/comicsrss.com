@@ -4,7 +4,7 @@
         <title>Speechless</title>
         <link>https://www.comicsrss.com/preview/speechless</link>
         <description>Speechless by Len Borozinski</description>
-        <lastBuildDate>Fri, 18 May 2018 06:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 May 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Len Borozinski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/speechless.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speechless by Len Borozinski for May 19, 2018 ]]></title>
+            <link>https://www.gocomics.com/speechless/2018/05/19</link>
+            <guid>https://www.gocomics.com/speechless/2018/05/19</guid>
+            <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b9d807103cdd013633e7005056a9545d" alt="Speechless by Len Borozinski for May 19, 2018 " title="Speechless by Len Borozinski for May 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Speechless by Len Borozinski for May 18, 2018 ]]></title>
             <link>https://www.gocomics.com/speechless/2018/05/18</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/speechless/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b546f6d01f5f013628b7005056a9545d" alt="Speechless by Len Borozinski for Apr 11, 2018 " title="Speechless by Len Borozinski for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speechless by Len Borozinski for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/speechless/2018/04/09</link>
-            <guid>http://www.gocomics.com/speechless/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/16e21e501dc7013627fd005056a9545d" alt="Speechless by Len Borozinski for Apr 9, 2018 " title="Speechless by Len Borozinski for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

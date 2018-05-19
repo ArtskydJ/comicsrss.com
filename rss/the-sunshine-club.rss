@@ -4,7 +4,7 @@
         <title>The Sunshine Club</title>
         <link>https://www.comicsrss.com/preview/the-sunshine-club</link>
         <description>The Sunshine Club by Howie Schneider</description>
-        <lastBuildDate>Fri, 18 May 2018 06:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 May 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Howie Schneider</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-sunshine-club.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Sunshine Club by Howie Schneider for May 19, 2018 ]]></title>
+            <link>https://www.gocomics.com/the-sunshine-club/2018/05/19</link>
+            <guid>https://www.gocomics.com/the-sunshine-club/2018/05/19</guid>
+            <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7a61ffb0744a012ee3c400163e41dd5b" alt="The Sunshine Club by Howie Schneider for May 19, 2018 " title="The Sunshine Club by Howie Schneider for May 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Sunshine Club by Howie Schneider for May 18, 2018 ]]></title>
             <link>https://www.gocomics.com/the-sunshine-club/2018/05/18</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/the-sunshine-club/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3c23d0c0744a012ee3c400163e41dd5b" alt="The Sunshine Club by Howie Schneider for Apr 21, 2018 " title="The Sunshine Club by Howie Schneider for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Sunshine Club by Howie Schneider for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/the-sunshine-club/2018/04/20</link>
-            <guid>http://www.gocomics.com/the-sunshine-club/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/369eb460744a012ee3c400163e41dd5b" alt="The Sunshine Club by Howie Schneider for Apr 20, 2018 " title="The Sunshine Club by Howie Schneider for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
