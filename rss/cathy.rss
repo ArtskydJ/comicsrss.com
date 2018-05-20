@@ -4,7 +4,7 @@
         <title>Cathy</title>
         <link>https://www.comicsrss.com/preview/cathy</link>
         <description>Cathy by Cathy Guisewite</description>
-        <lastBuildDate>Sat, 19 May 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Cathy Guisewite</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cathy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cathy by Cathy Guisewite for May 20, 2018 ]]></title>
+            <link>https://www.gocomics.com/cathy/2018/05/20</link>
+            <guid>https://www.gocomics.com/cathy/2018/05/20</guid>
+            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/af8320c040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for May 20, 2018 " title="Cathy by Cathy Guisewite for May 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for May 19, 2018 ]]></title>
             <link>https://www.gocomics.com/cathy/2018/05/19</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/cathy/2018/04/26</guid>
             <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f0fc0c501008013622e5005056a9545d" alt="Cathy by Cathy Guisewite for Apr 26, 2018 " title="Cathy by Cathy Guisewite for Apr 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cathy by Cathy Guisewite for Apr 25, 2018 ]]></title>
-            <link>http://www.gocomics.com/cathy/2018/04/25</link>
-            <guid>http://www.gocomics.com/cathy/2018/04/25</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ef6743c01008013622e5005056a9545d" alt="Cathy by Cathy Guisewite for Apr 25, 2018 " title="Cathy by Cathy Guisewite for Apr 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

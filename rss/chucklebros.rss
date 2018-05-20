@@ -4,7 +4,7 @@
         <title>Chuckle Bros</title>
         <link>https://www.comicsrss.com/preview/chucklebros</link>
         <description>Chuckle Bros by Brian and Ron Boychuk</description>
-        <lastBuildDate>Sat, 19 May 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brian and Ron Boychuk</copyright>
         <atom:link href="https://www.comicsrss.com/rss/chucklebros.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chuckle Bros by Brian and Ron Boychuk for May 20, 2018 ]]></title>
+            <link>https://www.gocomics.com/chucklebros/2018/05/20</link>
+            <guid>https://www.gocomics.com/chucklebros/2018/05/20</guid>
+            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/995094a05e51012ee3bf00163e41dd5b" alt="Chuckle Bros by Brian and Ron Boychuk for May 20, 2018 " title="Chuckle Bros by Brian and Ron Boychuk for May 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Chuckle Bros by Brian and Ron Boychuk for May 19, 2018 ]]></title>
             <link>https://www.gocomics.com/chucklebros/2018/05/19</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/chucklebros/2018/04/26</guid>
             <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6b77b105e62012ee3bf00163e41dd5b" alt="Chuckle Bros by Brian and Ron Boychuk for Apr 26, 2018 " title="Chuckle Bros by Brian and Ron Boychuk for Apr 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chuckle Bros by Brian and Ron Boychuk for Apr 25, 2018 ]]></title>
-            <link>http://www.gocomics.com/chucklebros/2018/04/25</link>
-            <guid>http://www.gocomics.com/chucklebros/2018/04/25</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/12b480905e6b012ee3bf00163e41dd5b" alt="Chuckle Bros by Brian and Ron Boychuk for Apr 25, 2018 " title="Chuckle Bros by Brian and Ron Boychuk for Apr 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

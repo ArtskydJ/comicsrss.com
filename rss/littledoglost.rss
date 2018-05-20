@@ -4,7 +4,7 @@
         <title>Little Dog Lost</title>
         <link>https://www.comicsrss.com/preview/littledoglost</link>
         <description>Little Dog Lost by Steve Boreman</description>
-        <lastBuildDate>Sat, 19 May 2018 06:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Boreman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/littledoglost.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Little Dog Lost by Steve Boreman for May 20, 2018 ]]></title>
+            <link>https://www.gocomics.com/littledoglost/2018/05/20</link>
+            <guid>https://www.gocomics.com/littledoglost/2018/05/20</guid>
+            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/625502b02f2e01362e98005056a9545d" alt="Little Dog Lost by Steve Boreman for May 20, 2018 " title="Little Dog Lost by Steve Boreman for May 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Little Dog Lost by Steve Boreman for May 19, 2018 ]]></title>
             <link>https://www.gocomics.com/littledoglost/2018/05/19</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/littledoglost/2018/04/26</guid>
             <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/61ec542025c001362b4e005056a9545d" alt="Little Dog Lost by Steve Boreman for Apr 26, 2018 " title="Little Dog Lost by Steve Boreman for Apr 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Little Dog Lost by Steve Boreman for Apr 25, 2018 ]]></title>
-            <link>http://www.gocomics.com/littledoglost/2018/04/25</link>
-            <guid>http://www.gocomics.com/littledoglost/2018/04/25</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/66a534d025c001362b4e005056a9545d" alt="Little Dog Lost by Steve Boreman for Apr 25, 2018 " title="Little Dog Lost by Steve Boreman for Apr 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

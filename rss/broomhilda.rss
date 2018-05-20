@@ -4,7 +4,7 @@
         <title>Broom Hilda</title>
         <link>https://www.comicsrss.com/preview/broomhilda</link>
         <description>Broom Hilda by Russell Myers</description>
-        <lastBuildDate>Sat, 19 May 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Russell Myers</copyright>
         <atom:link href="https://www.comicsrss.com/rss/broomhilda.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Broom Hilda by Russell Myers for May 20, 2018 ]]></title>
+            <link>https://www.gocomics.com/broomhilda/2018/05/20</link>
+            <guid>https://www.gocomics.com/broomhilda/2018/05/20</guid>
+            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/03a06cc03c5f013633c3005056a9545d" alt="Broom Hilda by Russell Myers for May 20, 2018 " title="Broom Hilda by Russell Myers for May 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Broom Hilda by Russell Myers for May 19, 2018 ]]></title>
             <link>https://www.gocomics.com/broomhilda/2018/05/19</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/broomhilda/2018/04/26</guid>
             <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/60a0a6200f000136225c005056a9545d" alt="Broom Hilda by Russell Myers for Apr 26, 2018 " title="Broom Hilda by Russell Myers for Apr 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Broom Hilda by Russell Myers for Apr 25, 2018 ]]></title>
-            <link>http://www.gocomics.com/broomhilda/2018/04/25</link>
-            <guid>http://www.gocomics.com/broomhilda/2018/04/25</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/551a27800f000136225c005056a9545d" alt="Broom Hilda by Russell Myers for Apr 25, 2018 " title="Broom Hilda by Russell Myers for Apr 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
