@@ -4,7 +4,7 @@
         <title>Skin Horse</title>
         <link>https://www.comicsrss.com/preview/skinhorse</link>
         <description>Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells</description>
-        <lastBuildDate>Sun, 20 May 2018 06:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Shaenon K. Garrity and Jeffrey C. Wells</copyright>
         <atom:link href="https://www.comicsrss.com/rss/skinhorse.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for May 21, 2018 ]]></title>
+            <link>https://www.gocomics.com/skinhorse/2018/05/21</link>
+            <guid>https://www.gocomics.com/skinhorse/2018/05/21</guid>
+            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/44ae26503e3301363449005056a9545d" alt="Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for May 21, 2018 " title="Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for May 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for May 19, 2018 ]]></title>
             <link>https://www.gocomics.com/skinhorse/2018/05/19</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/skinhorse/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/58be3460282c01362c22005056a9545d" alt="Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for Apr 23, 2018 " title="Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for Apr 21, 2018 ]]></title>
-            <link>http://www.gocomics.com/skinhorse/2018/04/21</link>
-            <guid>http://www.gocomics.com/skinhorse/2018/04/21</guid>
-            <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d33e3240235301362a36005056a9545d" alt="Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for Apr 21, 2018 " title="Skin Horse by Shaenon K. Garrity and Jeffrey C. Wells for Apr 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

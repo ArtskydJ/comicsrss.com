@@ -4,7 +4,7 @@
         <title>Garfield Classics</title>
         <link>https://www.comicsrss.com/preview/garfield-classics</link>
         <description>Garfield Classics by Jim Davis</description>
-        <lastBuildDate>Sun, 20 May 2018 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Davis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/garfield-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Garfield Classics by Jim Davis for May 21, 2018 ]]></title>
+            <link>https://www.gocomics.com/garfield-classics/2018/05/21</link>
+            <guid>https://www.gocomics.com/garfield-classics/2018/05/21</guid>
+            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d6f615f0d38f01350bcb005056a9545d" alt="Garfield Classics by Jim Davis for May 21, 2018 " title="Garfield Classics by Jim Davis for May 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Garfield Classics by Jim Davis for May 20, 2018 ]]></title>
             <link>https://www.gocomics.com/garfield-classics/2018/05/20</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/garfield-classics/2018/04/27</guid>
             <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b2a2cac0d38f01350bcb005056a9545d" alt="Garfield Classics by Jim Davis for Apr 27, 2018 " title="Garfield Classics by Jim Davis for Apr 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Garfield Classics by Jim Davis for Apr 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/garfield-classics/2018/04/26</link>
-            <guid>http://www.gocomics.com/garfield-classics/2018/04/26</guid>
-            <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b0d362e0d38f01350bcb005056a9545d" alt="Garfield Classics by Jim Davis for Apr 26, 2018 " title="Garfield Classics by Jim Davis for Apr 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>The Argyle Sweater</title>
         <link>https://www.comicsrss.com/preview/theargylesweater</link>
         <description>The Argyle Sweater by Scott Hilburn</description>
-        <lastBuildDate>Sun, 20 May 2018 06:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Hilburn</copyright>
         <atom:link href="https://www.comicsrss.com/rss/theargylesweater.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Argyle Sweater by Scott Hilburn for May 21, 2018 ]]></title>
+            <link>https://www.gocomics.com/theargylesweater/2018/05/21</link>
+            <guid>https://www.gocomics.com/theargylesweater/2018/05/21</guid>
+            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/70201bb03abd013632f3005056a9545d" alt="The Argyle Sweater by Scott Hilburn for May 21, 2018 " title="The Argyle Sweater by Scott Hilburn for May 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Argyle Sweater by Scott Hilburn for May 20, 2018 ]]></title>
             <link>https://www.gocomics.com/theargylesweater/2018/05/20</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/theargylesweater/2018/04/27</guid>
             <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a6ca66f023f301362a6e005056a9545d" alt="The Argyle Sweater by Scott Hilburn for Apr 27, 2018 " title="The Argyle Sweater by Scott Hilburn for Apr 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Argyle Sweater by Scott Hilburn for Apr 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/theargylesweater/2018/04/26</link>
-            <guid>http://www.gocomics.com/theargylesweater/2018/04/26</guid>
-            <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a1c7437023f301362a6e005056a9545d" alt="The Argyle Sweater by Scott Hilburn for Apr 26, 2018 " title="The Argyle Sweater by Scott Hilburn for Apr 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

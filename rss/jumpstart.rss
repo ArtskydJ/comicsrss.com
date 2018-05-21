@@ -4,7 +4,7 @@
         <title>JumpStart</title>
         <link>https://www.comicsrss.com/preview/jumpstart</link>
         <description>JumpStart by Robb Armstrong</description>
-        <lastBuildDate>Sun, 20 May 2018 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Robb Armstrong</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jumpstart.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JumpStart by Robb Armstrong for May 21, 2018 ]]></title>
+            <link>https://www.gocomics.com/jumpstart/2018/05/21</link>
+            <guid>https://www.gocomics.com/jumpstart/2018/05/21</guid>
+            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8cac0a803a90013632d1005056a9545d" alt="JumpStart by Robb Armstrong for May 21, 2018 " title="JumpStart by Robb Armstrong for May 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[JumpStart by Robb Armstrong for May 20, 2018 ]]></title>
             <link>https://www.gocomics.com/jumpstart/2018/05/20</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/jumpstart/2018/04/27</guid>
             <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1c756c80248601362aa8005056a9545d" alt="JumpStart by Robb Armstrong for Apr 27, 2018 " title="JumpStart by Robb Armstrong for Apr 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JumpStart by Robb Armstrong for Apr 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/jumpstart/2018/04/26</link>
-            <guid>http://www.gocomics.com/jumpstart/2018/04/26</guid>
-            <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9ab76030248701362aa9005056a9545d" alt="JumpStart by Robb Armstrong for Apr 26, 2018 " title="JumpStart by Robb Armstrong for Apr 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
