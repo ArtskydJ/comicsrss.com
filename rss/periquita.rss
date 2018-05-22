@@ -4,7 +4,7 @@
         <title>Periquita</title>
         <link>https://www.comicsrss.com/preview/periquita</link>
         <description>Periquita by Olivia Jaimes</description>
-        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 May 2018 06:33:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Olivia Jaimes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/periquita.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Periquita by Olivia Jaimes for May 22, 2018 ]]></title>
+            <link>https://www.gocomics.com/periquita/2018/05/22</link>
+            <guid>https://www.gocomics.com/periquita/2018/05/22</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/395690303b8f01363360005056a9545d" alt="Periquita by Olivia Jaimes for May 22, 2018 " title="Periquita by Olivia Jaimes for May 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Periquita by Olivia Jaimes for May 21, 2018 ]]></title>
             <link>https://www.gocomics.com/periquita/2018/05/21</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/periquita/2018/04/28</guid>
             <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a70cc170258e01362b42005056a9545d" alt="Periquita by Olivia Jaimes for Apr 28, 2018 " title="Periquita by Olivia Jaimes for Apr 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Periquita by Olivia Jaimes for Apr 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/periquita/2018/04/27</link>
-            <guid>http://www.gocomics.com/periquita/2018/04/27</guid>
-            <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/acacb3c0258e01362b42005056a9545d" alt="Periquita by Olivia Jaimes for Apr 27, 2018 " title="Periquita by Olivia Jaimes for Apr 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

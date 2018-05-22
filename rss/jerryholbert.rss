@@ -4,7 +4,7 @@
         <title>Jerry Holbert</title>
         <link>https://www.comicsrss.com/preview/jerryholbert</link>
         <description>Jerry Holbert by Jerry Holbert</description>
-        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 May 2018 06:33:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Holbert</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jerryholbert.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jerry Holbert by Jerry Holbert for May 22, 2018 ]]></title>
+            <link>https://www.gocomics.com/jerryholbert/2018/05/22</link>
+            <guid>https://www.gocomics.com/jerryholbert/2018/05/22</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/adab70e03f63013634a0005056a9545d" alt="Jerry Holbert by Jerry Holbert for May 22, 2018 " title="Jerry Holbert by Jerry Holbert for May 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for May 18, 2018 ]]></title>
             <link>https://www.gocomics.com/jerryholbert/2018/05/18</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/jerryholbert/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5847e4601e5a0136283a005056a9545d" alt="Jerry Holbert by Jerry Holbert for Apr 10, 2018 " title="Jerry Holbert by Jerry Holbert for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jerry Holbert by Jerry Holbert for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/jerryholbert/2018/04/09</link>
-            <guid>http://www.gocomics.com/jerryholbert/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/bf261fa01bfc0136279e005056a9545d" alt="Jerry Holbert by Jerry Holbert for Apr 9, 2018 " title="Jerry Holbert by Jerry Holbert for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

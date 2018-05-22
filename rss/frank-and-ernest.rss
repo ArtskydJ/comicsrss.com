@@ -4,7 +4,7 @@
         <title>Frank and Ernest</title>
         <link>https://www.comicsrss.com/preview/frank-and-ernest</link>
         <description>Frank and Ernest by Thaves</description>
-        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 May 2018 06:33:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Thaves</copyright>
         <atom:link href="https://www.comicsrss.com/rss/frank-and-ernest.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frank and Ernest by Thaves for May 22, 2018 ]]></title>
+            <link>https://www.gocomics.com/frank-and-ernest/2018/05/22</link>
+            <guid>https://www.gocomics.com/frank-and-ernest/2018/05/22</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/39baf68036a801363192005056a9545d" alt="Frank and Ernest by Thaves for May 22, 2018 " title="Frank and Ernest by Thaves for May 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for May 21, 2018 ]]></title>
             <link>https://www.gocomics.com/frank-and-ernest/2018/05/21</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/frank-and-ernest/2018/04/28</guid>
             <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/36858cf020ad01362967005056a9545d" alt="Frank and Ernest by Thaves for Apr 28, 2018 " title="Frank and Ernest by Thaves for Apr 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frank and Ernest by Thaves for Apr 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/frank-and-ernest/2018/04/27</link>
-            <guid>http://www.gocomics.com/frank-and-ernest/2018/04/27</guid>
-            <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/346e1de020ad01362967005056a9545d" alt="Frank and Ernest by Thaves for Apr 27, 2018 " title="Frank and Ernest by Thaves for Apr 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Ziggy</title>
         <link>https://www.comicsrss.com/preview/ziggy</link>
         <description>Ziggy by Tom Wilson &amp;amp; Tom II</description>
-        <lastBuildDate>Mon, 21 May 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 May 2018 06:33:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tom Wilson &amp;amp; Tom II</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ziggy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ziggy by Tom Wilson &amp; Tom II for May 22, 2018 ]]></title>
+            <link>https://www.gocomics.com/ziggy/2018/05/22</link>
+            <guid>https://www.gocomics.com/ziggy/2018/05/22</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9e0e495039f70136329c005056a9545d" alt="Ziggy by Tom Wilson &amp; Tom II for May 22, 2018 " title="Ziggy by Tom Wilson &amp; Tom II for May 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ziggy by Tom Wilson &amp; Tom II for May 21, 2018 ]]></title>
             <link>https://www.gocomics.com/ziggy/2018/05/21</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ziggy/2018/04/28</guid>
             <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fecf6a1023f601362a6e005056a9545d" alt="Ziggy by Tom Wilson &amp; Tom II for Apr 28, 2018 " title="Ziggy by Tom Wilson &amp; Tom II for Apr 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ziggy by Tom Wilson &amp; Tom II for Apr 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/ziggy/2018/04/27</link>
-            <guid>http://www.gocomics.com/ziggy/2018/04/27</guid>
-            <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fb90b45023f601362a6e005056a9545d" alt="Ziggy by Tom Wilson &amp; Tom II for Apr 27, 2018 " title="Ziggy by Tom Wilson &amp; Tom II for Apr 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
