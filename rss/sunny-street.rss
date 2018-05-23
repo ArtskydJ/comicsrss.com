@@ -4,7 +4,7 @@
         <title>Sunny Street</title>
         <link>https://www.comicsrss.com/preview/sunny-street</link>
         <description>Sunny Street by Max Garcia and Sandra Barthauer</description>
-        <lastBuildDate>Tue, 22 May 2018 06:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 May 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Max Garcia and Sandra Barthauer</copyright>
         <atom:link href="https://www.comicsrss.com/rss/sunny-street.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunny Street by Max Garcia and Sandra Barthauer for May 22, 2018 ]]></title>
+            <link>https://www.gocomics.com/sunny-street/2018/05/22</link>
+            <guid>https://www.gocomics.com/sunny-street/2018/05/22</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/63efe8204002013634d7005056a9545d" alt="Sunny Street by Max Garcia and Sandra Barthauer for May 22, 2018 " title="Sunny Street by Max Garcia and Sandra Barthauer for May 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Sunny Street by Max Garcia and Sandra Barthauer for May 20, 2018 ]]></title>
             <link>https://www.gocomics.com/sunny-street/2018/05/20</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/sunny-street/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/08406120e9d101351440005056a9545d" alt="Sunny Street by Max Garcia and Sandra Barthauer for Feb 22, 2018 " title="Sunny Street by Max Garcia and Sandra Barthauer for Feb 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunny Street by Max Garcia and Sandra Barthauer for Feb 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/sunny-street/2018/02/19</link>
-            <guid>http://www.gocomics.com/sunny-street/2018/02/19</guid>
-            <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0a1edcc0e9d101351440005056a9545d" alt="Sunny Street by Max Garcia and Sandra Barthauer for Feb 19, 2018 " title="Sunny Street by Max Garcia and Sandra Barthauer for Feb 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

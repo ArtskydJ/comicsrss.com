@@ -4,7 +4,7 @@
         <title>Widdershins</title>
         <link>https://www.comicsrss.com/preview/widdershins</link>
         <description>Widdershins by Kate Ashwin</description>
-        <lastBuildDate>Tue, 22 May 2018 06:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 May 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Kate Ashwin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/widdershins.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Widdershins by Kate Ashwin for May 23, 2018 ]]></title>
+            <link>https://www.gocomics.com/widdershins/2018/05/23</link>
+            <guid>https://www.gocomics.com/widdershins/2018/05/23</guid>
+            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6bcdcdf00ff6013622d9005056a9545d" alt="Widdershins by Kate Ashwin for May 23, 2018 " title="Widdershins by Kate Ashwin for May 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Widdershins by Kate Ashwin for May 22, 2018 ]]></title>
             <link>https://www.gocomics.com/widdershins/2018/05/22</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/widdershins/2018/04/19</guid>
             <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1ef444079f60135eb33005056a9545d" alt="Widdershins by Kate Ashwin for Apr 19, 2018 " title="Widdershins by Kate Ashwin for Apr 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Widdershins by Kate Ashwin for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/widdershins/2018/04/18</link>
-            <guid>http://www.gocomics.com/widdershins/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8aec644079f60135eb33005056a9545d" alt="Widdershins by Kate Ashwin for Apr 18, 2018 " title="Widdershins by Kate Ashwin for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

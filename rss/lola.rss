@@ -4,7 +4,7 @@
         <title>Lola</title>
         <link>https://www.comicsrss.com/preview/lola</link>
         <description>Lola by Todd Clark</description>
-        <lastBuildDate>Tue, 22 May 2018 06:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 May 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Todd Clark</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lola.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lola by Todd Clark for May 23, 2018 ]]></title>
+            <link>https://www.gocomics.com/lola/2018/05/23</link>
+            <guid>https://www.gocomics.com/lola/2018/05/23</guid>
+            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5b9d69e03a8f013632d0005056a9545d" alt="Lola by Todd Clark for May 23, 2018 " title="Lola by Todd Clark for May 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lola by Todd Clark for May 22, 2018 ]]></title>
             <link>https://www.gocomics.com/lola/2018/05/22</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/lola/2018/04/29</guid>
             <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b16145d0040f01361e29005056a9545d" alt="Lola by Todd Clark for Apr 29, 2018 " title="Lola by Todd Clark for Apr 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lola by Todd Clark for Apr 28, 2018 ]]></title>
-            <link>http://www.gocomics.com/lola/2018/04/28</link>
-            <guid>http://www.gocomics.com/lola/2018/04/28</guid>
-            <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/adaa2f90248701362aa9005056a9545d" alt="Lola by Todd Clark for Apr 28, 2018 " title="Lola by Todd Clark for Apr 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
