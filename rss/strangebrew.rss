@@ -4,7 +4,7 @@
         <title>Strange Brew</title>
         <link>https://www.comicsrss.com/preview/strangebrew</link>
         <description>Strange Brew by John Deering</description>
-        <lastBuildDate>Thu, 24 May 2018 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 May 2018 06:41:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright John Deering</copyright>
         <atom:link href="https://www.comicsrss.com/rss/strangebrew.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strange Brew by John Deering for May 25, 2018 ]]></title>
+            <link>https://www.gocomics.com/strangebrew/2018/05/25</link>
+            <guid>https://www.gocomics.com/strangebrew/2018/05/25</guid>
+            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c825186038e20136324d005056a9545d" alt="Strange Brew by John Deering for May 25, 2018 " title="Strange Brew by John Deering for May 25, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Strange Brew by John Deering for May 24, 2018 ]]></title>
+            <link>https://www.gocomics.com/strangebrew/2018/05/24</link>
+            <guid>https://www.gocomics.com/strangebrew/2018/05/24</guid>
+            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c97c257038e20136324d005056a9545d" alt="Strange Brew by John Deering for May 24, 2018 " title="Strange Brew by John Deering for May 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Strange Brew by John Deering for May 23, 2018 ]]></title>
             <link>https://www.gocomics.com/strangebrew/2018/05/23</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/strangebrew/2018/05/01</guid>
             <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4733c8b0286201362c27005056a9545d" alt="Strange Brew by John Deering for May 1, 2018 " title="Strange Brew by John Deering for May 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Strange Brew by John Deering for Apr 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/strangebrew/2018/04/30</link>
-            <guid>http://www.gocomics.com/strangebrew/2018/04/30</guid>
-            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/43ee3d50286201362c27005056a9545d" alt="Strange Brew by John Deering for Apr 30, 2018 " title="Strange Brew by John Deering for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Strange Brew by John Deering for Apr 29, 2018 ]]></title>
-            <link>http://www.gocomics.com/strangebrew/2018/04/29</link>
-            <guid>http://www.gocomics.com/strangebrew/2018/04/29</guid>
-            <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5752d380286101362c27005056a9545d" alt="Strange Brew by John Deering for Apr 29, 2018 " title="Strange Brew by John Deering for Apr 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

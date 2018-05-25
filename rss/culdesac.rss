@@ -4,7 +4,7 @@
         <title>Cul de Sac</title>
         <link>https://www.comicsrss.com/preview/culdesac</link>
         <description>Cul de Sac by Richard Thompson</description>
-        <lastBuildDate>Thu, 24 May 2018 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 May 2018 06:41:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Richard Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/culdesac.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cul de Sac by Richard Thompson for May 25, 2018 ]]></title>
+            <link>https://www.gocomics.com/culdesac/2018/05/25</link>
+            <guid>https://www.gocomics.com/culdesac/2018/05/25</guid>
+            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7777f5c03a90013632d1005056a9545d" alt="Cul de Sac by Richard Thompson for May 25, 2018 " title="Cul de Sac by Richard Thompson for May 25, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cul de Sac by Richard Thompson for May 24, 2018 ]]></title>
+            <link>https://www.gocomics.com/culdesac/2018/05/24</link>
+            <guid>https://www.gocomics.com/culdesac/2018/05/24</guid>
+            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/75f395a03a90013632d1005056a9545d" alt="Cul de Sac by Richard Thompson for May 24, 2018 " title="Cul de Sac by Richard Thompson for May 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Cul de Sac by Richard Thompson for May 23, 2018 ]]></title>
             <link>https://www.gocomics.com/culdesac/2018/05/23</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/culdesac/2018/05/01</guid>
             <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53dc1620294101362c53005056a9545d" alt="Cul de Sac by Richard Thompson for May 1, 2018 " title="Cul de Sac by Richard Thompson for May 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cul de Sac by Richard Thompson for Apr 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/culdesac/2018/04/30</link>
-            <guid>http://www.gocomics.com/culdesac/2018/04/30</guid>
-            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/73978b40293e01362c50005056a9545d" alt="Cul de Sac by Richard Thompson for Apr 30, 2018 " title="Cul de Sac by Richard Thompson for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cul de Sac by Richard Thompson for Apr 29, 2018 ]]></title>
-            <link>http://www.gocomics.com/culdesac/2018/04/29</link>
-            <guid>http://www.gocomics.com/culdesac/2018/04/29</guid>
-            <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8b34c6a0f908013519d5005056a9545d" alt="Cul de Sac by Richard Thompson for Apr 29, 2018 " title="Cul de Sac by Richard Thompson for Apr 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

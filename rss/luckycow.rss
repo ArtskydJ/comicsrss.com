@@ -4,7 +4,7 @@
         <title>Lucky Cow</title>
         <link>https://www.comicsrss.com/preview/luckycow</link>
         <description>Lucky Cow by Mark Pett</description>
-        <lastBuildDate>Thu, 24 May 2018 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 May 2018 06:41:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Mark Pett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/luckycow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucky Cow by Mark Pett for May 25, 2018 ]]></title>
+            <link>https://www.gocomics.com/luckycow/2018/05/25</link>
+            <guid>https://www.gocomics.com/luckycow/2018/05/25</guid>
+            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e11414782a9e102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for May 25, 2018 " title="Lucky Cow by Mark Pett for May 25, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lucky Cow by Mark Pett for May 24, 2018 ]]></title>
+            <link>https://www.gocomics.com/luckycow/2018/05/24</link>
+            <guid>https://www.gocomics.com/luckycow/2018/05/24</guid>
+            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/951c20a02a9a102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for May 24, 2018 " title="Lucky Cow by Mark Pett for May 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lucky Cow by Mark Pett for May 23, 2018 ]]></title>
             <link>https://www.gocomics.com/luckycow/2018/05/23</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/luckycow/2018/05/01</guid>
             <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a01fd8d02a99102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for May 1, 2018 " title="Lucky Cow by Mark Pett for May 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lucky Cow by Mark Pett for Apr 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/luckycow/2018/04/30</link>
-            <guid>http://www.gocomics.com/luckycow/2018/04/30</guid>
-            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/1c2731fe2a9e102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 30, 2018 " title="Lucky Cow by Mark Pett for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lucky Cow by Mark Pett for Apr 29, 2018 ]]></title>
-            <link>http://www.gocomics.com/luckycow/2018/04/29</link>
-            <guid>http://www.gocomics.com/luckycow/2018/04/29</guid>
-            <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b729e1582a9c102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Apr 29, 2018 " title="Lucky Cow by Mark Pett for Apr 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
