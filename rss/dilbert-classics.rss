@@ -4,7 +4,7 @@
         <title>Dilbert Classics</title>
         <link>https://www.comicsrss.com/preview/dilbert-classics</link>
         <description>Dilbert Classics by Scott Adams</description>
-        <lastBuildDate>Fri, 25 May 2018 06:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Adams</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dilbert-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dilbert Classics by Scott Adams for May 26, 2018 ]]></title>
+            <link>https://www.gocomics.com/dilbert-classics/2018/05/26</link>
+            <guid>https://www.gocomics.com/dilbert-classics/2018/05/26</guid>
+            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/34cd8e502c7101362dd3005056a9545d" alt="Dilbert Classics by Scott Adams for May 26, 2018 " title="Dilbert Classics by Scott Adams for May 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dilbert Classics by Scott Adams for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/dilbert-classics/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/dilbert-classics/2018/05/02</guid>
             <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12672e302c7101362dd3005056a9545d" alt="Dilbert Classics by Scott Adams for May 2, 2018 " title="Dilbert Classics by Scott Adams for May 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dilbert Classics by Scott Adams for May 1, 2018 ]]></title>
-            <link>http://www.gocomics.com/dilbert-classics/2018/05/01</link>
-            <guid>http://www.gocomics.com/dilbert-classics/2018/05/01</guid>
-            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/1111abd02c7101362dd3005056a9545d" alt="Dilbert Classics by Scott Adams for May 1, 2018 " title="Dilbert Classics by Scott Adams for May 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

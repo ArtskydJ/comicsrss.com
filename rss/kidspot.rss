@@ -4,7 +4,7 @@
         <title>KidSpot</title>
         <link>https://www.comicsrss.com/preview/kidspot</link>
         <description>KidSpot by Dan Thompson</description>
-        <lastBuildDate>Fri, 25 May 2018 06:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kidspot.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KidSpot by Dan Thompson for May 26, 2018 ]]></title>
+            <link>https://www.gocomics.com/kidspot/2018/05/26</link>
+            <guid>https://www.gocomics.com/kidspot/2018/05/26</guid>
+            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f8f1a7103545013630f6005056a9545d" alt="KidSpot by Dan Thompson for May 26, 2018 " title="KidSpot by Dan Thompson for May 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[KidSpot by Dan Thompson for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/kidspot/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/kidspot/2018/04/28</guid>
             <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/116224601e7c0136284f005056a9545d" alt="KidSpot by Dan Thompson for Apr 28, 2018 " title="KidSpot by Dan Thompson for Apr 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KidSpot by Dan Thompson for Apr 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/kidspot/2018/04/27</link>
-            <guid>http://www.gocomics.com/kidspot/2018/04/27</guid>
-            <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0fa659901e7c0136284f005056a9545d" alt="KidSpot by Dan Thompson for Apr 27, 2018 " title="KidSpot by Dan Thompson for Apr 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Lisa Benson</title>
         <link>https://www.comicsrss.com/preview/lisabenson</link>
         <description>Lisa Benson by Lisa Benson</description>
-        <lastBuildDate>Fri, 25 May 2018 06:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lisa Benson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lisabenson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lisa Benson by Lisa Benson for May 26, 2018 ]]></title>
+            <link>https://www.gocomics.com/lisabenson/2018/05/26</link>
+            <guid>https://www.gocomics.com/lisabenson/2018/05/26</guid>
+            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c0793bc042820136361b005056a9545d" alt="Lisa Benson by Lisa Benson for May 26, 2018 " title="Lisa Benson by Lisa Benson for May 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/lisabenson/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/lisabenson/2018/04/03</guid>
             <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/da18f3b019730136265c005056a9545d" alt="Lisa Benson by Lisa Benson for Apr 3, 2018 " title="Lisa Benson by Lisa Benson for Apr 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Benson by Lisa Benson for Mar 31, 2018 ]]></title>
-            <link>http://www.gocomics.com/lisabenson/2018/03/31</link>
-            <guid>http://www.gocomics.com/lisabenson/2018/03/31</guid>
-            <pubDate>Sat, 31 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7a5a91a0168101362576005056a9545d" alt="Lisa Benson by Lisa Benson for Mar 31, 2018 " title="Lisa Benson by Lisa Benson for Mar 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

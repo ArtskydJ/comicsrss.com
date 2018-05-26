@@ -4,7 +4,7 @@
         <title>Motley Classics</title>
         <link>https://www.comicsrss.com/preview/motley-classics</link>
         <description>Motley Classics by Larry Wright</description>
-        <lastBuildDate>Fri, 25 May 2018 06:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Larry Wright</copyright>
         <atom:link href="https://www.comicsrss.com/rss/motley-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Motley Classics by Larry Wright for May 26, 2018 ]]></title>
+            <link>https://www.gocomics.com/motley-classics/2018/05/26</link>
+            <guid>https://www.gocomics.com/motley-classics/2018/05/26</guid>
+            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e6bc07c08be8012ee3c400163e41dd5b" alt="Motley Classics by Larry Wright for May 26, 2018 " title="Motley Classics by Larry Wright for May 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Motley Classics by Larry Wright for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/motley-classics/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/motley-classics/2018/04/28</guid>
             <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/6d8888d08c08012ee3c400163e41dd5b" alt="Motley Classics by Larry Wright for Apr 28, 2018 " title="Motley Classics by Larry Wright for Apr 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Motley Classics by Larry Wright for Apr 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/motley-classics/2018/04/27</link>
-            <guid>http://www.gocomics.com/motley-classics/2018/04/27</guid>
-            <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/2bba18908bfe012ee3c400163e41dd5b" alt="Motley Classics by Larry Wright for Apr 27, 2018 " title="Motley Classics by Larry Wright for Apr 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
