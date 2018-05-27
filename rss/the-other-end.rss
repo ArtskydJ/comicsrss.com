@@ -4,7 +4,7 @@
         <title>The Other End</title>
         <link>https://www.comicsrss.com/preview/the-other-end</link>
         <description>The Other End by Neil Kohney</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Neil Kohney</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-other-end.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Other End by Neil Kohney for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/the-other-end/2018/05/27</link>
+            <guid>https://www.gocomics.com/the-other-end/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/36a7b90043640136364e005056a9545d" alt="The Other End by Neil Kohney for May 27, 2018 " title="The Other End by Neil Kohney for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Other End by Neil Kohney for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/the-other-end/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/the-other-end/2018/04/15</guid>
             <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e1a13ce0227301362a03005056a9545d" alt="The Other End by Neil Kohney for Apr 15, 2018 " title="The Other End by Neil Kohney for Apr 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Other End by Neil Kohney for Apr 14, 2018 ]]></title>
-            <link>http://www.gocomics.com/the-other-end/2018/04/14</link>
-            <guid>http://www.gocomics.com/the-other-end/2018/04/14</guid>
-            <pubDate>Sat, 14 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d885485020d001362992005056a9545d" alt="The Other End by Neil Kohney for Apr 14, 2018 " title="The Other End by Neil Kohney for Apr 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>One Big Happy</title>
         <link>https://www.comicsrss.com/preview/onebighappy</link>
         <description>One Big Happy by Rick Detorie</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rick Detorie</copyright>
         <atom:link href="https://www.comicsrss.com/rss/onebighappy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One Big Happy by Rick Detorie for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/onebighappy/2018/05/27</link>
+            <guid>https://www.gocomics.com/onebighappy/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/360378205e23012ee3bf00163e41dd5b" alt="One Big Happy by Rick Detorie for May 27, 2018 " title="One Big Happy by Rick Detorie for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[One Big Happy by Rick Detorie for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/onebighappy/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/onebighappy/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ce9ffad05e25012ee3bf00163e41dd5b" alt="One Big Happy by Rick Detorie for May 3, 2018 " title="One Big Happy by Rick Detorie for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[One Big Happy by Rick Detorie for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/onebighappy/2018/05/02</link>
-            <guid>http://www.gocomics.com/onebighappy/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7bd159d05d37012ee3bd00163e41dd5b" alt="One Big Happy by Rick Detorie for May 2, 2018 " title="One Big Happy by Rick Detorie for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

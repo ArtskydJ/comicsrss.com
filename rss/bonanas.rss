@@ -4,7 +4,7 @@
         <title>Bo Nanas</title>
         <link>https://www.comicsrss.com/preview/bonanas</link>
         <description>Bo Nanas by John Kovaleski</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Kovaleski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bonanas.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bo Nanas by John Kovaleski for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/bonanas/2018/05/27</link>
+            <guid>https://www.gocomics.com/bonanas/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/15af5a10355a013630fe005056a9545d" alt="Bo Nanas by John Kovaleski for May 27, 2018 " title="Bo Nanas by John Kovaleski for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bo Nanas by John Kovaleski for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/bonanas/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bonanas/2018/05/01</guid>
             <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc6a38702c8201362de0005056a9545d" alt="Bo Nanas by John Kovaleski for May 1, 2018 " title="Bo Nanas by John Kovaleski for May 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bo Nanas by John Kovaleski for Apr 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/bonanas/2018/04/30</link>
-            <guid>http://www.gocomics.com/bonanas/2018/04/30</guid>
-            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fb6487a02c8201362de0005056a9545d" alt="Bo Nanas by John Kovaleski for Apr 30, 2018 " title="Bo Nanas by John Kovaleski for Apr 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

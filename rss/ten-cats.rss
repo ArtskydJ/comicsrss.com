@@ -4,7 +4,7 @@
         <title>Ten Cats</title>
         <link>https://www.comicsrss.com/preview/ten-cats</link>
         <description>Ten Cats by Graham Harrop</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Graham Harrop</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ten-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten Cats by Graham Harrop for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/ten-cats/2018/05/27</link>
+            <guid>https://www.gocomics.com/ten-cats/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/91ab2dd041bc013635c2005056a9545d" alt="Ten Cats by Graham Harrop for May 27, 2018 " title="Ten Cats by Graham Harrop for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ten Cats by Graham Harrop for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/ten-cats/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ten-cats/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/03856670308c01362f50005056a9545d" alt="Ten Cats by Graham Harrop for May 3, 2018 " title="Ten Cats by Graham Harrop for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ten Cats by Graham Harrop for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/ten-cats/2018/05/02</link>
-            <guid>http://www.gocomics.com/ten-cats/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5a19e4a02a2501362cc1005056a9545d" alt="Ten Cats by Graham Harrop for May 2, 2018 " title="Ten Cats by Graham Harrop for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Garfield</title>
         <link>https://www.comicsrss.com/preview/garfield</link>
         <description>Garfield by Jim Davis</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Davis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/garfield.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Garfield by Jim Davis for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/garfield/2018/05/27</link>
+            <guid>https://www.gocomics.com/garfield/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b19db8c019bc01362691005056a9545d" alt="Garfield by Jim Davis for May 27, 2018 " title="Garfield by Jim Davis for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Garfield by Jim Davis for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/garfield/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/garfield/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/314dc9b00df3013621e9005056a9545d" alt="Garfield by Jim Davis for May 3, 2018 " title="Garfield by Jim Davis for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Garfield by Jim Davis for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/garfield/2018/05/02</link>
-            <guid>http://www.gocomics.com/garfield/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/268eeb000df3013621e9005056a9545d" alt="Garfield by Jim Davis for May 2, 2018 " title="Garfield by Jim Davis for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

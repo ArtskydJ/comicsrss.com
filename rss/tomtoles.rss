@@ -4,7 +4,7 @@
         <title>Tom Toles</title>
         <link>https://www.comicsrss.com/preview/tomtoles</link>
         <description>Tom Toles by Tom Toles</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tom Toles</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tomtoles.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tom Toles by Tom Toles for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/tomtoles/2018/05/27</link>
+            <guid>https://www.gocomics.com/tomtoles/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0bc61450428201363619005056a9545d" alt="Tom Toles by Tom Toles for May 27, 2018 " title="Tom Toles by Tom Toles for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/tomtoles/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/tomtoles/2018/04/29</guid>
             <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/077ac7e02c7901362dd8005056a9545d" alt="Tom Toles by Tom Toles for Apr 29, 2018 " title="Tom Toles by Tom Toles for Apr 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tom Toles by Tom Toles for Apr 27, 2018 ]]></title>
-            <link>http://www.gocomics.com/tomtoles/2018/04/27</link>
-            <guid>http://www.gocomics.com/tomtoles/2018/04/27</guid>
-            <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/921a3ef02ba901362d68005056a9545d" alt="Tom Toles by Tom Toles for Apr 27, 2018 " title="Tom Toles by Tom Toles for Apr 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

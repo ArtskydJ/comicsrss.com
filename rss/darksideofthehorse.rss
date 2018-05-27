@@ -4,7 +4,7 @@
         <title>Dark Side of the Horse</title>
         <link>https://www.comicsrss.com/preview/darksideofthehorse</link>
         <description>Dark Side of the Horse by Samson</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Samson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/darksideofthehorse.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dark Side of the Horse by Samson for May 26, 2018 ]]></title>
+            <link>https://www.gocomics.com/darksideofthehorse/2018/05/26</link>
+            <guid>https://www.gocomics.com/darksideofthehorse/2018/05/26</guid>
+            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/068c0b2042fb0136363d005056a9545d" alt="Dark Side of the Horse by Samson for May 26, 2018 " title="Dark Side of the Horse by Samson for May 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dark Side of the Horse by Samson for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/darksideofthehorse/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/darksideofthehorse/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07939e7028eb01362c43005056a9545d" alt="Dark Side of the Horse by Samson for Apr 23, 2018 " title="Dark Side of the Horse by Samson for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dark Side of the Horse by Samson for Apr 22, 2018 ]]></title>
-            <link>http://www.gocomics.com/darksideofthehorse/2018/04/22</link>
-            <guid>http://www.gocomics.com/darksideofthehorse/2018/04/22</guid>
-            <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/278264a0282801362c21005056a9545d" alt="Dark Side of the Horse by Samson for Apr 22, 2018 " title="Dark Side of the Horse by Samson for Apr 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Diamond Lil</title>
         <link>https://www.comicsrss.com/preview/diamondlil</link>
         <description>Diamond Lil by Brett Koth</description>
-        <lastBuildDate>Sat, 26 May 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 May 2018 06:31:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brett Koth</copyright>
         <atom:link href="https://www.comicsrss.com/rss/diamondlil.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Diamond Lil by Brett Koth for May 27, 2018 ]]></title>
+            <link>https://www.gocomics.com/diamondlil/2018/05/27</link>
+            <guid>https://www.gocomics.com/diamondlil/2018/05/27</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a6467e803e620136344d005056a9545d" alt="Diamond Lil by Brett Koth for May 27, 2018 " title="Diamond Lil by Brett Koth for May 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Diamond Lil by Brett Koth for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/diamondlil/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/diamondlil/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a550c770286201362c27005056a9545d" alt="Diamond Lil by Brett Koth for May 3, 2018 " title="Diamond Lil by Brett Koth for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Diamond Lil by Brett Koth for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/diamondlil/2018/05/02</link>
-            <guid>http://www.gocomics.com/diamondlil/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a7b5efe0286201362c27005056a9545d" alt="Diamond Lil by Brett Koth for May 2, 2018 " title="Diamond Lil by Brett Koth for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
