@@ -4,7 +4,7 @@
         <title>Sylvia</title>
         <link>https://www.comicsrss.com/preview/sylvia</link>
         <description>Sylvia by Nicole Hollander</description>
-        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 May 2018 06:33:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nicole Hollander</copyright>
         <atom:link href="https://www.comicsrss.com/rss/sylvia.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sylvia by Nicole Hollander for May 28, 2018 ]]></title>
+            <link>https://www.gocomics.com/sylvia/2018/05/28</link>
+            <guid>https://www.gocomics.com/sylvia/2018/05/28</guid>
+            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8b423e204757012d63c000163e41dd5b" alt="Sylvia by Nicole Hollander for May 28, 2018 " title="Sylvia by Nicole Hollander for May 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Sylvia by Nicole Hollander for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/sylvia/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/sylvia/2018/04/30</guid>
             <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b4f284306f61012d63e900163e41dd5b" alt="Sylvia by Nicole Hollander for Apr 30, 2018 " title="Sylvia by Nicole Hollander for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia by Nicole Hollander for Apr 28, 2018 ]]></title>
-            <link>http://www.gocomics.com/sylvia/2018/04/28</link>
-            <guid>http://www.gocomics.com/sylvia/2018/04/28</guid>
-            <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/abb47eb06f61012d63e900163e41dd5b" alt="Sylvia by Nicole Hollander for Apr 28, 2018 " title="Sylvia by Nicole Hollander for Apr 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

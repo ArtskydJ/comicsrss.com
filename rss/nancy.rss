@@ -4,7 +4,7 @@
         <title>Nancy</title>
         <link>https://www.comicsrss.com/preview/nancy</link>
         <description>Nancy by Olivia Jaimes</description>
-        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 May 2018 06:33:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Olivia Jaimes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nancy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nancy by Olivia Jaimes for May 28, 2018 ]]></title>
+            <link>https://www.gocomics.com/nancy/2018/05/28</link>
+            <guid>https://www.gocomics.com/nancy/2018/05/28</guid>
+            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3bf6c8403f4d0136348b005056a9545d" alt="Nancy by Olivia Jaimes for May 28, 2018 " title="Nancy by Olivia Jaimes for May 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nancy by Olivia Jaimes for May 27, 2018 ]]></title>
             <link>https://www.gocomics.com/nancy/2018/05/27</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/nancy/2018/05/04</guid>
             <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/883ef880294101362c53005056a9545d" alt="Nancy by Olivia Jaimes for May 4, 2018 " title="Nancy by Olivia Jaimes for May 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nancy by Olivia Jaimes for May 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/nancy/2018/05/03</link>
-            <guid>http://www.gocomics.com/nancy/2018/05/03</guid>
-            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/809fef30293e01362c50005056a9545d" alt="Nancy by Olivia Jaimes for May 3, 2018 " title="Nancy by Olivia Jaimes for May 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>In the Sticks</title>
         <link>https://www.comicsrss.com/preview/inthesticks</link>
         <description>In the Sticks by Nathan Cooper</description>
-        <lastBuildDate>Sun, 27 May 2018 06:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 May 2018 06:33:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nathan Cooper</copyright>
         <atom:link href="https://www.comicsrss.com/rss/inthesticks.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the Sticks by Nathan Cooper for May 28, 2018 ]]></title>
+            <link>https://www.gocomics.com/inthesticks/2018/05/28</link>
+            <guid>https://www.gocomics.com/inthesticks/2018/05/28</guid>
+            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/80c9d7607098012f2fdd00163e41dd5b" alt="In the Sticks by Nathan Cooper for May 28, 2018 " title="In the Sticks by Nathan Cooper for May 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[In the Sticks by Nathan Cooper for May 26, 2018 ]]></title>
             <link>https://www.gocomics.com/inthesticks/2018/05/26</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/inthesticks/2018/04/30</guid>
             <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b1ad4bf07098012f2fdd00163e41dd5b" alt="In the Sticks by Nathan Cooper for Apr 30, 2018 " title="In the Sticks by Nathan Cooper for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[In the Sticks by Nathan Cooper for Apr 28, 2018 ]]></title>
-            <link>http://www.gocomics.com/inthesticks/2018/04/28</link>
-            <guid>http://www.gocomics.com/inthesticks/2018/04/28</guid>
-            <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0d3fa0f07098012f2fdd00163e41dd5b" alt="In the Sticks by Nathan Cooper for Apr 28, 2018 " title="In the Sticks by Nathan Cooper for Apr 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

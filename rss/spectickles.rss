@@ -4,7 +4,7 @@
         <title>Spectickles</title>
         <link>https://www.comicsrss.com/preview/spectickles</link>
         <description>Spectickles by Bill Abbott</description>
-        <lastBuildDate>Sun, 27 May 2018 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 May 2018 06:33:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Abbott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/spectickles.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spectickles by Bill Abbott for May 28, 2018 ]]></title>
+            <link>https://www.gocomics.com/spectickles/2018/05/28</link>
+            <guid>https://www.gocomics.com/spectickles/2018/05/28</guid>
+            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6ca622003e630136344d005056a9545d" alt="Spectickles by Bill Abbott for May 28, 2018 " title="Spectickles by Bill Abbott for May 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Spectickles by Bill Abbott for May 27, 2018 ]]></title>
             <link>https://www.gocomics.com/spectickles/2018/05/27</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/spectickles/2018/05/04</guid>
             <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/cffdd000286201362c27005056a9545d" alt="Spectickles by Bill Abbott for May 4, 2018 " title="Spectickles by Bill Abbott for May 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Spectickles by Bill Abbott for May 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/spectickles/2018/05/03</link>
-            <guid>http://www.gocomics.com/spectickles/2018/05/03</guid>
-            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ce729930286201362c27005056a9545d" alt="Spectickles by Bill Abbott for May 3, 2018 " title="Spectickles by Bill Abbott for May 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
