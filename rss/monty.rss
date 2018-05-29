@@ -4,7 +4,7 @@
         <title>Monty</title>
         <link>https://www.comicsrss.com/preview/monty</link>
         <description>Monty by Jim Meddick</description>
-        <lastBuildDate>Mon, 28 May 2018 06:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Meddick</copyright>
         <atom:link href="https://www.comicsrss.com/rss/monty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monty by Jim Meddick for May 29, 2018 ]]></title>
+            <link>https://www.gocomics.com/monty/2018/05/29</link>
+            <guid>https://www.gocomics.com/monty/2018/05/29</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/28c67140404601363515005056a9545d" alt="Monty by Jim Meddick for May 29, 2018 " title="Monty by Jim Meddick for May 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Monty by Jim Meddick for May 28, 2018 ]]></title>
             <link>https://www.gocomics.com/monty/2018/05/28</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/monty/2018/05/05</guid>
             <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8180fb402a4501362cd6005056a9545d" alt="Monty by Jim Meddick for May 5, 2018 " title="Monty by Jim Meddick for May 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monty by Jim Meddick for May 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/monty/2018/05/04</link>
-            <guid>http://www.gocomics.com/monty/2018/05/04</guid>
-            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7fa70a702a4501362cd6005056a9545d" alt="Monty by Jim Meddick for May 4, 2018 " title="Monty by Jim Meddick for May 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

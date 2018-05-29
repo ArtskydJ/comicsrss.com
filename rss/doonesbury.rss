@@ -4,7 +4,7 @@
         <title>Doonesbury</title>
         <link>https://www.comicsrss.com/preview/doonesbury</link>
         <description>Doonesbury by Garry Trudeau</description>
-        <lastBuildDate>Mon, 28 May 2018 06:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Garry Trudeau</copyright>
         <atom:link href="https://www.comicsrss.com/rss/doonesbury.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doonesbury by Garry Trudeau for May 29, 2018 ]]></title>
+            <link>https://www.gocomics.com/doonesbury/2018/05/29</link>
+            <guid>https://www.gocomics.com/doonesbury/2018/05/29</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/84363df03f4e0136348d005056a9545d" alt="Doonesbury by Garry Trudeau for May 29, 2018 " title="Doonesbury by Garry Trudeau for May 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Doonesbury by Garry Trudeau for May 28, 2018 ]]></title>
             <link>https://www.gocomics.com/doonesbury/2018/05/28</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/doonesbury/2018/05/05</guid>
             <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a7501e10294201362c54005056a9545d" alt="Doonesbury by Garry Trudeau for May 5, 2018 " title="Doonesbury by Garry Trudeau for May 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Doonesbury by Garry Trudeau for May 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/doonesbury/2018/05/04</link>
-            <guid>http://www.gocomics.com/doonesbury/2018/05/04</guid>
-            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a5f451f0294201362c54005056a9545d" alt="Doonesbury by Garry Trudeau for May 4, 2018 " title="Doonesbury by Garry Trudeau for May 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

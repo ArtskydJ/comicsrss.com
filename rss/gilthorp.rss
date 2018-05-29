@@ -4,7 +4,7 @@
         <title>Gil Thorp</title>
         <link>https://www.comicsrss.com/preview/gilthorp</link>
         <description>Gil Thorp by Neal Rubin and Rod Whigham</description>
-        <lastBuildDate>Mon, 28 May 2018 06:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Neal Rubin and Rod Whigham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/gilthorp.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for May 29, 2018 ]]></title>
+            <link>https://www.gocomics.com/gilthorp/2018/05/29</link>
+            <guid>https://www.gocomics.com/gilthorp/2018/05/29</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/455bbcb034b8013630a6005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for May 29, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for May 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for May 28, 2018 ]]></title>
             <link>https://www.gocomics.com/gilthorp/2018/05/28</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/gilthorp/2018/05/01</guid>
             <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d94685e0243701362a8e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for May 1, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for May 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Apr 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/gilthorp/2018/04/30</link>
-            <guid>http://www.gocomics.com/gilthorp/2018/04/30</guid>
-            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d436cbd0243701362a8e005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Apr 30, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Apr 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
