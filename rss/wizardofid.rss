@@ -4,7 +4,7 @@
         <title>Wizard of Id</title>
         <link>https://www.comicsrss.com/preview/wizardofid</link>
         <description>Wizard of Id by Parker and Hart</description>
-        <lastBuildDate>Tue, 29 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 May 2018 06:33:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Parker and Hart</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wizardofid.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wizard of Id by Parker and Hart for May 30, 2018 ]]></title>
+            <link>https://www.gocomics.com/wizardofid/2018/05/30</link>
+            <guid>https://www.gocomics.com/wizardofid/2018/05/30</guid>
+            <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a5b0c9303ad4013632fd005056a9545d" alt="Wizard of Id by Parker and Hart for May 30, 2018 " title="Wizard of Id by Parker and Hart for May 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wizard of Id by Parker and Hart for May 29, 2018 ]]></title>
             <link>https://www.gocomics.com/wizardofid/2018/05/29</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/wizardofid/2018/05/06</guid>
             <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/89167bb02de101362e24005056a9545d" alt="Wizard of Id by Parker and Hart for May 6, 2018 " title="Wizard of Id by Parker and Hart for May 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wizard of Id by Parker and Hart for May 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/wizardofid/2018/05/05</link>
-            <guid>http://www.gocomics.com/wizardofid/2018/05/05</guid>
-            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/f0c40d701a9c01362705005056a9545d" alt="Wizard of Id by Parker and Hart for May 5, 2018 " title="Wizard of Id by Parker and Hart for May 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

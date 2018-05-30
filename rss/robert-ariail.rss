@@ -4,7 +4,7 @@
         <title>Robert Ariail</title>
         <link>https://www.comicsrss.com/preview/robert-ariail</link>
         <description>Robert Ariail by Robert Ariail</description>
-        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Robert Ariail</copyright>
         <atom:link href="https://www.comicsrss.com/rss/robert-ariail.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robert Ariail by Robert Ariail for May 29, 2018 ]]></title>
+            <link>https://www.gocomics.com/robert-ariail/2018/05/29</link>
+            <guid>https://www.gocomics.com/robert-ariail/2018/05/29</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/63c10f404589013636b5005056a9545d" alt="Robert Ariail by Robert Ariail for May 29, 2018 " title="Robert Ariail by Robert Ariail for May 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Robert Ariail by Robert Ariail for May 27, 2018 ]]></title>
             <link>https://www.gocomics.com/robert-ariail/2018/05/27</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/robert-ariail/2018/04/27</guid>
             <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1323d1b02c6401362dca005056a9545d" alt="Robert Ariail by Robert Ariail for Apr 27, 2018 " title="Robert Ariail by Robert Ariail for Apr 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Robert Ariail by Robert Ariail for Apr 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/robert-ariail/2018/04/24</link>
-            <guid>http://www.gocomics.com/robert-ariail/2018/04/24</guid>
-            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fb7590e02ac001362cfe005056a9545d" alt="Robert Ariail by Robert Ariail for Apr 24, 2018 " title="Robert Ariail by Robert Ariail for Apr 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

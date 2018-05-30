@@ -4,7 +4,7 @@
         <title>Peanuts</title>
         <link>https://www.comicsrss.com/preview/peanuts</link>
         <description>Peanuts by Charles Schulz</description>
-        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charles Schulz</copyright>
         <atom:link href="https://www.comicsrss.com/rss/peanuts.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peanuts by Charles Schulz for May 30, 2018 ]]></title>
+            <link>https://www.gocomics.com/peanuts/2018/05/30</link>
+            <guid>https://www.gocomics.com/peanuts/2018/05/30</guid>
+            <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/42fd88503a93013632d2005056a9545d" alt="Peanuts by Charles Schulz for May 30, 2018 " title="Peanuts by Charles Schulz for May 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Peanuts by Charles Schulz for May 29, 2018 ]]></title>
             <link>https://www.gocomics.com/peanuts/2018/05/29</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/peanuts/2018/05/06</guid>
             <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4578e6b0148201362481005056a9545d" alt="Peanuts by Charles Schulz for May 6, 2018 " title="Peanuts by Charles Schulz for May 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Peanuts by Charles Schulz for May 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/peanuts/2018/05/05</link>
-            <guid>http://www.gocomics.com/peanuts/2018/05/05</guid>
-            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9641c040294101362c53005056a9545d" alt="Peanuts by Charles Schulz for May 5, 2018 " title="Peanuts by Charles Schulz for May 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

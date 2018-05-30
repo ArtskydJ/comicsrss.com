@@ -4,7 +4,7 @@
         <title>Wee Pals</title>
         <link>https://www.comicsrss.com/preview/weepals</link>
         <description>Wee Pals by Morrie Turner</description>
-        <lastBuildDate>Tue, 29 May 2018 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 May 2018 06:33:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Morrie Turner</copyright>
         <atom:link href="https://www.comicsrss.com/rss/weepals.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wee Pals by Morrie Turner for May 30, 2018 ]]></title>
+            <link>https://www.gocomics.com/weepals/2018/05/30</link>
+            <guid>https://www.gocomics.com/weepals/2018/05/30</guid>
+            <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4bacda603e610136344d005056a9545d" alt="Wee Pals by Morrie Turner for May 30, 2018 " title="Wee Pals by Morrie Turner for May 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for May 29, 2018 ]]></title>
             <link>https://www.gocomics.com/weepals/2018/05/29</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/weepals/2018/05/06</guid>
             <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/d81927a02de001362e24005056a9545d" alt="Wee Pals by Morrie Turner for May 6, 2018 " title="Wee Pals by Morrie Turner for May 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wee Pals by Morrie Turner for May 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/weepals/2018/05/05</link>
-            <guid>http://www.gocomics.com/weepals/2018/05/05</guid>
-            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a89018d0286001362c27005056a9545d" alt="Wee Pals by Morrie Turner for May 5, 2018 " title="Wee Pals by Morrie Turner for May 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

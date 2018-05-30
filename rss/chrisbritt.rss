@@ -4,7 +4,7 @@
         <title>Chris Britt</title>
         <link>https://www.comicsrss.com/preview/chrisbritt</link>
         <description>Chris Britt by Chris Britt</description>
-        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Chris Britt</copyright>
         <atom:link href="https://www.comicsrss.com/rss/chrisbritt.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chris Britt by Chris Britt for May 29, 2018 ]]></title>
+            <link>https://www.gocomics.com/chrisbritt/2018/05/29</link>
+            <guid>https://www.gocomics.com/chrisbritt/2018/05/29</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6e7365a045c1013636e5005056a9545d" alt="Chris Britt by Chris Britt for May 29, 2018 " title="Chris Britt by Chris Britt for May 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Chris Britt by Chris Britt for May 25, 2018 ]]></title>
             <link>https://www.gocomics.com/chrisbritt/2018/05/25</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/chrisbritt/2018/04/13</guid>
             <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f854a130219b013629e1005056a9545d" alt="Chris Britt by Chris Britt for Apr 13, 2018 " title="Chris Britt by Chris Britt for Apr 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chris Britt by Chris Britt for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/chrisbritt/2018/04/09</link>
-            <guid>http://www.gocomics.com/chrisbritt/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/254982a01e770136284c005056a9545d" alt="Chris Britt by Chris Britt for Apr 9, 2018 " title="Chris Britt by Chris Britt for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

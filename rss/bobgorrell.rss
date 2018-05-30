@@ -4,7 +4,7 @@
         <title>Bob Gorrell</title>
         <link>https://www.comicsrss.com/preview/bobgorrell</link>
         <description>Bob Gorrell by Bob Gorrell</description>
-        <lastBuildDate>Tue, 29 May 2018 06:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Bob Gorrell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bobgorrell.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bob Gorrell by Bob Gorrell for May 30, 2018 ]]></title>
+            <link>https://www.gocomics.com/bobgorrell/2018/05/30</link>
+            <guid>https://www.gocomics.com/bobgorrell/2018/05/30</guid>
+            <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/940d845045c1013636e5005056a9545d" alt="Bob Gorrell by Bob Gorrell for May 30, 2018 " title="Bob Gorrell by Bob Gorrell for May 30, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Bob Gorrell by Bob Gorrell for May 29, 2018 ]]></title>
+            <link>https://www.gocomics.com/bobgorrell/2018/05/29</link>
+            <guid>https://www.gocomics.com/bobgorrell/2018/05/29</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fdda7c50459f013636c6005056a9545d" alt="Bob Gorrell by Bob Gorrell for May 29, 2018 " title="Bob Gorrell by Bob Gorrell for May 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for May 23, 2018 ]]></title>
             <link>https://www.gocomics.com/bobgorrell/2018/05/23</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c86689301e9801362859005056a9545d" alt="Bob Gorrell by Bob Gorrell for Apr 10, 2018 " title="Bob Gorrell by Bob Gorrell for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bob Gorrell by Bob Gorrell for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/bobgorrell/2018/04/09</link>
-            <guid>http://www.gocomics.com/bobgorrell/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/27cf63f01e340136281a005056a9545d" alt="Bob Gorrell by Bob Gorrell for Apr 9, 2018 " title="Bob Gorrell by Bob Gorrell for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bob Gorrell by Bob Gorrell for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/bobgorrell/2018/04/04</link>
-            <guid>http://www.gocomics.com/bobgorrell/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/fa767f501a67013626de005056a9545d" alt="Bob Gorrell by Bob Gorrell for Apr 4, 2018 " title="Bob Gorrell by Bob Gorrell for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
