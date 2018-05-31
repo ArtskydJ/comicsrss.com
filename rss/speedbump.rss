@@ -4,7 +4,7 @@
         <title>Speed Bump</title>
         <link>https://www.comicsrss.com/preview/speedbump</link>
         <description>Speed Bump by Dave Coverly</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Coverly</copyright>
         <atom:link href="https://www.comicsrss.com/rss/speedbump.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speed Bump by Dave Coverly for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/speedbump/2018/05/31</link>
+            <guid>https://www.gocomics.com/speedbump/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9eea21f03ad4013632fd005056a9545d" alt="Speed Bump by Dave Coverly for May 31, 2018 " title="Speed Bump by Dave Coverly for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Speed Bump by Dave Coverly for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/speedbump/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/speedbump/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c4a20b0292601362c49005056a9545d" alt="Speed Bump by Dave Coverly for May 7, 2018 " title="Speed Bump by Dave Coverly for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speed Bump by Dave Coverly for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/speedbump/2018/05/06</link>
-            <guid>http://www.gocomics.com/speedbump/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b6eceab02de101362e24005056a9545d" alt="Speed Bump by Dave Coverly for May 6, 2018 " title="Speed Bump by Dave Coverly for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

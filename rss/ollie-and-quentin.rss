@@ -4,7 +4,7 @@
         <title>Ollie and Quentin</title>
         <link>https://www.comicsrss.com/preview/ollie-and-quentin</link>
         <description>Ollie and Quentin by Piers Baker</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Piers Baker</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ollie-and-quentin.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ollie and Quentin by Piers Baker for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/ollie-and-quentin/2018/05/31</link>
+            <guid>https://www.gocomics.com/ollie-and-quentin/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1b49b030d87201316c4e005056a9545d" alt="Ollie and Quentin by Piers Baker for May 31, 2018 " title="Ollie and Quentin by Piers Baker for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ollie and Quentin by Piers Baker for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/ollie-and-quentin/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ollie-and-quentin/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3751c4a0ca4f01316045005056a9545d" alt="Ollie and Quentin by Piers Baker for May 7, 2018 " title="Ollie and Quentin by Piers Baker for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ollie and Quentin by Piers Baker for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/ollie-and-quentin/2018/05/06</link>
-            <guid>http://www.gocomics.com/ollie-and-quentin/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e1e24680c6ef01315d63005056a9545d" alt="Ollie and Quentin by Piers Baker for May 6, 2018 " title="Ollie and Quentin by Piers Baker for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

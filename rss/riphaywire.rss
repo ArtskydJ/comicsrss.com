@@ -4,7 +4,7 @@
         <title>Rip Haywire</title>
         <link>https://www.comicsrss.com/preview/riphaywire</link>
         <description>Rip Haywire by Dan Thompson</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/riphaywire.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rip Haywire by Dan Thompson for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/riphaywire/2018/05/31</link>
+            <guid>https://www.gocomics.com/riphaywire/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ae3127303f4e0136348d005056a9545d" alt="Rip Haywire by Dan Thompson for May 31, 2018 " title="Rip Haywire by Dan Thompson for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rip Haywire by Dan Thompson for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/riphaywire/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/riphaywire/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06588d202ed501362e71005056a9545d" alt="Rip Haywire by Dan Thompson for May 7, 2018 " title="Rip Haywire by Dan Thompson for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rip Haywire by Dan Thompson for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/riphaywire/2018/05/06</link>
-            <guid>http://www.gocomics.com/riphaywire/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d0ea506031fc01362fe6005056a9545d" alt="Rip Haywire by Dan Thompson for May 6, 2018 " title="Rip Haywire by Dan Thompson for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>FoxTrot Classics</title>
         <link>https://www.comicsrss.com/preview/foxtrotclassics</link>
         <description>FoxTrot Classics by Bill Amend</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Amend</copyright>
         <atom:link href="https://www.comicsrss.com/rss/foxtrotclassics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FoxTrot Classics by Bill Amend for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/foxtrotclassics/2018/05/31</link>
+            <guid>https://www.gocomics.com/foxtrotclassics/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3b1f3eb02112013629a7005056a9545d" alt="FoxTrot Classics by Bill Amend for May 31, 2018 " title="FoxTrot Classics by Bill Amend for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[FoxTrot Classics by Bill Amend for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/foxtrotclassics/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/foxtrotclassics/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa2720f0f59f013518f1005056a9545d" alt="FoxTrot Classics by Bill Amend for May 3, 2018 " title="FoxTrot Classics by Bill Amend for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FoxTrot Classics by Bill Amend for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/foxtrotclassics/2018/05/02</link>
-            <guid>http://www.gocomics.com/foxtrotclassics/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/bd2aaba0f59f013518f1005056a9545d" alt="FoxTrot Classics by Bill Amend for May 2, 2018 " title="FoxTrot Classics by Bill Amend for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

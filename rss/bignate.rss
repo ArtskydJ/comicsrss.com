@@ -4,7 +4,7 @@
         <title>Big Nate</title>
         <link>https://www.comicsrss.com/preview/bignate</link>
         <description>Big Nate by Lincoln Peirce</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lincoln Peirce</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bignate.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Nate by Lincoln Peirce for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/bignate/2018/05/31</link>
+            <guid>https://www.gocomics.com/bignate/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/19869ca03f4d0136348b005056a9545d" alt="Big Nate by Lincoln Peirce for May 31, 2018 " title="Big Nate by Lincoln Peirce for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Big Nate by Lincoln Peirce for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/bignate/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bignate/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4bfaf7d0294101362c53005056a9545d" alt="Big Nate by Lincoln Peirce for May 7, 2018 " title="Big Nate by Lincoln Peirce for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Big Nate by Lincoln Peirce for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/bignate/2018/05/06</link>
-            <guid>http://www.gocomics.com/bignate/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/175f05d0055f01361edb005056a9545d" alt="Big Nate by Lincoln Peirce for May 6, 2018 " title="Big Nate by Lincoln Peirce for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

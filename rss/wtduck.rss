@@ -4,7 +4,7 @@
         <title>W.T. Duck</title>
         <link>https://www.comicsrss.com/preview/wtduck</link>
         <description>W.T. Duck by Aaron Johnson</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Aaron Johnson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wtduck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[W.T. Duck by Aaron Johnson for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/wtduck/2018/05/31</link>
+            <guid>https://www.gocomics.com/wtduck/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c51ac4b0bd15012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for May 31, 2018 " title="W.T. Duck by Aaron Johnson for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[W.T. Duck by Aaron Johnson for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/wtduck/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/wtduck/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/82716560b316012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for May 7, 2018 " title="W.T. Duck by Aaron Johnson for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W.T. Duck by Aaron Johnson for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/wtduck/2018/05/06</link>
-            <guid>http://www.gocomics.com/wtduck/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c89435709432012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for May 6, 2018 " title="W.T. Duck by Aaron Johnson for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

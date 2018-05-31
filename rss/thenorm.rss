@@ -4,7 +4,7 @@
         <title>The Norm Classics</title>
         <link>https://www.comicsrss.com/preview/thenorm</link>
         <description>The Norm Classics by Michael Jantze</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Jantze</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thenorm.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Norm Classics by Michael Jantze for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/thenorm/2018/05/31</link>
+            <guid>https://www.gocomics.com/thenorm/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/27ed5c60d8a901350db8005056a9545d" alt="The Norm Classics by Michael Jantze for May 31, 2018 " title="The Norm Classics by Michael Jantze for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Norm Classics by Michael Jantze for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/thenorm/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/thenorm/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1f740150d8a901350db8005056a9545d" alt="The Norm Classics by Michael Jantze for May 7, 2018 " title="The Norm Classics by Michael Jantze for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Norm Classics by Michael Jantze for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/thenorm/2018/05/06</link>
-            <guid>http://www.gocomics.com/thenorm/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/42c193a0d8a901350db8005056a9545d" alt="The Norm Classics by Michael Jantze for May 6, 2018 " title="The Norm Classics by Michael Jantze for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

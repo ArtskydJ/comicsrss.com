@@ -4,7 +4,7 @@
         <title>Nest Heads</title>
         <link>https://www.comicsrss.com/preview/nestheads</link>
         <description>Nest Heads by John Allen</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Allen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nestheads.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nest Heads by John Allen for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/nestheads/2018/05/31</link>
+            <guid>https://www.gocomics.com/nestheads/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b6af30603e610136344d005056a9545d" alt="Nest Heads by John Allen for May 31, 2018 " title="Nest Heads by John Allen for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nest Heads by John Allen for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/nestheads/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/nestheads/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2e3ecff02de101362e24005056a9545d" alt="Nest Heads by John Allen for May 7, 2018 " title="Nest Heads by John Allen for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nest Heads by John Allen for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/nestheads/2018/05/06</link>
-            <guid>http://www.gocomics.com/nestheads/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/37e28ca02de101362e24005056a9545d" alt="Nest Heads by John Allen for May 6, 2018 " title="Nest Heads by John Allen for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

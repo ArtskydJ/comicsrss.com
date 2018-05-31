@@ -4,7 +4,7 @@
         <title>Bully</title>
         <link>https://www.comicsrss.com/preview/bully</link>
         <description>Bully by Andrew Paavola</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Andrew Paavola</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bully.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bully by Andrew Paavola for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/bully/2018/05/31</link>
+            <guid>https://www.gocomics.com/bully/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/77c8be0042d701363634005056a9545d" alt="Bully by Andrew Paavola for May 31, 2018 " title="Bully by Andrew Paavola for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bully by Andrew Paavola for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/bully/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bully/2018/05/02</guid>
             <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0563be802c6e01362dd1005056a9545d" alt="Bully by Andrew Paavola for May 2, 2018 " title="Bully by Andrew Paavola for May 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bully by Andrew Paavola for May 1, 2018 ]]></title>
-            <link>http://www.gocomics.com/bully/2018/05/01</link>
-            <guid>http://www.gocomics.com/bully/2018/05/01</guid>
-            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/07303ea02c6e01362dd1005056a9545d" alt="Bully by Andrew Paavola for May 1, 2018 " title="Bully by Andrew Paavola for May 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

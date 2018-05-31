@@ -4,7 +4,7 @@
         <title>Herman</title>
         <link>https://www.comicsrss.com/preview/herman</link>
         <description>Herman by Jim Unger</description>
-        <lastBuildDate>Wed, 30 May 2018 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Unger</copyright>
         <atom:link href="https://www.comicsrss.com/rss/herman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Herman by Jim Unger for May 31, 2018 ]]></title>
+            <link>https://www.gocomics.com/herman/2018/05/31</link>
+            <guid>https://www.gocomics.com/herman/2018/05/31</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/deb270203a3f013632b7005056a9545d" alt="Herman by Jim Unger for May 31, 2018 " title="Herman by Jim Unger for May 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/herman/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/herman/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/45eab45029bf01362c93005056a9545d" alt="Herman by Jim Unger for May 7, 2018 " title="Herman by Jim Unger for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Herman by Jim Unger for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/herman/2018/05/06</link>
-            <guid>http://www.gocomics.com/herman/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/db68385014440136246c005056a9545d" alt="Herman by Jim Unger for May 6, 2018 " title="Herman by Jim Unger for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
