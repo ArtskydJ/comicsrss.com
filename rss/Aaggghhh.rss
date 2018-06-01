@@ -4,7 +4,7 @@
         <title>Aaggghhh</title>
         <link>https://www.comicsrss.com/preview/Aaggghhh</link>
         <description>Aaggghhh by Ham</description>
-        <lastBuildDate>Thu, 31 May 2018 06:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jun 2018 06:34:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/Aaggghhh.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aaggghhh by Ham for Jun 1, 2018 ]]></title>
+            <link>https://www.gocomics.com/Aaggghhh/2018/06/01</link>
+            <guid>https://www.gocomics.com/Aaggghhh/2018/06/01</guid>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/03512ce0442301363667005056a9545d" alt="Aaggghhh by Ham for Jun 1, 2018 " title="Aaggghhh by Ham for Jun 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Aaggghhh by Ham for May 31, 2018 ]]></title>
             <link>https://www.gocomics.com/Aaggghhh/2018/05/31</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/Aaggghhh/2018/05/08</guid>
             <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b610eca0294901362c57005056a9545d" alt="Aaggghhh by Ham for May 8, 2018 " title="Aaggghhh by Ham for May 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Aaggghhh by Ham for May 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/Aaggghhh/2018/05/07</link>
-            <guid>http://www.gocomics.com/Aaggghhh/2018/05/07</guid>
-            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/813768001f1201362882005056a9545d" alt="Aaggghhh by Ham for May 7, 2018 " title="Aaggghhh by Ham for May 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

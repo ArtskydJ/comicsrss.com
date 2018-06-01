@@ -4,7 +4,7 @@
         <title>TOBY</title>
         <link>https://www.comicsrss.com/preview/toby</link>
         <description>TOBY by Corey Pandolph</description>
-        <lastBuildDate>Thu, 31 May 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jun 2018 06:34:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Corey Pandolph</copyright>
         <atom:link href="https://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TOBY by Corey Pandolph for Jun 1, 2018 ]]></title>
+            <link>https://www.gocomics.com/toby/2018/06/01</link>
+            <guid>https://www.gocomics.com/toby/2018/06/01</guid>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3514e2f8f71d53f9971c05cf4bcf6028" alt="TOBY by Corey Pandolph for Jun 1, 2018 " title="TOBY by Corey Pandolph for Jun 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[TOBY by Corey Pandolph for May 30, 2018 ]]></title>
             <link>https://www.gocomics.com/toby/2018/05/30</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/toby/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9dbbcbc5c7c65b276ddc75dad068281e" alt="TOBY by Corey Pandolph for Apr 6, 2018 " title="TOBY by Corey Pandolph for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TOBY by Corey Pandolph for Apr 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/toby/2018/04/04</link>
-            <guid>http://www.gocomics.com/toby/2018/04/04</guid>
-            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8ce740047c1e333e3c406d0dc9a8b22a" alt="TOBY by Corey Pandolph for Apr 4, 2018 " title="TOBY by Corey Pandolph for Apr 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
