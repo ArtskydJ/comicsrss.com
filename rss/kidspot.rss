@@ -4,7 +4,7 @@
         <title>KidSpot</title>
         <link>https://www.comicsrss.com/preview/kidspot</link>
         <description>KidSpot by Dan Thompson</description>
-        <lastBuildDate>Fri, 01 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jun 2018 18:19:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kidspot.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KidSpot by Dan Thompson for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/kidspot/2018/06/04</link>
+            <guid>https://www.gocomics.com/kidspot/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4fb56140410f0136357b005056a9545d" alt="KidSpot by Dan Thompson for Jun 4, 2018 " title="KidSpot by Dan Thompson for Jun 4, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[KidSpot by Dan Thompson for Jun 2, 2018 ]]></title>
+            <link>https://www.gocomics.com/kidspot/2018/06/02</link>
+            <guid>https://www.gocomics.com/kidspot/2018/06/02</guid>
+            <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0c4212b03ac6013632f7005056a9545d" alt="KidSpot by Dan Thompson for Jun 2, 2018 " title="KidSpot by Dan Thompson for Jun 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[KidSpot by Dan Thompson for Jun 1, 2018 ]]></title>
             <link>https://www.gocomics.com/kidspot/2018/06/01</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/kidspot/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/65d3f1702a4501362cd6005056a9545d" alt="KidSpot by Dan Thompson for May 7, 2018 " title="KidSpot by Dan Thompson for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KidSpot by Dan Thompson for May 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/kidspot/2018/05/05</link>
-            <guid>http://www.gocomics.com/kidspot/2018/05/05</guid>
-            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4365074024c501362ad5005056a9545d" alt="KidSpot by Dan Thompson for May 5, 2018 " title="KidSpot by Dan Thompson for May 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KidSpot by Dan Thompson for May 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/kidspot/2018/05/04</link>
-            <guid>http://www.gocomics.com/kidspot/2018/05/04</guid>
-            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4837c89024c501362ad5005056a9545d" alt="KidSpot by Dan Thompson for May 4, 2018 " title="KidSpot by Dan Thompson for May 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

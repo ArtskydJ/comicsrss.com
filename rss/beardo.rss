@@ -4,7 +4,7 @@
         <title>Beardo</title>
         <link>https://www.comicsrss.com/preview/beardo</link>
         <description>Beardo by Dan Dougherty</description>
-        <lastBuildDate>Fri, 01 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jun 2018 18:19:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Dan Dougherty</copyright>
         <atom:link href="https://www.comicsrss.com/rss/beardo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beardo by Dan Dougherty for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/beardo/2018/06/04</link>
+            <guid>https://www.gocomics.com/beardo/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/81d899a049ca0136386b005056a9545d" alt="Beardo by Dan Dougherty for Jun 4, 2018 " title="Beardo by Dan Dougherty for Jun 4, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Beardo by Dan Dougherty for Jun 3, 2018 ]]></title>
+            <link>https://www.gocomics.com/beardo/2018/06/03</link>
+            <guid>https://www.gocomics.com/beardo/2018/06/03</guid>
+            <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bfa5b9b0489c01363838005056a9545d" alt="Beardo by Dan Dougherty for Jun 3, 2018 " title="Beardo by Dan Dougherty for Jun 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for May 31, 2018 ]]></title>
             <link>https://www.gocomics.com/beardo/2018/05/31</link>
@@ -174,20 +188,6 @@
             <guid>http://www.gocomics.com/beardo/2018/04/26</guid>
             <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/db7fd0002b3701362d44005056a9545d" alt="Beardo by Dan Dougherty for Apr 26, 2018 " title="Beardo by Dan Dougherty for Apr 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beardo by Dan Dougherty for Apr 25, 2018 ]]></title>
-            <link>http://www.gocomics.com/beardo/2018/04/25</link>
-            <guid>http://www.gocomics.com/beardo/2018/04/25</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4fa888502a6601362ce4005056a9545d" alt="Beardo by Dan Dougherty for Apr 25, 2018 " title="Beardo by Dan Dougherty for Apr 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beardo by Dan Dougherty for Apr 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/beardo/2018/04/24</link>
-            <guid>http://www.gocomics.com/beardo/2018/04/24</guid>
-            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4a74dfa029b601362c8d005056a9545d" alt="Beardo by Dan Dougherty for Apr 24, 2018 " title="Beardo by Dan Dougherty for Apr 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

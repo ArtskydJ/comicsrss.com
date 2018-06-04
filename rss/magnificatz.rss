@@ -4,7 +4,7 @@
         <title>Magnificatz</title>
         <link>https://www.comicsrss.com/preview/magnificatz</link>
         <description>Magnificatz by Steve Ogden</description>
-        <lastBuildDate>Fri, 01 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jun 2018 18:19:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Ogden</copyright>
         <atom:link href="https://www.comicsrss.com/rss/magnificatz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magnificatz by Steve Ogden for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/magnificatz/2018/06/04</link>
+            <guid>https://www.gocomics.com/magnificatz/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/048f6480498c0136385d005056a9545d" alt="Magnificatz by Steve Ogden for Jun 4, 2018 " title="Magnificatz by Steve Ogden for Jun 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Magnificatz by Steve Ogden for Jun 1, 2018 ]]></title>
             <link>https://www.gocomics.com/magnificatz/2018/06/01</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/magnificatz/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a79d39c02e5801362e42005056a9545d" alt="Magnificatz by Steve Ogden for May 3, 2018 " title="Magnificatz by Steve Ogden for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Magnificatz by Steve Ogden for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/magnificatz/2018/05/02</link>
-            <guid>http://www.gocomics.com/magnificatz/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a4db94a02e5801362e42005056a9545d" alt="Magnificatz by Steve Ogden for May 2, 2018 " title="Magnificatz by Steve Ogden for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

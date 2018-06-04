@@ -4,7 +4,7 @@
         <title>Making It</title>
         <link>https://www.comicsrss.com/preview/making-it</link>
         <description>Making It by Keith Robinson</description>
-        <lastBuildDate>Fri, 01 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jun 2018 18:19:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith Robinson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/making-it.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making It by Keith Robinson for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/making-it/2018/06/04</link>
+            <guid>https://www.gocomics.com/making-it/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c61f3460052b01311f74001dd8b71c47" alt="Making It by Keith Robinson for Jun 4, 2018 " title="Making It by Keith Robinson for Jun 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for May 31, 2018 ]]></title>
             <link>https://www.gocomics.com/making-it/2018/05/31</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/making-it/2018/03/29</guid>
             <pubDate>Thu, 29 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/7dad67e0f4db013011f9001dd8b71c47" alt="Making It by Keith Robinson for Mar 29, 2018 " title="Making It by Keith Robinson for Mar 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Making It by Keith Robinson for Mar 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/making-it/2018/03/26</link>
-            <guid>http://www.gocomics.com/making-it/2018/03/26</guid>
-            <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ba636d40f4ca013011ed001dd8b71c47" alt="Making It by Keith Robinson for Mar 26, 2018 " title="Making It by Keith Robinson for Mar 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

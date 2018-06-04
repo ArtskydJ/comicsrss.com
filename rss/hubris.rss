@@ -4,7 +4,7 @@
         <title>HUBRIS!</title>
         <link>https://www.comicsrss.com/preview/hubris</link>
         <description>HUBRIS! by Greg Cravens</description>
-        <lastBuildDate>Fri, 01 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jun 2018 18:19:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Greg Cravens</copyright>
         <atom:link href="https://www.comicsrss.com/rss/hubris.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HUBRIS! by Greg Cravens for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/hubris/2018/06/04</link>
+            <guid>https://www.gocomics.com/hubris/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4fb642404000013634d5005056a9545d" alt="HUBRIS! by Greg Cravens for Jun 4, 2018 " title="HUBRIS! by Greg Cravens for Jun 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[HUBRIS! by Greg Cravens for May 31, 2018 ]]></title>
             <link>https://www.gocomics.com/hubris/2018/05/31</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/hubris/2018/04/30</guid>
             <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4cde37b0234701362a32005056a9545d" alt="HUBRIS! by Greg Cravens for Apr 30, 2018 " title="HUBRIS! by Greg Cravens for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HUBRIS! by Greg Cravens for Apr 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/hubris/2018/04/26</link>
-            <guid>http://www.gocomics.com/hubris/2018/04/26</guid>
-            <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4c07aa70234701362a32005056a9545d" alt="HUBRIS! by Greg Cravens for Apr 26, 2018 " title="HUBRIS! by Greg Cravens for Apr 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
