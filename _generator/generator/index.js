@@ -6,6 +6,7 @@ var generateMainPageFromComicObjects = require('./generate-main-page-from-comic-
 var comicObjects = require('../tmp/_comic-objects')
 
 function writeFilesFromComicObjects(comicObjects) {
+	comicObjects = comicObjects.filter(Boolean)
 	var mainPageHtml = generateMainPageFromComicObjects(comicObjects)
 	writeFile('../../index.html', mainPageHtml)
 	
