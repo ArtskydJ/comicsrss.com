@@ -21,12 +21,17 @@ module.exports = function (comicObject) {
 	})
 
 	comicObject.comicStrips.forEach(function (comicStrip) {
+		var comicStripDate = new Date(comicStrip.date)
+
+		var comicStripLink = comicStripDate < new Date('2018-06-05T05:00:00.000Z') ?
+			comicStrip.url : // old link (required because the rss module doesn't seem to honor the `id` field)
+			'https://www.comicsrss.com/preview/' + comicObject.basename + '#' + comicStripDate.toISOString().slice(0, 10) // new link
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
-			link: comicStrip.url,
+			link: comicStripLink,
 			description: generateHtml(comicStrip),
 			author: [{ name: feedAuthor }],
-			date: new Date(comicStrip.date),
+			date: comicStripDate,
 			// Unfortunately, if the link changes, so will the ID.
 			// The links shouldn't be changing, so hopefully this doesn't become an issue.
 			id: makeId(comicStrip.url)
