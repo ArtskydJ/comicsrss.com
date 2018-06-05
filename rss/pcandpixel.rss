@@ -4,7 +4,7 @@
         <title>PC and Pixel</title>
         <link>https://www.comicsrss.com/preview/pcandpixel</link>
         <description>PC and Pixel by Tak Bui</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tak Bui</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pcandpixel.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PC and Pixel by Tak Bui for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/pcandpixel/2018/06/05</link>
+            <guid>https://www.gocomics.com/pcandpixel/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/50f3a39040b001363535005056a9545d" alt="PC and Pixel by Tak Bui for Jun 5, 2018 " title="PC and Pixel by Tak Bui for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[PC and Pixel by Tak Bui for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/pcandpixel/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/pcandpixel/2018/05/05</guid>
             <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a4e992902d4101362e11005056a9545d" alt="PC and Pixel by Tak Bui for May 5, 2018 " title="PC and Pixel by Tak Bui for May 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PC and Pixel by Tak Bui for May 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/pcandpixel/2018/05/04</link>
-            <guid>http://www.gocomics.com/pcandpixel/2018/05/04</guid>
-            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a30760502d4101362e11005056a9545d" alt="PC and Pixel by Tak Bui for May 4, 2018 " title="PC and Pixel by Tak Bui for May 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Dilbert en Español</title>
         <link>https://www.comicsrss.com/preview/dilbert-en-espanol</link>
         <description>Dilbert en Español by Scott Adams</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Adams</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dilbert-en-espanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dilbert en Español by Scott Adams for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/dilbert-en-espanol/2018/06/05</link>
+            <guid>https://www.gocomics.com/dilbert-en-espanol/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9a697860465101363722005056a9545d" alt="Dilbert en Español by Scott Adams for Jun 5, 2018 " title="Dilbert en Español by Scott Adams for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dilbert en Español by Scott Adams for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/dilbert-en-espanol/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/dilbert-en-espanol/2018/05/12</guid>
             <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/2a6a1fe034470136306b005056a9545d" alt="Dilbert en Español by Scott Adams for May 12, 2018 " title="Dilbert en Español by Scott Adams for May 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dilbert en Español by Scott Adams for May 11, 2018 ]]></title>
-            <link>https://www.gocomics.com/dilbert-en-espanol/2018/05/11</link>
-            <guid>https://www.gocomics.com/dilbert-en-espanol/2018/05/11</guid>
-            <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/28ebfe1034470136306b005056a9545d" alt="Dilbert en Español by Scott Adams for May 11, 2018 " title="Dilbert en Español by Scott Adams for May 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Messy Cow</title>
+        <link>https://www.comicsrss.com/preview/messy-cow</link>
+        <description>Messy Cow by Chen Weng</description>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Messy Cow</title>
+            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/mcow/large_mcow_rec_201805301337.jpg</url>
+            <link>https://www.comicsrss.com/preview/messy-cow</link>
+        </image>
+        <copyright>Copyright Chen Weng</copyright>
+        <atom:link href="https://www.comicsrss.com/rss/messy-cow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Messy Cow by Chen Weng for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/messy-cow/2018/06/04</link>
+            <guid>https://www.gocomics.com/messy-cow/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/35413350400d013634e2005056a9545d" alt="Messy Cow by Chen Weng for Jun 4, 2018 " title="Messy Cow by Chen Weng for Jun 4, 2018 ">]]></description>
+        </item>
+    </channel>
+</rss>

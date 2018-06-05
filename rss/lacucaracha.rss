@@ -4,7 +4,7 @@
         <title>La Cucaracha</title>
         <link>https://www.comicsrss.com/preview/lacucaracha</link>
         <description>La Cucaracha by Lalo Alcaraz</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lalo Alcaraz</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lacucaracha.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La Cucaracha by Lalo Alcaraz for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/lacucaracha/2018/06/05</link>
+            <guid>https://www.gocomics.com/lacucaracha/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d8b2b020458c013636b8005056a9545d" alt="La Cucaracha by Lalo Alcaraz for Jun 5, 2018 " title="La Cucaracha by Lalo Alcaraz for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[La Cucaracha by Lalo Alcaraz for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/lacucaracha/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/lacucaracha/2018/05/12</guid>
             <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/8ae9fb102f8601362eb5005056a9545d" alt="La Cucaracha by Lalo Alcaraz for May 12, 2018 " title="La Cucaracha by Lalo Alcaraz for May 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[La Cucaracha by Lalo Alcaraz for May 11, 2018 ]]></title>
-            <link>https://www.gocomics.com/lacucaracha/2018/05/11</link>
-            <guid>https://www.gocomics.com/lacucaracha/2018/05/11</guid>
-            <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/894909e02f8601362eb5005056a9545d" alt="La Cucaracha by Lalo Alcaraz for May 11, 2018 " title="La Cucaracha by Lalo Alcaraz for May 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

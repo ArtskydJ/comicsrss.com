@@ -4,7 +4,7 @@
         <title>Glasbergen Cartoons</title>
         <link>https://www.comicsrss.com/preview/glasbergen-cartoons</link>
         <description>Glasbergen Cartoons by Randy Glasbergen</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Randy Glasbergen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/glasbergen-cartoons.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/glasbergen-cartoons/2018/06/05</link>
+            <guid>https://www.gocomics.com/glasbergen-cartoons/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b266dae0497601363856005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jun 5, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/glasbergen-cartoons/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/glasbergen-cartoons/2018/05/10</guid>
             <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/12aca5b0280d01362c1a005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for May 10, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for May 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for May 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/glasbergen-cartoons/2018/05/09</link>
-            <guid>http://www.gocomics.com/glasbergen-cartoons/2018/05/09</guid>
-            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/210dab20280d01362c1a005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for May 9, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for May 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

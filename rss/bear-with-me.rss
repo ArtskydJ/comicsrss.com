@@ -4,7 +4,7 @@
         <title>Bear with Me</title>
         <link>https://www.comicsrss.com/preview/bear-with-me</link>
         <description>Bear with Me by Bob Scott</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bob Scott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bear-with-me.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bear with Me by Bob Scott for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/bear-with-me/2018/06/05</link>
+            <guid>https://www.gocomics.com/bear-with-me/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/14e7e0b049c201363868005056a9545d" alt="Bear with Me by Bob Scott for Jun 5, 2018 " title="Bear with Me by Bob Scott for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bear with Me by Bob Scott for Jun 3, 2018 ]]></title>
             <link>https://www.gocomics.com/bear-with-me/2018/06/03</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bear-with-me/2018/04/03</guid>
             <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/dd321d70192001362643005056a9545d" alt="Bear with Me by Bob Scott for Apr 3, 2018 " title="Bear with Me by Bob Scott for Apr 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bear with Me by Bob Scott for Mar 31, 2018 ]]></title>
-            <link>http://www.gocomics.com/bear-with-me/2018/03/31</link>
-            <guid>http://www.gocomics.com/bear-with-me/2018/03/31</guid>
-            <pubDate>Sat, 31 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/f9e87ec0129e013623b6005056a9545d" alt="Bear with Me by Bob Scott for Mar 31, 2018 " title="Bear with Me by Bob Scott for Mar 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Calvin and Hobbes en Español</title>
         <link>https://www.comicsrss.com/preview/calvinandhobbesespanol</link>
         <description>Calvin and Hobbes en Español by Bill Watterson</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Watterson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/calvinandhobbesespanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Calvin and Hobbes en Español by Bill Watterson for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/calvinandhobbesespanol/2018/06/05</link>
+            <guid>https://www.gocomics.com/calvinandhobbesespanol/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8c1f00d03f74013634a9005056a9545d" alt="Calvin and Hobbes en Español by Bill Watterson for Jun 5, 2018 " title="Calvin and Hobbes en Español by Bill Watterson for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Calvin and Hobbes en Español by Bill Watterson for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/calvinandhobbesespanol/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/calvinandhobbesespanol/2018/05/12</guid>
             <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f8d7b210200501362920005056a9545d" alt="Calvin and Hobbes en Español by Bill Watterson for May 12, 2018 " title="Calvin and Hobbes en Español by Bill Watterson for May 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Calvin and Hobbes en Español by Bill Watterson for May 11, 2018 ]]></title>
-            <link>https://www.gocomics.com/calvinandhobbesespanol/2018/05/11</link>
-            <guid>https://www.gocomics.com/calvinandhobbesespanol/2018/05/11</guid>
-            <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/04cb4820200601362920005056a9545d" alt="Calvin and Hobbes en Español by Bill Watterson for May 11, 2018 " title="Calvin and Hobbes en Español by Bill Watterson for May 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

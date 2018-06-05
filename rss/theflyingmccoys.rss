@@ -4,7 +4,7 @@
         <title>The Flying McCoys</title>
         <link>https://www.comicsrss.com/preview/theflyingmccoys</link>
         <description>The Flying McCoys by Glenn McCoy and Gary McCoy</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Glenn McCoy and Gary McCoy</copyright>
         <atom:link href="https://www.comicsrss.com/rss/theflyingmccoys.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Flying McCoys by Glenn McCoy and Gary McCoy for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/theflyingmccoys/2018/06/05</link>
+            <guid>https://www.gocomics.com/theflyingmccoys/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5c6f4b0045be013636e3005056a9545d" alt="The Flying McCoys by Glenn McCoy and Gary McCoy for Jun 5, 2018 " title="The Flying McCoys by Glenn McCoy and Gary McCoy for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Flying McCoys by Glenn McCoy and Gary McCoy for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/theflyingmccoys/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/theflyingmccoys/2018/05/12</guid>
             <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/696ee8302ef401362e7f005056a9545d" alt="The Flying McCoys by Glenn McCoy and Gary McCoy for May 12, 2018 " title="The Flying McCoys by Glenn McCoy and Gary McCoy for May 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Flying McCoys by Glenn McCoy and Gary McCoy for May 11, 2018 ]]></title>
-            <link>https://www.gocomics.com/theflyingmccoys/2018/05/11</link>
-            <guid>https://www.gocomics.com/theflyingmccoys/2018/05/11</guid>
-            <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/67eef4e02ef401362e7f005056a9545d" alt="The Flying McCoys by Glenn McCoy and Gary McCoy for May 11, 2018 " title="The Flying McCoys by Glenn McCoy and Gary McCoy for May 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

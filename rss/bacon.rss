@@ -4,7 +4,7 @@
         <title>bacon</title>
         <link>https://www.comicsrss.com/preview/bacon</link>
         <description>bacon by Lonnie Millsap</description>
-        <lastBuildDate>Tue, 05 Jun 2018 04:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lonnie Millsap</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bacon.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bacon by Lonnie Millsap for Jun 4, 2018 ]]></title>
+            <link>https://www.gocomics.com/bacon/2018/06/04</link>
+            <guid>https://www.gocomics.com/bacon/2018/06/04</guid>
+            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b74c2e004a090136387c005056a9545d" alt="bacon by Lonnie Millsap for Jun 4, 2018 " title="bacon by Lonnie Millsap for Jun 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[bacon by Lonnie Millsap for Jun 1, 2018 ]]></title>
             <link>https://www.gocomics.com/bacon/2018/06/01</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bacon/2018/04/09</guid>
             <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/09b586e01e0f0136280e005056a9545d" alt="bacon by Lonnie Millsap for Apr 9, 2018 " title="bacon by Lonnie Millsap for Apr 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[bacon by Lonnie Millsap for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/bacon/2018/04/06</link>
-            <guid>http://www.gocomics.com/bacon/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c28883701baa01362784005056a9545d" alt="bacon by Lonnie Millsap for Apr 6, 2018 " title="bacon by Lonnie Millsap for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

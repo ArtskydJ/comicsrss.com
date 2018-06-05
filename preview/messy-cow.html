@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Comics RSS for Messy Cow by Chen Weng</title>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<nav>
+		<a href="../">
+			<img src="../static/comicsrss-logo.svg" class="logo">
+			<span class="nav-header">Comics RSS</span>
+		</a>
+	</nav>
+
+	<p>
+		<a href="https://www.gocomics.com/messy-cow/2018/06/04">
+			<img src="../static/gocomics_sm.png" class="icon gocomics-icon">
+			View on Go Comics
+		</a>
+	</p>
+	<p>
+		<a href="https://feedly.com/i/subscription/feed/https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fmessy-cow.rss" target="_blank">
+			<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
+			View on Feedly
+		</a>
+	</p>
+	<p>
+		<a href="https://www.comicsrss.com/rss/messy-cow.rss" onclick="copy(this, event)">
+			<img src="../static/rss_sm.png" class="icon rss-icon">
+			Copy RSS URL
+		</a>
+		<span class="tooltip">
+			<span class="triangle"></span><span class="box">Copied!</span>
+		</span>
+	</p>
+
+	<p id="2018-06-04">
+			<div>
+				<span class="preview-header">Messy Cow by Chen Weng for Jun 4, 2018 </span>
+				<a href="#2018-06-04">
+					<img src="../static/link_sm.png" alt="Link to this comic strip">
+				</a>
+				<a href="https://www.gocomics.com/messy-cow/2018/06/04">
+					<img src="../static/gocomics_sm.png" alt="View on GoComics">
+				</a>
+			</div>
+			<img class="preview-comic" src="https://assets.amuniversal.com/35413350400d013634e2005056a9545d">
+		</p>
+
+	<p class="text-center">
+		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
+		Made by <a href="https://www.josephdykstra.com">Joseph Dykstra</a> -
+		<a href="https://www.patreon.com/josephdykstra">Patreon</a>
+		<br><span class="gray">Generated on Tue Jun 05 2018</span>
+	</p>
+
+	<script>
+		function copyToClipboard(text) {
+			var textArea = document.createElement('textarea')
+			textArea.className = 'copyable'
+			textArea.value = text
+			document.body.appendChild(textArea)
+			textArea.select()
+			var wasSuccessful = document.execCommand('copy')
+			document.body.removeChild(textArea)
+			return wasSuccessful
+		}
+
+		function showTooltip(self, text) {
+			var tooltip = document.querySelector('.tooltip')
+			tooltip.classList.add('visible')
+			setTimeout(function () {
+				tooltip.classList.remove('visible')
+			}, 1)
+		}
+
+		function copy(self, event) {
+			var text = self.href
+			if (copyToClipboard(text)) {
+				showTooltip(self)
+				event.preventDefault()
+			}
+			return false
+		}
+	</script>
+</body>
+</html>
