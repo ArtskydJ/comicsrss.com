@@ -25,7 +25,7 @@ module.exports = function (comicObject) {
 
 		var comicStripLink = comicStripDate < new Date('2018-06-05T05:00:00.000Z') ?
 			comicStrip.url : // old link (required because the rss module doesn't seem to honor the `id` field)
-			'https://www.comicsrss.com/preview/' + comicObject.basename + '#' + comicStripDate.toISOString().slice(0, 10) // new link
+			comicStrip.comicImageUrl // new link
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
 			link: comicStripLink,
