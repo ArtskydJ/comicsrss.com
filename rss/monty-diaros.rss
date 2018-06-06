@@ -4,7 +4,7 @@
         <title>Monty Diaros</title>
         <link>https://www.comicsrss.com/preview/monty-diaros</link>
         <description>Monty Diaros by Jim Meddick</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Meddick</copyright>
         <atom:link href="https://www.comicsrss.com/rss/monty-diaros.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monty Diaros by Jim Meddick for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/monty-diaros#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/monty-diaros#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9e15ff10468f0136375b005056a9545d" alt="Monty Diaros by Jim Meddick for Jun 6, 2018 " title="Monty Diaros by Jim Meddick for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Monty Diaros by Jim Meddick for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/monty-diaros/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/monty-diaros/2018/05/09</guid>
             <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e7806e60308e01362f52005056a9545d" alt="Monty Diaros by Jim Meddick for May 9, 2018 " title="Monty Diaros by Jim Meddick for May 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monty Diaros by Jim Meddick for May 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/monty-diaros/2018/05/08</link>
-            <guid>http://www.gocomics.com/monty-diaros/2018/05/08</guid>
-            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e666c9e0308e01362f52005056a9545d" alt="Monty Diaros by Jim Meddick for May 8, 2018 " title="Monty Diaros by Jim Meddick for May 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Matt Bors</title>
         <link>https://www.comicsrss.com/preview/matt-bors</link>
         <description>Matt Bors by Matt Bors</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Matt Bors</copyright>
         <atom:link href="https://www.comicsrss.com/rss/matt-bors.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Matt Bors by Matt Bors for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/matt-bors/2018/06/05</link>
+            <guid>https://www.gocomics.com/matt-bors/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c6b5ca404af8013638cf005056a9545d" alt="Matt Bors by Matt Bors for Jun 5, 2018 " title="Matt Bors by Matt Bors for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Matt Bors by Matt Bors for May 29, 2018 ]]></title>
             <link>https://www.gocomics.com/matt-bors/2018/05/29</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/matt-bors/2018/02/06</guid>
             <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a1b6a660ed820135156c005056a9545d" alt="Matt Bors by Matt Bors for Feb 6, 2018 " title="Matt Bors by Matt Bors for Feb 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Matt Bors by Matt Bors for Jan 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/matt-bors/2018/01/30</link>
-            <guid>http://www.gocomics.com/matt-bors/2018/01/30</guid>
-            <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/61190030e8000135133d005056a9545d" alt="Matt Bors by Matt Bors for Jan 30, 2018 " title="Matt Bors by Matt Bors for Jan 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

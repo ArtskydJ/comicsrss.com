@@ -4,7 +4,7 @@
         <title>Fred Basset en Español</title>
         <link>https://www.comicsrss.com/preview/fredbassetespanol</link>
         <description>Fred Basset en Español by Alex Graham</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Alex Graham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fredbassetespanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fred Basset en Español by Alex Graham for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/fredbassetespanol#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/fredbassetespanol#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3f186100468701363757005056a9545d" alt="Fred Basset en Español by Alex Graham for Jun 6, 2018 " title="Fred Basset en Español by Alex Graham for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Fred Basset en Español by Alex Graham for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/fredbassetespanol/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/fredbassetespanol/2018/05/13</guid>
             <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f6ca437024ff01362aed005056a9545d" alt="Fred Basset en Español by Alex Graham for May 13, 2018 " title="Fred Basset en Español by Alex Graham for May 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fred Basset en Español by Alex Graham for May 12, 2018 ]]></title>
-            <link>https://www.gocomics.com/fredbassetespanol/2018/05/12</link>
-            <guid>https://www.gocomics.com/fredbassetespanol/2018/05/12</guid>
-            <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/72fe9fe0308601362f4c005056a9545d" alt="Fred Basset en Español by Alex Graham for May 12, 2018 " title="Fred Basset en Español by Alex Graham for May 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

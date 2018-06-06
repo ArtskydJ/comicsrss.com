@@ -4,7 +4,7 @@
         <title>Barkeater Lake</title>
         <link>https://www.comicsrss.com/preview/barkeaterlake</link>
         <description>Barkeater Lake by Corey Pandolph</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Corey Pandolph</copyright>
         <atom:link href="https://www.comicsrss.com/rss/barkeaterlake.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barkeater Lake by Corey Pandolph for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/barkeaterlake#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/barkeaterlake#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/48417914566a102dbf94001438c0f03b" alt="Barkeater Lake by Corey Pandolph for Jun 6, 2018 " title="Barkeater Lake by Corey Pandolph for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Barkeater Lake by Corey Pandolph for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/barkeaterlake/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/barkeaterlake/2018/05/13</guid>
             <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7e6d541643d4102dbf94001438c0f03b" alt="Barkeater Lake by Corey Pandolph for May 13, 2018 " title="Barkeater Lake by Corey Pandolph for May 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Barkeater Lake by Corey Pandolph for May 12, 2018 ]]></title>
-            <link>https://www.gocomics.com/barkeaterlake/2018/05/12</link>
-            <guid>https://www.gocomics.com/barkeaterlake/2018/05/12</guid>
-            <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/337b3cde43d4102dbf94001438c0f03b" alt="Barkeater Lake by Corey Pandolph for May 12, 2018 " title="Barkeater Lake by Corey Pandolph for May 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

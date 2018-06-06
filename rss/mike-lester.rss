@@ -4,7 +4,7 @@
         <title>Mike Lester</title>
         <link>https://www.comicsrss.com/preview/mike-lester</link>
         <description>Mike Lester by Mike Lester</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Lester</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mike-lester.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike Lester by Mike Lester for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/mike-lester/2018/06/05</link>
+            <guid>https://www.gocomics.com/mike-lester/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4cd210904af5013638cd005056a9545d" alt="Mike Lester by Mike Lester for Jun 5, 2018 " title="Mike Lester by Mike Lester for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jun 2, 2018 ]]></title>
             <link>https://www.gocomics.com/mike-lester/2018/06/02</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/32399da01b060136272c005056a9545d" alt="Mike Lester by Mike Lester for Apr 5, 2018 " title="Mike Lester by Mike Lester for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mike Lester by Mike Lester for Apr 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/mike-lester/2018/04/03</link>
-            <guid>http://www.gocomics.com/mike-lester/2018/04/03</guid>
-            <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/827a51a018fe01362639005056a9545d" alt="Mike Lester by Mike Lester for Apr 3, 2018 " title="Mike Lester by Mike Lester for Apr 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

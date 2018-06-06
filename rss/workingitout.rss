@@ -4,7 +4,7 @@
         <title>Working It Out</title>
         <link>https://www.comicsrss.com/preview/workingitout</link>
         <description>Working It Out by Charlos Gary</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charlos Gary</copyright>
         <atom:link href="https://www.comicsrss.com/rss/workingitout.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Working It Out by Charlos Gary for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/workingitout#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/workingitout#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ed1f473043e10136365f005056a9545d" alt="Working It Out by Charlos Gary for Jun 6, 2018 " title="Working It Out by Charlos Gary for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Working It Out by Charlos Gary for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/workingitout/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/workingitout/2018/05/13</guid>
             <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7d3185d0336101363029005056a9545d" alt="Working It Out by Charlos Gary for May 13, 2018 " title="Working It Out by Charlos Gary for May 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Working It Out by Charlos Gary for May 12, 2018 ]]></title>
-            <link>https://www.gocomics.com/workingitout/2018/05/12</link>
-            <guid>https://www.gocomics.com/workingitout/2018/05/12</guid>
-            <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/502c4cd02de101362e24005056a9545d" alt="Working It Out by Charlos Gary for May 12, 2018 " title="Working It Out by Charlos Gary for May 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

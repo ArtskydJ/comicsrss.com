@@ -4,7 +4,7 @@
         <title>9 to 5</title>
         <link>https://www.comicsrss.com/preview/9to5</link>
         <description>9 to 5 by Harley Schwadron</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Harley Schwadron</copyright>
         <atom:link href="https://www.comicsrss.com/rss/9to5.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[9 to 5 by Harley Schwadron for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/9to5#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/9to5#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7a76cb80364a01363175005056a9545d" alt="9 to 5 by Harley Schwadron for Jun 6, 2018 " title="9 to 5 by Harley Schwadron for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[9 to 5 by Harley Schwadron for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/9to5/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/9to5/2018/05/09</guid>
             <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e12e161020490136293c005056a9545d" alt="9 to 5 by Harley Schwadron for May 9, 2018 " title="9 to 5 by Harley Schwadron for May 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9 to 5 by Harley Schwadron for May 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/9to5/2018/05/08</link>
-            <guid>http://www.gocomics.com/9to5/2018/05/08</guid>
-            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/e8b2fc4020490136293c005056a9545d" alt="9 to 5 by Harley Schwadron for May 8, 2018 " title="9 to 5 by Harley Schwadron for May 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Buni</title>
         <link>https://www.comicsrss.com/preview/buni</link>
         <description>Buni by Ryan Pagelow</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ryan Pagelow</copyright>
         <atom:link href="https://www.comicsrss.com/rss/buni.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buni by Ryan Pagelow for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/buni#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/buni#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cabd01204b710136391c005056a9545d" alt="Buni by Ryan Pagelow for Jun 6, 2018 " title="Buni by Ryan Pagelow for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Buni by Ryan Pagelow for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/buni/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/buni/2018/04/11</guid>
             <pubDate>Wed, 11 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/929b6b001f72013628bc005056a9545d" alt="Buni by Ryan Pagelow for Apr 11, 2018 " title="Buni by Ryan Pagelow for Apr 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Buni by Ryan Pagelow for Apr 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/buni/2018/04/09</link>
-            <guid>http://www.gocomics.com/buni/2018/04/09</guid>
-            <pubDate>Mon, 09 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/23c5f0b01dde01362806005056a9545d" alt="Buni by Ryan Pagelow for Apr 9, 2018 " title="Buni by Ryan Pagelow for Apr 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

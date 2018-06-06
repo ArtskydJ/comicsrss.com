@@ -4,7 +4,7 @@
         <title>Next Door Neighbors</title>
         <link>https://www.comicsrss.com/preview/next-door-neighbors</link>
         <description>Next Door Neighbors by Pat Sandy</description>
-        <lastBuildDate>Tue, 05 Jun 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jun 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Pat Sandy</copyright>
         <atom:link href="https://www.comicsrss.com/rss/next-door-neighbors.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Next Door Neighbors by Pat Sandy for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/preview/next-door-neighbors#2018-06-06</link>
+            <guid>https://www.comicsrss.com/preview/next-door-neighbors#2018-06-06</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cfd9667049b301363864005056a9545d" alt="Next Door Neighbors by Pat Sandy for Jun 6, 2018 " title="Next Door Neighbors by Pat Sandy for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Next Door Neighbors by Pat Sandy for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/next-door-neighbors/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/next-door-neighbors/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/1ffe250030b401362f5e005056a9545d" alt="Next Door Neighbors by Pat Sandy for May 3, 2018 " title="Next Door Neighbors by Pat Sandy for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Next Door Neighbors by Pat Sandy for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/next-door-neighbors/2018/05/02</link>
-            <guid>http://www.gocomics.com/next-door-neighbors/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/cbe9da902fe601362ef2005056a9545d" alt="Next Door Neighbors by Pat Sandy for May 2, 2018 " title="Next Door Neighbors by Pat Sandy for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
