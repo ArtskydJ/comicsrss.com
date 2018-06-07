@@ -18,6 +18,10 @@ function writeFilesFromComicObjects(comicObjects) {
 
 		var previewPage = generatePreviewPageFromComicObject(comicObject)
 		writeFile('../../preview/' + comicObject.basename + '.html', previewPage)
+
+		comicObject.comicStrips.slice(0, 5).forEach(function (comicStrip) {
+			writeFile('../../fixfeedlyscraper/' + comicStrip.comicImageUrl.split('/').pop() + '.html', `<img src="${comicStrip.comicImageUrl}">`)
+		})
 	})
 }
 
