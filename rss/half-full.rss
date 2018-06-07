@@ -4,7 +4,7 @@
         <title>Half Full</title>
         <link>https://www.comicsrss.com/preview/half-full</link>
         <description>Half Full by Maria Scrivan</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Maria Scrivan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/half-full.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Half Full by Maria Scrivan for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/46915ba03ce6013633ef005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/46915ba03ce6013633ef005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/46915ba03ce6013633ef005056a9545d" alt="Half Full by Maria Scrivan for Jun 7, 2018 " title="Half Full by Maria Scrivan for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Half Full by Maria Scrivan for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3e9497303ce6013633ef005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/half-full/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3a1a5940240c01362a7b005056a9545d" alt="Half Full by Maria Scrivan for May 14, 2018 " title="Half Full by Maria Scrivan for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Half Full by Maria Scrivan for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/half-full/2018/05/13</link>
-            <guid>https://www.gocomics.com/half-full/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0afc8680fcf001351b55005056a9545d" alt="Half Full by Maria Scrivan for May 13, 2018 " title="Half Full by Maria Scrivan for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

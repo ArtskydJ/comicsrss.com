@@ -4,7 +4,7 @@
         <title>Bottomliners</title>
         <link>https://www.comicsrss.com/preview/bottomliners</link>
         <description>Bottomliners by Eric and Bill Teitelbaum</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Eric and Bill Teitelbaum</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bottomliners.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bottomliners by Eric and Bill Teitelbaum for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/88ccd3f03fb8013634bf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/88ccd3f03fb8013634bf005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/88ccd3f03fb8013634bf005056a9545d" alt="Bottomliners by Eric and Bill Teitelbaum for Jun 7, 2018 " title="Bottomliners by Eric and Bill Teitelbaum for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bottomliners by Eric and Bill Teitelbaum for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/95a784b03fb8013634bf005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bottomliners/2018/05/10</guid>
             <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c90a16025ca01362b53005056a9545d" alt="Bottomliners by Eric and Bill Teitelbaum for May 10, 2018 " title="Bottomliners by Eric and Bill Teitelbaum for May 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bottomliners by Eric and Bill Teitelbaum for May 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/bottomliners/2018/05/09</link>
-            <guid>http://www.gocomics.com/bottomliners/2018/05/09</guid>
-            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/07c5344025ca01362b53005056a9545d" alt="Bottomliners by Eric and Bill Teitelbaum for May 9, 2018 " title="Bottomliners by Eric and Bill Teitelbaum for May 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

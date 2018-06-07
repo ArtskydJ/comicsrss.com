@@ -4,7 +4,7 @@
         <title>Michael Ramirez</title>
         <link>https://www.comicsrss.com/preview/michaelramirez</link>
         <description>Michael Ramirez by Michael Ramirez</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Ramirez</copyright>
         <atom:link href="https://www.comicsrss.com/rss/michaelramirez.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Ramirez by Michael Ramirez for Jun 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/dfe123804c0a01363971005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/dfe123804c0a01363971005056a9545d.html</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dfe123804c0a01363971005056a9545d" alt="Michael Ramirez by Michael Ramirez for Jun 6, 2018 " title="Michael Ramirez by Michael Ramirez for Jun 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Michael Ramirez by Michael Ramirez for Jun 5, 2018 ]]></title>
             <link>https://www.gocomics.com/michaelramirez/2018/06/05</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/michaelramirez/2018/05/08</guid>
             <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/071352003541013630f5005056a9545d" alt="Michael Ramirez by Michael Ramirez for May 8, 2018 " title="Michael Ramirez by Michael Ramirez for May 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Michael Ramirez by Michael Ramirez for May 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/michaelramirez/2018/05/07</link>
-            <guid>http://www.gocomics.com/michaelramirez/2018/05/07</guid>
-            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/25a1b12033d001363044005056a9545d" alt="Michael Ramirez by Michael Ramirez for May 7, 2018 " title="Michael Ramirez by Michael Ramirez for May 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

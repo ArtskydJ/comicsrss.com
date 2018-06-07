@@ -4,7 +4,7 @@
         <title>Life on Earth</title>
         <link>https://www.comicsrss.com/preview/life-on-earth</link>
         <description>Life on Earth by Ham</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/life-on-earth.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life on Earth by Ham for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1b2fe9d0442501363668005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1b2fe9d0442501363668005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1b2fe9d0442501363668005056a9545d" alt="Life on Earth by Ham for Jun 7, 2018 " title="Life on Earth by Ham for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Life on Earth by Ham for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1d70d6f0442501363668005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/life-on-earth/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a6aec580294901362c57005056a9545d" alt="Life on Earth by Ham for May 14, 2018 " title="Life on Earth by Ham for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Life on Earth by Ham for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/life-on-earth/2018/05/13</link>
-            <guid>https://www.gocomics.com/life-on-earth/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ab173d30294901362c57005056a9545d" alt="Life on Earth by Ham for May 13, 2018 " title="Life on Earth by Ham for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

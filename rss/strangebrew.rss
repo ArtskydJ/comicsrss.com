@@ -4,7 +4,7 @@
         <title>Strange Brew</title>
         <link>https://www.comicsrss.com/preview/strangebrew</link>
         <description>Strange Brew by John Deering</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Deering</copyright>
         <atom:link href="https://www.comicsrss.com/rss/strangebrew.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strange Brew by John Deering for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f5e4235043e20136365f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f5e4235043e20136365f005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f5e4235043e20136365f005056a9545d" alt="Strange Brew by John Deering for Jun 7, 2018 " title="Strange Brew by John Deering for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Strange Brew by John Deering for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ef4ddc9043e20136365f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/strangebrew/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/8a8e8a80336201363029005056a9545d" alt="Strange Brew by John Deering for May 14, 2018 " title="Strange Brew by John Deering for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Strange Brew by John Deering for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/strangebrew/2018/05/13</link>
-            <guid>https://www.gocomics.com/strangebrew/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9de115f0336101363029005056a9545d" alt="Strange Brew by John Deering for May 13, 2018 " title="Strange Brew by John Deering for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

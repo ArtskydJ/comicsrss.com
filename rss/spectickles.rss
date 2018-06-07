@@ -4,7 +4,7 @@
         <title>Spectickles</title>
         <link>https://www.comicsrss.com/preview/spectickles</link>
         <description>Spectickles by Bill Abbott</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Abbott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/spectickles.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spectickles by Bill Abbott for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/31f43c6045d9013636ef005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/31f43c6045d9013636ef005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/31f43c6045d9013636ef005056a9545d" alt="Spectickles by Bill Abbott for Jun 7, 2018 " title="Spectickles by Bill Abbott for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Spectickles by Bill Abbott for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2dd9ab5045d9013636ef005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/spectickles/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0aeb8f4034f4013630b3005056a9545d" alt="Spectickles by Bill Abbott for May 14, 2018 " title="Spectickles by Bill Abbott for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Spectickles by Bill Abbott for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/spectickles/2018/05/13</link>
-            <guid>https://www.gocomics.com/spectickles/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f3bb0790336201363029005056a9545d" alt="Spectickles by Bill Abbott for May 13, 2018 " title="Spectickles by Bill Abbott for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

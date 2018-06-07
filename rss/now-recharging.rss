@@ -4,7 +4,7 @@
         <title>Now Recharging</title>
         <link>https://www.comicsrss.com/preview/now-recharging</link>
         <description>Now Recharging by Maiji/Mary Huang</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Maiji/Mary Huang</copyright>
         <atom:link href="https://www.comicsrss.com/rss/now-recharging.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Now Recharging by Maiji/Mary Huang for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3ceaa750a4760135faad005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3ceaa750a4760135faad005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3ceaa750a4760135faad005056a9545d" alt="Now Recharging by Maiji/Mary Huang for Jun 7, 2018 " title="Now Recharging by Maiji/Mary Huang for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Now Recharging by Maiji/Mary Huang for Jun 4, 2018 ]]></title>
             <link>https://www.gocomics.com/now-recharging/2018/06/04</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/now-recharging/2018/04/02</guid>
             <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/2a93ee40359c0135d390005056a9545d" alt="Now Recharging by Maiji/Mary Huang for Apr 2, 2018 " title="Now Recharging by Maiji/Mary Huang for Apr 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Now Recharging by Maiji/Mary Huang for Mar 29, 2018 ]]></title>
-            <link>http://www.gocomics.com/now-recharging/2018/03/29</link>
-            <guid>http://www.gocomics.com/now-recharging/2018/03/29</guid>
-            <pubDate>Thu, 29 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/dd08271035990135d38f005056a9545d" alt="Now Recharging by Maiji/Mary Huang for Mar 29, 2018 " title="Now Recharging by Maiji/Mary Huang for Mar 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

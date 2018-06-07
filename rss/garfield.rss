@@ -4,7 +4,7 @@
         <title>Garfield</title>
         <link>https://www.comicsrss.com/preview/garfield</link>
         <description>Garfield by Jim Davis</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Davis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/garfield.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Garfield by Jim Davis for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/962fb770314f01362faf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/962fb770314f01362faf005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/962fb770314f01362faf005056a9545d" alt="Garfield by Jim Davis for Jun 7, 2018 " title="Garfield by Jim Davis for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Garfield by Jim Davis for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/94563970314f01362faf005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/garfield/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b2afed501eb601362863005056a9545d" alt="Garfield by Jim Davis for May 14, 2018 " title="Garfield by Jim Davis for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Garfield by Jim Davis for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/garfield/2018/05/13</link>
-            <guid>https://www.gocomics.com/garfield/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/95250f300ebc01362241005056a9545d" alt="Garfield by Jim Davis for May 13, 2018 " title="Garfield by Jim Davis for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

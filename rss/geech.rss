@@ -4,7 +4,7 @@
         <title>Geech</title>
         <link>https://www.comicsrss.com/preview/geech</link>
         <description>Geech by Jerry Bittle</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Bittle</copyright>
         <atom:link href="https://www.comicsrss.com/rss/geech.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Geech by Jerry Bittle for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5186fee099ed012e2f8200163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5186fee099ed012e2f8200163e41dd5b.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5186fee099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jun 7, 2018 " title="Geech by Jerry Bittle for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7a35132099ee012e2f8200163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/geech/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5c5c5ca099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for May 14, 2018 " title="Geech by Jerry Bittle for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Geech by Jerry Bittle for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/geech/2018/05/13</link>
-            <guid>https://www.gocomics.com/geech/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e3746b8099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for May 13, 2018 " title="Geech by Jerry Bittle for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

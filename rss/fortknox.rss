@@ -4,7 +4,7 @@
         <title>Fort Knox</title>
         <link>https://www.comicsrss.com/preview/fortknox</link>
         <description>Fort Knox by Paul Jon</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Jon</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fortknox.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fort Knox by Paul Jon for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a4dea31041b9013635be005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a4dea31041b9013635be005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a4dea31041b9013635be005056a9545d" alt="Fort Knox by Paul Jon for Jun 7, 2018 " title="Fort Knox by Paul Jon for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Fort Knox by Paul Jon for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a30b462041b9013635be005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/fortknox/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/809ea5302bda01362d98005056a9545d" alt="Fort Knox by Paul Jon for May 14, 2018 " title="Fort Knox by Paul Jon for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fort Knox by Paul Jon for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/fortknox/2018/05/13</link>
-            <guid>https://www.gocomics.com/fortknox/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a7aec380092501362021005056a9545d" alt="Fort Knox by Paul Jon for May 13, 2018 " title="Fort Knox by Paul Jon for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

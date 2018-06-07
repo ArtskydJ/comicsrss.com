@@ -4,7 +4,7 @@
         <title>CowTown</title>
         <link>https://www.comicsrss.com/preview/cowtown</link>
         <description>CowTown by Charlie Podrebarac</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charlie Podrebarac</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cowtown.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CowTown by Charlie Podrebarac for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f8fc71b04b08013638d8005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f8fc71b04b08013638d8005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f8fc71b04b08013638d8005056a9545d" alt="CowTown by Charlie Podrebarac for Jun 7, 2018 " title="CowTown by Charlie Podrebarac for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[CowTown by Charlie Podrebarac for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/df6659c047140136378e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/cowtown/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3ba7f4d039bd0136327e005056a9545d" alt="CowTown by Charlie Podrebarac for May 14, 2018 " title="CowTown by Charlie Podrebarac for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CowTown by Charlie Podrebarac for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/cowtown/2018/05/13</link>
-            <guid>https://www.gocomics.com/cowtown/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c1d6efa037b90136322c005056a9545d" alt="CowTown by Charlie Podrebarac for May 13, 2018 " title="CowTown by Charlie Podrebarac for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Pooch Cafe</title>
         <link>https://www.comicsrss.com/preview/poochcafe</link>
         <description>Pooch Cafe by Paul Gilligan</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Gilligan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/poochcafe.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pooch Cafe by Paul Gilligan for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b48a2790456c013636a3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b48a2790456c013636a3005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b48a2790456c013636a3005056a9545d" alt="Pooch Cafe by Paul Gilligan for Jun 7, 2018 " title="Pooch Cafe by Paul Gilligan for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pooch Cafe by Paul Gilligan for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b3157b60456c013636a3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/poochcafe/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/fb7928b0344501363069005056a9545d" alt="Pooch Cafe by Paul Gilligan for May 14, 2018 " title="Pooch Cafe by Paul Gilligan for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pooch Cafe by Paul Gilligan for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/poochcafe/2018/05/13</link>
-            <guid>https://www.gocomics.com/poochcafe/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/79a09880154b013624e2005056a9545d" alt="Pooch Cafe by Paul Gilligan for May 13, 2018 " title="Pooch Cafe by Paul Gilligan for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

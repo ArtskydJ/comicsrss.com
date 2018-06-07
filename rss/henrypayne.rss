@@ -4,7 +4,7 @@
         <title>Henry Payne</title>
         <link>https://www.comicsrss.com/preview/henrypayne</link>
         <description>Henry Payne by Henry Payne</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Henry Payne</copyright>
         <atom:link href="https://www.comicsrss.com/rss/henrypayne.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henry Payne by Henry Payne for Jun 5, 2018 ]]></title>
+            <link>https://www.gocomics.com/henrypayne/2018/06/05</link>
+            <guid>https://www.gocomics.com/henrypayne/2018/06/05</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ff3382804c040136396c005056a9545d" alt="Henry Payne by Henry Payne for Jun 5, 2018 " title="Henry Payne by Henry Payne for Jun 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jun 2, 2018 ]]></title>
             <link>https://www.gocomics.com/henrypayne/2018/06/02</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c34d64026ec01362bce005056a9545d" alt="Henry Payne by Henry Payne for Apr 20, 2018 " title="Henry Payne by Henry Payne for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Henry Payne by Henry Payne for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/henrypayne/2018/04/18</link>
-            <guid>http://www.gocomics.com/henrypayne/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/2d3cee40260e01362b63005056a9545d" alt="Henry Payne by Henry Payne for Apr 18, 2018 " title="Henry Payne by Henry Payne for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

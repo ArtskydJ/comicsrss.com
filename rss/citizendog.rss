@@ -4,7 +4,7 @@
         <title>Citizen Dog</title>
         <link>https://www.comicsrss.com/preview/citizendog</link>
         <description>Citizen Dog by Mark O&amp;#39;Hare</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark O&amp;#39;Hare</copyright>
         <atom:link href="https://www.comicsrss.com/rss/citizendog.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Citizen Dog by Mark O&#39;Hare for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6f7f380e2514102d94d7001438c0f03b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6f7f380e2514102d94d7001438c0f03b.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6f7f380e2514102d94d7001438c0f03b" alt="Citizen Dog by Mark O&#39;Hare for Jun 7, 2018 " title="Citizen Dog by Mark O&#39;Hare for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Citizen Dog by Mark O&#39;Hare for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e304717c2514102d94d7001438c0f03b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/citizendog/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e897ed562516102d94d7001438c0f03b" alt="Citizen Dog by Mark O&#39;Hare for May 14, 2018 " title="Citizen Dog by Mark O&#39;Hare for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Citizen Dog by Mark O&#39;Hare for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/citizendog/2018/05/13</link>
-            <guid>https://www.gocomics.com/citizendog/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7dc800882516102d94d7001438c0f03b" alt="Citizen Dog by Mark O&#39;Hare for May 13, 2018 " title="Citizen Dog by Mark O&#39;Hare for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

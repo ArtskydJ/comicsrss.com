@@ -4,7 +4,7 @@
         <title>Zack Hill</title>
         <link>https://www.comicsrss.com/preview/zackhill</link>
         <description>Zack Hill by John Deering and John Newcombe</description>
-        <lastBuildDate>Thu, 07 Jun 2018 00:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Deering and John Newcombe</copyright>
         <atom:link href="https://www.comicsrss.com/rss/zackhill.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zack Hill by John Deering and John Newcombe for Jun 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/cec1112043e20136365f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/cec1112043e20136365f005056a9545d.html</guid>
+            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cec1112043e20136365f005056a9545d" alt="Zack Hill by John Deering and John Newcombe for Jun 7, 2018 " title="Zack Hill by John Deering and John Newcombe for Jun 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Zack Hill by John Deering and John Newcombe for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cb6b260043e20136365f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/zackhill/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/67a9a840336201363029005056a9545d" alt="Zack Hill by John Deering and John Newcombe for May 14, 2018 " title="Zack Hill by John Deering and John Newcombe for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zack Hill by John Deering and John Newcombe for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/zackhill/2018/05/13</link>
-            <guid>https://www.gocomics.com/zackhill/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3a737640336101363029005056a9545d" alt="Zack Hill by John Deering and John Newcombe for May 13, 2018 " title="Zack Hill by John Deering and John Newcombe for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
