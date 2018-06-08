@@ -4,7 +4,7 @@
         <title>Home and Away</title>
         <link>https://www.comicsrss.com/preview/homeandaway</link>
         <description>Home and Away by Steve Sicula</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Sicula</copyright>
         <atom:link href="https://www.comicsrss.com/rss/homeandaway.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home and Away by Steve Sicula for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2018f0102590012ea5cb00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2018f0102590012ea5cb00163e41dd5b.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2018f0102590012ea5cb00163e41dd5b" alt="Home and Away by Steve Sicula for Jun 8, 2018 " title="Home and Away by Steve Sicula for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Home and Away by Steve Sicula for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6ac272502590012ea5cb00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/homeandaway/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/62833e901310012ea5c900163e41dd5b" alt="Home and Away by Steve Sicula for May 15, 2018 " title="Home and Away by Steve Sicula for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Home and Away by Steve Sicula for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/homeandaway/2018/05/14</link>
-            <guid>https://www.gocomics.com/homeandaway/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a1c5d8e0130f012ea5c900163e41dd5b" alt="Home and Away by Steve Sicula for May 14, 2018 " title="Home and Away by Steve Sicula for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

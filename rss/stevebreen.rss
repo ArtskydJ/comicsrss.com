@@ -4,7 +4,7 @@
         <title>Steve Breen</title>
         <link>https://www.comicsrss.com/preview/stevebreen</link>
         <description>Steve Breen by Steve Breen</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Breen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stevebreen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Breen by Steve Breen for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/aeb764f04cf5013639de005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/aeb764f04cf5013639de005056a9545d.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/aeb764f04cf5013639de005056a9545d" alt="Steve Breen by Steve Breen for Jun 8, 2018 " title="Steve Breen by Steve Breen for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7073c7a04c2c0136397f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/stevebreen/2018/04/25</guid>
             <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/53fea7c02a6201362ce1005056a9545d" alt="Steve Breen by Steve Breen for Apr 25, 2018 " title="Steve Breen by Steve Breen for Apr 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Breen by Steve Breen for Apr 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/stevebreen/2018/04/19</link>
-            <guid>http://www.gocomics.com/stevebreen/2018/04/19</guid>
-            <pubDate>Thu, 19 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/61b7adf025ab01362b4a005056a9545d" alt="Steve Breen by Steve Breen for Apr 19, 2018 " title="Steve Breen by Steve Breen for Apr 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

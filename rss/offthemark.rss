@@ -4,7 +4,7 @@
         <title>Off the Mark</title>
         <link>https://www.comicsrss.com/preview/offthemark</link>
         <description>Off the Mark by Mark Parisi</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Parisi</copyright>
         <atom:link href="https://www.comicsrss.com/rss/offthemark.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Off the Mark by Mark Parisi for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a789706045c6013636e8005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a789706045c6013636e8005056a9545d.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a789706045c6013636e8005056a9545d" alt="Off the Mark by Mark Parisi for Jun 8, 2018 " title="Off the Mark by Mark Parisi for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Off the Mark by Mark Parisi for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a624650045c6013636e8005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/offthemark/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/caad1f20347c0136308e005056a9545d" alt="Off the Mark by Mark Parisi for May 15, 2018 " title="Off the Mark by Mark Parisi for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Off the Mark by Mark Parisi for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/offthemark/2018/05/14</link>
-            <guid>https://www.gocomics.com/offthemark/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c925e0c0347c0136308e005056a9545d" alt="Off the Mark by Mark Parisi for May 14, 2018 " title="Off the Mark by Mark Parisi for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

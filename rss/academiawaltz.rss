@@ -4,7 +4,7 @@
         <title>The Academia Waltz</title>
         <link>https://www.comicsrss.com/preview/academiawaltz</link>
         <description>The Academia Waltz by Berkeley Breathed</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Berkeley Breathed</copyright>
         <atom:link href="https://www.comicsrss.com/rss/academiawaltz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Academia Waltz by Berkeley Breathed for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f1a7dd605d01012ee3bd00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f1a7dd605d01012ee3bd00163e41dd5b.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f1a7dd605d01012ee3bd00163e41dd5b" alt="The Academia Waltz by Berkeley Breathed for Jun 8, 2018 " title="The Academia Waltz by Berkeley Breathed for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Academia Waltz by Berkeley Breathed for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d135e0505db4012ee3bf00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/academiawaltz/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3cb46b605dab012ee3bf00163e41dd5b" alt="The Academia Waltz by Berkeley Breathed for May 15, 2018 " title="The Academia Waltz by Berkeley Breathed for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Academia Waltz by Berkeley Breathed for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/academiawaltz/2018/05/14</link>
-            <guid>https://www.gocomics.com/academiawaltz/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/92ed1e105db5012ee3bf00163e41dd5b" alt="The Academia Waltz by Berkeley Breathed for May 14, 2018 " title="The Academia Waltz by Berkeley Breathed for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

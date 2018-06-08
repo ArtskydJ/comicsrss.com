@@ -4,7 +4,7 @@
         <title>Harley</title>
         <link>https://www.comicsrss.com/preview/harley</link>
         <description>Harley by Dan Thompson</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/harley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Harley by Dan Thompson for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2ce39c304cbb013639be005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2ce39c304cbb013639be005056a9545d.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2ce39c304cbb013639be005056a9545d" alt="Harley by Dan Thompson for Jun 8, 2018 " title="Harley by Dan Thompson for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Harley by Dan Thompson for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8e061c104bfe01363966005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/harley/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ef673b7039da0136328e005056a9545d" alt="Harley by Dan Thompson for May 15, 2018 " title="Harley by Dan Thompson for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Harley by Dan Thompson for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/harley/2018/05/14</link>
-            <guid>https://www.gocomics.com/harley/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f8b0a7f0391501363254005056a9545d" alt="Harley by Dan Thompson for May 14, 2018 " title="Harley by Dan Thompson for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

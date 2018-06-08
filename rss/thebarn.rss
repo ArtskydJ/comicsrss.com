@@ -4,7 +4,7 @@
         <title>The Barn</title>
         <link>https://www.comicsrss.com/preview/thebarn</link>
         <description>The Barn by Ralph Hagen</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ralph Hagen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thebarn.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Barn by Ralph Hagen for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3ba4f4f043e30136365f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3ba4f4f043e30136365f005056a9545d.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3ba4f4f043e30136365f005056a9545d" alt="The Barn by Ralph Hagen for Jun 8, 2018 " title="The Barn by Ralph Hagen for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Barn by Ralph Hagen for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3a2dc4e043e30136365f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/thebarn/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c8ce3080336201363029005056a9545d" alt="The Barn by Ralph Hagen for May 15, 2018 " title="The Barn by Ralph Hagen for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Barn by Ralph Hagen for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/thebarn/2018/05/14</link>
-            <guid>https://www.gocomics.com/thebarn/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c76cc930336201363029005056a9545d" alt="The Barn by Ralph Hagen for May 14, 2018 " title="The Barn by Ralph Hagen for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

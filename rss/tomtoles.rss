@@ -4,7 +4,7 @@
         <title>Tom Toles</title>
         <link>https://www.comicsrss.com/preview/tomtoles</link>
         <description>Tom Toles by Tom Toles</description>
-        <lastBuildDate>Thu, 07 Jun 2018 06:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tom Toles</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tomtoles.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tom Toles by Tom Toles for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a0b7a3304cac013639b7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a0b7a3304cac013639b7005056a9545d.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a0b7a3304cac013639b7005056a9545d" alt="Tom Toles by Tom Toles for Jun 8, 2018 " title="Tom Toles by Tom Toles for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tom Toles by Tom Toles for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d8c0ba404beb0136394f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/tomtoles/2018/05/11</guid>
             <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e6a0424036a901363194005056a9545d" alt="Tom Toles by Tom Toles for May 11, 2018 " title="Tom Toles by Tom Toles for May 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tom Toles by Tom Toles for May 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/tomtoles/2018/05/10</link>
-            <guid>http://www.gocomics.com/tomtoles/2018/05/10</guid>
-            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/1bc86db035e90136313d005056a9545d" alt="Tom Toles by Tom Toles for May 10, 2018 " title="Tom Toles by Tom Toles for May 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
