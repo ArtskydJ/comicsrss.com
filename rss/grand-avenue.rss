@@ -4,7 +4,7 @@
         <title>Grand Avenue</title>
         <link>https://www.comicsrss.com/preview/grand-avenue</link>
         <description>Grand Avenue by Mike Thompson</description>
-        <lastBuildDate>Fri, 08 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/grand-avenue.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grand Avenue by Mike Thompson for Jun 9, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c4c81a20458c013636b8005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c4c81a20458c013636b8005056a9545d.html</guid>
+            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c4c81a20458c013636b8005056a9545d" alt="Grand Avenue by Mike Thompson for Jun 9, 2018 " title="Grand Avenue by Mike Thompson for Jun 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Grand Avenue by Mike Thompson for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/07d41580458e013636b9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/grand-avenue/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0632ea003501013630b8005056a9545d" alt="Grand Avenue by Mike Thompson for May 16, 2018 " title="Grand Avenue by Mike Thompson for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grand Avenue by Mike Thompson for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/grand-avenue/2018/05/15</link>
-            <guid>https://www.gocomics.com/grand-avenue/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/04adc4803501013630b8005056a9545d" alt="Grand Avenue by Mike Thompson for May 15, 2018 " title="Grand Avenue by Mike Thompson for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

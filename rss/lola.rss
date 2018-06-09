@@ -4,7 +4,7 @@
         <title>Lola</title>
         <link>https://www.comicsrss.com/preview/lola</link>
         <description>Lola by Todd Clark</description>
-        <lastBuildDate>Fri, 08 Jun 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Todd Clark</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lola.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lola by Todd Clark for Jun 9, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e72f9b00458c013636b8005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e72f9b00458c013636b8005056a9545d.html</guid>
+            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e72f9b00458c013636b8005056a9545d" alt="Lola by Todd Clark for Jun 9, 2018 " title="Lola by Todd Clark for Jun 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lola by Todd Clark for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e5858fe0458c013636b8005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/lola/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/239b0d103505013630bf005056a9545d" alt="Lola by Todd Clark for May 16, 2018 " title="Lola by Todd Clark for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lola by Todd Clark for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/lola/2018/05/15</link>
-            <guid>https://www.gocomics.com/lola/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2231d5503505013630bf005056a9545d" alt="Lola by Todd Clark for May 15, 2018 " title="Lola by Todd Clark for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

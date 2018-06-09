@@ -4,7 +4,7 @@
         <title>Endtown</title>
         <link>https://www.comicsrss.com/preview/endtown</link>
         <description>Endtown by Aaron Neathery</description>
-        <lastBuildDate>Fri, 08 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Aaron Neathery</copyright>
         <atom:link href="https://www.comicsrss.com/rss/endtown.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Endtown by Aaron Neathery for Jun 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f2de38604d6e01363a07005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f2de38604d6e01363a07005056a9545d.html</guid>
+            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f2de38604d6e01363a07005056a9545d" alt="Endtown by Aaron Neathery for Jun 8, 2018 " title="Endtown by Aaron Neathery for Jun 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Endtown by Aaron Neathery for Jun 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/92b6d3504bf101363957005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/endtown/2018/04/13</guid>
             <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fbad8d702188013629d8005056a9545d" alt="Endtown by Aaron Neathery for Apr 13, 2018 " title="Endtown by Aaron Neathery for Apr 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Endtown by Aaron Neathery for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/endtown/2018/04/10</link>
-            <guid>http://www.gocomics.com/endtown/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/025976901fea013628f4005056a9545d" alt="Endtown by Aaron Neathery for Apr 10, 2018 " title="Endtown by Aaron Neathery for Apr 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

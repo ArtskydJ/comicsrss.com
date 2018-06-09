@@ -4,7 +4,7 @@
         <title>Trucutu</title>
         <link>https://www.comicsrss.com/preview/trucutu</link>
         <description>Trucutu by Jack and Carole Bender</description>
-        <lastBuildDate>Fri, 08 Jun 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jun 2018 06:32:40 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jack and Carole Bender</copyright>
         <atom:link href="https://www.comicsrss.com/rss/trucutu.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trucutu by Jack and Carole Bender for Jun 9, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/38b6db30464901363719005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/38b6db30464901363719005056a9545d.html</guid>
+            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/38b6db30464901363719005056a9545d" alt="Trucutu by Jack and Carole Bender for Jun 9, 2018 " title="Trucutu by Jack and Carole Bender for Jun 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/36ac83f0464901363719005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/trucutu/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/af7493f035d60136312c005056a9545d" alt="Trucutu by Jack and Carole Bender for May 16, 2018 " title="Trucutu by Jack and Carole Bender for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trucutu by Jack and Carole Bender for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/trucutu/2018/05/15</link>
-            <guid>https://www.gocomics.com/trucutu/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ad7364c035d60136312c005056a9545d" alt="Trucutu by Jack and Carole Bender for May 15, 2018 " title="Trucutu by Jack and Carole Bender for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

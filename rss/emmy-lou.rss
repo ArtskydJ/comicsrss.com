@@ -4,7 +4,7 @@
         <title>Emmy Lou</title>
         <link>https://www.comicsrss.com/preview/emmy-lou</link>
         <description>Emmy Lou by Marty Links</description>
-        <lastBuildDate>Fri, 08 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Marty Links</copyright>
         <atom:link href="https://www.comicsrss.com/rss/emmy-lou.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emmy Lou by Marty Links for Jun 9, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/68eb3a204b11013638de005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/68eb3a204b11013638de005056a9545d.html</guid>
+            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/68eb3a204b11013638de005056a9545d" alt="Emmy Lou by Marty Links for Jun 9, 2018 " title="Emmy Lou by Marty Links for Jun 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Emmy Lou by Marty Links for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6ce822904b11013638de005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/emmy-lou/2018/05/06</guid>
             <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eeaef41032ae01363018005056a9545d" alt="Emmy Lou by Marty Links for May 6, 2018 " title="Emmy Lou by Marty Links for May 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Emmy Lou by Marty Links for May 5, 2018 ]]></title>
-            <link>http://www.gocomics.com/emmy-lou/2018/05/05</link>
-            <guid>http://www.gocomics.com/emmy-lou/2018/05/05</guid>
-            <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/efd3a30032ae01363018005056a9545d" alt="Emmy Lou by Marty Links for May 5, 2018 " title="Emmy Lou by Marty Links for May 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
