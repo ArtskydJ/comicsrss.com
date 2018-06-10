@@ -4,7 +4,7 @@
         <title>Ink Pen</title>
         <link>https://www.comicsrss.com/preview/inkpen</link>
         <description>Ink Pen by Phil Dunlap</description>
-        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jun 2018 06:31:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Phil Dunlap</copyright>
         <atom:link href="https://www.comicsrss.com/rss/inkpen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ink Pen by Phil Dunlap for Jun 10, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b7a4d8a002f501361da5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b7a4d8a002f501361da5005056a9545d.html</guid>
+            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b7a4d8a002f501361da5005056a9545d" alt="Ink Pen by Phil Dunlap for Jun 10, 2018 " title="Ink Pen by Phil Dunlap for Jun 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ink Pen by Phil Dunlap for Jun 9, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/fa8cdf3002f201361da5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/inkpen/2018/05/17</guid>
             <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/dc23399002f201361da5005056a9545d" alt="Ink Pen by Phil Dunlap for May 17, 2018 " title="Ink Pen by Phil Dunlap for May 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ink Pen by Phil Dunlap for May 16, 2018 ]]></title>
-            <link>https://www.gocomics.com/inkpen/2018/05/16</link>
-            <guid>https://www.gocomics.com/inkpen/2018/05/16</guid>
-            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/dad2736002f201361da5005056a9545d" alt="Ink Pen by Phil Dunlap for May 16, 2018 " title="Ink Pen by Phil Dunlap for May 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

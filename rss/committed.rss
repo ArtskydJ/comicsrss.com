@@ -4,7 +4,7 @@
         <title>Committed</title>
         <link>https://www.comicsrss.com/preview/committed</link>
         <description>Committed by Michael Fry</description>
-        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jun 2018 06:31:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Fry</copyright>
         <atom:link href="https://www.comicsrss.com/rss/committed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Committed by Michael Fry for Jun 10, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5a94baf08bdd012ee3c400163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5a94baf08bdd012ee3c400163e41dd5b.html</guid>
+            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5a94baf08bdd012ee3c400163e41dd5b" alt="Committed by Michael Fry for Jun 10, 2018 " title="Committed by Michael Fry for Jun 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Committed by Michael Fry for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cfee6fb08bec012ee3c400163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/committed/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4171d0308bec012ee3c400163e41dd5b" alt="Committed by Michael Fry for May 16, 2018 " title="Committed by Michael Fry for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Committed by Michael Fry for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/committed/2018/05/15</link>
-            <guid>https://www.gocomics.com/committed/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a5b989208be9012ee3c400163e41dd5b" alt="Committed by Michael Fry for May 15, 2018 " title="Committed by Michael Fry for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

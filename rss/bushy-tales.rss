@@ -4,7 +4,7 @@
         <title>Bushy Tales</title>
         <link>https://www.comicsrss.com/preview/bushy-tales</link>
         <description>Bushy Tales by Ian Jones</description>
-        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jun 2018 06:31:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ian Jones</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bushy-tales.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bushy Tales by Ian Jones for Jun 10, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/993e5c604ad9013638c6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/993e5c604ad9013638c6005056a9545d.html</guid>
+            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/993e5c604ad9013638c6005056a9545d" alt="Bushy Tales by Ian Jones for Jun 10, 2018 " title="Bushy Tales by Ian Jones for Jun 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bushy Tales by Ian Jones for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5bac6f2043d50136365d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bushy-tales/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f509f590285e01362c26005056a9545d" alt="Bushy Tales by Ian Jones for Apr 23, 2018 " title="Bushy Tales by Ian Jones for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bushy Tales by Ian Jones for Apr 21, 2018 ]]></title>
-            <link>http://www.gocomics.com/bushy-tales/2018/04/21</link>
-            <guid>http://www.gocomics.com/bushy-tales/2018/04/21</guid>
-            <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/55f56f00260101362b5e005056a9545d" alt="Bushy Tales by Ian Jones for Apr 21, 2018 " title="Bushy Tales by Ian Jones for Apr 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Speed Bump</title>
         <link>https://www.comicsrss.com/preview/speedbump</link>
         <description>Speed Bump by Dave Coverly</description>
-        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jun 2018 06:31:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Coverly</copyright>
         <atom:link href="https://www.comicsrss.com/rss/speedbump.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speed Bump by Dave Coverly for Jun 10, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8cbfbdc0496201363851005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8cbfbdc0496201363851005056a9545d.html</guid>
+            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8cbfbdc0496201363851005056a9545d" alt="Speed Bump by Dave Coverly for Jun 10, 2018 " title="Speed Bump by Dave Coverly for Jun 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Speed Bump by Dave Coverly for Jun 9, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/dd5497503cfd01363402005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/speedbump/2018/05/17</guid>
             <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c0435cc02ed801362e77005056a9545d" alt="Speed Bump by Dave Coverly for May 17, 2018 " title="Speed Bump by Dave Coverly for May 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speed Bump by Dave Coverly for May 16, 2018 ]]></title>
-            <link>https://www.gocomics.com/speedbump/2018/05/16</link>
-            <guid>https://www.gocomics.com/speedbump/2018/05/16</guid>
-            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/bdfe8a102ed801362e77005056a9545d" alt="Speed Bump by Dave Coverly for May 16, 2018 " title="Speed Bump by Dave Coverly for May 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

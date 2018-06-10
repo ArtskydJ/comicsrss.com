@@ -4,7 +4,7 @@
         <title>Heart of the City</title>
         <link>https://www.comicsrss.com/preview/heartofthecity</link>
         <description>Heart of the City by Mark Tatulli</description>
-        <lastBuildDate>Sat, 09 Jun 2018 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jun 2018 06:31:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Tatulli</copyright>
         <atom:link href="https://www.comicsrss.com/rss/heartofthecity.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heart of the City by Mark Tatulli for Jun 10, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b38ed7402ef401362e7f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b38ed7402ef401362e7f005056a9545d.html</guid>
+            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b38ed7402ef401362e7f005056a9545d" alt="Heart of the City by Mark Tatulli for Jun 10, 2018 " title="Heart of the City by Mark Tatulli for Jun 10, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Heart of the City by Mark Tatulli for Jun 9, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/0c1325304213013635ee005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/heartofthecity/2018/05/17</guid>
             <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e2897630325b0136300e005056a9545d" alt="Heart of the City by Mark Tatulli for May 17, 2018 " title="Heart of the City by Mark Tatulli for May 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Heart of the City by Mark Tatulli for May 16, 2018 ]]></title>
-            <link>https://www.gocomics.com/heartofthecity/2018/05/16</link>
-            <guid>https://www.gocomics.com/heartofthecity/2018/05/16</guid>
-            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e0f1aed0325b0136300e005056a9545d" alt="Heart of the City by Mark Tatulli for May 16, 2018 " title="Heart of the City by Mark Tatulli for May 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
