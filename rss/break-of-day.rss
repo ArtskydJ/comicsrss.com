@@ -4,7 +4,7 @@
         <title>Break of Day</title>
         <link>https://www.comicsrss.com/preview/break-of-day</link>
         <description>Break of Day by Nate Fakes</description>
-        <lastBuildDate>Sun, 10 Jun 2018 06:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jun 2018 06:34:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nate Fakes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/break-of-day.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Break of Day by Nate Fakes for Jun 11, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/91640ad04d7b01363a0f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/91640ad04d7b01363a0f005056a9545d.html</guid>
+            <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/91640ad04d7b01363a0f005056a9545d" alt="Break of Day by Nate Fakes for Jun 11, 2018 " title="Break of Day by Nate Fakes for Jun 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Break of Day by Nate Fakes for Jun 10, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7653d0f04d7901363a0c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/break-of-day/2018/05/18</guid>
             <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d9671a103c46013633b3005056a9545d" alt="Break of Day by Nate Fakes for May 18, 2018 " title="Break of Day by Nate Fakes for May 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Break of Day by Nate Fakes for May 17, 2018 ]]></title>
-            <link>https://www.gocomics.com/break-of-day/2018/05/17</link>
-            <guid>https://www.gocomics.com/break-of-day/2018/05/17</guid>
-            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e28e9a003b810136334c005056a9545d" alt="Break of Day by Nate Fakes for May 17, 2018 " title="Break of Day by Nate Fakes for May 17, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

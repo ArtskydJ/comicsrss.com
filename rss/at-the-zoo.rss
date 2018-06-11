@@ -4,7 +4,7 @@
         <title>At the Zoo</title>
         <link>https://www.comicsrss.com/preview/at-the-zoo</link>
         <description>At the Zoo by Zoe Piel</description>
-        <lastBuildDate>Sun, 10 Jun 2018 06:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jun 2018 06:34:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Zoe Piel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/at-the-zoo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[At the Zoo by Zoe Piel for Jun 11, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ea5b56507b4d0134e10c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ea5b56507b4d0134e10c005056a9545d.html</guid>
+            <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ea5b56507b4d0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Jun 11, 2018 " title="At the Zoo by Zoe Piel for Jun 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[At the Zoo by Zoe Piel for Jun 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d421d7007b4d0134e10c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/at-the-zoo/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f6d0d2b07b4d0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Apr 5, 2018 " title="At the Zoo by Zoe Piel for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[At the Zoo by Zoe Piel for Apr 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/at-the-zoo/2018/04/02</link>
-            <guid>http://www.gocomics.com/at-the-zoo/2018/04/02</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0a84d6307b4e0134e10c005056a9545d" alt="At the Zoo by Zoe Piel for Apr 2, 2018 " title="At the Zoo by Zoe Piel for Apr 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
