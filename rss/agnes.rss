@@ -4,7 +4,7 @@
         <title>Agnes</title>
         <link>https://www.comicsrss.com/preview/agnes</link>
         <description>Agnes by Tony Cochran</description>
-        <lastBuildDate>Mon, 11 Jun 2018 06:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jun 2018 06:33:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tony Cochran</copyright>
         <atom:link href="https://www.comicsrss.com/rss/agnes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Agnes by Tony Cochran for Jun 12, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b6b7ac303cfd01363402005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b6b7ac303cfd01363402005056a9545d.html</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b6b7ac303cfd01363402005056a9545d" alt="Agnes by Tony Cochran for Jun 12, 2018 " title="Agnes by Tony Cochran for Jun 12, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Agnes by Tony Cochran for Jun 11, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d24b37003c66013633c6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/agnes/2018/05/19</guid>
             <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/07d5fd202a5401362cdc005056a9545d" alt="Agnes by Tony Cochran for May 19, 2018 " title="Agnes by Tony Cochran for May 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Agnes by Tony Cochran for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/agnes/2018/05/18</link>
-            <guid>https://www.gocomics.com/agnes/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0f05c3702a5401362cdc005056a9545d" alt="Agnes by Tony Cochran for May 18, 2018 " title="Agnes by Tony Cochran for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Pearls Before Swine</title>
         <link>https://www.comicsrss.com/preview/pearlsbeforeswine</link>
         <description>Pearls Before Swine by Stephan Pastis</description>
-        <lastBuildDate>Mon, 11 Jun 2018 06:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jun 2018 06:33:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Stephan Pastis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pearlsbeforeswine.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pearls Before Swine by Stephan Pastis for Jun 12, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/476815f04a3e01363887005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/476815f04a3e01363887005056a9545d.html</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/476815f04a3e01363887005056a9545d" alt="Pearls Before Swine by Stephan Pastis for Jun 12, 2018 " title="Pearls Before Swine by Stephan Pastis for Jun 12, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pearls Before Swine by Stephan Pastis for Jun 11, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b12a3ff04a3f01363888005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/pearlsbeforeswine/2018/05/19</guid>
             <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5eaf27203502013630ba005056a9545d" alt="Pearls Before Swine by Stephan Pastis for May 19, 2018 " title="Pearls Before Swine by Stephan Pastis for May 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pearls Before Swine by Stephan Pastis for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/pearlsbeforeswine/2018/05/18</link>
-            <guid>https://www.gocomics.com/pearlsbeforeswine/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/5cdddfa03502013630ba005056a9545d" alt="Pearls Before Swine by Stephan Pastis for May 18, 2018 " title="Pearls Before Swine by Stephan Pastis for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

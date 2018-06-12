@@ -4,7 +4,7 @@
         <title>Magnificatz</title>
         <link>https://www.comicsrss.com/preview/magnificatz</link>
         <description>Magnificatz by Steve Ogden</description>
-        <lastBuildDate>Mon, 11 Jun 2018 06:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jun 2018 06:33:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Ogden</copyright>
         <atom:link href="https://www.comicsrss.com/rss/magnificatz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magnificatz by Steve Ogden for Jun 12, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/94beb0004f5701363a73005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/94beb0004f5701363a73005056a9545d.html</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/94beb0004f5701363a73005056a9545d" alt="Magnificatz by Steve Ogden for Jun 12, 2018 " title="Magnificatz by Steve Ogden for Jun 12, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Magnificatz by Steve Ogden for Jun 11, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/937a84504f5701363a73005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/magnificatz/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7fe1755033d201363045005056a9545d" alt="Magnificatz by Steve Ogden for May 7, 2018 " title="Magnificatz by Steve Ogden for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Magnificatz by Steve Ogden for May 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/magnificatz/2018/05/03</link>
-            <guid>https://www.gocomics.com/magnificatz/2018/05/03</guid>
-            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a79d39c02e5801362e42005056a9545d" alt="Magnificatz by Steve Ogden for May 3, 2018 " title="Magnificatz by Steve Ogden for May 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

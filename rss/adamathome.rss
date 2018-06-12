@@ -4,7 +4,7 @@
         <title>Adam@Home</title>
         <link>https://www.comicsrss.com/preview/adamathome</link>
         <description>Adam@Home by Rob Harrell</description>
-        <lastBuildDate>Mon, 11 Jun 2018 06:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jun 2018 06:33:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rob Harrell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/adamathome.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adam@Home by Rob Harrell for Jun 12, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/63078ea04a3f01363888005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/63078ea04a3f01363888005056a9545d.html</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/63078ea04a3f01363888005056a9545d" alt="Adam@Home by Rob Harrell for Jun 12, 2018 " title="Adam@Home by Rob Harrell for Jun 12, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Adam@Home by Rob Harrell for Jun 11, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/fce6f1b04a3d01363887005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/adamathome/2018/05/19</guid>
             <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c09d0ea0344501363069005056a9545d" alt="Adam@Home by Rob Harrell for May 19, 2018 " title="Adam@Home by Rob Harrell for May 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Adam@Home by Rob Harrell for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/adamathome/2018/05/18</link>
-            <guid>https://www.gocomics.com/adamathome/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/bf48a940344501363069005056a9545d" alt="Adam@Home by Rob Harrell for May 18, 2018 " title="Adam@Home by Rob Harrell for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

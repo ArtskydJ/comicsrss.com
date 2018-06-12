@@ -4,7 +4,7 @@
         <title>Jeff Stahler</title>
         <link>https://www.comicsrss.com/preview/jeffstahler</link>
         <description>Jeff Stahler by Jeff Stahler</description>
-        <lastBuildDate>Mon, 11 Jun 2018 06:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jun 2018 06:33:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Stahler</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jeffstahler.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeff Stahler by Jeff Stahler for Jun 12, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3fd9b4404fe601363aa1005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3fd9b4404fe601363aa1005056a9545d.html</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3fd9b4404fe601363aa1005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jun 12, 2018 " title="Jeff Stahler by Jeff Stahler for Jun 12, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jun 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/eaac34404cb2013639ba005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/jeffstahler/2018/05/04</guid>
             <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3714a8e0313401362f90005056a9545d" alt="Jeff Stahler by Jeff Stahler for May 4, 2018 " title="Jeff Stahler by Jeff Stahler for May 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Stahler by Jeff Stahler for May 3, 2018 ]]></title>
-            <link>http://www.gocomics.com/jeffstahler/2018/05/03</link>
-            <guid>http://www.gocomics.com/jeffstahler/2018/05/03</guid>
-            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0cd8fa10306b01362f30005056a9545d" alt="Jeff Stahler by Jeff Stahler for May 3, 2018 " title="Jeff Stahler by Jeff Stahler for May 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
