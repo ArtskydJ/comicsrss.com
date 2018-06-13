@@ -4,7 +4,7 @@
         <title>Gil Thorp</title>
         <link>https://www.comicsrss.com/preview/gilthorp</link>
         <description>Gil Thorp by Neal Rubin and Rod Whigham</description>
-        <lastBuildDate>Tue, 12 Jun 2018 06:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jun 2018 06:34:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Neal Rubin and Rod Whigham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/gilthorp.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jun 13, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a231ac90408101363529005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a231ac90408101363529005056a9545d.html</guid>
+            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a231ac90408101363529005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for Jun 13, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for Jun 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for Jun 12, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a8c1d570408101363529005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/gilthorp/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/03538f702a8101362ced005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for May 16, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gil Thorp by Neal Rubin and Rod Whigham for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/gilthorp/2018/05/15</link>
-            <guid>https://www.gocomics.com/gilthorp/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0690d8402a8101362ced005056a9545d" alt="Gil Thorp by Neal Rubin and Rod Whigham for May 15, 2018 " title="Gil Thorp by Neal Rubin and Rod Whigham for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

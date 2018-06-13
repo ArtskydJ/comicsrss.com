@@ -4,7 +4,7 @@
         <title>Animal Crackers</title>
         <link>https://www.comicsrss.com/preview/animalcrackers</link>
         <description>Animal Crackers by Mike Osbun</description>
-        <lastBuildDate>Tue, 12 Jun 2018 06:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jun 2018 06:34:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Osbun</copyright>
         <atom:link href="https://www.comicsrss.com/rss/animalcrackers.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animal Crackers by Mike Osbun for Jun 13, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/99832ae0364a01363175005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/99832ae0364a01363175005056a9545d.html</guid>
+            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/99832ae0364a01363175005056a9545d" alt="Animal Crackers by Mike Osbun for Jun 13, 2018 " title="Animal Crackers by Mike Osbun for Jun 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Animal Crackers by Mike Osbun for Jun 12, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/924d6a70364a01363175005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/animalcrackers/2018/05/20</guid>
             <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/00a893503c5f013633c3005056a9545d" alt="Animal Crackers by Mike Osbun for May 20, 2018 " title="Animal Crackers by Mike Osbun for May 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Animal Crackers by Mike Osbun for May 19, 2018 ]]></title>
-            <link>https://www.gocomics.com/animalcrackers/2018/05/19</link>
-            <guid>https://www.gocomics.com/animalcrackers/2018/05/19</guid>
-            <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/125790c0204a0136293c005056a9545d" alt="Animal Crackers by Mike Osbun for May 19, 2018 " title="Animal Crackers by Mike Osbun for May 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

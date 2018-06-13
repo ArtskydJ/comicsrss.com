@@ -4,7 +4,7 @@
         <title>Periquita</title>
         <link>https://www.comicsrss.com/preview/periquita</link>
         <description>Periquita by Olivia Jaimes</description>
-        <lastBuildDate>Tue, 12 Jun 2018 06:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jun 2018 06:34:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Olivia Jaimes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/periquita.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Periquita by Olivia Jaimes for Jun 13, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d86d41504c0f01363973005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d86d41504c0f01363973005056a9545d.html</guid>
+            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d86d41504c0f01363973005056a9545d" alt="Periquita by Olivia Jaimes for Jun 13, 2018 " title="Periquita by Olivia Jaimes for Jun 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Periquita by Olivia Jaimes for Jun 12, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d74e1c804c0f01363973005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/periquita/2018/05/20</guid>
             <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cc9961202b0e01362d39005056a9545d" alt="Periquita by Olivia Jaimes for May 20, 2018 " title="Periquita by Olivia Jaimes for May 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Periquita by Olivia Jaimes for May 19, 2018 ]]></title>
-            <link>https://www.gocomics.com/periquita/2018/05/19</link>
-            <guid>https://www.gocomics.com/periquita/2018/05/19</guid>
-            <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1c9fbc70360f0136315d005056a9545d" alt="Periquita by Olivia Jaimes for May 19, 2018 " title="Periquita by Olivia Jaimes for May 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
