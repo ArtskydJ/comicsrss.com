@@ -7,12 +7,10 @@ Source code for the site generator and rss feed generator for [comicsrss.com](ht
 To install this on a linux machine so that it runs daily, run the following:
 
 ```sh
-curl https://raw.githubusercontent.com/ArtskydJ/comicsrss.com/gh-pages/_install.sh | sh
+curl https://www.comicsrss.com/install.sh | sh
 ```
 
-Modify your crontab file and fix the `MAILTO` field.
-
-Note that this will put all the files in `/root/comicsrss.com`
+Note that this will put all the files in `/root/comicsrss.com`.
 
 ### Support Me
 
