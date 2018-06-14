@@ -4,7 +4,7 @@
         <title>Imagine This</title>
         <link>https://www.comicsrss.com/preview/imaginethis</link>
         <description>Imagine This by Lucas Turnbloom</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lucas Turnbloom</copyright>
         <atom:link href="https://www.comicsrss.com/rss/imaginethis.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Imagine This by Lucas Turnbloom for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/cf454420f0f2012da5c700163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/cf454420f0f2012da5c700163e41dd5b.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cf454420f0f2012da5c700163e41dd5b" alt="Imagine This by Lucas Turnbloom for Jun 14, 2018 " title="Imagine This by Lucas Turnbloom for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Imagine This by Lucas Turnbloom for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cdbf3910f0f2012da5c700163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/imaginethis/2018/05/11</guid>
             <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/8c653840d985012da5c400163e41dd5b" alt="Imagine This by Lucas Turnbloom for May 11, 2018 " title="Imagine This by Lucas Turnbloom for May 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Imagine This by Lucas Turnbloom for May 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/imaginethis/2018/05/10</link>
-            <guid>http://www.gocomics.com/imaginethis/2018/05/10</guid>
-            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/1b3afa50da83012da5c400163e41dd5b" alt="Imagine This by Lucas Turnbloom for May 10, 2018 " title="Imagine This by Lucas Turnbloom for May 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

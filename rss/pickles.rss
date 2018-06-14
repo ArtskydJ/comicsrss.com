@@ -4,7 +4,7 @@
         <title>Pickles</title>
         <link>https://www.comicsrss.com/preview/pickles</link>
         <description>Pickles by Brian Crane</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brian Crane</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pickles.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pickles by Brian Crane for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9ae62380467001363738005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9ae62380467001363738005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9ae62380467001363738005056a9545d" alt="Pickles by Brian Crane for Jun 14, 2018 " title="Pickles by Brian Crane for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pickles by Brian Crane for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9effb490467001363738005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/pickles/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/2262c42035f001363145005056a9545d" alt="Pickles by Brian Crane for May 21, 2018 " title="Pickles by Brian Crane for May 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pickles by Brian Crane for May 20, 2018 ]]></title>
-            <link>https://www.gocomics.com/pickles/2018/05/20</link>
-            <guid>https://www.gocomics.com/pickles/2018/05/20</guid>
-            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6cb68b601f2601362894005056a9545d" alt="Pickles by Brian Crane for May 20, 2018 " title="Pickles by Brian Crane for May 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

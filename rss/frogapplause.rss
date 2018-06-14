@@ -4,7 +4,7 @@
         <title>Frog Applause</title>
         <link>https://www.comicsrss.com/preview/frogapplause</link>
         <description>Frog Applause by Teresa Burritt</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Teresa Burritt</copyright>
         <atom:link href="https://www.comicsrss.com/rss/frogapplause.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frog Applause by Teresa Burritt for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/726b56104ff601363aad005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/726b56104ff601363aad005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/726b56104ff601363aad005056a9545d" alt="Frog Applause by Teresa Burritt for Jun 14, 2018 " title="Frog Applause by Teresa Burritt for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/415643404ff201363aaa005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/frogapplause/2018/05/20</guid>
             <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b7bf97e03bc001363373005056a9545d" alt="Frog Applause by Teresa Burritt for May 20, 2018 " title="Frog Applause by Teresa Burritt for May 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frog Applause by Teresa Burritt for May 19, 2018 ]]></title>
-            <link>https://www.gocomics.com/frogapplause/2018/05/19</link>
-            <guid>https://www.gocomics.com/frogapplause/2018/05/19</guid>
-            <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/321cbbb03a2a013632ab005056a9545d" alt="Frog Applause by Teresa Burritt for May 19, 2018 " title="Frog Applause by Teresa Burritt for May 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

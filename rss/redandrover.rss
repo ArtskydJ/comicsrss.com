@@ -4,7 +4,7 @@
         <title>Red and Rover</title>
         <link>https://www.comicsrss.com/preview/redandrover</link>
         <description>Red and Rover by Brian Basset</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brian Basset</copyright>
         <atom:link href="https://www.comicsrss.com/rss/redandrover.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red and Rover by Brian Basset for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e94f8b404a4001363889005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e94f8b404a4001363889005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e94f8b404a4001363889005056a9545d" alt="Red and Rover by Brian Basset for Jun 14, 2018 " title="Red and Rover by Brian Basset for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Red and Rover by Brian Basset for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b816c6504a3f01363888005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/redandrover/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a2dcdc503a90013632d1005056a9545d" alt="Red and Rover by Brian Basset for May 21, 2018 " title="Red and Rover by Brian Basset for May 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Red and Rover by Brian Basset for May 20, 2018 ]]></title>
-            <link>https://www.gocomics.com/redandrover/2018/05/20</link>
-            <guid>https://www.gocomics.com/redandrover/2018/05/20</guid>
-            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1742f270219b013629e0005056a9545d" alt="Red and Rover by Brian Basset for May 20, 2018 " title="Red and Rover by Brian Basset for May 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

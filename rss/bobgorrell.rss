@@ -4,7 +4,7 @@
         <title>Bob Gorrell</title>
         <link>https://www.comicsrss.com/preview/bobgorrell</link>
         <description>Bob Gorrell by Bob Gorrell</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bob Gorrell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bobgorrell.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bob Gorrell by Bob Gorrell for Jun 13, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1da71870514801363b36005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1da71870514801363b36005056a9545d.html</guid>
+            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1da71870514801363b36005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jun 13, 2018 " title="Bob Gorrell by Bob Gorrell for Jun 13, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jun 12, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a9be04104ff801363aae005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bobgorrell/2018/04/27</guid>
             <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/a71514502c9c01362df6005056a9545d" alt="Bob Gorrell by Bob Gorrell for Apr 27, 2018 " title="Bob Gorrell by Bob Gorrell for Apr 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bob Gorrell by Bob Gorrell for Apr 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/bobgorrell/2018/04/24</link>
-            <guid>http://www.gocomics.com/bobgorrell/2018/04/24</guid>
-            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/b3d5dcf029fd01362ca1005056a9545d" alt="Bob Gorrell by Bob Gorrell for Apr 24, 2018 " title="Bob Gorrell by Bob Gorrell for Apr 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

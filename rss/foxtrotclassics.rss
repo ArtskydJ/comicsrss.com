@@ -4,7 +4,7 @@
         <title>FoxTrot Classics</title>
         <link>https://www.comicsrss.com/preview/foxtrotclassics</link>
         <description>FoxTrot Classics by Bill Amend</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Amend</copyright>
         <atom:link href="https://www.comicsrss.com/rss/foxtrotclassics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FoxTrot Classics by Bill Amend for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/af1f8d103abd013632f3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/af1f8d103abd013632f3005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/af1f8d103abd013632f3005056a9545d" alt="FoxTrot Classics by Bill Amend for Jun 14, 2018 " title="FoxTrot Classics by Bill Amend for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[FoxTrot Classics by Bill Amend for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ade0d5203abd013632f3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/foxtrotclassics/2018/05/17</guid>
             <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/2427d1f02112013629a7005056a9545d" alt="FoxTrot Classics by Bill Amend for May 17, 2018 " title="FoxTrot Classics by Bill Amend for May 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FoxTrot Classics by Bill Amend for May 16, 2018 ]]></title>
-            <link>https://www.gocomics.com/foxtrotclassics/2018/05/16</link>
-            <guid>https://www.gocomics.com/foxtrotclassics/2018/05/16</guid>
-            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/29496bd02112013629a7005056a9545d" alt="FoxTrot Classics by Bill Amend for May 16, 2018 " title="FoxTrot Classics by Bill Amend for May 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

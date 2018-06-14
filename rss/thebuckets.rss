@@ -4,7 +4,7 @@
         <title>The Buckets</title>
         <link>https://www.comicsrss.com/preview/thebuckets</link>
         <description>The Buckets by Greg Cravens</description>
-        <lastBuildDate>Wed, 13 Jun 2018 06:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jun 2018 06:33:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Greg Cravens</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thebuckets.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Buckets by Greg Cravens for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/899bcd604b0f013638db005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/899bcd604b0f013638db005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/899bcd604b0f013638db005056a9545d" alt="The Buckets by Greg Cravens for Jun 14, 2018 " title="The Buckets by Greg Cravens for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Buckets by Greg Cravens for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/266ca4004b0e013638da005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/thebuckets/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0f106c703a8f013632d0005056a9545d" alt="The Buckets by Greg Cravens for May 21, 2018 " title="The Buckets by Greg Cravens for May 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Buckets by Greg Cravens for May 20, 2018 ]]></title>
-            <link>https://www.gocomics.com/thebuckets/2018/05/20</link>
-            <guid>https://www.gocomics.com/thebuckets/2018/05/20</guid>
-            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/44607870205101362940005056a9545d" alt="The Buckets by Greg Cravens for May 20, 2018 " title="The Buckets by Greg Cravens for May 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
