@@ -4,7 +4,7 @@
         <title>Last Kiss</title>
         <link>https://www.comicsrss.com/preview/lastkiss</link>
         <description>Last Kiss by John Lustig</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Lustig</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lastkiss.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Last Kiss by John Lustig for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/46761b4049c601363869005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/46761b4049c601363869005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/46761b4049c601363869005056a9545d" alt="Last Kiss by John Lustig for Jun 15, 2018 " title="Last Kiss by John Lustig for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Last Kiss by John Lustig for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/47631dc049c601363869005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/lastkiss/2018/04/23</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ad99769024af01362ac1005056a9545d" alt="Last Kiss by John Lustig for Apr 23, 2018 " title="Last Kiss by John Lustig for Apr 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Last Kiss by John Lustig for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/lastkiss/2018/04/20</link>
-            <guid>http://www.gocomics.com/lastkiss/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a1cb84101d90013627f3005056a9545d" alt="Last Kiss by John Lustig for Apr 20, 2018 " title="Last Kiss by John Lustig for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

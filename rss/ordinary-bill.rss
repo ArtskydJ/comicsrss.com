@@ -4,7 +4,7 @@
         <title>Ordinary Bill</title>
         <link>https://www.comicsrss.com/preview/ordinary-bill</link>
         <description>Ordinary Bill by William Wilson</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright William Wilson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ordinary-bill.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ordinary Bill by William Wilson for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2231f0704fc201363a8d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2231f0704fc201363a8d005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2231f0704fc201363a8d005056a9545d" alt="Ordinary Bill by William Wilson for Jun 15, 2018 " title="Ordinary Bill by William Wilson for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ordinary Bill by William Wilson for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1f360d104fc201363a8d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ordinary-bill/2018/03/28</guid>
             <pubDate>Wed, 28 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4f156820d84401350d72005056a9545d" alt="Ordinary Bill by William Wilson for Mar 28, 2018 " title="Ordinary Bill by William Wilson for Mar 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ordinary Bill by William Wilson for Mar 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/ordinary-bill/2018/03/26</link>
-            <guid>http://www.gocomics.com/ordinary-bill/2018/03/26</guid>
-            <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/629577e0d84401350d72005056a9545d" alt="Ordinary Bill by William Wilson for Mar 26, 2018 " title="Ordinary Bill by William Wilson for Mar 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Spot the Frog</title>
         <link>https://www.comicsrss.com/preview/spot-the-frog</link>
         <description>Spot the Frog by Mark Heath</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Heath</copyright>
         <atom:link href="https://www.comicsrss.com/rss/spot-the-frog.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spot the Frog by Mark Heath for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6f9ac7b07504012ee3c400163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6f9ac7b07504012ee3c400163e41dd5b.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6f9ac7b07504012ee3c400163e41dd5b" alt="Spot the Frog by Mark Heath for Jun 15, 2018 " title="Spot the Frog by Mark Heath for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Spot the Frog by Mark Heath for Jun 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6ef86e307504012ee3c400163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/spot-the-frog/2018/05/18</guid>
             <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1e84f9d07504012ee3c400163e41dd5b" alt="Spot the Frog by Mark Heath for May 18, 2018 " title="Spot the Frog by Mark Heath for May 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Spot the Frog by Mark Heath for May 17, 2018 ]]></title>
-            <link>https://www.gocomics.com/spot-the-frog/2018/05/17</link>
-            <guid>https://www.gocomics.com/spot-the-frog/2018/05/17</guid>
-            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/18da88707504012ee3c400163e41dd5b" alt="Spot the Frog by Mark Heath for May 17, 2018 " title="Spot the Frog by Mark Heath for May 17, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

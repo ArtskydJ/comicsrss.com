@@ -4,7 +4,7 @@
         <title>Jack Ohman</title>
         <link>https://www.comicsrss.com/preview/jackohman</link>
         <description>Jack Ohman by Jack Ohman</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jack Ohman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jackohman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jack Ohman by Jack Ohman for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/adf41fb0525b01363bd8005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/adf41fb0525b01363bd8005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/adf41fb0525b01363bd8005056a9545d" alt="Jack Ohman by Jack Ohman for Jun 15, 2018 " title="Jack Ohman by Jack Ohman for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jack Ohman by Jack Ohman for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/48b86d6050c901363b0f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/jackohman/2018/04/26</guid>
             <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/55f01c602b1101362d3a005056a9545d" alt="Jack Ohman by Jack Ohman for Apr 26, 2018 " title="Jack Ohman by Jack Ohman for Apr 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jack Ohman by Jack Ohman for Apr 25, 2018 ]]></title>
-            <link>http://www.gocomics.com/jackohman/2018/04/25</link>
-            <guid>http://www.gocomics.com/jackohman/2018/04/25</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/2f2b0e202a4801362cd8005056a9545d" alt="Jack Ohman by Jack Ohman for Apr 25, 2018 " title="Jack Ohman by Jack Ohman for Apr 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

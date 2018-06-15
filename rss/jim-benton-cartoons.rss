@@ -4,7 +4,7 @@
         <title>Jim Benton Cartoons</title>
         <link>https://www.comicsrss.com/preview/jim-benton-cartoons</link>
         <description>Jim Benton Cartoons by Jim Benton</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Benton</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jim-benton-cartoons.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jim Benton Cartoons by Jim Benton for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e7455d20522301363ba3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e7455d20522301363ba3005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e7455d20522301363ba3005056a9545d" alt="Jim Benton Cartoons by Jim Benton for Jun 14, 2018 " title="Jim Benton Cartoons by Jim Benton for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jim Benton Cartoons by Jim Benton for May 15, 2018 ]]></title>
             <link>https://www.gocomics.com/jim-benton-cartoons/2018/05/15</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/jim-benton-cartoons/2018/02/26</guid>
             <pubDate>Mon, 26 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eaf09a00f4b101351865005056a9545d" alt="Jim Benton Cartoons by Jim Benton for Feb 26, 2018 " title="Jim Benton Cartoons by Jim Benton for Feb 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jim Benton Cartoons by Jim Benton for Feb 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/jim-benton-cartoons/2018/02/24</link>
-            <guid>http://www.gocomics.com/jim-benton-cartoons/2018/02/24</guid>
-            <pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ec53fd00f4b101351865005056a9545d" alt="Jim Benton Cartoons by Jim Benton for Feb 24, 2018 " title="Jim Benton Cartoons by Jim Benton for Feb 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

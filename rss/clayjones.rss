@@ -4,7 +4,7 @@
         <title>Clay Jones</title>
         <link>https://www.comicsrss.com/preview/clayjones</link>
         <description>Clay Jones by Clay Jones</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Clay Jones</copyright>
         <atom:link href="https://www.comicsrss.com/rss/clayjones.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clay Jones by Clay Jones for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e976a1a04f9101363a81005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e976a1a04f9101363a81005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e976a1a04f9101363a81005056a9545d" alt="Clay Jones by Clay Jones for Jun 15, 2018 " title="Clay Jones by Clay Jones for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Clay Jones by Clay Jones for Jun 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ab7557c04f7601363a80005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/clayjones/2018/05/22</guid>
             <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e4387cd03d220136341c005056a9545d" alt="Clay Jones by Clay Jones for May 22, 2018 " title="Clay Jones by Clay Jones for May 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Clay Jones by Clay Jones for May 21, 2018 ]]></title>
-            <link>https://www.gocomics.com/clayjones/2018/05/21</link>
-            <guid>https://www.gocomics.com/clayjones/2018/05/21</guid>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e2ac44303d220136341c005056a9545d" alt="Clay Jones by Clay Jones for May 21, 2018 " title="Clay Jones by Clay Jones for May 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

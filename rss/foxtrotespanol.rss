@@ -4,7 +4,7 @@
         <title>FoxTrot en Español</title>
         <link>https://www.comicsrss.com/preview/foxtrotespanol</link>
         <description>FoxTrot en Español by Bill Amend</description>
-        <lastBuildDate>Thu, 14 Jun 2018 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Amend</copyright>
         <atom:link href="https://www.comicsrss.com/rss/foxtrotespanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FoxTrot en Español by Bill Amend for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ce148ed03abd013632f3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ce148ed03abd013632f3005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ce148ed03abd013632f3005056a9545d" alt="FoxTrot en Español by Bill Amend for Jun 15, 2018 " title="FoxTrot en Español by Bill Amend for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[FoxTrot en Español by Bill Amend for Jun 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ccecb3503abd013632f3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/foxtrotespanol/2018/05/22</guid>
             <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/459008c02112013629a7005056a9545d" alt="FoxTrot en Español by Bill Amend for May 22, 2018 " title="FoxTrot en Español by Bill Amend for May 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FoxTrot en Español by Bill Amend for May 21, 2018 ]]></title>
-            <link>https://www.gocomics.com/foxtrotespanol/2018/05/21</link>
-            <guid>https://www.gocomics.com/foxtrotespanol/2018/05/21</guid>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4d53d2602112013629a7005056a9545d" alt="FoxTrot en Español by Bill Amend for May 21, 2018 " title="FoxTrot en Español by Bill Amend for May 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
