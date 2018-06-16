@@ -4,7 +4,7 @@
         <title>Stone Soup Classics</title>
         <link>https://www.comicsrss.com/preview/stone-soup-classics</link>
         <description>Stone Soup Classics by Jan Eliot</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jan Eliot</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stone-soup-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stone Soup Classics by Jan Eliot for Jun 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0c639a402bb901362d7c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0c639a402bb901362d7c005056a9545d.html</guid>
+            <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0c639a402bb901362d7c005056a9545d" alt="Stone Soup Classics by Jan Eliot for Jun 16, 2018 " title="Stone Soup Classics by Jan Eliot for Jun 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Stone Soup Classics by Jan Eliot for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/0aa4cca02bb901362d7c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/stone-soup-classics/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e0e31f602bb801362d7c005056a9545d" alt="Stone Soup Classics by Jan Eliot for May 23, 2018 " title="Stone Soup Classics by Jan Eliot for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stone Soup Classics by Jan Eliot for May 22, 2018 ]]></title>
-            <link>https://www.gocomics.com/stone-soup-classics/2018/05/22</link>
-            <guid>https://www.gocomics.com/stone-soup-classics/2018/05/22</guid>
-            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/df9d0f602bb801362d7c005056a9545d" alt="Stone Soup Classics by Jan Eliot for May 22, 2018 " title="Stone Soup Classics by Jan Eliot for May 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

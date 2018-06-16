@@ -4,7 +4,7 @@
         <title>Drew Sheneman</title>
         <link>https://www.comicsrss.com/preview/drewsheneman</link>
         <description>Drew Sheneman by Drew Sheneman</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Drew Sheneman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/drewsheneman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drew Sheneman by Drew Sheneman for Jun 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/96806250529401363bed005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/96806250529401363bed005056a9545d.html</guid>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/96806250529401363bed005056a9545d" alt="Drew Sheneman by Drew Sheneman for Jun 14, 2018 " title="Drew Sheneman by Drew Sheneman for Jun 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drew Sheneman by Drew Sheneman for Jun 12, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/410b81c0510201363b25005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/drewsheneman/2018/04/18</guid>
             <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4d3ac2b0269301362bb1005056a9545d" alt="Drew Sheneman by Drew Sheneman for Apr 18, 2018 " title="Drew Sheneman by Drew Sheneman for Apr 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Drew Sheneman by Drew Sheneman for Apr 17, 2018 ]]></title>
-            <link>http://www.gocomics.com/drewsheneman/2018/04/17</link>
-            <guid>http://www.gocomics.com/drewsheneman/2018/04/17</guid>
-            <pubDate>Tue, 17 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/25fc876025ca01362b54005056a9545d" alt="Drew Sheneman by Drew Sheneman for Apr 17, 2018 " title="Drew Sheneman by Drew Sheneman for Apr 17, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

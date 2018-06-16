@@ -4,7 +4,7 @@
         <title>Steve Benson</title>
         <link>https://www.comicsrss.com/preview/stevebenson</link>
         <description>Steve Benson by Steve Benson</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Benson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stevebenson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Benson by Steve Benson for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7344bc20529701363bf1005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7344bc20529701363bf1005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7344bc20529701363bf1005056a9545d" alt="Steve Benson by Steve Benson for Jun 15, 2018 " title="Steve Benson by Steve Benson for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Benson by Steve Benson for Jun 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3085489051ce01363b87005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/stevebenson/2018/04/27</guid>
             <pubDate>Fri, 27 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/5daaf0402c1601362db1005056a9545d" alt="Steve Benson by Steve Benson for Apr 27, 2018 " title="Steve Benson by Steve Benson for Apr 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Benson by Steve Benson for Apr 26, 2018 ]]></title>
-            <link>http://www.gocomics.com/stevebenson/2018/04/26</link>
-            <guid>http://www.gocomics.com/stevebenson/2018/04/26</guid>
-            <pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/6e0dbaf02ae801362d15005056a9545d" alt="Steve Benson by Steve Benson for Apr 26, 2018 " title="Steve Benson by Steve Benson for Apr 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

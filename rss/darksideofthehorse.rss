@@ -4,7 +4,7 @@
         <title>Dark Side of the Horse</title>
         <link>https://www.comicsrss.com/preview/darksideofthehorse</link>
         <description>Dark Side of the Horse by Samson</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Samson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/darksideofthehorse.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dark Side of the Horse by Samson for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/de97cb0052d301363bf9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/de97cb0052d301363bf9005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/de97cb0052d301363bf9005056a9545d" alt="Dark Side of the Horse by Samson for Jun 15, 2018 " title="Dark Side of the Horse by Samson for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dark Side of the Horse by Samson for Jun 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b45c9520520a01363b90005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/darksideofthehorse/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/839771a03b3801363317005056a9545d" alt="Dark Side of the Horse by Samson for May 16, 2018 " title="Dark Side of the Horse by Samson for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dark Side of the Horse by Samson for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/darksideofthehorse/2018/05/15</link>
-            <guid>https://www.gocomics.com/darksideofthehorse/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ad13f8a03a34013632af005056a9545d" alt="Dark Side of the Horse by Samson for May 15, 2018 " title="Dark Side of the Horse by Samson for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

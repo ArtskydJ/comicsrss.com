@@ -4,7 +4,7 @@
         <title>bacon</title>
         <link>https://www.comicsrss.com/preview/bacon</link>
         <description>bacon by Lonnie Millsap</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lonnie Millsap</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bacon.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bacon by Lonnie Millsap for Jun 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/dee12340529f01363bf4005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/dee12340529f01363bf4005056a9545d.html</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dee12340529f01363bf4005056a9545d" alt="bacon by Lonnie Millsap for Jun 15, 2018 " title="bacon by Lonnie Millsap for Jun 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[bacon by Lonnie Millsap for Jun 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/20a4de20510301363b26005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bacon/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/11b3920026ab01362bb7005056a9545d" alt="bacon by Lonnie Millsap for Apr 20, 2018 " title="bacon by Lonnie Millsap for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[bacon by Lonnie Millsap for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/bacon/2018/04/18</link>
-            <guid>http://www.gocomics.com/bacon/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/2ff1d1c0252101362af4005056a9545d" alt="bacon by Lonnie Millsap for Apr 18, 2018 " title="bacon by Lonnie Millsap for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

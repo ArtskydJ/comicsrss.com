@@ -4,7 +4,7 @@
         <title>Warped</title>
         <link>https://www.comicsrss.com/preview/warped</link>
         <description>Warped by Michael Cavna</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Cavna</copyright>
         <atom:link href="https://www.comicsrss.com/rss/warped.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Warped by Michael Cavna for Jun 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5fd8c040534301363c32005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5fd8c040534301363c32005056a9545d.html</guid>
+            <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5fd8c040534301363c32005056a9545d" alt="Warped by Michael Cavna for Jun 16, 2018 " title="Warped by Michael Cavna for Jun 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Warped by Michael Cavna for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9efefc30528401363be5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/warped/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c7521f50407101363522005056a9545d" alt="Warped by Michael Cavna for May 23, 2018 " title="Warped by Michael Cavna for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Warped by Michael Cavna for May 22, 2018 ]]></title>
-            <link>https://www.gocomics.com/warped/2018/05/22</link>
-            <guid>https://www.gocomics.com/warped/2018/05/22</guid>
-            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/da97bf203f3f01363484005056a9545d" alt="Warped by Michael Cavna for May 22, 2018 " title="Warped by Michael Cavna for May 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

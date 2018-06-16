@@ -4,7 +4,7 @@
         <title>Edge City</title>
         <link>https://www.comicsrss.com/preview/edge-city</link>
         <description>Edge City by Terry and Patty LaBan</description>
-        <lastBuildDate>Fri, 15 Jun 2018 06:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Terry and Patty LaBan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/edge-city.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Edge City by Terry and Patty LaBan for Jun 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/10174de0cbc50135093d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/10174de0cbc50135093d005056a9545d.html</guid>
+            <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/10174de0cbc50135093d005056a9545d" alt="Edge City by Terry and Patty LaBan for Jun 16, 2018 " title="Edge City by Terry and Patty LaBan for Jun 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Edge City by Terry and Patty LaBan for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/eb542180cbc40135093d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/edge-city/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f57e8d70cbc40135093d005056a9545d" alt="Edge City by Terry and Patty LaBan for May 23, 2018 " title="Edge City by Terry and Patty LaBan for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Edge City by Terry and Patty LaBan for May 22, 2018 ]]></title>
-            <link>https://www.gocomics.com/edge-city/2018/05/22</link>
-            <guid>https://www.gocomics.com/edge-city/2018/05/22</guid>
-            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2a5f8f90cbc50135093d005056a9545d" alt="Edge City by Terry and Patty LaBan for May 22, 2018 " title="Edge City by Terry and Patty LaBan for May 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
