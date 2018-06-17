@@ -4,7 +4,7 @@
         <title>Gasoline Alley</title>
         <link>https://www.comicsrss.com/preview/gasolinealley</link>
         <description>Gasoline Alley by Jim Scancarelli</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Scancarelli</copyright>
         <atom:link href="https://www.comicsrss.com/rss/gasolinealley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gasoline Alley by Jim Scancarelli for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a90740c0522d01363baa005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a90740c0522d01363baa005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a90740c0522d01363baa005056a9545d" alt="Gasoline Alley by Jim Scancarelli for Jun 17, 2018 " title="Gasoline Alley by Jim Scancarelli for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gasoline Alley by Jim Scancarelli for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2d5e10b04cb5013639bc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/gasolinealley/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0519be403cfe01363402005056a9545d" alt="Gasoline Alley by Jim Scancarelli for May 24, 2018 " title="Gasoline Alley by Jim Scancarelli for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gasoline Alley by Jim Scancarelli for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/gasolinealley/2018/05/23</link>
-            <guid>https://www.gocomics.com/gasolinealley/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0caab3d03cfe01363402005056a9545d" alt="Gasoline Alley by Jim Scancarelli for May 23, 2018 " title="Gasoline Alley by Jim Scancarelli for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

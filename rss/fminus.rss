@@ -4,7 +4,7 @@
         <title>F Minus</title>
         <link>https://www.comicsrss.com/preview/fminus</link>
         <description>F Minus by Tony Carrillo</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tony Carrillo</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fminus.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[F Minus by Tony Carrillo for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/14b30d70326401363012005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/14b30d70326401363012005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/14b30d70326401363012005056a9545d" alt="F Minus by Tony Carrillo for Jun 17, 2018 " title="F Minus by Tony Carrillo for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[F Minus by Tony Carrillo for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1655a30047f6013637fb005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/fminus/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/87551fa0350d013630c6005056a9545d" alt="F Minus by Tony Carrillo for May 24, 2018 " title="F Minus by Tony Carrillo for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[F Minus by Tony Carrillo for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/fminus/2018/05/23</link>
-            <guid>https://www.gocomics.com/fminus/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8580a430350d013630c6005056a9545d" alt="F Minus by Tony Carrillo for May 23, 2018 " title="F Minus by Tony Carrillo for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

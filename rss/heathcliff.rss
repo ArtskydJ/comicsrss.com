@@ -4,7 +4,7 @@
         <title>Heathcliff</title>
         <link>https://www.comicsrss.com/preview/heathcliff</link>
         <description>Heathcliff by George Gately</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright George Gately</copyright>
         <atom:link href="https://www.comicsrss.com/rss/heathcliff.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heathcliff by George Gately for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/38ec6f604ee201363a57005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/38ec6f604ee201363a57005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/38ec6f604ee201363a57005056a9545d" alt="Heathcliff by George Gately for Jun 17, 2018 " title="Heathcliff by George Gately for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Heathcliff by George Gately for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/23a293a0496301363851005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/heathcliff/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a269c1e038e20136324d005056a9545d" alt="Heathcliff by George Gately for May 24, 2018 " title="Heathcliff by George Gately for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Heathcliff by George Gately for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/heathcliff/2018/05/23</link>
-            <guid>https://www.gocomics.com/heathcliff/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a0bfb35038e20136324d005056a9545d" alt="Heathcliff by George Gately for May 23, 2018 " title="Heathcliff by George Gately for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

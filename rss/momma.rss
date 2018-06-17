@@ -4,7 +4,7 @@
         <title>Momma</title>
         <link>https://www.comicsrss.com/preview/momma</link>
         <description>Momma by Mell Lazarus</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mell Lazarus</copyright>
         <atom:link href="https://www.comicsrss.com/rss/momma.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Momma by Mell Lazarus for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c0f6ff904ee101363a57005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c0f6ff904ee101363a57005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c0f6ff904ee101363a57005056a9545d" alt="Momma by Mell Lazarus for Jun 17, 2018 " title="Momma by Mell Lazarus for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Momma by Mell Lazarus for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8bc6f1d0496101363851005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/momma/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1cfc4ac038e10136324d005056a9545d" alt="Momma by Mell Lazarus for May 24, 2018 " title="Momma by Mell Lazarus for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Momma by Mell Lazarus for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/momma/2018/05/23</link>
-            <guid>https://www.gocomics.com/momma/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1e462df038e10136324d005056a9545d" alt="Momma by Mell Lazarus for May 23, 2018 " title="Momma by Mell Lazarus for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

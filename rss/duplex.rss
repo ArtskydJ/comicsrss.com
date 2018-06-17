@@ -4,7 +4,7 @@
         <title>The Duplex</title>
         <link>https://www.comicsrss.com/preview/duplex</link>
         <description>The Duplex by Glenn McCoy and Gary McCoy</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Glenn McCoy and Gary McCoy</copyright>
         <atom:link href="https://www.comicsrss.com/rss/duplex.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Duplex by Glenn McCoy and Gary McCoy for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e20d6ff037db01363236005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e20d6ff037db01363236005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e20d6ff037db01363236005056a9545d" alt="The Duplex by Glenn McCoy and Gary McCoy for Jun 17, 2018 " title="The Duplex by Glenn McCoy and Gary McCoy for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Duplex by Glenn McCoy and Gary McCoy for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/da2455404a4001363889005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/duplex/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/56b5670039c30136327f005056a9545d" alt="The Duplex by Glenn McCoy and Gary McCoy for May 24, 2018 " title="The Duplex by Glenn McCoy and Gary McCoy for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Duplex by Glenn McCoy and Gary McCoy for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/duplex/2018/05/23</link>
-            <guid>https://www.gocomics.com/duplex/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/54fcd15039c30136327f005056a9545d" alt="The Duplex by Glenn McCoy and Gary McCoy for May 23, 2018 " title="The Duplex by Glenn McCoy and Gary McCoy for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

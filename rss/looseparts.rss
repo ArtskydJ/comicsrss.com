@@ -4,7 +4,7 @@
         <title>Loose Parts</title>
         <link>https://www.comicsrss.com/preview/looseparts</link>
         <description>Loose Parts by Dave Blazek</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Blazek</copyright>
         <atom:link href="https://www.comicsrss.com/rss/looseparts.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Loose Parts by Dave Blazek for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d0277e102fa601362ecf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d0277e102fa601362ecf005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d0277e102fa601362ecf005056a9545d" alt="Loose Parts by Dave Blazek for Jun 17, 2018 " title="Loose Parts by Dave Blazek for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Loose Parts by Dave Blazek for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/70d48ba045a7013636d0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/looseparts/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ca0611102fa601362ecf005056a9545d" alt="Loose Parts by Dave Blazek for May 24, 2018 " title="Loose Parts by Dave Blazek for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Loose Parts by Dave Blazek for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/looseparts/2018/05/23</link>
-            <guid>https://www.gocomics.com/looseparts/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cdf8c0a02fa601362ecf005056a9545d" alt="Loose Parts by Dave Blazek for May 23, 2018 " title="Loose Parts by Dave Blazek for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

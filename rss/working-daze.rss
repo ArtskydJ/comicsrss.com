@@ -4,7 +4,7 @@
         <title>Working Daze</title>
         <link>https://www.comicsrss.com/preview/working-daze</link>
         <description>Working Daze by John Zakour and Scott Roberts</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Zakour and Scott Roberts</copyright>
         <atom:link href="https://www.comicsrss.com/rss/working-daze.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Working Daze by John Zakour and Scott Roberts for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4af9dce048ff01363846005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4af9dce048ff01363846005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4af9dce048ff01363846005056a9545d" alt="Working Daze by John Zakour and Scott Roberts for Jun 17, 2018 " title="Working Daze by John Zakour and Scott Roberts for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Working Daze by John Zakour and Scott Roberts for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4c6c94d048ff01363846005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/working-daze/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c2f27860412701363585005056a9545d" alt="Working Daze by John Zakour and Scott Roberts for May 24, 2018 " title="Working Daze by John Zakour and Scott Roberts for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Working Daze by John Zakour and Scott Roberts for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/working-daze/2018/05/23</link>
-            <guid>https://www.gocomics.com/working-daze/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b18afab040600136351a005056a9545d" alt="Working Daze by John Zakour and Scott Roberts for May 23, 2018 " title="Working Daze by John Zakour and Scott Roberts for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

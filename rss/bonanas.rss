@@ -4,7 +4,7 @@
         <title>Bo Nanas</title>
         <link>https://www.comicsrss.com/preview/bonanas</link>
         <description>Bo Nanas by John Kovaleski</description>
-        <lastBuildDate>Sat, 16 Jun 2018 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jun 2018 06:32:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Kovaleski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bonanas.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bo Nanas by John Kovaleski for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/326b8330355c013630ff005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/326b8330355c013630ff005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/326b8330355c013630ff005056a9545d" alt="Bo Nanas by John Kovaleski for Jun 17, 2018 " title="Bo Nanas by John Kovaleski for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bo Nanas by John Kovaleski for Jun 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2ff67210355c013630ff005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/bonanas/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/2887bd60355a013630fe005056a9545d" alt="Bo Nanas by John Kovaleski for May 24, 2018 " title="Bo Nanas by John Kovaleski for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bo Nanas by John Kovaleski for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/bonanas/2018/05/23</link>
-            <guid>https://www.gocomics.com/bonanas/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/254fd760355a013630fe005056a9545d" alt="Bo Nanas by John Kovaleski for May 23, 2018 " title="Bo Nanas by John Kovaleski for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
