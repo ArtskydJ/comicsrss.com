@@ -4,7 +4,7 @@
         <title>Joe Heller</title>
         <link>https://www.comicsrss.com/preview/joe-heller</link>
         <description>Joe Heller by Joe Heller</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Joe Heller</copyright>
         <atom:link href="https://www.comicsrss.com/rss/joe-heller.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Heller by Joe Heller for Jun 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/31f71ed054a701363c6a005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/31f71ed054a701363c6a005056a9545d.html</guid>
+            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/31f71ed054a701363c6a005056a9545d" alt="Joe Heller by Joe Heller for Jun 17, 2018 " title="Joe Heller by Joe Heller for Jun 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Joe Heller by Joe Heller for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/f6540e7052ea01363c07005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/joe-heller/2018/05/03</guid>
             <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/07a3a210311001362f76005056a9545d" alt="Joe Heller by Joe Heller for May 3, 2018 " title="Joe Heller by Joe Heller for May 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Joe Heller by Joe Heller for May 1, 2018 ]]></title>
-            <link>http://www.gocomics.com/joe-heller/2018/05/01</link>
-            <guid>http://www.gocomics.com/joe-heller/2018/05/01</guid>
-            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8fdd52602fbc01362ede005056a9545d" alt="Joe Heller by Joe Heller for May 1, 2018 " title="Joe Heller by Joe Heller for May 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

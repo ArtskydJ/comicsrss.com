@@ -4,7 +4,7 @@
         <title>Get Fuzzy</title>
         <link>https://www.comicsrss.com/preview/getfuzzy</link>
         <description>Get Fuzzy by Darby Conley</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Darby Conley</copyright>
         <atom:link href="https://www.comicsrss.com/rss/getfuzzy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Fuzzy by Darby Conley for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1dd980704fc801363a91005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1dd980704fc801363a91005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1dd980704fc801363a91005056a9545d" alt="Get Fuzzy by Darby Conley for Jun 18, 2018 " title="Get Fuzzy by Darby Conley for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Get Fuzzy by Darby Conley for Jun 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/66c226403d640136342f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/getfuzzy/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/89318a5039c30136327f005056a9545d" alt="Get Fuzzy by Darby Conley for May 25, 2018 " title="Get Fuzzy by Darby Conley for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Get Fuzzy by Darby Conley for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/getfuzzy/2018/05/24</link>
-            <guid>https://www.gocomics.com/getfuzzy/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8757821039c30136327f005056a9545d" alt="Get Fuzzy by Darby Conley for May 24, 2018 " title="Get Fuzzy by Darby Conley for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Dinosaur Comics</title>
         <link>https://www.comicsrss.com/preview/dinosaur-comics</link>
         <description>Dinosaur Comics by Ryan North</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ryan North</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dinosaur-comics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dinosaur Comics by Ryan North for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/216f384079e70135eb2b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/216f384079e70135eb2b005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/216f384079e70135eb2b005056a9545d" alt="Dinosaur Comics by Ryan North for Jun 18, 2018 " title="Dinosaur Comics by Ryan North for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dinosaur Comics by Ryan North for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5442e08079e70135eb2b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/dinosaur-comics/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3b0506a079e70135eb2b005056a9545d" alt="Dinosaur Comics by Ryan North for May 15, 2018 " title="Dinosaur Comics by Ryan North for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dinosaur Comics by Ryan North for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/dinosaur-comics/2018/05/14</link>
-            <guid>https://www.gocomics.com/dinosaur-comics/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/41650ba079e70135eb2b005056a9545d" alt="Dinosaur Comics by Ryan North for May 14, 2018 " title="Dinosaur Comics by Ryan North for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

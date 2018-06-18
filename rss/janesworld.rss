@@ -4,7 +4,7 @@
         <title>Jane&amp;#39;s World</title>
         <link>https://www.comicsrss.com/preview/janesworld</link>
         <description>Jane&amp;#39;s World by Paige Braddock</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paige Braddock</copyright>
         <atom:link href="https://www.comicsrss.com/rss/janesworld.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jane&#39;s World by Paige Braddock for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a39e5ee054dd01363c7a005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a39e5ee054dd01363c7a005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a39e5ee054dd01363c7a005056a9545d" alt="Jane&#39;s World by Paige Braddock for Jun 18, 2018 " title="Jane&#39;s World by Paige Braddock for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jane&#39;s World by Paige Braddock for Jun 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e20da79051b601363b7c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/janesworld/2018/04/25</guid>
             <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/702dca9029a301362c86005056a9545d" alt="Jane&#39;s World by Paige Braddock for Apr 25, 2018 " title="Jane&#39;s World by Paige Braddock for Apr 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jane&#39;s World by Paige Braddock for Apr 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/janesworld/2018/04/24</link>
-            <guid>http://www.gocomics.com/janesworld/2018/04/24</guid>
-            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/25654620299d01362c84005056a9545d" alt="Jane&#39;s World by Paige Braddock for Apr 24, 2018 " title="Jane&#39;s World by Paige Braddock for Apr 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

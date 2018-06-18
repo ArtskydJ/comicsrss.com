@@ -4,7 +4,7 @@
         <title>Betty</title>
         <link>https://www.comicsrss.com/preview/betty</link>
         <description>Betty by Gary Delainey and Gerry Rasmussen</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gary Delainey and Gerry Rasmussen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/betty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Betty by Gary Delainey and Gerry Rasmussen for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/fe38f0b050c101363b0b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/fe38f0b050c101363b0b005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fe38f0b050c101363b0b005056a9545d" alt="Betty by Gary Delainey and Gerry Rasmussen for Jun 18, 2018 " title="Betty by Gary Delainey and Gerry Rasmussen for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Betty by Gary Delainey and Gerry Rasmussen for Jun 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/18ac903036d8013631bd005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/betty/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/416d6cc039c30136327f005056a9545d" alt="Betty by Gary Delainey and Gerry Rasmussen for May 25, 2018 " title="Betty by Gary Delainey and Gerry Rasmussen for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Betty by Gary Delainey and Gerry Rasmussen for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/betty/2018/05/24</link>
-            <guid>https://www.gocomics.com/betty/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/40217b4039c30136327f005056a9545d" alt="Betty by Gary Delainey and Gerry Rasmussen for May 24, 2018 " title="Betty by Gary Delainey and Gerry Rasmussen for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

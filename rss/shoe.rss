@@ -4,7 +4,7 @@
         <title>Shoe</title>
         <link>https://www.comicsrss.com/preview/shoe</link>
         <description>Shoe by Gary Brookins and Susie MacNelly</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gary Brookins and Susie MacNelly</copyright>
         <atom:link href="https://www.comicsrss.com/rss/shoe.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shoe by Gary Brookins and Susie MacNelly for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/019bfa3050a301363af1005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/019bfa3050a301363af1005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/019bfa3050a301363af1005056a9545d" alt="Shoe by Gary Brookins and Susie MacNelly for Jun 18, 2018 " title="Shoe by Gary Brookins and Susie MacNelly for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Shoe by Gary Brookins and Susie MacNelly for Jun 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e27328c0522d01363baa005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/shoe/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d61abc503ad4013632fd005056a9545d" alt="Shoe by Gary Brookins and Susie MacNelly for May 25, 2018 " title="Shoe by Gary Brookins and Susie MacNelly for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shoe by Gary Brookins and Susie MacNelly for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/shoe/2018/05/24</link>
-            <guid>https://www.gocomics.com/shoe/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cf6de9e03ad4013632fd005056a9545d" alt="Shoe by Gary Brookins and Susie MacNelly for May 24, 2018 " title="Shoe by Gary Brookins and Susie MacNelly for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

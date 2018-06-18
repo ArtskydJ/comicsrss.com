@@ -4,7 +4,7 @@
         <title>Alley Oop</title>
         <link>https://www.comicsrss.com/preview/alley-oop</link>
         <description>Alley Oop by Jack and Carole Bender</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jack and Carole Bender</copyright>
         <atom:link href="https://www.comicsrss.com/rss/alley-oop.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alley Oop by Jack and Carole Bender for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ffaf72004594013636bf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ffaf72004594013636bf005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ffaf72004594013636bf005056a9545d" alt="Alley Oop by Jack and Carole Bender for Jun 18, 2018 " title="Alley Oop by Jack and Carole Bender for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Alley Oop by Jack and Carole Bender for Jun 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b57282103545013630f6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/alley-oop/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6feb88302f7101362ea7005056a9545d" alt="Alley Oop by Jack and Carole Bender for May 25, 2018 " title="Alley Oop by Jack and Carole Bender for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alley Oop by Jack and Carole Bender for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/alley-oop/2018/05/24</link>
-            <guid>https://www.gocomics.com/alley-oop/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6dddc7402f7101362ea7005056a9545d" alt="Alley Oop by Jack and Carole Bender for May 24, 2018 " title="Alley Oop by Jack and Carole Bender for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

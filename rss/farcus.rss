@@ -4,7 +4,7 @@
         <title>Farcus</title>
         <link>https://www.comicsrss.com/preview/farcus</link>
         <description>Farcus by David Waisglass and Gordon Coulthart</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright David Waisglass and Gordon Coulthart</copyright>
         <atom:link href="https://www.comicsrss.com/rss/farcus.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Farcus by David Waisglass and Gordon Coulthart for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/133b25b0c37f01350667005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/133b25b0c37f01350667005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/133b25b0c37f01350667005056a9545d" alt="Farcus by David Waisglass and Gordon Coulthart for Jun 18, 2018 " title="Farcus by David Waisglass and Gordon Coulthart for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Farcus by David Waisglass and Gordon Coulthart for Jun 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/81139110c37f01350667005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/farcus/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/dff0b0d0c37e01350667005056a9545d" alt="Farcus by David Waisglass and Gordon Coulthart for May 25, 2018 " title="Farcus by David Waisglass and Gordon Coulthart for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Farcus by David Waisglass and Gordon Coulthart for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/farcus/2018/05/24</link>
-            <guid>https://www.gocomics.com/farcus/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/817c9040c37e01350667005056a9545d" alt="Farcus by David Waisglass and Gordon Coulthart for May 24, 2018 " title="Farcus by David Waisglass and Gordon Coulthart for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>1 and Done</title>
         <link>https://www.comicsrss.com/preview/1-and-done</link>
         <description>1 and Done by Eric Scott</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Eric Scott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/1-and-done.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1 and Done by Eric Scott for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3aa1872054e201363c7c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3aa1872054e201363c7c005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3aa1872054e201363c7c005056a9545d" alt="1 and Done by Eric Scott for Jun 18, 2018 " title="1 and Done by Eric Scott for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[1 and Done by Eric Scott for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/30810a40522201363ba1005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/1-and-done/2018/04/18</guid>
             <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/89ab7d0023cb01362a57005056a9545d" alt="1 and Done by Eric Scott for Apr 18, 2018 " title="1 and Done by Eric Scott for Apr 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1 and Done by Eric Scott for Apr 16, 2018 ]]></title>
-            <link>http://www.gocomics.com/1-and-done/2018/04/16</link>
-            <guid>http://www.gocomics.com/1-and-done/2018/04/16</guid>
-            <pubDate>Mon, 16 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/3cf961c020c40136298a005056a9545d" alt="1 and Done by Eric Scott for Apr 16, 2018 " title="1 and Done by Eric Scott for Apr 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

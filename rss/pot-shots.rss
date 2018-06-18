@@ -4,7 +4,7 @@
         <title>Pot-Shots</title>
         <link>https://www.comicsrss.com/preview/pot-shots</link>
         <description>Pot-Shots by Ashleigh Brilliant</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ashleigh Brilliant</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pot-shots.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pot-Shots by Ashleigh Brilliant for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6f332d60cfa30134496b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6f332d60cfa30134496b005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6f332d60cfa30134496b005056a9545d" alt="Pot-Shots by Ashleigh Brilliant for Jun 18, 2018 " title="Pot-Shots by Ashleigh Brilliant for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pot-Shots by Ashleigh Brilliant for Jun 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6c413610cfa30134496b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/pot-shots/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4ca20a50ce150134479a005056a9545d" alt="Pot-Shots by Ashleigh Brilliant for May 25, 2018 " title="Pot-Shots by Ashleigh Brilliant for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pot-Shots by Ashleigh Brilliant for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/pot-shots/2018/05/24</link>
-            <guid>https://www.gocomics.com/pot-shots/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2f9211d0ce1301344797005056a9545d" alt="Pot-Shots by Ashleigh Brilliant for May 24, 2018 " title="Pot-Shots by Ashleigh Brilliant for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

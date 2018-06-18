@@ -4,7 +4,7 @@
         <title>Buni</title>
         <link>https://www.comicsrss.com/preview/buni</link>
         <description>Buni by Ryan Pagelow</description>
-        <lastBuildDate>Sun, 17 Jun 2018 06:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jun 2018 06:34:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ryan Pagelow</copyright>
         <atom:link href="https://www.comicsrss.com/rss/buni.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buni by Ryan Pagelow for Jun 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c846a94054df01363c7b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c846a94054df01363c7b005056a9545d.html</guid>
+            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c846a94054df01363c7b005056a9545d" alt="Buni by Ryan Pagelow for Jun 18, 2018 " title="Buni by Ryan Pagelow for Jun 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Buni by Ryan Pagelow for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/47044eb0528401363be5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/buni/2018/04/20</guid>
             <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/58291fd0268b01362baa005056a9545d" alt="Buni by Ryan Pagelow for Apr 20, 2018 " title="Buni by Ryan Pagelow for Apr 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Buni by Ryan Pagelow for Apr 18, 2018 ]]></title>
-            <link>http://www.gocomics.com/buni/2018/04/18</link>
-            <guid>http://www.gocomics.com/buni/2018/04/18</guid>
-            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7068d49024ec01362ae4005056a9545d" alt="Buni by Ryan Pagelow for Apr 18, 2018 " title="Buni by Ryan Pagelow for Apr 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
