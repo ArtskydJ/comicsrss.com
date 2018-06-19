@@ -4,7 +4,7 @@
         <title>That&amp;#39;s Life</title>
         <link>https://www.comicsrss.com/preview/thats-life</link>
         <description>That&amp;#39;s Life by Mike Twohy</description>
-        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 06:33:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Twohy</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thats-life.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That&#39;s Life by Mike Twohy for Jun 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/624a6e60741f012ee3c400163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/624a6e60741f012ee3c400163e41dd5b.html</guid>
+            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/624a6e60741f012ee3c400163e41dd5b" alt="That&#39;s Life by Mike Twohy for Jun 19, 2018 " title="That&#39;s Life by Mike Twohy for Jun 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[That&#39;s Life by Mike Twohy for Jun 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/08c70080741f012ee3c400163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/thats-life/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/06997f60741f012ee3c400163e41dd5b" alt="That&#39;s Life by Mike Twohy for May 16, 2018 " title="That&#39;s Life by Mike Twohy for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[That&#39;s Life by Mike Twohy for May 15, 2018 ]]></title>
-            <link>https://www.gocomics.com/thats-life/2018/05/15</link>
-            <guid>https://www.gocomics.com/thats-life/2018/05/15</guid>
-            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/fcb50100741e012ee3c400163e41dd5b" alt="That&#39;s Life by Mike Twohy for May 15, 2018 " title="That&#39;s Life by Mike Twohy for May 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

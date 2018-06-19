@@ -4,7 +4,7 @@
         <title>Prickly City</title>
         <link>https://www.comicsrss.com/preview/pricklycity</link>
         <description>Prickly City by Scott Stantis</description>
-        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 06:33:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Stantis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pricklycity.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prickly City by Scott Stantis for Jun 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ccede0e0509601363ae6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ccede0e0509601363ae6005056a9545d.html</guid>
+            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ccede0e0509601363ae6005056a9545d" alt="Prickly City by Scott Stantis for Jun 19, 2018 " title="Prickly City by Scott Stantis for Jun 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Prickly City by Scott Stantis for Jun 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cb958a00509601363ae6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/pricklycity/2018/05/26</guid>
             <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/797862303a8f013632d0005056a9545d" alt="Prickly City by Scott Stantis for May 26, 2018 " title="Prickly City by Scott Stantis for May 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Prickly City by Scott Stantis for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/pricklycity/2018/05/25</link>
-            <guid>https://www.gocomics.com/pricklycity/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/779bc6c03a8f013632d0005056a9545d" alt="Prickly City by Scott Stantis for May 25, 2018 " title="Prickly City by Scott Stantis for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Rubes</title>
         <link>https://www.comicsrss.com/preview/rubes</link>
         <description>Rubes by Leigh Rubin</description>
-        <lastBuildDate>Mon, 18 Jun 2018 06:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 06:33:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Leigh Rubin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/rubes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rubes by Leigh Rubin for Jun 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5b8ace5050d901363b14005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5b8ace5050d901363b14005056a9545d.html</guid>
+            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5b8ace5050d901363b14005056a9545d" alt="Rubes by Leigh Rubin for Jun 19, 2018 " title="Rubes by Leigh Rubin for Jun 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rubes by Leigh Rubin for Jun 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/61dc1c9050d901363b14005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/rubes/2018/05/26</guid>
             <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e1e9d7f03ba101363369005056a9545d" alt="Rubes by Leigh Rubin for May 26, 2018 " title="Rubes by Leigh Rubin for May 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rubes by Leigh Rubin for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/rubes/2018/05/25</link>
-            <guid>https://www.gocomics.com/rubes/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d896af903ba101363369005056a9545d" alt="Rubes by Leigh Rubin for May 25, 2018 " title="Rubes by Leigh Rubin for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

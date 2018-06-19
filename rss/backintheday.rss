@@ -4,7 +4,7 @@
         <title>Back in the Day</title>
         <link>https://www.comicsrss.com/preview/backintheday</link>
         <description>Back in the Day by Eric Scott</description>
-        <lastBuildDate>Mon, 18 Jun 2018 06:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jun 2018 06:33:31 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Eric Scott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/backintheday.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Back in the Day by Eric Scott for Jun 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2e3d5a00555701363c9f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2e3d5a00555701363c9f005056a9545d.html</guid>
+            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2e3d5a00555701363c9f005056a9545d" alt="Back in the Day by Eric Scott for Jun 19, 2018 " title="Back in the Day by Eric Scott for Jun 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Back in the Day by Eric Scott for Jun 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d351e74054b501363c6e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/backintheday/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e6ead06039cb01363285005056a9545d" alt="Back in the Day by Eric Scott for May 15, 2018 " title="Back in the Day by Eric Scott for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Back in the Day by Eric Scott for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/backintheday/2018/05/14</link>
-            <guid>https://www.gocomics.com/backintheday/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/36978b20376c013631f3005056a9545d" alt="Back in the Day by Eric Scott for May 14, 2018 " title="Back in the Day by Eric Scott for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
