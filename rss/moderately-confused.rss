@@ -4,7 +4,7 @@
         <title>Moderately Confused</title>
         <link>https://www.comicsrss.com/preview/moderately-confused</link>
         <description>Moderately Confused by Jeff Stahler</description>
-        <lastBuildDate>Tue, 19 Jun 2018 06:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jun 2018 06:34:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Stahler</copyright>
         <atom:link href="https://www.comicsrss.com/rss/moderately-confused.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Moderately Confused by Jeff Stahler for Jun 20, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/97c33b004ffd01363aaf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/97c33b004ffd01363aaf005056a9545d.html</guid>
+            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/97c33b004ffd01363aaf005056a9545d" alt="Moderately Confused by Jeff Stahler for Jun 20, 2018 " title="Moderately Confused by Jeff Stahler for Jun 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Moderately Confused by Jeff Stahler for Jun 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9645f6604ffd01363aaf005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/moderately-confused/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/216a9c703ac6013632f7005056a9545d" alt="Moderately Confused by Jeff Stahler for May 23, 2018 " title="Moderately Confused by Jeff Stahler for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Moderately Confused by Jeff Stahler for May 22, 2018 ]]></title>
-            <link>https://www.gocomics.com/moderately-confused/2018/05/22</link>
-            <guid>https://www.gocomics.com/moderately-confused/2018/05/22</guid>
-            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/202cadb03ac6013632f7005056a9545d" alt="Moderately Confused by Jeff Stahler for May 22, 2018 " title="Moderately Confused by Jeff Stahler for May 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

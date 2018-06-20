@@ -4,7 +4,7 @@
         <title>Drabble</title>
         <link>https://www.comicsrss.com/preview/drabble</link>
         <description>Drabble by Kevin Fagan</description>
-        <lastBuildDate>Tue, 19 Jun 2018 06:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jun 2018 06:34:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Kevin Fagan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/drabble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drabble by Kevin Fagan for Jun 20, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5aae35403a7e013632c5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5aae35403a7e013632c5005056a9545d.html</guid>
+            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5aae35403a7e013632c5005056a9545d" alt="Drabble by Kevin Fagan for Jun 20, 2018 " title="Drabble by Kevin Fagan for Jun 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drabble by Kevin Fagan for Jun 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/58d34b703a7e013632c5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/drabble/2018/05/27</guid>
             <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4019eac01b9a01362782005056a9545d" alt="Drabble by Kevin Fagan for May 27, 2018 " title="Drabble by Kevin Fagan for May 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Drabble by Kevin Fagan for May 26, 2018 ]]></title>
-            <link>https://www.gocomics.com/drabble/2018/05/26</link>
-            <guid>https://www.gocomics.com/drabble/2018/05/26</guid>
-            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1b3c0d402bb301362d72005056a9545d" alt="Drabble by Kevin Fagan for May 26, 2018 " title="Drabble by Kevin Fagan for May 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

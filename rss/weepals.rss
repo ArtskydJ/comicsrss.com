@@ -4,7 +4,7 @@
         <title>Wee Pals</title>
         <link>https://www.comicsrss.com/preview/weepals</link>
         <description>Wee Pals by Morrie Turner</description>
-        <lastBuildDate>Tue, 19 Jun 2018 06:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jun 2018 06:34:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Morrie Turner</copyright>
         <atom:link href="https://www.comicsrss.com/rss/weepals.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wee Pals by Morrie Turner for Jun 20, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c9768dc04ee101363a57005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c9768dc04ee101363a57005056a9545d.html</guid>
+            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c9768dc04ee101363a57005056a9545d" alt="Wee Pals by Morrie Turner for Jun 20, 2018 " title="Wee Pals by Morrie Turner for Jun 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Jun 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c848b6904ee101363a57005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/weepals/2018/05/27</guid>
             <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/55c693403e610136344d005056a9545d" alt="Wee Pals by Morrie Turner for May 27, 2018 " title="Wee Pals by Morrie Turner for May 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wee Pals by Morrie Turner for May 26, 2018 ]]></title>
-            <link>https://www.gocomics.com/weepals/2018/05/26</link>
-            <guid>https://www.gocomics.com/weepals/2018/05/26</guid>
-            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2bb2367038e10136324d005056a9545d" alt="Wee Pals by Morrie Turner for May 26, 2018 " title="Wee Pals by Morrie Turner for May 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
