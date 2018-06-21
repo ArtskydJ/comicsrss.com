@@ -4,7 +4,7 @@
         <title>Marmaduke</title>
         <link>https://www.comicsrss.com/preview/marmaduke</link>
         <description>Marmaduke by Brad Anderson</description>
-        <lastBuildDate>Wed, 20 Jun 2018 06:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brad Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/marmaduke.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marmaduke by Brad Anderson for Jun 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/900c2c604ffd01363aaf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/900c2c604ffd01363aaf005056a9545d.html</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/900c2c604ffd01363aaf005056a9545d" alt="Marmaduke by Brad Anderson for Jun 21, 2018 " title="Marmaduke by Brad Anderson for Jun 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Marmaduke by Brad Anderson for Jun 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8e9fa3704ffd01363aaf005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/marmaduke/2018/05/28</guid>
             <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/063a65f03f7d013634ae005056a9545d" alt="Marmaduke by Brad Anderson for May 28, 2018 " title="Marmaduke by Brad Anderson for May 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marmaduke by Brad Anderson for May 27, 2018 ]]></title>
-            <link>https://www.gocomics.com/marmaduke/2018/05/27</link>
-            <guid>https://www.gocomics.com/marmaduke/2018/05/27</guid>
-            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/97ac2980258e01362b42005056a9545d" alt="Marmaduke by Brad Anderson for May 27, 2018 " title="Marmaduke by Brad Anderson for May 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

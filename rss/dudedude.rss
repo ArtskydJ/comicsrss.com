@@ -4,7 +4,7 @@
         <title>Dude and Dude</title>
         <link>https://www.comicsrss.com/preview/dudedude</link>
         <description>Dude and Dude by Keith Poletiek</description>
-        <lastBuildDate>Wed, 20 Jun 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith Poletiek</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dudedude.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dude and Dude by Keith Poletiek for Jun 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c85d8670563f01363d16005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c85d8670563f01363d16005056a9545d.html</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c85d8670563f01363d16005056a9545d" alt="Dude and Dude by Keith Poletiek for Jun 21, 2018 " title="Dude and Dude by Keith Poletiek for Jun 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dude and Dude by Keith Poletiek for Jun 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/40b43c80561e01363cf6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/dudedude/2018/05/17</guid>
             <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/87fe5e103b9001363361005056a9545d" alt="Dude and Dude by Keith Poletiek for May 17, 2018 " title="Dude and Dude by Keith Poletiek for May 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dude and Dude by Keith Poletiek for May 16, 2018 ]]></title>
-            <link>https://www.gocomics.com/dudedude/2018/05/16</link>
-            <guid>https://www.gocomics.com/dudedude/2018/05/16</guid>
-            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/36a9f9e03aae013632ed005056a9545d" alt="Dude and Dude by Keith Poletiek for May 16, 2018 " title="Dude and Dude by Keith Poletiek for May 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

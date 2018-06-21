@@ -4,7 +4,7 @@
         <title>Lucky Cow</title>
         <link>https://www.comicsrss.com/preview/luckycow</link>
         <description>Lucky Cow by Mark Pett</description>
-        <lastBuildDate>Wed, 20 Jun 2018 06:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Pett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/luckycow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucky Cow by Mark Pett for Jun 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/fb2c303a2a9d102d94d7001438c0f03b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/fb2c303a2a9d102d94d7001438c0f03b.html</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fb2c303a2a9d102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Jun 21, 2018 " title="Lucky Cow by Mark Pett for Jun 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lucky Cow by Mark Pett for Jun 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c8844d1e2a9a102d94d7001438c0f03b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/luckycow/2018/05/28</guid>
             <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d6b1f93e2a9c102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for May 28, 2018 " title="Lucky Cow by Mark Pett for May 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lucky Cow by Mark Pett for May 27, 2018 ]]></title>
-            <link>https://www.gocomics.com/luckycow/2018/05/27</link>
-            <guid>https://www.gocomics.com/luckycow/2018/05/27</guid>
-            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c1ddf7cc2a99102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for May 27, 2018 " title="Lucky Cow by Mark Pett for May 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

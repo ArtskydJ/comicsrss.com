@@ -4,7 +4,7 @@
         <title>Bloom County 2018</title>
         <link>https://www.comicsrss.com/preview/bloom-county</link>
         <description>Bloom County 2018 by Berkeley Breathed</description>
-        <lastBuildDate>Wed, 20 Jun 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Berkeley Breathed</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bloom-county.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bloom County 2018 by Berkeley Breathed for Jun 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5a6a603052fd01363c15005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5a6a603052fd01363c15005056a9545d.html</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5a6a603052fd01363c15005056a9545d" alt="Bloom County 2018 by Berkeley Breathed for Jun 21, 2018 " title="Bloom County 2018 by Berkeley Breathed for Jun 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bloom County 2018 by Berkeley Breathed for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/72892700515e01363b49005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/bloom-county/2018/05/05</guid>
             <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b5aa59502f9c01362ec5005056a9545d" alt="Bloom County 2018 by Berkeley Breathed for May 5, 2018 " title="Bloom County 2018 by Berkeley Breathed for May 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bloom County 2018 by Berkeley Breathed for May 4, 2018 ]]></title>
-            <link>http://www.gocomics.com/bloom-county/2018/05/04</link>
-            <guid>http://www.gocomics.com/bloom-county/2018/05/04</guid>
-            <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/74b6bf102c7901362dd9005056a9545d" alt="Bloom County 2018 by Berkeley Breathed for May 4, 2018 " title="Bloom County 2018 by Berkeley Breathed for May 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Saturday Morning Breakfast Cereal</title>
         <link>https://www.comicsrss.com/preview/saturday-morning-breakfast-cereal</link>
         <description>Saturday Morning Breakfast Cereal by Zach Weinersmith</description>
-        <lastBuildDate>Wed, 20 Jun 2018 06:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Zach Weinersmith</copyright>
         <atom:link href="https://www.comicsrss.com/rss/saturday-morning-breakfast-cereal.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jun 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0fdf5ca0562f01363d07005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0fdf5ca0562f01363d07005056a9545d.html</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0fdf5ca0562f01363d07005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jun 21, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for Jun 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for Jun 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e5828190556501363cab005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/saturday-morning-breakfast-cereal/2018/05/27</guid>
             <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a8afa320438b01363655005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for May 27, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for May 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Morning Breakfast Cereal by Zach Weinersmith for May 26, 2018 ]]></title>
-            <link>https://www.gocomics.com/saturday-morning-breakfast-cereal/2018/05/26</link>
-            <guid>https://www.gocomics.com/saturday-morning-breakfast-cereal/2018/05/26</guid>
-            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/258e2f60410401363575005056a9545d" alt="Saturday Morning Breakfast Cereal by Zach Weinersmith for May 26, 2018 " title="Saturday Morning Breakfast Cereal by Zach Weinersmith for May 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

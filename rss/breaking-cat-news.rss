@@ -4,7 +4,7 @@
         <title>Breaking Cat News</title>
         <link>https://www.comicsrss.com/preview/breaking-cat-news</link>
         <description>Breaking Cat News by Georgia Dunn</description>
-        <lastBuildDate>Wed, 20 Jun 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Georgia Dunn</copyright>
         <atom:link href="https://www.comicsrss.com/rss/breaking-cat-news.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breaking Cat News by Georgia Dunn for Jun 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/258615004c8a0136399c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/258615004c8a0136399c005056a9545d.html</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/258615004c8a0136399c005056a9545d" alt="Breaking Cat News by Georgia Dunn for Jun 21, 2018 " title="Breaking Cat News by Georgia Dunn for Jun 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Breaking Cat News by Georgia Dunn for Jun 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/236d89a04c8a0136399c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/breaking-cat-news/2018/05/28</guid>
             <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cec685103aa6013632e0005056a9545d" alt="Breaking Cat News by Georgia Dunn for May 28, 2018 " title="Breaking Cat News by Georgia Dunn for May 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Cat News by Georgia Dunn for May 27, 2018 ]]></title>
-            <link>https://www.gocomics.com/breaking-cat-news/2018/05/27</link>
-            <guid>https://www.gocomics.com/breaking-cat-news/2018/05/27</guid>
-            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6c50239025cd01362b52005056a9545d" alt="Breaking Cat News by Georgia Dunn for May 27, 2018 " title="Breaking Cat News by Georgia Dunn for May 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
