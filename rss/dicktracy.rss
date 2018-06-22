@@ -4,7 +4,7 @@
         <title>Dick Tracy</title>
         <link>https://www.comicsrss.com/preview/dicktracy</link>
         <description>Dick Tracy by Joe Staton and Mike Curtis</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Joe Staton and Mike Curtis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dicktracy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dick Tracy by Joe Staton and Mike Curtis for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7e890e80523501363bb2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7e890e80523501363bb2005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7e890e80523501363bb2005056a9545d" alt="Dick Tracy by Joe Staton and Mike Curtis for Jun 22, 2018 " title="Dick Tracy by Joe Staton and Mike Curtis for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dick Tracy by Joe Staton and Mike Curtis for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/82da32b0523501363bb2005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/dicktracy/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e0ef2cf041b4013635ba005056a9545d" alt="Dick Tracy by Joe Staton and Mike Curtis for May 29, 2018 " title="Dick Tracy by Joe Staton and Mike Curtis for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dick Tracy by Joe Staton and Mike Curtis for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/dicktracy/2018/05/28</link>
-            <guid>https://www.gocomics.com/dicktracy/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/dee74f9041b4013635ba005056a9545d" alt="Dick Tracy by Joe Staton and Mike Curtis for May 28, 2018 " title="Dick Tracy by Joe Staton and Mike Curtis for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

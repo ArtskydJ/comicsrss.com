@@ -4,7 +4,7 @@
         <title>Herb and Jamaal</title>
         <link>https://www.comicsrss.com/preview/herbandjamaal</link>
         <description>Herb and Jamaal by Stephen Bentley</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Stephen Bentley</copyright>
         <atom:link href="https://www.comicsrss.com/rss/herbandjamaal.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Herb and Jamaal by Stephen Bentley for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4fa61950523501363bb2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4fa61950523501363bb2005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4fa61950523501363bb2005056a9545d" alt="Herb and Jamaal by Stephen Bentley for Jun 22, 2018 " title="Herb and Jamaal by Stephen Bentley for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Herb and Jamaal by Stephen Bentley for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4938e390523501363bb2005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/herbandjamaal/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c011f44041b4013635ba005056a9545d" alt="Herb and Jamaal by Stephen Bentley for May 29, 2018 " title="Herb and Jamaal by Stephen Bentley for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Herb and Jamaal by Stephen Bentley for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/herbandjamaal/2018/05/28</link>
-            <guid>https://www.gocomics.com/herbandjamaal/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c5b9e4f041b4013635ba005056a9545d" alt="Herb and Jamaal by Stephen Bentley for May 28, 2018 " title="Herb and Jamaal by Stephen Bentley for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

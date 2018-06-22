@@ -4,7 +4,7 @@
         <title>Andertoons</title>
         <link>https://www.comicsrss.com/preview/andertoons</link>
         <description>Andertoons by Mark Anderson</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/andertoons.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andertoons by Mark Anderson for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/bd7410c02f9201362ebc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/bd7410c02f9201362ebc005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bd7410c02f9201362ebc005056a9545d" alt="Andertoons by Mark Anderson for Jun 22, 2018 " title="Andertoons by Mark Anderson for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Andertoons by Mark Anderson for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/daae20402f9201362ebc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/andertoons/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ea46c150bccb013503ba005056a9545d" alt="Andertoons by Mark Anderson for May 29, 2018 " title="Andertoons by Mark Anderson for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Andertoons by Mark Anderson for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/andertoons/2018/05/28</link>
-            <guid>https://www.gocomics.com/andertoons/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1137b0a0bccc013503ba005056a9545d" alt="Andertoons by Mark Anderson for May 28, 2018 " title="Andertoons by Mark Anderson for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

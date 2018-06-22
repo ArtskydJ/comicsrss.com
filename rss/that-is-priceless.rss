@@ -4,7 +4,7 @@
         <title>That is Priceless</title>
         <link>https://www.comicsrss.com/preview/that-is-priceless</link>
         <description>That is Priceless by Steve Melcher</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Melcher</copyright>
         <atom:link href="https://www.comicsrss.com/rss/that-is-priceless.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That is Priceless by Steve Melcher for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ad2ed10057f301363dda005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ad2ed10057f301363dda005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ad2ed10057f301363dda005056a9545d" alt="That is Priceless by Steve Melcher for Jun 22, 2018 " title="That is Priceless by Steve Melcher for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[That is Priceless by Steve Melcher for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cc846020573001363d81005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/that-is-priceless/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/42b363103ecc01363465005056a9545d" alt="That is Priceless by Steve Melcher for May 21, 2018 " title="That is Priceless by Steve Melcher for May 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[That is Priceless by Steve Melcher for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/that-is-priceless/2018/05/18</link>
-            <guid>https://www.gocomics.com/that-is-priceless/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d00e84003c87013633d2005056a9545d" alt="That is Priceless by Steve Melcher for May 18, 2018 " title="That is Priceless by Steve Melcher for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

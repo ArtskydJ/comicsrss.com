@@ -4,7 +4,7 @@
         <title>Lost Sheep</title>
         <link>https://www.comicsrss.com/preview/lostsheep</link>
         <description>Lost Sheep by Dan Thompson</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lostsheep.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lost Sheep by Dan Thompson for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/bf8cfa401a3b013626be005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/bf8cfa401a3b013626be005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bf8cfa401a3b013626be005056a9545d" alt="Lost Sheep by Dan Thompson for Jun 22, 2018 " title="Lost Sheep by Dan Thompson for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lost Sheep by Dan Thompson for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d44314001a3b013626be005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/lostsheep/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0fd5ae901a3c013626be005056a9545d" alt="Lost Sheep by Dan Thompson for May 29, 2018 " title="Lost Sheep by Dan Thompson for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lost Sheep by Dan Thompson for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/lostsheep/2018/05/28</link>
-            <guid>https://www.gocomics.com/lostsheep/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d7181ca01a3b013626be005056a9545d" alt="Lost Sheep by Dan Thompson for May 28, 2018 " title="Lost Sheep by Dan Thompson for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

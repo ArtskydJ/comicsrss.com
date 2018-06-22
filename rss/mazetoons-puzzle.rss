@@ -4,7 +4,7 @@
         <title>MazeToons Puzzle</title>
         <link>https://www.comicsrss.com/preview/mazetoons-puzzle</link>
         <description>MazeToons Puzzle by Joe Wos</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Joe Wos</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mazetoons-puzzle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MazeToons Puzzle by Joe Wos for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d3d80fe0518001363b68005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d3d80fe0518001363b68005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d3d80fe0518001363b68005056a9545d" alt="MazeToons Puzzle by Joe Wos for Jun 22, 2018 " title="MazeToons Puzzle by Joe Wos for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[MazeToons Puzzle by Joe Wos for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d0ec4200518001363b68005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/mazetoons-puzzle/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4109648033b70136303a005056a9545d" alt="MazeToons Puzzle by Joe Wos for May 29, 2018 " title="MazeToons Puzzle by Joe Wos for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MazeToons Puzzle by Joe Wos for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/mazetoons-puzzle/2018/05/28</link>
-            <guid>https://www.gocomics.com/mazetoons-puzzle/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/46238ba033b70136303a005056a9545d" alt="MazeToons Puzzle by Joe Wos for May 28, 2018 " title="MazeToons Puzzle by Joe Wos for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

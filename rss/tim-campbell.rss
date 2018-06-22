@@ -4,7 +4,7 @@
         <title>Tim Campbell</title>
         <link>https://www.comicsrss.com/preview/tim-campbell</link>
         <description>Tim Campbell by Tim Campbell</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tim Campbell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tim-campbell.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tim Campbell by Tim Campbell for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d55227b057db01363dd1005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d55227b057db01363dd1005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d55227b057db01363dd1005056a9545d" alt="Tim Campbell by Tim Campbell for Jun 22, 2018 " title="Tim Campbell by Tim Campbell for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tim Campbell by Tim Campbell for Jun 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/436d7f50558001363cb9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/tim-campbell/2018/04/10</guid>
             <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/987aa1901e3b0136281d005056a9545d" alt="Tim Campbell by Tim Campbell for Apr 10, 2018 " title="Tim Campbell by Tim Campbell for Apr 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tim Campbell by Tim Campbell for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/tim-campbell/2018/04/06</link>
-            <guid>http://www.gocomics.com/tim-campbell/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/02d044501b5a0136276b005056a9545d" alt="Tim Campbell by Tim Campbell for Apr 6, 2018 " title="Tim Campbell by Tim Campbell for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

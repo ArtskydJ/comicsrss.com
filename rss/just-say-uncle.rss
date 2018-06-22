@@ -4,7 +4,7 @@
         <title>Just Say Uncle</title>
         <link>https://www.comicsrss.com/preview/just-say-uncle</link>
         <description>Just Say Uncle by Dan Pavelich</description>
-        <lastBuildDate>Thu, 21 Jun 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Pavelich</copyright>
         <atom:link href="https://www.comicsrss.com/rss/just-say-uncle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just Say Uncle by Dan Pavelich for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/32813d4057e901363dd5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/32813d4057e901363dd5005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/32813d4057e901363dd5005056a9545d" alt="Just Say Uncle by Dan Pavelich for Jun 22, 2018 " title="Just Say Uncle by Dan Pavelich for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Just Say Uncle by Dan Pavelich for Jun 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/841e2450527301363be0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/just-say-uncle/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9ee120a01aa601362710005056a9545d" alt="Just Say Uncle by Dan Pavelich for Apr 5, 2018 " title="Just Say Uncle by Dan Pavelich for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Just Say Uncle by Dan Pavelich for Apr 1, 2018 ]]></title>
-            <link>http://www.gocomics.com/just-say-uncle/2018/04/01</link>
-            <guid>http://www.gocomics.com/just-say-uncle/2018/04/01</guid>
-            <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9f391ee01790013625bf005056a9545d" alt="Just Say Uncle by Dan Pavelich for Apr 1, 2018 " title="Just Say Uncle by Dan Pavelich for Apr 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
