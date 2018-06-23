@@ -4,7 +4,7 @@
         <title>Ben</title>
         <link>https://www.comicsrss.com/preview/ben</link>
         <description>Ben by Daniel Shelton</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Daniel Shelton</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ben.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ben by Daniel Shelton for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/35de9ca0522a01363ba6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/35de9ca0522a01363ba6005056a9545d.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/35de9ca0522a01363ba6005056a9545d" alt="Ben by Daniel Shelton for Jun 23, 2018 " title="Ben by Daniel Shelton for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ben by Daniel Shelton for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/32f35e00522a01363ba6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/ben/2018/05/26</guid>
             <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/65e0625031f201362fdd005056a9545d" alt="Ben by Daniel Shelton for May 26, 2018 " title="Ben by Daniel Shelton for May 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ben by Daniel Shelton for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/ben/2018/05/25</link>
-            <guid>https://www.gocomics.com/ben/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/67228ea031f201362fdd005056a9545d" alt="Ben by Daniel Shelton for May 25, 2018 " title="Ben by Daniel Shelton for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

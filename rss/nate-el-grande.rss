@@ -4,7 +4,7 @@
         <title>Nate el Grande</title>
         <link>https://www.comicsrss.com/preview/nate-el-grande</link>
         <description>Nate el Grande by Lincoln Peirce</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lincoln Peirce</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nate-el-grande.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nate el Grande by Lincoln Peirce for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/dbba4e60514601363b35005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/dbba4e60514601363b35005056a9545d.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dbba4e60514601363b35005056a9545d" alt="Nate el Grande by Lincoln Peirce for Jun 23, 2018 " title="Nate el Grande by Lincoln Peirce for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nate el Grande by Lincoln Peirce for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/da0c2030514601363b35005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/nate-el-grande/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b5bc158040d501363548005056a9545d" alt="Nate el Grande by Lincoln Peirce for May 30, 2018 " title="Nate el Grande by Lincoln Peirce for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nate el Grande by Lincoln Peirce for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/nate-el-grande/2018/05/29</link>
-            <guid>https://www.gocomics.com/nate-el-grande/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b46dd00040d501363548005056a9545d" alt="Nate el Grande by Lincoln Peirce for May 29, 2018 " title="Nate el Grande by Lincoln Peirce for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

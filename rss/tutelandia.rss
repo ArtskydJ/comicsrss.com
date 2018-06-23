@@ -4,7 +4,7 @@
         <title>Tutelandia</title>
         <link>https://www.comicsrss.com/preview/tutelandia</link>
         <description>Tutelandia by Tute</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tute</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tutelandia.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tutelandia by Tute for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b836d9e0404101363511005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b836d9e0404101363511005056a9545d.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b836d9e0404101363511005056a9545d" alt="Tutelandia by Tute for Jun 23, 2018 " title="Tutelandia by Tute for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tutelandia by Tute for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b6d0be90404101363511005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/tutelandia/2018/05/26</guid>
             <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6ffbaab018f601362635005056a9545d" alt="Tutelandia by Tute for May 26, 2018 " title="Tutelandia by Tute for May 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tutelandia by Tute for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/tutelandia/2018/05/25</link>
-            <guid>https://www.gocomics.com/tutelandia/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7ad6094018f601362635005056a9545d" alt="Tutelandia by Tute for May 25, 2018 " title="Tutelandia by Tute for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

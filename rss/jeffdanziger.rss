@@ -4,7 +4,7 @@
         <title>Jeff Danziger</title>
         <link>https://www.comicsrss.com/preview/jeffdanziger</link>
         <description>Jeff Danziger by Jeff Danziger</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Danziger</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jeffdanziger.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeff Danziger by Jeff Danziger for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1da03440585101363dee005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1da03440585101363dee005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1da03440585101363dee005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jun 22, 2018 " title="Jeff Danziger by Jeff Danziger for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/f8e900e0578701363d94005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/jeffdanziger/2018/05/28</guid>
             <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/200741f04575013636a7005056a9545d" alt="Jeff Danziger by Jeff Danziger for May 28, 2018 " title="Jeff Danziger by Jeff Danziger for May 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Danziger by Jeff Danziger for May 27, 2018 ]]></title>
-            <link>https://www.gocomics.com/jeffdanziger/2018/05/27</link>
-            <guid>https://www.gocomics.com/jeffdanziger/2018/05/27</guid>
-            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1dee61204575013636a7005056a9545d" alt="Jeff Danziger by Jeff Danziger for May 27, 2018 " title="Jeff Danziger by Jeff Danziger for May 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

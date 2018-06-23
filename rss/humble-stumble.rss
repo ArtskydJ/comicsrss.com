@@ -4,7 +4,7 @@
         <title>The Humble Stumble</title>
         <link>https://www.comicsrss.com/preview/humble-stumble</link>
         <description>The Humble Stumble by Roy Schneider</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Roy Schneider</copyright>
         <atom:link href="https://www.comicsrss.com/rss/humble-stumble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Humble Stumble by Roy Schneider for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/91add1f025ee012f2fcc00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/91add1f025ee012f2fcc00163e41dd5b.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/91add1f025ee012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Jun 23, 2018 " title="The Humble Stumble by Roy Schneider for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Humble Stumble by Roy Schneider for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9137247025ee012f2fcc00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/humble-stumble/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1343d22025ee012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for May 30, 2018 " title="The Humble Stumble by Roy Schneider for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Humble Stumble by Roy Schneider for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/humble-stumble/2018/05/29</link>
-            <guid>https://www.gocomics.com/humble-stumble/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/acf1068025ea012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for May 29, 2018 " title="The Humble Stumble by Roy Schneider for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

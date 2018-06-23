@@ -4,7 +4,7 @@
         <title>Annie</title>
         <link>https://www.comicsrss.com/preview/annie</link>
         <description>Annie by Jay Maeder and Alan Kupperberg</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jay Maeder and Alan Kupperberg</copyright>
         <atom:link href="https://www.comicsrss.com/rss/annie.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/dc3ea5305d1a012ee3bd00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/dc3ea5305d1a012ee3bd00163e41dd5b.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dc3ea5305d1a012ee3bd00163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for Jun 23, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/81e69f405cd5012ee3bd00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/annie/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4501c2206346012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for May 30, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/annie/2018/05/29</link>
-            <guid>https://www.gocomics.com/annie/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cb5e1c006371012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for May 29, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>W.T. Duck</title>
         <link>https://www.comicsrss.com/preview/wtduck</link>
         <description>W.T. Duck by Aaron Johnson</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Aaron Johnson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wtduck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[W.T. Duck by Aaron Johnson for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/16c817d0d32c012d63f600163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/16c817d0d32c012d63f600163e41dd5b.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/16c817d0d32c012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for Jun 23, 2018 " title="W.T. Duck by Aaron Johnson for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[W.T. Duck by Aaron Johnson for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/12d53d60d32c012d63f600163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/wtduck/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cdabf260bd15012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for May 30, 2018 " title="W.T. Duck by Aaron Johnson for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W.T. Duck by Aaron Johnson for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/wtduck/2018/05/29</link>
-            <guid>https://www.gocomics.com/wtduck/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c61156c0bd15012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for May 29, 2018 " title="W.T. Duck by Aaron Johnson for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

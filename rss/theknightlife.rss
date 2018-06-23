@@ -4,7 +4,7 @@
         <title>The Knight Life</title>
         <link>https://www.comicsrss.com/preview/theknightlife</link>
         <description>The Knight Life by Keith Knight</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith Knight</copyright>
         <atom:link href="https://www.comicsrss.com/rss/theknightlife.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Knight Life by Keith Knight for Jun 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6d206e10509501363ae3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6d206e10509501363ae3005056a9545d.html</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6d206e10509501363ae3005056a9545d" alt="The Knight Life by Keith Knight for Jun 23, 2018 " title="The Knight Life by Keith Knight for Jun 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Knight Life by Keith Knight for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6be06b50509501363ae3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/theknightlife/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/77e8d6d0400c013634e1005056a9545d" alt="The Knight Life by Keith Knight for May 30, 2018 " title="The Knight Life by Keith Knight for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Knight Life by Keith Knight for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/theknightlife/2018/05/29</link>
-            <guid>https://www.gocomics.com/theknightlife/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7657b400400c013634e1005056a9545d" alt="The Knight Life by Keith Knight for May 29, 2018 " title="The Knight Life by Keith Knight for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

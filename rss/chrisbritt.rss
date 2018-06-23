@@ -4,7 +4,7 @@
         <title>Chris Britt</title>
         <link>https://www.comicsrss.com/preview/chrisbritt</link>
         <description>Chris Britt by Chris Britt</description>
-        <lastBuildDate>Fri, 22 Jun 2018 06:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jun 2018 06:33:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Chris Britt</copyright>
         <atom:link href="https://www.comicsrss.com/rss/chrisbritt.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chris Britt by Chris Britt for Jun 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0c9b39f058bf01363e2f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0c9b39f058bf01363e2f005056a9545d.html</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0c9b39f058bf01363e2f005056a9545d" alt="Chris Britt by Chris Britt for Jun 22, 2018 " title="Chris Britt by Chris Britt for Jun 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Chris Britt by Chris Britt for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ef33a34057f501363ddb005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/chrisbritt/2018/05/08</guid>
             <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/80b99e30356201363101005056a9545d" alt="Chris Britt by Chris Britt for May 8, 2018 " title="Chris Britt by Chris Britt for May 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chris Britt by Chris Britt for May 7, 2018 ]]></title>
-            <link>https://www.gocomics.com/chrisbritt/2018/05/07</link>
-            <guid>https://www.gocomics.com/chrisbritt/2018/05/07</guid>
-            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c89ee70034770136308c005056a9545d" alt="Chris Britt by Chris Britt for May 7, 2018 " title="Chris Britt by Chris Britt for May 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
