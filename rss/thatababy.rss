@@ -4,7 +4,7 @@
         <title>Thatababy</title>
         <link>https://www.comicsrss.com/preview/thatababy</link>
         <description>Thatababy by Paul Trap</description>
-        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jun 2018 06:32:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Trap</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thatababy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thatababy by Paul Trap for Jun 24, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/020059303c53013633bc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/020059303c53013633bc005056a9545d.html</guid>
+            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/020059303c53013633bc005056a9545d" alt="Thatababy by Paul Trap for Jun 24, 2018 " title="Thatababy by Paul Trap for Jun 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Thatababy by Paul Trap for Jun 23, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/458a0d204fc801363a91005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/thatababy/2018/05/31</guid>
             <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b0fad7403f4e0136348d005056a9545d" alt="Thatababy by Paul Trap for May 31, 2018 " title="Thatababy by Paul Trap for May 31, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thatababy by Paul Trap for May 30, 2018 ]]></title>
-            <link>https://www.gocomics.com/thatababy/2018/05/30</link>
-            <guid>https://www.gocomics.com/thatababy/2018/05/30</guid>
-            <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/53a7a8403f4d0136348b005056a9545d" alt="Thatababy by Paul Trap for May 30, 2018 " title="Thatababy by Paul Trap for May 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

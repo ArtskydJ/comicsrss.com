@@ -4,7 +4,7 @@
         <title>Signe Wilkinson</title>
         <link>https://www.comicsrss.com/preview/signewilkinson</link>
         <description>Signe Wilkinson by Signe Wilkinson</description>
-        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jun 2018 06:32:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Signe Wilkinson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/signewilkinson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Signe Wilkinson by Signe Wilkinson for Jun 24, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e97f2d7058a401363e27005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e97f2d7058a401363e27005056a9545d.html</guid>
+            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e97f2d7058a401363e27005056a9545d" alt="Signe Wilkinson by Signe Wilkinson for Jun 24, 2018 " title="Signe Wilkinson by Signe Wilkinson for Jun 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Signe Wilkinson by Signe Wilkinson for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1a265ae0585101363dee005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/signewilkinson/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/17b7fbc03aa7013632e1005056a9545d" alt="Signe Wilkinson by Signe Wilkinson for May 16, 2018 " title="Signe Wilkinson by Signe Wilkinson for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Signe Wilkinson by Signe Wilkinson for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/signewilkinson/2018/05/13</link>
-            <guid>https://www.gocomics.com/signewilkinson/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6c0e4b90378201363208005056a9545d" alt="Signe Wilkinson by Signe Wilkinson for May 13, 2018 " title="Signe Wilkinson by Signe Wilkinson for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

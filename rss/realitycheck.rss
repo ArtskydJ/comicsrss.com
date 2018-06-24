@@ -4,7 +4,7 @@
         <title>Reality Check</title>
         <link>https://www.comicsrss.com/preview/realitycheck</link>
         <description>Reality Check by Dave Whamond</description>
-        <lastBuildDate>Sat, 23 Jun 2018 06:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jun 2018 06:32:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Whamond</copyright>
         <atom:link href="https://www.comicsrss.com/rss/realitycheck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reality Check by Dave Whamond for Jun 24, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e7d84370265701362b9c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e7d84370265701362b9c005056a9545d.html</guid>
+            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e7d84370265701362b9c005056a9545d" alt="Reality Check by Dave Whamond for Jun 24, 2018 " title="Reality Check by Dave Whamond for Jun 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Reality Check by Dave Whamond for Jun 23, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a0c1f3204fc901363a92005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/realitycheck/2018/05/31</guid>
             <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b51eae403f4b01363489005056a9545d" alt="Reality Check by Dave Whamond for May 31, 2018 " title="Reality Check by Dave Whamond for May 31, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reality Check by Dave Whamond for May 30, 2018 ]]></title>
-            <link>https://www.gocomics.com/realitycheck/2018/05/30</link>
-            <guid>https://www.gocomics.com/realitycheck/2018/05/30</guid>
-            <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4c2c25d03f4d0136348b005056a9545d" alt="Reality Check by Dave Whamond for May 30, 2018 " title="Reality Check by Dave Whamond for May 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
