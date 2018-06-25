@@ -4,7 +4,7 @@
         <title>The Other Coast</title>
         <link>https://www.comicsrss.com/preview/theothercoast</link>
         <description>The Other Coast by Adrian Raeside</description>
-        <lastBuildDate>Sun, 24 Jun 2018 06:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 06:34:51 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Adrian Raeside</copyright>
         <atom:link href="https://www.comicsrss.com/rss/theothercoast.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Other Coast by Adrian Raeside for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ba4995404fd901363a9c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ba4995404fd901363a9c005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ba4995404fd901363a9c005056a9545d" alt="The Other Coast by Adrian Raeside for Jun 25, 2018 " title="The Other Coast by Adrian Raeside for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Other Coast by Adrian Raeside for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ceaa53a0546201363c5f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/theothercoast/2018/06/01</guid>
             <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/945884f0361d01363163005056a9545d" alt="The Other Coast by Adrian Raeside for Jun 1, 2018 " title="The Other Coast by Adrian Raeside for Jun 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Other Coast by Adrian Raeside for May 31, 2018 ]]></title>
-            <link>https://www.gocomics.com/theothercoast/2018/05/31</link>
-            <guid>https://www.gocomics.com/theothercoast/2018/05/31</guid>
-            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8cac6c10361d01363163005056a9545d" alt="The Other Coast by Adrian Raeside for May 31, 2018 " title="The Other Coast by Adrian Raeside for May 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

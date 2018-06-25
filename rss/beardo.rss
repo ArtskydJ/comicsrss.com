@@ -4,7 +4,7 @@
         <title>Beardo</title>
         <link>https://www.comicsrss.com/preview/beardo</link>
         <description>Beardo by Dan Dougherty</description>
-        <lastBuildDate>Sun, 24 Jun 2018 06:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 06:34:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Dougherty</copyright>
         <atom:link href="https://www.comicsrss.com/rss/beardo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beardo by Dan Dougherty for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a6fdb9505a5901363e77005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a6fdb9505a5901363e77005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a6fdb9505a5901363e77005056a9545d" alt="Beardo by Dan Dougherty for Jun 25, 2018 " title="Beardo by Dan Dougherty for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/63f7f2b0598e01363e4b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/beardo/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e942ca603a23013632a9005056a9545d" alt="Beardo by Dan Dougherty for May 15, 2018 " title="Beardo by Dan Dougherty for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beardo by Dan Dougherty for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/beardo/2018/05/14</link>
-            <guid>https://www.gocomics.com/beardo/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/216db8a0396301363269005056a9545d" alt="Beardo by Dan Dougherty for May 14, 2018 " title="Beardo by Dan Dougherty for May 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Skippy</title>
         <link>https://www.comicsrss.com/preview/skippy</link>
         <description>Skippy by Percy Crosby</description>
-        <lastBuildDate>Sun, 24 Jun 2018 06:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Percy Crosby</copyright>
         <atom:link href="https://www.comicsrss.com/rss/skippy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skippy by Percy Crosby for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e66501b0135f013623f3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e66501b0135f013623f3005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e66501b0135f013623f3005056a9545d" alt="Skippy by Percy Crosby for Jun 25, 2018 " title="Skippy by Percy Crosby for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Skippy by Percy Crosby for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/82b840e0135b013623f3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/skippy/2018/05/22</guid>
             <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7feb6dd01357013623f3005056a9545d" alt="Skippy by Percy Crosby for May 22, 2018 " title="Skippy by Percy Crosby for May 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skippy by Percy Crosby for May 21, 2018 ]]></title>
-            <link>https://www.gocomics.com/skippy/2018/05/21</link>
-            <guid>https://www.gocomics.com/skippy/2018/05/21</guid>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/fe87ffd0135d013623f3005056a9545d" alt="Skippy by Percy Crosby for May 21, 2018 " title="Skippy by Percy Crosby for May 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

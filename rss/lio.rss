@@ -4,7 +4,7 @@
         <title>Lio</title>
         <link>https://www.comicsrss.com/preview/lio</link>
         <description>Lio by Mark Tatulli</description>
-        <lastBuildDate>Sun, 24 Jun 2018 06:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Tatulli</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lio.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lio by Mark Tatulli for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c0b142c0529701363beb005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c0b142c0529701363beb005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c0b142c0529701363beb005056a9545d" alt="Lio by Mark Tatulli for Jun 25, 2018 " title="Lio by Mark Tatulli for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lio by Mark Tatulli for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2c7972303b8a01363352005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/lio/2018/06/01</guid>
             <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/dda945503c52013633bc005056a9545d" alt="Lio by Mark Tatulli for Jun 1, 2018 " title="Lio by Mark Tatulli for Jun 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lio by Mark Tatulli for May 31, 2018 ]]></title>
-            <link>https://www.gocomics.com/lio/2018/05/31</link>
-            <guid>https://www.gocomics.com/lio/2018/05/31</guid>
-            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/dc52ab603c52013633bc005056a9545d" alt="Lio by Mark Tatulli for May 31, 2018 " title="Lio by Mark Tatulli for May 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

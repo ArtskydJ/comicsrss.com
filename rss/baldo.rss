@@ -4,7 +4,7 @@
         <title>Baldo</title>
         <link>https://www.comicsrss.com/preview/baldo</link>
         <description>Baldo by Hector D. Cantu and Carlos Castellanos</description>
-        <lastBuildDate>Sun, 24 Jun 2018 06:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 06:34:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Hector D. Cantu and Carlos Castellanos</copyright>
         <atom:link href="https://www.comicsrss.com/rss/baldo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baldo by Hector D. Cantu and Carlos Castellanos for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7d0a83b0554901363c93005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7d0a83b0554901363c93005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7d0a83b0554901363c93005056a9545d" alt="Baldo by Hector D. Cantu and Carlos Castellanos for Jun 25, 2018 " title="Baldo by Hector D. Cantu and Carlos Castellanos for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Baldo by Hector D. Cantu and Carlos Castellanos for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5503bce03a37013632b3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/baldo/2018/06/01</guid>
             <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/723008403f4e0136348d005056a9545d" alt="Baldo by Hector D. Cantu and Carlos Castellanos for Jun 1, 2018 " title="Baldo by Hector D. Cantu and Carlos Castellanos for Jun 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Baldo by Hector D. Cantu and Carlos Castellanos for May 31, 2018 ]]></title>
-            <link>https://www.gocomics.com/baldo/2018/05/31</link>
-            <guid>https://www.gocomics.com/baldo/2018/05/31</guid>
-            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/116b38703f4d0136348b005056a9545d" alt="Baldo by Hector D. Cantu and Carlos Castellanos for May 31, 2018 " title="Baldo by Hector D. Cantu and Carlos Castellanos for May 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

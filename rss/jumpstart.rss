@@ -4,7 +4,7 @@
         <title>JumpStart</title>
         <link>https://www.comicsrss.com/preview/jumpstart</link>
         <description>JumpStart by Robb Armstrong</description>
-        <lastBuildDate>Sun, 24 Jun 2018 06:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Robb Armstrong</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jumpstart.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JumpStart by Robb Armstrong for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b1dbc250561201363cea005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b1dbc250561201363cea005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b1dbc250561201363cea005056a9545d" alt="JumpStart by Robb Armstrong for Jun 25, 2018 " title="JumpStart by Robb Armstrong for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[JumpStart by Robb Armstrong for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9009d6303d640136342f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/jumpstart/2018/06/01</guid>
             <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ee31bcb04006013634d9005056a9545d" alt="JumpStart by Robb Armstrong for Jun 1, 2018 " title="JumpStart by Robb Armstrong for Jun 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JumpStart by Robb Armstrong for May 31, 2018 ]]></title>
-            <link>https://www.gocomics.com/jumpstart/2018/05/31</link>
-            <guid>https://www.gocomics.com/jumpstart/2018/05/31</guid>
-            <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/5a368d104008013634da005056a9545d" alt="JumpStart by Robb Armstrong for May 31, 2018 " title="JumpStart by Robb Armstrong for May 31, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
