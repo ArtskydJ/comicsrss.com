@@ -4,7 +4,7 @@
         <title>Paul Szep</title>
         <link>https://www.comicsrss.com/preview/paulszep</link>
         <description>Paul Szep by Paul Szep</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Szep</copyright>
         <atom:link href="https://www.comicsrss.com/rss/paulszep.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paul Szep by Paul Szep for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7dd8dfe05b1a01363ebe005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7dd8dfe05b1a01363ebe005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7dd8dfe05b1a01363ebe005056a9545d" alt="Paul Szep by Paul Szep for Jun 25, 2018 " title="Paul Szep by Paul Szep for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Paul Szep by Paul Szep for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/705675e057d401363dce005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/paulszep/2018/04/25</guid>
             <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/44b30a402a6201362ce1005056a9545d" alt="Paul Szep by Paul Szep for Apr 25, 2018 " title="Paul Szep by Paul Szep for Apr 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Paul Szep by Paul Szep for Apr 24, 2018 ]]></title>
-            <link>http://www.gocomics.com/paulszep/2018/04/24</link>
-            <guid>http://www.gocomics.com/paulszep/2018/04/24</guid>
-            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/86746660297701362c79005056a9545d" alt="Paul Szep by Paul Szep for Apr 24, 2018 " title="Paul Szep by Paul Szep for Apr 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

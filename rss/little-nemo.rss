@@ -4,7 +4,7 @@
         <title>Little Nemo</title>
         <link>https://www.comicsrss.com/preview/little-nemo</link>
         <description>Little Nemo by Winsor McCay</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Winsor McCay</copyright>
         <atom:link href="https://www.comicsrss.com/rss/little-nemo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Little Nemo by Winsor McCay for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c3b05cf01b320134756f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c3b05cf01b320134756f005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c3b05cf01b320134756f005056a9545d" alt="Little Nemo by Winsor McCay for Jun 26, 2018 " title="Little Nemo by Winsor McCay for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Little Nemo by Winsor McCay for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c26dc9701b320134756f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/little-nemo/2018/05/15</guid>
             <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a5d1f470cd280133493a005056a9545d" alt="Little Nemo by Winsor McCay for May 15, 2018 " title="Little Nemo by Winsor McCay for May 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Little Nemo by Winsor McCay for May 13, 2018 ]]></title>
-            <link>https://www.gocomics.com/little-nemo/2018/05/13</link>
-            <guid>https://www.gocomics.com/little-nemo/2018/05/13</guid>
-            <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ac5ba2f0cd280133493a005056a9545d" alt="Little Nemo by Winsor McCay for May 13, 2018 " title="Little Nemo by Winsor McCay for May 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

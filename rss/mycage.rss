@@ -4,7 +4,7 @@
         <title>My Cage: New and Old</title>
         <link>https://www.comicsrss.com/preview/mycage</link>
         <description>My Cage: New and Old by Melissa DeJesus and Ed Power</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Melissa DeJesus and Ed Power</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mycage.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8b00f7605b3301363ec6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8b00f7605b3301363ec6005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8b00f7605b3301363ec6005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 26, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9c4727805a5901363e77005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/mycage/2018/06/02</guid>
             <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d9ad7060485d0136382e005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 2, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/mycage/2018/06/01</link>
-            <guid>https://www.gocomics.com/mycage/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6595156047a3013637e2005056a9545d" alt="My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 1, 2018 " title="My Cage: New and Old by Melissa DeJesus and Ed Power for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

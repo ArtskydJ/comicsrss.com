@@ -4,7 +4,7 @@
         <title>Glasbergen Cartoons</title>
         <link>https://www.comicsrss.com/preview/glasbergen-cartoons</link>
         <description>Glasbergen Cartoons by Randy Glasbergen</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Randy Glasbergen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/glasbergen-cartoons.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d04f20005a9e01363e83005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d04f20005a9e01363e83005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d04f20005a9e01363e83005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for Jun 25, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/73c6948059d101363e56005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/glasbergen-cartoons/2018/05/27</guid>
             <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b696d73043ce0136365b005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for May 27, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for May 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Glasbergen Cartoons by Randy Glasbergen for May 26, 2018 ]]></title>
-            <link>https://www.gocomics.com/glasbergen-cartoons/2018/05/26</link>
-            <guid>https://www.gocomics.com/glasbergen-cartoons/2018/05/26</guid>
-            <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/143f172042fb0136363d005056a9545d" alt="Glasbergen Cartoons by Randy Glasbergen for May 26, 2018 " title="Glasbergen Cartoons by Randy Glasbergen for May 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

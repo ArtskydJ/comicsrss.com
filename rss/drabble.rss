@@ -4,7 +4,7 @@
         <title>Drabble</title>
         <link>https://www.comicsrss.com/preview/drabble</link>
         <description>Drabble by Kevin Fagan</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Kevin Fagan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/drabble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drabble by Kevin Fagan for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2cfe8f804d8b01363a1d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2cfe8f804d8b01363a1d005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2cfe8f804d8b01363a1d005056a9545d" alt="Drabble by Kevin Fagan for Jun 26, 2018 " title="Drabble by Kevin Fagan for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drabble by Kevin Fagan for Jun 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2b7298204d8b01363a1d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/drabble/2018/06/02</guid>
             <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9bc1b1b02ef101362e7c005056a9545d" alt="Drabble by Kevin Fagan for Jun 2, 2018 " title="Drabble by Kevin Fagan for Jun 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Drabble by Kevin Fagan for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/drabble/2018/06/01</link>
-            <guid>https://www.gocomics.com/drabble/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9a473e402ef101362e7c005056a9545d" alt="Drabble by Kevin Fagan for Jun 1, 2018 " title="Drabble by Kevin Fagan for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

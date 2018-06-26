@@ -4,7 +4,7 @@
         <title>The Bent Pinky</title>
         <link>https://www.comicsrss.com/preview/the-bent-pinky</link>
         <description>The Bent Pinky by Scott Metzger</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Metzger</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-bent-pinky.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bent Pinky by Scott Metzger for Jun 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a85c90105ab101363e8b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a85c90105ab101363e8b005056a9545d.html</guid>
+            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a85c90105ab101363e8b005056a9545d" alt="The Bent Pinky by Scott Metzger for Jun 25, 2018 " title="The Bent Pinky by Scott Metzger for Jun 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Bent Pinky by Scott Metzger for Jun 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/177bb070578f01363d95005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/the-bent-pinky/2018/04/05</guid>
             <pubDate>Thu, 05 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/0c0313701a9a01362703005056a9545d" alt="The Bent Pinky by Scott Metzger for Apr 5, 2018 " title="The Bent Pinky by Scott Metzger for Apr 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Bent Pinky by Scott Metzger for Apr 1, 2018 ]]></title>
-            <link>http://www.gocomics.com/the-bent-pinky/2018/04/01</link>
-            <guid>http://www.gocomics.com/the-bent-pinky/2018/04/01</guid>
-            <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d2a36f0017ec013625ce005056a9545d" alt="The Bent Pinky by Scott Metzger for Apr 1, 2018 " title="The Bent Pinky by Scott Metzger for Apr 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

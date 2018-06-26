@@ -4,7 +4,7 @@
         <title>Mike Luckovich</title>
         <link>https://www.comicsrss.com/preview/mikeluckovich</link>
         <description>Mike Luckovich by Mike Luckovich</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Luckovich</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mikeluckovich.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike Luckovich by Mike Luckovich for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6ced56105b1a01363ebe005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6ced56105b1a01363ebe005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6ced56105b1a01363ebe005056a9545d" alt="Mike Luckovich by Mike Luckovich for Jun 26, 2018 " title="Mike Luckovich by Mike Luckovich for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mike Luckovich by Mike Luckovich for Jun 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/988d2b1059a901363e52005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/mikeluckovich/2018/05/20</guid>
             <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cacd33d03e2801363447005056a9545d" alt="Mike Luckovich by Mike Luckovich for May 20, 2018 " title="Mike Luckovich by Mike Luckovich for May 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mike Luckovich by Mike Luckovich for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/mikeluckovich/2018/05/18</link>
-            <guid>https://www.gocomics.com/mikeluckovich/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/010a8fd03c75013633cd005056a9545d" alt="Mike Luckovich by Mike Luckovich for May 18, 2018 " title="Mike Luckovich by Mike Luckovich for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

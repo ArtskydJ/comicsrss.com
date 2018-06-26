@@ -4,7 +4,7 @@
         <title>Candorville</title>
         <link>https://www.comicsrss.com/preview/candorville</link>
         <description>Candorville by Darrin Bell</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Darrin Bell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/candorville.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Candorville by Darrin Bell for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/895f9b6056cf01363d3f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/895f9b6056cf01363d3f005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/895f9b6056cf01363d3f005056a9545d" alt="Candorville by Darrin Bell for Jun 26, 2018 " title="Candorville by Darrin Bell for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Candorville by Darrin Bell for Jun 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8a3d226056cf01363d3f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/candorville/2018/06/02</guid>
             <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e90bd8d040ce01363543005056a9545d" alt="Candorville by Darrin Bell for Jun 2, 2018 " title="Candorville by Darrin Bell for Jun 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Candorville by Darrin Bell for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/candorville/2018/06/01</link>
-            <guid>https://www.gocomics.com/candorville/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e722e4e040ce01363543005056a9545d" alt="Candorville by Darrin Bell for Jun 1, 2018 " title="Candorville by Darrin Bell for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

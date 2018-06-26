@@ -4,7 +4,7 @@
         <title>Watch Your Head</title>
         <link>https://www.comicsrss.com/preview/watchyourhead</link>
         <description>Watch Your Head by Cory Thomas</description>
-        <lastBuildDate>Mon, 25 Jun 2018 06:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Cory Thomas</copyright>
         <atom:link href="https://www.comicsrss.com/rss/watchyourhead.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch Your Head by Cory Thomas for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/33512120ce56013163dc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/33512120ce56013163dc005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/33512120ce56013163dc005056a9545d" alt="Watch Your Head by Cory Thomas for Jun 26, 2018 " title="Watch Your Head by Cory Thomas for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Watch Your Head by Cory Thomas for Jun 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/03fc90b0ce56013163dc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/watchyourhead/2018/06/02</guid>
             <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/48588b00ce57013163dc005056a9545d" alt="Watch Your Head by Cory Thomas for Jun 2, 2018 " title="Watch Your Head by Cory Thomas for Jun 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Watch Your Head by Cory Thomas for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/watchyourhead/2018/06/01</link>
-            <guid>https://www.gocomics.com/watchyourhead/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cb397cc0ce56013163dc005056a9545d" alt="Watch Your Head by Cory Thomas for Jun 1, 2018 " title="Watch Your Head by Cory Thomas for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
