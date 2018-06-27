@@ -4,7 +4,7 @@
         <title>Reply All</title>
         <link>https://www.comicsrss.com/preview/replyall</link>
         <description>Reply All by Donna A. Lewis</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Donna A. Lewis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/replyall.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reply All by Donna A. Lewis for Jun 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c25a4cc0532401363c2b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c25a4cc0532401363c2b005056a9545d.html</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c25a4cc0532401363c2b005056a9545d" alt="Reply All by Donna A. Lewis for Jun 27, 2018 " title="Reply All by Donna A. Lewis for Jun 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Reply All by Donna A. Lewis for Jun 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c448e1b0532401363c2b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/replyall/2018/06/03</guid>
             <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d35c98a02fa601362ecf005056a9545d" alt="Reply All by Donna A. Lewis for Jun 3, 2018 " title="Reply All by Donna A. Lewis for Jun 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reply All by Donna A. Lewis for Jun 2, 2018 ]]></title>
-            <link>https://www.gocomics.com/replyall/2018/06/02</link>
-            <guid>https://www.gocomics.com/replyall/2018/06/02</guid>
-            <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/276f25503d240136341d005056a9545d" alt="Reply All by Donna A. Lewis for Jun 2, 2018 " title="Reply All by Donna A. Lewis for Jun 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

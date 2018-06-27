@@ -4,7 +4,7 @@
         <title>KidSpot</title>
         <link>https://www.comicsrss.com/preview/kidspot</link>
         <description>KidSpot by Dan Thompson</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kidspot.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KidSpot by Dan Thompson for Jun 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8318a8c050c601363b0e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8318a8c050c601363b0e005056a9545d.html</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8318a8c050c601363b0e005056a9545d" alt="KidSpot by Dan Thompson for Jun 27, 2018 " title="KidSpot by Dan Thompson for Jun 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[KidSpot by Dan Thompson for Jun 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8171609050c601363b0e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/kidspot/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/07af0fa03ac6013632f7005056a9545d" alt="KidSpot by Dan Thompson for May 30, 2018 " title="KidSpot by Dan Thompson for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KidSpot by Dan Thompson for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/kidspot/2018/05/29</link>
-            <guid>https://www.gocomics.com/kidspot/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/063b66003ac6013632f7005056a9545d" alt="KidSpot by Dan Thompson for May 29, 2018 " title="KidSpot by Dan Thompson for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Chip Bok</title>
         <link>https://www.comicsrss.com/preview/chipbok</link>
         <description>Chip Bok by Chip Bok</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Chip Bok</copyright>
         <atom:link href="https://www.comicsrss.com/rss/chipbok.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chip Bok by Chip Bok for Jun 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/448340405bc201363f12005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/448340405bc201363f12005056a9545d.html</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/448340405bc201363f12005056a9545d" alt="Chip Bok by Chip Bok for Jun 26, 2018 " title="Chip Bok by Chip Bok for Jun 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Chip Bok by Chip Bok for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5d0580c058bf01363e2f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/chipbok/2018/05/09</guid>
             <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f95923e0362b01363166005056a9545d" alt="Chip Bok by Chip Bok for May 9, 2018 " title="Chip Bok by Chip Bok for May 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chip Bok by Chip Bok for May 8, 2018 ]]></title>
-            <link>http://www.gocomics.com/chipbok/2018/05/08</link>
-            <guid>http://www.gocomics.com/chipbok/2018/05/08</guid>
-            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/a83aa530356201363101005056a9545d" alt="Chip Bok by Chip Bok for May 8, 2018 " title="Chip Bok by Chip Bok for May 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

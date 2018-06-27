@@ -4,7 +4,7 @@
         <title>Compu-toon</title>
         <link>https://www.comicsrss.com/preview/compu-toon</link>
         <description>Compu-toon by Charles Boyce</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charles Boyce</copyright>
         <atom:link href="https://www.comicsrss.com/rss/compu-toon.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Compu-toon by Charles Boyce for Jun 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/994401205ba201363ef6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/994401205ba201363ef6005056a9545d.html</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/994401205ba201363ef6005056a9545d" alt="Compu-toon by Charles Boyce for Jun 27, 2018 " title="Compu-toon by Charles Boyce for Jun 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Compu-toon by Charles Boyce for Jun 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/27805b005aff01363eb8005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/compu-toon/2018/06/03</guid>
             <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/798fc7d048ad0136383b005056a9545d" alt="Compu-toon by Charles Boyce for Jun 3, 2018 " title="Compu-toon by Charles Boyce for Jun 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Compu-toon by Charles Boyce for Jun 2, 2018 ]]></title>
-            <link>https://www.gocomics.com/compu-toon/2018/06/02</link>
-            <guid>https://www.gocomics.com/compu-toon/2018/06/02</guid>
-            <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6b8e65b0483e01363821005056a9545d" alt="Compu-toon by Charles Boyce for Jun 2, 2018 " title="Compu-toon by Charles Boyce for Jun 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

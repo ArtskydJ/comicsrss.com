@@ -4,7 +4,7 @@
         <title>Bad Reporter</title>
         <link>https://www.comicsrss.com/preview/badreporter</link>
         <description>Bad Reporter by Don Asmussen</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Don Asmussen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/badreporter.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bad Reporter by Don Asmussen for Jun 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/797529105ae401363eab005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/797529105ae401363eab005056a9545d.html</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/797529105ae401363eab005056a9545d" alt="Bad Reporter by Don Asmussen for Jun 27, 2018 " title="Bad Reporter by Don Asmussen for Jun 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bad Reporter by Don Asmussen for Jun 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/06d1b6f057c401363dc3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/badreporter/2018/04/04</guid>
             <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eb1ee91019af01362685005056a9545d" alt="Bad Reporter by Don Asmussen for Apr 4, 2018 " title="Bad Reporter by Don Asmussen for Apr 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bad Reporter by Don Asmussen for Mar 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/badreporter/2018/03/30</link>
-            <guid>http://www.gocomics.com/badreporter/2018/03/30</guid>
-            <pubDate>Fri, 30 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/9ad3e6d015b701362510005056a9545d" alt="Bad Reporter by Don Asmussen for Mar 30, 2018 " title="Bad Reporter by Don Asmussen for Mar 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

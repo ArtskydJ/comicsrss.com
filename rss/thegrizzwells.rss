@@ -4,7 +4,7 @@
         <title>The Grizzwells</title>
         <link>https://www.comicsrss.com/preview/thegrizzwells</link>
         <description>The Grizzwells by Bill Schorr</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Schorr</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thegrizzwells.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grizzwells by Bill Schorr for Jun 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a5051a40554901363c93005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a5051a40554901363c93005056a9545d.html</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a5051a40554901363c93005056a9545d" alt="The Grizzwells by Bill Schorr for Jun 27, 2018 " title="The Grizzwells by Bill Schorr for Jun 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Grizzwells by Bill Schorr for Jun 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3ede5480554801363c91005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/thegrizzwells/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/32a758203f4d0136348b005056a9545d" alt="The Grizzwells by Bill Schorr for May 30, 2018 " title="The Grizzwells by Bill Schorr for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Grizzwells by Bill Schorr for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/thegrizzwells/2018/05/29</link>
-            <guid>https://www.gocomics.com/thegrizzwells/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9a7095003f4e0136348d005056a9545d" alt="The Grizzwells by Bill Schorr for May 29, 2018 " title="The Grizzwells by Bill Schorr for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Speechless</title>
         <link>https://www.comicsrss.com/preview/speechless</link>
         <description>Speechless by Len Borozinski</description>
-        <lastBuildDate>Tue, 26 Jun 2018 06:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jun 2018 06:34:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Len Borozinski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/speechless.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speechless by Len Borozinski for Jun 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9849a2f05bb701363f0c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9849a2f05bb701363f0c005056a9545d.html</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9849a2f05bb701363f0c005056a9545d" alt="Speechless by Len Borozinski for Jun 27, 2018 " title="Speechless by Len Borozinski for Jun 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Speechless by Len Borozinski for Jun 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7c8e93c05b3101363ec5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/speechless/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f999a02040660136351e005056a9545d" alt="Speechless by Len Borozinski for May 23, 2018 " title="Speechless by Len Borozinski for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speechless by Len Borozinski for May 21, 2018 ]]></title>
-            <link>https://www.gocomics.com/speechless/2018/05/21</link>
-            <guid>https://www.gocomics.com/speechless/2018/05/21</guid>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e04164103ec301363464005056a9545d" alt="Speechless by Len Borozinski for May 21, 2018 " title="Speechless by Len Borozinski for May 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
