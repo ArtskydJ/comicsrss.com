@@ -4,7 +4,7 @@
         <title>Jerry Holbert</title>
         <link>https://www.comicsrss.com/preview/jerryholbert</link>
         <description>Jerry Holbert by Jerry Holbert</description>
-        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Holbert</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jerryholbert.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jerry Holbert by Jerry Holbert for Jun 28, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3b3faf205c6a01363f55005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3b3faf205c6a01363f55005056a9545d.html</guid>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3b3faf205c6a01363f55005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jun 28, 2018 " title="Jerry Holbert by Jerry Holbert for Jun 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/f8ea4f205b9e01363ef0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/jerryholbert/2018/05/24</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/86fac62040eb0136355a005056a9545d" alt="Jerry Holbert by Jerry Holbert for May 24, 2018 " title="Jerry Holbert by Jerry Holbert for May 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jerry Holbert by Jerry Holbert for May 23, 2018 ]]></title>
-            <link>https://www.gocomics.com/jerryholbert/2018/05/23</link>
-            <guid>https://www.gocomics.com/jerryholbert/2018/05/23</guid>
-            <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ef1c3aa0402e01363503005056a9545d" alt="Jerry Holbert by Jerry Holbert for May 23, 2018 " title="Jerry Holbert by Jerry Holbert for May 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

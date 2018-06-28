@@ -4,7 +4,7 @@
         <title>Cornered</title>
         <link>https://www.comicsrss.com/preview/cornered</link>
         <description>Cornered by Mike Baldwin</description>
-        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Baldwin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cornered.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cornered by Mike Baldwin for Jun 28, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5a0457b02ef401362e7f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5a0457b02ef401362e7f005056a9545d.html</guid>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5a0457b02ef401362e7f005056a9545d" alt="Cornered by Mike Baldwin for Jun 28, 2018 " title="Cornered by Mike Baldwin for Jun 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Cornered by Mike Baldwin for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/587b04a02ef401362e7f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/cornered/2018/06/04</guid>
             <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/33f34d902ef401362e7f005056a9545d" alt="Cornered by Mike Baldwin for Jun 4, 2018 " title="Cornered by Mike Baldwin for Jun 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cornered by Mike Baldwin for Jun 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/cornered/2018/06/03</link>
-            <guid>https://www.gocomics.com/cornered/2018/06/03</guid>
-            <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/25edddf02b0601362d31005056a9545d" alt="Cornered by Mike Baldwin for Jun 3, 2018 " title="Cornered by Mike Baldwin for Jun 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

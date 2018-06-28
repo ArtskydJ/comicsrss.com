@@ -4,7 +4,7 @@
         <title>Gaturro</title>
         <link>https://www.comicsrss.com/preview/gaturro</link>
         <description>Gaturro by NIK</description>
-        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright NIK</copyright>
         <atom:link href="https://www.comicsrss.com/rss/gaturro.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gaturro by NIK for Jun 28, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c3e6fd003ff4013634cb005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c3e6fd003ff4013634cb005056a9545d.html</guid>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c3e6fd003ff4013634cb005056a9545d" alt="Gaturro by NIK for Jun 28, 2018 " title="Gaturro by NIK for Jun 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gaturro by NIK for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c1e6ed203ff4013634cb005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/gaturro/2018/06/04</guid>
             <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cc3c7ef0343e01363062005056a9545d" alt="Gaturro by NIK for Jun 4, 2018 " title="Gaturro by NIK for Jun 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gaturro by NIK for Jun 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/gaturro/2018/06/03</link>
-            <guid>https://www.gocomics.com/gaturro/2018/06/03</guid>
-            <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ca36e030343e01363062005056a9545d" alt="Gaturro by NIK for Jun 3, 2018 " title="Gaturro by NIK for Jun 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

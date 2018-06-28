@@ -4,7 +4,7 @@
         <title>Over the Hedge</title>
         <link>https://www.comicsrss.com/preview/overthehedge</link>
         <description>Over the Hedge by T Lewis and Michael Fry</description>
-        <lastBuildDate>Wed, 27 Jun 2018 06:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright T Lewis and Michael Fry</copyright>
         <atom:link href="https://www.comicsrss.com/rss/overthehedge.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Over the Hedge by T Lewis and Michael Fry for Jun 28, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b95dedc0554901363c93005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b95dedc0554901363c93005056a9545d.html</guid>
+            <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b95dedc0554901363c93005056a9545d" alt="Over the Hedge by T Lewis and Michael Fry for Jun 28, 2018 " title="Over the Hedge by T Lewis and Michael Fry for Jun 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Over the Hedge by T Lewis and Michael Fry for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b7cfde20554901363c93005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/overthehedge/2018/06/04</guid>
             <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/41409df0456b013636a2005056a9545d" alt="Over the Hedge by T Lewis and Michael Fry for Jun 4, 2018 " title="Over the Hedge by T Lewis and Michael Fry for Jun 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Over the Hedge by T Lewis and Michael Fry for Jun 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/overthehedge/2018/06/03</link>
-            <guid>https://www.gocomics.com/overthehedge/2018/06/03</guid>
-            <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f138e5e02bd701362d97005056a9545d" alt="Over the Hedge by T Lewis and Michael Fry for Jun 3, 2018 " title="Over the Hedge by T Lewis and Michael Fry for Jun 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
