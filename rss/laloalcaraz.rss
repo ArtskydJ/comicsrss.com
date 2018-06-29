@@ -4,7 +4,7 @@
         <title>Lalo Alcaraz</title>
         <link>https://www.comicsrss.com/preview/laloalcaraz</link>
         <description>Lalo Alcaraz by Lalo Alcaraz</description>
-        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 06:35:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lalo Alcaraz</copyright>
         <atom:link href="https://www.comicsrss.com/rss/laloalcaraz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lalo Alcaraz by Lalo Alcaraz for Jun 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e5d26e10457e013636ad005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e5d26e10457e013636ad005056a9545d.html</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e5d26e10457e013636ad005056a9545d" alt="Lalo Alcaraz by Lalo Alcaraz for Jun 29, 2018 " title="Lalo Alcaraz by Lalo Alcaraz for Jun 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lalo Alcaraz by Lalo Alcaraz for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ce1815d05c4a01363f41005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/laloalcaraz/2018/03/29</guid>
             <pubDate>Thu, 29 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/9c4eb790158b013624f3005056a9545d" alt="Lalo Alcaraz by Lalo Alcaraz for Mar 29, 2018 " title="Lalo Alcaraz by Lalo Alcaraz for Mar 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lalo Alcaraz by Lalo Alcaraz for Mar 23, 2018 ]]></title>
-            <link>http://www.gocomics.com/laloalcaraz/2018/03/23</link>
-            <guid>http://www.gocomics.com/laloalcaraz/2018/03/23</guid>
-            <pubDate>Fri, 23 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/5a344920103501362305005056a9545d" alt="Lalo Alcaraz by Lalo Alcaraz for Mar 23, 2018 " title="Lalo Alcaraz by Lalo Alcaraz for Mar 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

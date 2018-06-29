@@ -4,7 +4,7 @@
         <title>TOBY</title>
         <link>https://www.comicsrss.com/preview/toby</link>
         <description>TOBY by Corey Pandolph</description>
-        <lastBuildDate>Thu, 28 Jun 2018 06:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Corey Pandolph</copyright>
         <atom:link href="https://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TOBY by Corey Pandolph for Jun 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/656380d02a74fdb3386e1d2e8c6e60dd.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/656380d02a74fdb3386e1d2e8c6e60dd.html</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/656380d02a74fdb3386e1d2e8c6e60dd" alt="TOBY by Corey Pandolph for Jun 29, 2018 " title="TOBY by Corey Pandolph for Jun 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[TOBY by Corey Pandolph for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4d91a04b964450494889e25f0445e627.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/toby/2018/05/04</guid>
             <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/b3da8981c1068ff0d3e7c09000638b7b" alt="TOBY by Corey Pandolph for May 4, 2018 " title="TOBY by Corey Pandolph for May 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TOBY by Corey Pandolph for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/toby/2018/05/02</link>
-            <guid>http://www.gocomics.com/toby/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/92049376d35a67d8955358a6823bbe30" alt="TOBY by Corey Pandolph for May 2, 2018 " title="TOBY by Corey Pandolph for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Poptropica</title>
         <link>https://www.comicsrss.com/preview/poptropica</link>
         <description>Poptropica by Paul Gilligan and Kory Merritt</description>
-        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Gilligan and Kory Merritt</copyright>
         <atom:link href="https://www.comicsrss.com/rss/poptropica.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jun 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a64047e0fac80132edfe005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a64047e0fac80132edfe005056a9545d.html</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a64047e0fac80132edfe005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for Jun 29, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for Jun 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for Jun 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a74fb8c0fac80132edfe005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/poptropica/2018/05/04</guid>
             <pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/18963560df370132e3b6005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for May 4, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for May 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Poptropica by Paul Gilligan and Kory Merritt for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/poptropica/2018/05/02</link>
-            <guid>http://www.gocomics.com/poptropica/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/1a13f540df370132e3b6005056a9545d" alt="Poptropica by Paul Gilligan and Kory Merritt for May 2, 2018 " title="Poptropica by Paul Gilligan and Kory Merritt for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

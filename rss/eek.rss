@@ -4,7 +4,7 @@
         <title>Eek!</title>
         <link>https://www.comicsrss.com/preview/eek</link>
         <description>Eek! by Scott Nickel</description>
-        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 06:35:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Nickel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/eek.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eek! by Scott Nickel for Jun 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4b3b2f605cb901363f88005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4b3b2f605cb901363f88005056a9545d.html</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4b3b2f605cb901363f88005056a9545d" alt="Eek! by Scott Nickel for Jun 29, 2018 " title="Eek! by Scott Nickel for Jun 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Eek! by Scott Nickel for Jun 28, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/93a188605c9301363f7c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/eek/2018/05/28</guid>
             <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/70aaa12044370136366b005056a9545d" alt="Eek! by Scott Nickel for May 28, 2018 " title="Eek! by Scott Nickel for May 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eek! by Scott Nickel for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/eek/2018/05/25</link>
-            <guid>https://www.gocomics.com/eek/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/154fc66041c9013635cf005056a9545d" alt="Eek! by Scott Nickel for May 25, 2018 " title="Eek! by Scott Nickel for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

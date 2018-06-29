@@ -4,7 +4,7 @@
         <title>Up and Out</title>
         <link>https://www.comicsrss.com/preview/up-and-out</link>
         <description>Up and Out by Julia Kaye</description>
-        <lastBuildDate>Thu, 28 Jun 2018 06:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Julia Kaye</copyright>
         <atom:link href="https://www.comicsrss.com/rss/up-and-out.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Up and Out by Julia Kaye for Jun 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0054f740ae140132cf5c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0054f740ae140132cf5c005056a9545d.html</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0054f740ae140132cf5c005056a9545d" alt="Up and Out by Julia Kaye for Jun 29, 2018 " title="Up and Out by Julia Kaye for Jun 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Up and Out by Julia Kaye for Jun 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2f1b8140ae140132cf5c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/up-and-out/2018/04/06</guid>
             <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3bcea700ae140132cf5c005056a9545d" alt="Up and Out by Julia Kaye for Apr 6, 2018 " title="Up and Out by Julia Kaye for Apr 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Up and Out by Julia Kaye for Apr 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/up-and-out/2018/04/02</link>
-            <guid>http://www.gocomics.com/up-and-out/2018/04/02</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/34783700ae140132cf5c005056a9545d" alt="Up and Out by Julia Kaye for Apr 2, 2018 " title="Up and Out by Julia Kaye for Apr 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

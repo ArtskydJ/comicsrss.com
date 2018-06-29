@@ -4,7 +4,7 @@
         <title>Mike Lester</title>
         <link>https://www.comicsrss.com/preview/mike-lester</link>
         <description>Mike Lester by Mike Lester</description>
-        <lastBuildDate>Thu, 28 Jun 2018 06:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Lester</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mike-lester.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike Lester by Mike Lester for Jun 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ec5dd2105d5b01363feb005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ec5dd2105d5b01363feb005056a9545d.html</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ec5dd2105d5b01363feb005056a9545d" alt="Mike Lester by Mike Lester for Jun 29, 2018 " title="Mike Lester by Mike Lester for Jun 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Jun 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6b3397605b0001363eb9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/mike-lester/2018/05/01</guid>
             <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/af35b4702f2001362e94005056a9545d" alt="Mike Lester by Mike Lester for May 1, 2018 " title="Mike Lester by Mike Lester for May 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mike Lester by Mike Lester for Apr 29, 2018 ]]></title>
-            <link>http://www.gocomics.com/mike-lester/2018/04/29</link>
-            <guid>http://www.gocomics.com/mike-lester/2018/04/29</guid>
-            <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/46b72e002d4b01362e14005056a9545d" alt="Mike Lester by Mike Lester for Apr 29, 2018 " title="Mike Lester by Mike Lester for Apr 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
