@@ -4,7 +4,7 @@
         <title>Bliss</title>
         <link>https://www.comicsrss.com/preview/bliss</link>
         <description>Bliss by Harry Bliss</description>
-        <lastBuildDate>Fri, 29 Jun 2018 06:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jun 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Harry Bliss</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bliss.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bliss by Harry Bliss for Jun 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/731d726057b501363db4005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/731d726057b501363db4005056a9545d.html</guid>
+            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/731d726057b501363db4005056a9545d" alt="Bliss by Harry Bliss for Jun 30, 2018 " title="Bliss by Harry Bliss for Jun 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bliss by Harry Bliss for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6f768bd057b501363db4005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/bliss/2018/06/02</guid>
             <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cb993f1041b4013635ba005056a9545d" alt="Bliss by Harry Bliss for Jun 2, 2018 " title="Bliss by Harry Bliss for Jun 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bliss by Harry Bliss for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/bliss/2018/06/01</link>
-            <guid>https://www.gocomics.com/bliss/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c79f25c041b4013635ba005056a9545d" alt="Bliss by Harry Bliss for Jun 1, 2018 " title="Bliss by Harry Bliss for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

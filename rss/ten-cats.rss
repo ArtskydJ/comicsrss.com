@@ -4,7 +4,7 @@
         <title>Ten Cats</title>
         <link>https://www.comicsrss.com/preview/ten-cats</link>
         <description>Ten Cats by Graham Harrop</description>
-        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jun 2018 06:33:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Graham Harrop</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ten-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten Cats by Graham Harrop for Jun 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f730bd005ae301363eaa005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f730bd005ae301363eaa005056a9545d.html</guid>
+            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f730bd005ae301363eaa005056a9545d" alt="Ten Cats by Graham Harrop for Jun 30, 2018 " title="Ten Cats by Graham Harrop for Jun 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ten Cats by Graham Harrop for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/f8623cb05ae301363eaa005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/67c27b504b3d01363907005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/67c27b504b3d01363907005056a9545d" alt="Ten Cats by Graham Harrop for Jun 6, 2018 " title="Ten Cats by Graham Harrop for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ten Cats by Graham Harrop for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/ten-cats/2018/06/05</link>
-            <guid>https://www.gocomics.com/ten-cats/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9e3defc04a7c013638a5005056a9545d" alt="Ten Cats by Graham Harrop for Jun 5, 2018 " title="Ten Cats by Graham Harrop for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

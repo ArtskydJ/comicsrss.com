@@ -4,7 +4,7 @@
         <title>Nancy</title>
         <link>https://www.comicsrss.com/preview/nancy</link>
         <description>Nancy by Olivia Jaimes</description>
-        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jun 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Olivia Jaimes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nancy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nancy by Olivia Jaimes for Jun 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/54885e10554801363c91005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/54885e10554801363c91005056a9545d.html</guid>
+            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/54885e10554801363c91005056a9545d" alt="Nancy by Olivia Jaimes for Jun 30, 2018 " title="Nancy by Olivia Jaimes for Jun 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nancy by Olivia Jaimes for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b2d9fd40554901363c93005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/a7678120456c013636a3005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a7678120456c013636a3005056a9545d" alt="Nancy by Olivia Jaimes for Jun 6, 2018 " title="Nancy by Olivia Jaimes for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nancy by Olivia Jaimes for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/nancy/2018/06/05</link>
-            <guid>https://www.gocomics.com/nancy/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a6078b90456c013636a3005056a9545d" alt="Nancy by Olivia Jaimes for Jun 5, 2018 " title="Nancy by Olivia Jaimes for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

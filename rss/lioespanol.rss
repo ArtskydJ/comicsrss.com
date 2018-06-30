@@ -4,7 +4,7 @@
         <title>Lio en Español</title>
         <link>https://www.comicsrss.com/preview/lioespanol</link>
         <description>Lio en Español by Mark Tatulli</description>
-        <lastBuildDate>Fri, 29 Jun 2018 06:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jun 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Tatulli</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lioespanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lio en Español by Mark Tatulli for Jun 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/61478fa0589e01363e22005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/61478fa0589e01363e22005056a9545d.html</guid>
+            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/61478fa0589e01363e22005056a9545d" alt="Lio en Español by Mark Tatulli for Jun 30, 2018 " title="Lio en Español by Mark Tatulli for Jun 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lio en Español by Mark Tatulli for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5fb19370589e01363e22005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/1b989ed0468b01363757005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1b989ed0468b01363757005056a9545d" alt="Lio en Español by Mark Tatulli for Jun 6, 2018 " title="Lio en Español by Mark Tatulli for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lio en Español by Mark Tatulli for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/lioespanol/2018/06/05</link>
-            <guid>https://www.gocomics.com/lioespanol/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1a44e100468b01363757005056a9545d" alt="Lio en Español by Mark Tatulli for Jun 5, 2018 " title="Lio en Español by Mark Tatulli for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

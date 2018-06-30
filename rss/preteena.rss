@@ -4,7 +4,7 @@
         <title>PreTeena</title>
         <link>https://www.comicsrss.com/preview/preteena</link>
         <description>PreTeena by Allison Barrows</description>
-        <lastBuildDate>Fri, 29 Jun 2018 06:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jun 2018 06:33:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Allison Barrows</copyright>
         <atom:link href="https://www.comicsrss.com/rss/preteena.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PreTeena by Allison Barrows for Jun 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5aed3d50c563012fdf20001dd8b71c47.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5aed3d50c563012fdf20001dd8b71c47.html</guid>
+            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5aed3d50c563012fdf20001dd8b71c47" alt="PreTeena by Allison Barrows for Jun 30, 2018 " title="PreTeena by Allison Barrows for Jun 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[PreTeena by Allison Barrows for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5902fcd0c563012fdf20001dd8b71c47.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/395622d0c563012fdf20001dd8b71c47.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/395622d0c563012fdf20001dd8b71c47" alt="PreTeena by Allison Barrows for Jun 6, 2018 " title="PreTeena by Allison Barrows for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PreTeena by Allison Barrows for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/preteena/2018/06/05</link>
-            <guid>https://www.gocomics.com/preteena/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/37a821d0c563012fdf20001dd8b71c47" alt="PreTeena by Allison Barrows for Jun 5, 2018 " title="PreTeena by Allison Barrows for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

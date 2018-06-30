@@ -4,7 +4,7 @@
         <title>Bob the Squirrel</title>
         <link>https://www.comicsrss.com/preview/bobthesquirrel</link>
         <description>Bob the Squirrel by Frank Page</description>
-        <lastBuildDate>Fri, 29 Jun 2018 06:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jun 2018 06:33:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Frank Page</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bobthesquirrel.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bob the Squirrel by Frank Page for Jun 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e55be540536c01363c40005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e55be540536c01363c40005056a9545d.html</guid>
+            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e55be540536c01363c40005056a9545d" alt="Bob the Squirrel by Frank Page for Jun 30, 2018 " title="Bob the Squirrel by Frank Page for Jun 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bob the Squirrel by Frank Page for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ece227c0536c01363c40005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/1adc32804221013635f4005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1adc32804221013635f4005056a9545d" alt="Bob the Squirrel by Frank Page for Jun 6, 2018 " title="Bob the Squirrel by Frank Page for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bob the Squirrel by Frank Page for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/bobthesquirrel/2018/06/05</link>
-            <guid>https://www.gocomics.com/bobthesquirrel/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1d797cf04221013635f4005056a9545d" alt="Bob the Squirrel by Frank Page for Jun 5, 2018 " title="Bob the Squirrel by Frank Page for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
