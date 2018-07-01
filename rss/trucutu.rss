@@ -4,7 +4,7 @@
         <title>Trucutu</title>
         <link>https://www.comicsrss.com/preview/trucutu</link>
         <description>Trucutu by Jack and Carole Bender</description>
-        <lastBuildDate>Sat, 30 Jun 2018 06:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jul 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jack and Carole Bender</copyright>
         <atom:link href="https://www.comicsrss.com/rss/trucutu.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trucutu by Jack and Carole Bender for Jul 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/31b5eb704ac0013638c1005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/31b5eb704ac0013638c1005056a9545d.html</guid>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/31b5eb704ac0013638c1005056a9545d" alt="Trucutu by Jack and Carole Bender for Jul 1, 2018 " title="Trucutu by Jack and Carole Bender for Jul 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Trucutu by Jack and Carole Bender for Jun 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3cd170e056e401363d4d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/346c3970464901363719005056a9545d.html</guid>
             <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/346c3970464901363719005056a9545d" alt="Trucutu by Jack and Carole Bender for Jun 7, 2018 " title="Trucutu by Jack and Carole Bender for Jun 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trucutu by Jack and Carole Bender for Jun 6, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/324160c0464901363719005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/324160c0464901363719005056a9545d.html</guid>
-            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/324160c0464901363719005056a9545d" alt="Trucutu by Jack and Carole Bender for Jun 6, 2018 " title="Trucutu by Jack and Carole Bender for Jun 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

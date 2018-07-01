@@ -4,7 +4,7 @@
         <title>Ink Pen</title>
         <link>https://www.comicsrss.com/preview/inkpen</link>
         <description>Ink Pen by Phil Dunlap</description>
-        <lastBuildDate>Sat, 30 Jun 2018 06:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jul 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Phil Dunlap</copyright>
         <atom:link href="https://www.comicsrss.com/rss/inkpen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ink Pen by Phil Dunlap for Jul 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/be85857002f501361da5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/be85857002f501361da5005056a9545d.html</guid>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/be85857002f501361da5005056a9545d" alt="Ink Pen by Phil Dunlap for Jul 1, 2018 " title="Ink Pen by Phil Dunlap for Jul 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ink Pen by Phil Dunlap for Jun 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/130f36c002f301361da5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/f7e23bf002f201361da5005056a9545d.html</guid>
             <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f7e23bf002f201361da5005056a9545d" alt="Ink Pen by Phil Dunlap for Jun 7, 2018 " title="Ink Pen by Phil Dunlap for Jun 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ink Pen by Phil Dunlap for Jun 6, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/f688d63002f201361da5005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/f688d63002f201361da5005056a9545d.html</guid>
-            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f688d63002f201361da5005056a9545d" alt="Ink Pen by Phil Dunlap for Jun 6, 2018 " title="Ink Pen by Phil Dunlap for Jun 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

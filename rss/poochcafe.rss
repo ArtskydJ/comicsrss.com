@@ -4,7 +4,7 @@
         <title>Pooch Cafe</title>
         <link>https://www.comicsrss.com/preview/poochcafe</link>
         <description>Pooch Cafe by Paul Gilligan</description>
-        <lastBuildDate>Sat, 30 Jun 2018 06:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jul 2018 06:32:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Paul Gilligan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/poochcafe.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pooch Cafe by Paul Gilligan for Jul 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a8d8c58041d3013635d5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a8d8c58041d3013635d5005056a9545d.html</guid>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a8d8c58041d3013635d5005056a9545d" alt="Pooch Cafe by Paul Gilligan for Jul 1, 2018 " title="Pooch Cafe by Paul Gilligan for Jul 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pooch Cafe by Paul Gilligan for Jun 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c6657aa0554901363c93005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b48a2790456c013636a3005056a9545d.html</guid>
             <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b48a2790456c013636a3005056a9545d" alt="Pooch Cafe by Paul Gilligan for Jun 7, 2018 " title="Pooch Cafe by Paul Gilligan for Jun 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pooch Cafe by Paul Gilligan for Jun 6, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b3157b60456c013636a3005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b3157b60456c013636a3005056a9545d.html</guid>
-            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b3157b60456c013636a3005056a9545d" alt="Pooch Cafe by Paul Gilligan for Jun 6, 2018 " title="Pooch Cafe by Paul Gilligan for Jun 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
