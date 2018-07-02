@@ -4,7 +4,7 @@
         <title>Bob Gorrell</title>
         <link>https://www.comicsrss.com/preview/bobgorrell</link>
         <description>Bob Gorrell by Bob Gorrell</description>
-        <lastBuildDate>Sun, 01 Jul 2018 06:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jul 2018 06:34:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bob Gorrell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bobgorrell.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bob Gorrell by Bob Gorrell for Jul 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e19688d05f290136407c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e19688d05f290136407c005056a9545d.html</guid>
+            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e19688d05f290136407c005056a9545d" alt="Bob Gorrell by Bob Gorrell for Jul 2, 2018 " title="Bob Gorrell by Bob Gorrell for Jul 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bob Gorrell by Bob Gorrell for Jun 28, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3d7d00305d3301363fbe005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/bobgorrell/2018/05/02</guid>
             <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3d9dffc0304701362f12005056a9545d" alt="Bob Gorrell by Bob Gorrell for May 2, 2018 " title="Bob Gorrell by Bob Gorrell for May 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bob Gorrell by Bob Gorrell for May 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/bobgorrell/2018/05/01</link>
-            <guid>https://www.gocomics.com/bobgorrell/2018/05/01</guid>
-            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f9723b002f7d01362eaf005056a9545d" alt="Bob Gorrell by Bob Gorrell for May 1, 2018 " title="Bob Gorrell by Bob Gorrell for May 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

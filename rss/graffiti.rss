@@ -4,7 +4,7 @@
         <title>Graffiti</title>
         <link>https://www.comicsrss.com/preview/graffiti</link>
         <description>Graffiti by Gene Mora</description>
-        <lastBuildDate>Sun, 01 Jul 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gene Mora</copyright>
         <atom:link href="https://www.comicsrss.com/rss/graffiti.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Graffiti by Gene Mora for Jul 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ae00e5705afd01363eb7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ae00e5705afd01363eb7005056a9545d.html</guid>
+            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ae00e5705afd01363eb7005056a9545d" alt="Graffiti by Gene Mora for Jul 2, 2018 " title="Graffiti by Gene Mora for Jul 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Graffiti by Gene Mora for Jun 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a0922fe0557d01363cb7005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/graffiti/2018/06/04</guid>
             <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4fa3494045c6013636e8005056a9545d" alt="Graffiti by Gene Mora for Jun 4, 2018 " title="Graffiti by Gene Mora for Jun 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Graffiti by Gene Mora for Jun 2, 2018 ]]></title>
-            <link>https://www.gocomics.com/graffiti/2018/06/02</link>
-            <guid>https://www.gocomics.com/graffiti/2018/06/02</guid>
-            <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ddefa1203f7c013634ae005056a9545d" alt="Graffiti by Gene Mora for Jun 2, 2018 " title="Graffiti by Gene Mora for Jun 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

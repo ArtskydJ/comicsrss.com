@@ -4,7 +4,7 @@
         <title>F Minus</title>
         <link>https://www.comicsrss.com/preview/fminus</link>
         <description>F Minus by Tony Carrillo</description>
-        <lastBuildDate>Sun, 01 Jul 2018 06:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jul 2018 06:34:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tony Carrillo</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fminus.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[F Minus by Tony Carrillo for Jul 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ade212a0588f01363e19005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ade212a0588f01363e19005056a9545d.html</guid>
+            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ade212a0588f01363e19005056a9545d" alt="F Minus by Tony Carrillo for Jul 2, 2018 " title="F Minus by Tony Carrillo for Jul 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[F Minus by Tony Carrillo for Jul 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/590f7c90415201363591005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/c0eeb35040f501363567005056a9545d.html</guid>
             <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c0eeb35040f501363567005056a9545d" alt="F Minus by Tony Carrillo for Jun 8, 2018 " title="F Minus by Tony Carrillo for Jun 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[F Minus by Tony Carrillo for Jun 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/bf24ea8040f501363567005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/bf24ea8040f501363567005056a9545d.html</guid>
-            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/bf24ea8040f501363567005056a9545d" alt="F Minus by Tony Carrillo for Jun 7, 2018 " title="F Minus by Tony Carrillo for Jun 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

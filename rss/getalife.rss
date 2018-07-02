@@ -4,7 +4,7 @@
         <title>Get a Life</title>
         <link>https://www.comicsrss.com/preview/getalife</link>
         <description>Get a Life by Tim Lachowski</description>
-        <lastBuildDate>Sun, 01 Jul 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tim Lachowski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/getalife.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get a Life by Tim Lachowski for Jul 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4c7989b05027012e126700163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4c7989b05027012e126700163e41dd5b.html</guid>
+            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4c7989b05027012e126700163e41dd5b" alt="Get a Life by Tim Lachowski for Jul 2, 2018 " title="Get a Life by Tim Lachowski for Jul 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Get a Life by Tim Lachowski for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4cda0a105027012e126700163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/getalife/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/fb9d95e03484012ea5cb00163e41dd5b" alt="Get a Life by Tim Lachowski for May 29, 2018 " title="Get a Life by Tim Lachowski for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Get a Life by Tim Lachowski for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/getalife/2018/05/28</link>
-            <guid>https://www.gocomics.com/getalife/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/fb3b4e803484012ea5cb00163e41dd5b" alt="Get a Life by Tim Lachowski for May 28, 2018 " title="Get a Life by Tim Lachowski for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

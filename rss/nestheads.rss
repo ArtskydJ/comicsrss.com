@@ -4,7 +4,7 @@
         <title>Nest Heads</title>
         <link>https://www.comicsrss.com/preview/nestheads</link>
         <description>Nest Heads by John Allen</description>
-        <lastBuildDate>Sun, 01 Jul 2018 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Allen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nestheads.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nest Heads by John Allen for Jul 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/89b1f83059e201363e57005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/89b1f83059e201363e57005056a9545d.html</guid>
+            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/89b1f83059e201363e57005056a9545d" alt="Nest Heads by John Allen for Jul 2, 2018 " title="Nest Heads by John Allen for Jul 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nest Heads by John Allen for Jul 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/86a30ab059e201363e57005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/be1d08e043e10136365f005056a9545d.html</guid>
             <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/be1d08e043e10136365f005056a9545d" alt="Nest Heads by John Allen for Jun 8, 2018 " title="Nest Heads by John Allen for Jun 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nest Heads by John Allen for Jun 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/c0b303d043e10136365f005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/c0b303d043e10136365f005056a9545d.html</guid>
-            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c0b303d043e10136365f005056a9545d" alt="Nest Heads by John Allen for Jun 7, 2018 " title="Nest Heads by John Allen for Jun 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
