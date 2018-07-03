@@ -4,7 +4,7 @@
         <title>Rob Rogers</title>
         <link>https://www.comicsrss.com/preview/robrogers</link>
         <description>Rob Rogers by Rob Rogers</description>
-        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rob Rogers</copyright>
         <atom:link href="https://www.comicsrss.com/rss/robrogers.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rob Rogers by Rob Rogers for Jul 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8a9284206062013640d2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8a9284206062013640d2005056a9545d.html</guid>
+            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8a9284206062013640d2005056a9545d" alt="Rob Rogers by Rob Rogers for Jul 3, 2018 " title="Rob Rogers by Rob Rogers for Jul 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rob Rogers by Rob Rogers for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c09a10305dd401364011005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/robrogers/2018/05/08</guid>
             <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/06da0910347201363089005056a9545d" alt="Rob Rogers by Rob Rogers for May 8, 2018 " title="Rob Rogers by Rob Rogers for May 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rob Rogers by Rob Rogers for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/robrogers/2018/05/06</link>
-            <guid>http://www.gocomics.com/robrogers/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/79d1c89031ff01362fea005056a9545d" alt="Rob Rogers by Rob Rogers for May 6, 2018 " title="Rob Rogers by Rob Rogers for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

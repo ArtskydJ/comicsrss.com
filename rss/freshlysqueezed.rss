@@ -4,7 +4,7 @@
         <title>Freshly Squeezed</title>
         <link>https://www.comicsrss.com/preview/freshlysqueezed</link>
         <description>Freshly Squeezed by Ed Stein</description>
-        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jul 2018 06:33:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ed Stein</copyright>
         <atom:link href="https://www.comicsrss.com/rss/freshlysqueezed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Freshly Squeezed by Ed Stein for Jul 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/191b7d203aa50132a733005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/191b7d203aa50132a733005056a9545d.html</guid>
+            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/191b7d203aa50132a733005056a9545d" alt="Freshly Squeezed by Ed Stein for Jul 3, 2018 " title="Freshly Squeezed by Ed Stein for Jul 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Freshly Squeezed by Ed Stein for Jul 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/17fa96603aa50132a733005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/96a493303aba0132a740005056a9545d.html</guid>
             <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/96a493303aba0132a740005056a9545d" alt="Freshly Squeezed by Ed Stein for Jun 9, 2018 " title="Freshly Squeezed by Ed Stein for Jun 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Freshly Squeezed by Ed Stein for Jun 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/954814803aba0132a740005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/954814803aba0132a740005056a9545d.html</guid>
-            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/954814803aba0132a740005056a9545d" alt="Freshly Squeezed by Ed Stein for Jun 8, 2018 " title="Freshly Squeezed by Ed Stein for Jun 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

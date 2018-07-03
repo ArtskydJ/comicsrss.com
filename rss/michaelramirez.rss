@@ -4,7 +4,7 @@
         <title>Michael Ramirez</title>
         <link>https://www.comicsrss.com/preview/michaelramirez</link>
         <description>Michael Ramirez by Michael Ramirez</description>
-        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Ramirez</copyright>
         <atom:link href="https://www.comicsrss.com/rss/michaelramirez.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Ramirez by Michael Ramirez for Jul 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7c045ca06014013640ac005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7c045ca06014013640ac005056a9545d.html</guid>
+            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7c045ca06014013640ac005056a9545d" alt="Michael Ramirez by Michael Ramirez for Jul 2, 2018 " title="Michael Ramirez by Michael Ramirez for Jul 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Michael Ramirez by Michael Ramirez for Jul 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d0a19ed05f290136407c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/michaelramirez/2018/06/03</guid>
             <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e52d7ed04a5601363890005056a9545d" alt="Michael Ramirez by Michael Ramirez for Jun 3, 2018 " title="Michael Ramirez by Michael Ramirez for Jun 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Michael Ramirez by Michael Ramirez for Jun 2, 2018 ]]></title>
-            <link>https://www.gocomics.com/michaelramirez/2018/06/02</link>
-            <guid>https://www.gocomics.com/michaelramirez/2018/06/02</guid>
-            <pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b00f42c0483e01363822005056a9545d" alt="Michael Ramirez by Michael Ramirez for Jun 2, 2018 " title="Michael Ramirez by Michael Ramirez for Jun 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Los Osorios</title>
         <link>https://www.comicsrss.com/preview/los-osorios</link>
         <description>Los Osorios by Bill Schorr</description>
-        <lastBuildDate>Mon, 02 Jul 2018 06:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Schorr</copyright>
         <atom:link href="https://www.comicsrss.com/rss/los-osorios.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Los Osorios by Bill Schorr for Jul 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0b5bd5305c9001363f79005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0b5bd5305c9001363f79005056a9545d.html</guid>
+            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0b5bd5305c9001363f79005056a9545d" alt="Los Osorios by Bill Schorr for Jul 3, 2018 " title="Los Osorios by Bill Schorr for Jul 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Los Osorios by Bill Schorr for Jul 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/0a1127505c9001363f79005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/los-osorios/2018/06/05</guid>
             <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7cd3f2d0468f0136375b005056a9545d" alt="Los Osorios by Bill Schorr for Jun 5, 2018 " title="Los Osorios by Bill Schorr for Jun 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Los Osorios by Bill Schorr for Jun 4, 2018 ]]></title>
-            <link>https://www.gocomics.com/los-osorios/2018/06/04</link>
-            <guid>https://www.gocomics.com/los-osorios/2018/06/04</guid>
-            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7b8d6780468f0136375b005056a9545d" alt="Los Osorios by Bill Schorr for Jun 4, 2018 " title="Los Osorios by Bill Schorr for Jun 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
