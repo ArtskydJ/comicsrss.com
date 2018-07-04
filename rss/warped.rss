@@ -4,7 +4,7 @@
         <title>Warped</title>
         <link>https://www.comicsrss.com/preview/warped</link>
         <description>Warped by Michael Cavna</description>
-        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jul 2018 06:34:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Cavna</copyright>
         <atom:link href="https://www.comicsrss.com/rss/warped.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Warped by Michael Cavna for Jul 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e656c780614801364158005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e656c780614801364158005056a9545d.html</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e656c780614801364158005056a9545d" alt="Warped by Michael Cavna for Jul 4, 2018 " title="Warped by Michael Cavna for Jul 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Warped by Michael Cavna for Jul 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e1b31bb0606c013640d9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/f73cf3304e9a01363a50005056a9545d.html</guid>
             <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f73cf3304e9a01363a50005056a9545d" alt="Warped by Michael Cavna for Jun 10, 2018 " title="Warped by Michael Cavna for Jun 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Warped by Michael Cavna for Jun 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/31eb92c04e3201363a3e005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/31eb92c04e3201363a3e005056a9545d.html</guid>
-            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/31eb92c04e3201363a3e005056a9545d" alt="Warped by Michael Cavna for Jun 9, 2018 " title="Warped by Michael Cavna for Jun 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

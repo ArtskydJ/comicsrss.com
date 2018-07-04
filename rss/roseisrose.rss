@@ -4,7 +4,7 @@
         <title>Rose is Rose</title>
         <link>https://www.comicsrss.com/preview/roseisrose</link>
         <description>Rose is Rose by Don Wimmer and Pat Brady</description>
-        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Don Wimmer and Pat Brady</copyright>
         <atom:link href="https://www.comicsrss.com/rss/roseisrose.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rose is Rose by Don Wimmer and Pat Brady for Jul 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c7620650586c01363dfb005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c7620650586c01363dfb005056a9545d.html</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c7620650586c01363dfb005056a9545d" alt="Rose is Rose by Don Wimmer and Pat Brady for Jul 4, 2018 " title="Rose is Rose by Don Wimmer and Pat Brady for Jul 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rose is Rose by Don Wimmer and Pat Brady for Jul 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c547dd90586c01363dfb005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/9c835260300801362f02005056a9545d.html</guid>
             <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9c835260300801362f02005056a9545d" alt="Rose is Rose by Don Wimmer and Pat Brady for Jun 10, 2018 " title="Rose is Rose by Don Wimmer and Pat Brady for Jun 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rose is Rose by Don Wimmer and Pat Brady for Jun 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/8b47d97041b6013635bb005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/8b47d97041b6013635bb005056a9545d.html</guid>
-            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8b47d97041b6013635bb005056a9545d" alt="Rose is Rose by Don Wimmer and Pat Brady for Jun 9, 2018 " title="Rose is Rose by Don Wimmer and Pat Brady for Jun 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Nancy Classics</title>
         <link>https://www.comicsrss.com/preview/nancy-classics</link>
         <description>Nancy Classics by Ernie Bushmiller</description>
-        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ernie Bushmiller</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nancy-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nancy Classics by Ernie Bushmiller for Jul 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/72e149602e580133015e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/72e149602e580133015e005056a9545d.html</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/72e149602e580133015e005056a9545d" alt="Nancy Classics by Ernie Bushmiller for Jul 4, 2018 " title="Nancy Classics by Ernie Bushmiller for Jul 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nancy Classics by Ernie Bushmiller for Jul 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/61695e202e580133015e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b59513f018b50133f924005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b59513f018b50133f924005056a9545d" alt="Nancy Classics by Ernie Bushmiller for Jun 6, 2018 " title="Nancy Classics by Ernie Bushmiller for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Classics by Ernie Bushmiller for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/nancy-classics/2018/06/05</link>
-            <guid>https://www.gocomics.com/nancy-classics/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c508cc8018b50133f924005056a9545d" alt="Nancy Classics by Ernie Bushmiller for Jun 5, 2018 " title="Nancy Classics by Ernie Bushmiller for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

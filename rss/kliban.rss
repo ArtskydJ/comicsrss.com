@@ -4,7 +4,7 @@
         <title>Kliban</title>
         <link>https://www.comicsrss.com/preview/kliban</link>
         <description>Kliban by B. Kliban</description>
-        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright B. Kliban</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kliban.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kliban by B. Kliban for Jul 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/58ec4e50589b01363e23005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/58ec4e50589b01363e23005056a9545d.html</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/58ec4e50589b01363e23005056a9545d" alt="Kliban by B. Kliban for Jul 4, 2018 " title="Kliban by B. Kliban for Jul 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Kliban by B. Kliban for Jul 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/52e26550589b01363e23005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/kliban/2018/05/09</guid>
             <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/8609eb801c19013627b7005056a9545d" alt="Kliban by B. Kliban for May 9, 2018 " title="Kliban by B. Kliban for May 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kliban by B. Kliban for May 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/kliban/2018/05/07</link>
-            <guid>http://www.gocomics.com/kliban/2018/05/07</guid>
-            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/92dad8f023fd01362a74005056a9545d" alt="Kliban by B. Kliban for May 7, 2018 " title="Kliban by B. Kliban for May 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Non Sequitur</title>
         <link>https://www.comicsrss.com/preview/nonsequitur</link>
         <description>Non Sequitur by Wiley Miller</description>
-        <lastBuildDate>Tue, 03 Jul 2018 06:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Wiley Miller</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nonsequitur.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Non Sequitur by Wiley Miller for Jul 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1688ed605ad201363e9d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1688ed605ad201363e9d005056a9545d.html</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1688ed605ad201363e9d005056a9545d" alt="Non Sequitur by Wiley Miller for Jul 4, 2018 " title="Non Sequitur by Wiley Miller for Jul 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Non Sequitur by Wiley Miller for Jul 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/14d341505ad201363e9d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3245c7b034770136308a005056a9545d.html</guid>
             <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3245c7b034770136308a005056a9545d" alt="Non Sequitur by Wiley Miller for Jun 10, 2018 " title="Non Sequitur by Wiley Miller for Jun 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Non Sequitur by Wiley Miller for Jun 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3fcbc5e0456b013636a2005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3fcbc5e0456b013636a2005056a9545d.html</guid>
-            <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3fcbc5e0456b013636a2005056a9545d" alt="Non Sequitur by Wiley Miller for Jun 9, 2018 " title="Non Sequitur by Wiley Miller for Jun 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

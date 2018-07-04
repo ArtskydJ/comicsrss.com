@@ -4,7 +4,7 @@
         <title>Ham Shears</title>
         <link>https://www.comicsrss.com/preview/ham-shears</link>
         <description>Ham Shears by Madeline Queripel</description>
-        <lastBuildDate>Tue, 03 Jul 2018 06:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Madeline Queripel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ham-shears.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ham Shears by Madeline Queripel for Jul 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/984dbc5048740132ac02005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/984dbc5048740132ac02005056a9545d.html</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/984dbc5048740132ac02005056a9545d" alt="Ham Shears by Madeline Queripel for Jul 4, 2018 " title="Ham Shears by Madeline Queripel for Jul 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ham Shears by Madeline Queripel for Jul 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d4e0d13046c20132ab76005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ham-shears/2018/05/09</guid>
             <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/74b91f80191e01329b58005056a9545d" alt="Ham Shears by Madeline Queripel for May 9, 2018 " title="Ham Shears by Madeline Queripel for May 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ham Shears by Madeline Queripel for May 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/ham-shears/2018/05/07</link>
-            <guid>http://www.gocomics.com/ham-shears/2018/05/07</guid>
-            <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/7537f840191e01329b58005056a9545d" alt="Ham Shears by Madeline Queripel for May 7, 2018 " title="Ham Shears by Madeline Queripel for May 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
