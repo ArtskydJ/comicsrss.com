@@ -4,7 +4,7 @@
         <title>Haiku Ewe</title>
         <link>https://www.comicsrss.com/preview/haikuewe</link>
         <description>Haiku Ewe by Allison Garwood</description>
-        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Allison Garwood</copyright>
         <atom:link href="https://www.comicsrss.com/rss/haikuewe.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Haiku Ewe by Allison Garwood for Jul 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/162200705ce5012ee3bd00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/162200705ce5012ee3bd00163e41dd5b.html</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/162200705ce5012ee3bd00163e41dd5b" alt="Haiku Ewe by Allison Garwood for Jul 5, 2018 " title="Haiku Ewe by Allison Garwood for Jul 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Haiku Ewe by Allison Garwood for Jun 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/67d607e05ef0012ee3bf00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/haikuewe/2018/04/12</guid>
             <pubDate>Thu, 12 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/74e38bc05ef4012ee3bf00163e41dd5b" alt="Haiku Ewe by Allison Garwood for Apr 12, 2018 " title="Haiku Ewe by Allison Garwood for Apr 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Haiku Ewe by Allison Garwood for Apr 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/haikuewe/2018/04/06</link>
-            <guid>http://www.gocomics.com/haikuewe/2018/04/06</guid>
-            <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/0f7dbc505d1f012ee3bd00163e41dd5b" alt="Haiku Ewe by Allison Garwood for Apr 6, 2018 " title="Haiku Ewe by Allison Garwood for Apr 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

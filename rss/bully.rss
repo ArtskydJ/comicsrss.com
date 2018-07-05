@@ -4,7 +4,7 @@
         <title>Bully</title>
         <link>https://www.comicsrss.com/preview/bully</link>
         <description>Bully by Andrew Paavola</description>
-        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Andrew Paavola</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bully.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bully by Andrew Paavola for Jul 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4b3cb2505deb01364025005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4b3cb2505deb01364025005056a9545d.html</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4b3cb2505deb01364025005056a9545d" alt="Bully by Andrew Paavola for Jul 5, 2018 " title="Bully by Andrew Paavola for Jul 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bully by Andrew Paavola for Jul 4, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4eb2f7005deb01364025005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3c4a157047f7013637fd005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3c4a157047f7013637fd005056a9545d" alt="Bully by Andrew Paavola for Jun 6, 2018 " title="Bully by Andrew Paavola for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bully by Andrew Paavola for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/bully/2018/06/05</link>
-            <guid>https://www.gocomics.com/bully/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/38cfbcb047f7013637fd005056a9545d" alt="Bully by Andrew Paavola for Jun 5, 2018 " title="Bully by Andrew Paavola for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

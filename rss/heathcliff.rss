@@ -4,7 +4,7 @@
         <title>Heathcliff</title>
         <link>https://www.comicsrss.com/preview/heathcliff</link>
         <description>Heathcliff by George Gately</description>
-        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright George Gately</copyright>
         <atom:link href="https://www.comicsrss.com/rss/heathcliff.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heathcliff by George Gately for Jul 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b74d624059e301363e57005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b74d624059e301363e57005056a9545d.html</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b74d624059e301363e57005056a9545d" alt="Heathcliff by George Gately for Jul 5, 2018 " title="Heathcliff by George Gately for Jul 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Heathcliff by George Gately for Jul 4, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b17b321059e301363e57005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/21f54440496301363851005056a9545d.html</guid>
             <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/21f54440496301363851005056a9545d" alt="Heathcliff by George Gately for Jun 11, 2018 " title="Heathcliff by George Gately for Jun 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Heathcliff by George Gately for Jun 10, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/13e81840496201363851005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/13e81840496201363851005056a9545d.html</guid>
-            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/13e81840496201363851005056a9545d" alt="Heathcliff by George Gately for Jun 10, 2018 " title="Heathcliff by George Gately for Jun 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

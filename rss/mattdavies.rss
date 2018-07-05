@@ -4,7 +4,7 @@
         <title>Matt Davies</title>
         <link>https://www.comicsrss.com/preview/mattdavies</link>
         <description>Matt Davies by Matt Davies</description>
-        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Matt Davies</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mattdavies.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Matt Davies by Matt Davies for Jul 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/cbf186d0612d01364144005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/cbf186d0612d01364144005056a9545d.html</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cbf186d0612d01364144005056a9545d" alt="Matt Davies by Matt Davies for Jul 5, 2018 " title="Matt Davies by Matt Davies for Jul 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Matt Davies by Matt Davies for Jul 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8581856060fb0136410e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/mattdavies/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/fe876bd04253013635fe005056a9545d" alt="Matt Davies by Matt Davies for May 25, 2018 " title="Matt Davies by Matt Davies for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Matt Davies by Matt Davies for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/mattdavies/2018/05/24</link>
-            <guid>https://www.gocomics.com/mattdavies/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/48fbaee04195013635a1005056a9545d" alt="Matt Davies by Matt Davies for May 24, 2018 " title="Matt Davies by Matt Davies for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

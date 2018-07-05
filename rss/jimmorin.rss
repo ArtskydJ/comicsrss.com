@@ -4,7 +4,7 @@
         <title>Jim Morin</title>
         <link>https://www.comicsrss.com/preview/jimmorin</link>
         <description>Jim Morin by Jim Morin</description>
-        <lastBuildDate>Wed, 04 Jul 2018 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Morin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jimmorin.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jim Morin by Jim Morin for Jul 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f2d6349061260136413c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f2d6349061260136413c005056a9545d.html</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f2d6349061260136413c005056a9545d" alt="Jim Morin by Jim Morin for Jul 5, 2018 " title="Jim Morin by Jim Morin for Jul 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jul 4, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1ff6308060a7013640f3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/jimmorin/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4d6498603f67013634a2005056a9545d" alt="Jim Morin by Jim Morin for May 23, 2018 " title="Jim Morin by Jim Morin for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jim Morin by Jim Morin for May 22, 2018 ]]></title>
-            <link>https://www.gocomics.com/jimmorin/2018/05/22</link>
-            <guid>https://www.gocomics.com/jimmorin/2018/05/22</guid>
-            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/26cd4ba03f220136347a005056a9545d" alt="Jim Morin by Jim Morin for May 22, 2018 " title="Jim Morin by Jim Morin for May 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
