@@ -4,7 +4,7 @@
         <title>Goats</title>
         <link>https://www.comicsrss.com/preview/goats</link>
         <description>Goats by Jon Rosenberg</description>
-        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jul 2018 06:34:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jon Rosenberg</copyright>
         <atom:link href="https://www.comicsrss.com/rss/goats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Goats by Jon Rosenberg for Jul 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/be145330805c0133243f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/be145330805c0133243f005056a9545d.html</guid>
+            <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/be145330805c0133243f005056a9545d" alt="Goats by Jon Rosenberg for Jul 6, 2018 " title="Goats by Jon Rosenberg for Jul 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Goats by Jon Rosenberg for Jul 4, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c178fd807f9701332393005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/goats/2018/05/11</guid>
             <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a67a25e0604a013314af005056a9545d" alt="Goats by Jon Rosenberg for May 11, 2018 " title="Goats by Jon Rosenberg for May 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Goats by Jon Rosenberg for May 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/goats/2018/05/09</link>
-            <guid>http://www.gocomics.com/goats/2018/05/09</guid>
-            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/af2fe050604a013314af005056a9545d" alt="Goats by Jon Rosenberg for May 9, 2018 " title="Goats by Jon Rosenberg for May 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

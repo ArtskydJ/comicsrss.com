@@ -4,7 +4,7 @@
         <title>Eric the Circle</title>
         <link>https://www.comicsrss.com/preview/eric-the-circle</link>
         <description>Eric the Circle by .....</description>
-        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jul 2018 06:34:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright .....</copyright>
         <atom:link href="https://www.comicsrss.com/rss/eric-the-circle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eric the Circle by ..... for Jul 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/897fdb301f780130021b001dd8b71c47.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/897fdb301f780130021b001dd8b71c47.html</guid>
+            <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/897fdb301f780130021b001dd8b71c47" alt="Eric the Circle by ..... for Jul 6, 2018 " title="Eric the Circle by ..... for Jul 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Eric the Circle by ..... for Jul 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7b9bea401f6101300214001dd8b71c47.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/eric-the-circle/2018/06/04</guid>
             <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/49d8a2a00d1a0130fbed001dd8b71c47" alt="Eric the Circle by ..... for Jun 4, 2018 " title="Eric the Circle by ..... for Jun 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eric the Circle by ..... for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/eric-the-circle/2018/06/01</link>
-            <guid>https://www.gocomics.com/eric-the-circle/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/bf4400c00c740130fbb0001dd8b71c47" alt="Eric the Circle by ..... for Jun 1, 2018 " title="Eric the Circle by ..... for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

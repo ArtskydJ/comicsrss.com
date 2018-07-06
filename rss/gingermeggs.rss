@@ -4,7 +4,7 @@
         <title>Ginger Meggs</title>
         <link>https://www.comicsrss.com/preview/gingermeggs</link>
         <description>Ginger Meggs by Jason Chatfield</description>
-        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jul 2018 06:34:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jason Chatfield</copyright>
         <atom:link href="https://www.comicsrss.com/rss/gingermeggs.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ginger Meggs by Jason Chatfield for Jul 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5c1761c0570401363d69005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5c1761c0570401363d69005056a9545d.html</guid>
+            <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5c1761c0570401363d69005056a9545d" alt="Ginger Meggs by Jason Chatfield for Jul 6, 2018 " title="Ginger Meggs by Jason Chatfield for Jul 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ginger Meggs by Jason Chatfield for Jul 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5a87d630570401363d69005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4752fde04735013637a7005056a9545d.html</guid>
             <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4752fde04735013637a7005056a9545d" alt="Ginger Meggs by Jason Chatfield for Jun 12, 2018 " title="Ginger Meggs by Jason Chatfield for Jun 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ginger Meggs by Jason Chatfield for Jun 11, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/459de2104735013637a7005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/459de2104735013637a7005056a9545d.html</guid>
-            <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/459de2104735013637a7005056a9545d" alt="Ginger Meggs by Jason Chatfield for Jun 11, 2018 " title="Ginger Meggs by Jason Chatfield for Jun 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Badlands</title>
         <link>https://www.comicsrss.com/preview/badlands</link>
         <description>Badlands by Steve McGarry</description>
-        <lastBuildDate>Thu, 05 Jul 2018 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jul 2018 06:34:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve McGarry</copyright>
         <atom:link href="https://www.comicsrss.com/rss/badlands.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Badlands by Steve McGarry for Jul 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a4caa4305fff013640ab005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a4caa4305fff013640ab005056a9545d.html</guid>
+            <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a4caa4305fff013640ab005056a9545d" alt="Badlands by Steve McGarry for Jul 6, 2018 " title="Badlands by Steve McGarry for Jul 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Badlands by Steve McGarry for Jul 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9f65ba605fff013640ab005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/badlands/2018/05/02</guid>
             <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/aa1b8e402e4901362e3b005056a9545d" alt="Badlands by Steve McGarry for May 2, 2018 " title="Badlands by Steve McGarry for May 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Badlands by Steve McGarry for May 1, 2018 ]]></title>
-            <link>http://www.gocomics.com/badlands/2018/05/01</link>
-            <guid>http://www.gocomics.com/badlands/2018/05/01</guid>
-            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/aae764902e4901362e3b005056a9545d" alt="Badlands by Steve McGarry for May 1, 2018 " title="Badlands by Steve McGarry for May 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

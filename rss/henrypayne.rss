@@ -4,7 +4,7 @@
         <title>Henry Payne</title>
         <link>https://www.comicsrss.com/preview/henrypayne</link>
         <description>Henry Payne by Henry Payne</description>
-        <lastBuildDate>Thu, 05 Jul 2018 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jul 2018 06:34:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Henry Payne</copyright>
         <atom:link href="https://www.comicsrss.com/rss/henrypayne.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henry Payne by Henry Payne for Jul 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/81d04290629c013641ba005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/81d04290629c013641ba005056a9545d.html</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/81d04290629c013641ba005056a9545d" alt="Henry Payne by Henry Payne for Jul 5, 2018 " title="Henry Payne by Henry Payne for Jul 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Henry Payne by Henry Payne for Jul 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/765ab23061100136412a005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/henrypayne/2018/05/10</guid>
             <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/68c007b035c301363124005056a9545d" alt="Henry Payne by Henry Payne for May 10, 2018 " title="Henry Payne by Henry Payne for May 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Henry Payne by Henry Payne for May 9, 2018 ]]></title>
-            <link>http://www.gocomics.com/henrypayne/2018/05/09</link>
-            <guid>http://www.gocomics.com/henrypayne/2018/05/09</guid>
-            <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/671a7ac035c301363124005056a9545d" alt="Henry Payne by Henry Payne for May 9, 2018 " title="Henry Payne by Henry Payne for May 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
