@@ -4,7 +4,7 @@
         <title>Mike du Jour</title>
         <link>https://www.comicsrss.com/preview/mike-du-jour</link>
         <description>Mike du Jour by Mike Lester</description>
-        <lastBuildDate>Fri, 06 Jul 2018 06:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jul 2018 06:33:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Lester</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mike-du-jour.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike du Jour by Mike Lester for Jul 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/65f1dbe057ba01363db9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/65f1dbe057ba01363db9005056a9545d.html</guid>
+            <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/65f1dbe057ba01363db9005056a9545d" alt="Mike du Jour by Mike Lester for Jul 7, 2018 " title="Mike du Jour by Mike Lester for Jul 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mike du Jour by Mike Lester for Jul 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/68771d4057ba01363db9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/6e832b9047e1013637eb005056a9545d.html</guid>
             <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6e832b9047e1013637eb005056a9545d" alt="Mike du Jour by Mike Lester for Jun 13, 2018 " title="Mike du Jour by Mike Lester for Jun 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mike du Jour by Mike Lester for Jun 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/707009e047e1013637eb005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/707009e047e1013637eb005056a9545d.html</guid>
-            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/707009e047e1013637eb005056a9545d" alt="Mike du Jour by Mike Lester for Jun 12, 2018 " title="Mike du Jour by Mike Lester for Jun 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
