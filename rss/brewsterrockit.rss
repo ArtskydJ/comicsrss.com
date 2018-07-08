@@ -4,7 +4,7 @@
         <title>Brewster Rockit</title>
         <link>https://www.comicsrss.com/preview/brewsterrockit</link>
         <description>Brewster Rockit by Tim Rickard</description>
-        <lastBuildDate>Sat, 07 Jul 2018 06:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jul 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tim Rickard</copyright>
         <atom:link href="https://www.comicsrss.com/rss/brewsterrockit.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brewster Rockit by Tim Rickard for Jul 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9487b880522d01363baa005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9487b880522d01363baa005056a9545d.html</guid>
+            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9487b880522d01363baa005056a9545d" alt="Brewster Rockit by Tim Rickard for Jul 8, 2018 " title="Brewster Rockit by Tim Rickard for Jul 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Brewster Rockit by Tim Rickard for Jul 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2da90d20562301363cfd005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/87150d704a5901363893005056a9545d.html</guid>
             <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/87150d704a5901363893005056a9545d" alt="Brewster Rockit by Tim Rickard for Jun 14, 2018 " title="Brewster Rockit by Tim Rickard for Jun 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Brewster Rockit by Tim Rickard for Jun 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/8874da504a5901363893005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/8874da504a5901363893005056a9545d.html</guid>
-            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8874da504a5901363893005056a9545d" alt="Brewster Rockit by Tim Rickard for Jun 13, 2018 " title="Brewster Rockit by Tim Rickard for Jun 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

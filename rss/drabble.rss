@@ -4,7 +4,7 @@
         <title>Drabble</title>
         <link>https://www.comicsrss.com/preview/drabble</link>
         <description>Drabble by Kevin Fagan</description>
-        <lastBuildDate>Sat, 07 Jul 2018 06:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jul 2018 06:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Kevin Fagan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/drabble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drabble by Kevin Fagan for Jul 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ec1a45403ac5013632f7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ec1a45403ac5013632f7005056a9545d.html</guid>
+            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ec1a45403ac5013632f7005056a9545d" alt="Drabble by Kevin Fagan for Jul 8, 2018 " title="Drabble by Kevin Fagan for Jul 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drabble by Kevin Fagan for Jul 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/09dce42052e701363c04005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/51fb0d503a7e013632c5005056a9545d.html</guid>
             <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/51fb0d503a7e013632c5005056a9545d" alt="Drabble by Kevin Fagan for Jun 14, 2018 " title="Drabble by Kevin Fagan for Jun 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Drabble by Kevin Fagan for Jun 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/504aa6803a7e013632c5005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/504aa6803a7e013632c5005056a9545d.html</guid>
-            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/504aa6803a7e013632c5005056a9545d" alt="Drabble by Kevin Fagan for Jun 13, 2018 " title="Drabble by Kevin Fagan for Jun 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

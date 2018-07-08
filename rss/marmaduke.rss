@@ -4,7 +4,7 @@
         <title>Marmaduke</title>
         <link>https://www.comicsrss.com/preview/marmaduke</link>
         <description>Marmaduke by Brad Anderson</description>
-        <lastBuildDate>Sat, 07 Jul 2018 06:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jul 2018 06:32:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brad Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/marmaduke.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marmaduke by Brad Anderson for Jul 8, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/428e2700460901363705005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/428e2700460901363705005056a9545d.html</guid>
+            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/428e2700460901363705005056a9545d" alt="Marmaduke by Brad Anderson for Jul 8, 2018 " title="Marmaduke by Brad Anderson for Jul 8, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Marmaduke by Brad Anderson for Jul 7, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e34d39605afd01363eb7005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/727f30304a7d013638a6005056a9545d.html</guid>
             <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/727f30304a7d013638a6005056a9545d" alt="Marmaduke by Brad Anderson for Jun 14, 2018 " title="Marmaduke by Brad Anderson for Jun 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marmaduke by Brad Anderson for Jun 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/71223f804a7d013638a6005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/71223f804a7d013638a6005056a9545d.html</guid>
-            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/71223f804a7d013638a6005056a9545d" alt="Marmaduke by Brad Anderson for Jun 13, 2018 " title="Marmaduke by Brad Anderson for Jun 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
