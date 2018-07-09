@@ -4,7 +4,7 @@
         <title>Speed Bump</title>
         <link>https://www.comicsrss.com/preview/speedbump</link>
         <description>Speed Bump by Dave Coverly</description>
-        <lastBuildDate>Sun, 08 Jul 2018 06:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jul 2018 06:34:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Coverly</copyright>
         <atom:link href="https://www.comicsrss.com/rss/speedbump.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speed Bump by Dave Coverly for Jul 9, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/75bca8a05ba301363ef7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/75bca8a05ba301363ef7005056a9545d.html</guid>
+            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/75bca8a05ba301363ef7005056a9545d" alt="Speed Bump by Dave Coverly for Jul 9, 2018 " title="Speed Bump by Dave Coverly for Jul 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Speed Bump by Dave Coverly for Jul 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/420cf7505f6301364083005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/db71950045d4013636ed005056a9545d.html</guid>
             <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/db71950045d4013636ed005056a9545d" alt="Speed Bump by Dave Coverly for Jun 15, 2018 " title="Speed Bump by Dave Coverly for Jun 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speed Bump by Dave Coverly for Jun 14, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/d48ab19045d4013636ed005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/d48ab19045d4013636ed005056a9545d.html</guid>
-            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d48ab19045d4013636ed005056a9545d" alt="Speed Bump by Dave Coverly for Jun 14, 2018 " title="Speed Bump by Dave Coverly for Jun 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

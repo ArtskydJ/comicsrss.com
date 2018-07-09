@@ -4,7 +4,7 @@
         <title>Rubes</title>
         <link>https://www.comicsrss.com/preview/rubes</link>
         <description>Rubes by Leigh Rubin</description>
-        <lastBuildDate>Sun, 08 Jul 2018 06:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jul 2018 06:34:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Leigh Rubin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/rubes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rubes by Leigh Rubin for Jul 9, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6588a5e05f6401364083005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6588a5e05f6401364083005056a9545d.html</guid>
+            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6588a5e05f6401364083005056a9545d" alt="Rubes by Leigh Rubin for Jul 9, 2018 " title="Rubes by Leigh Rubin for Jul 9, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Rubes by Leigh Rubin for Jul 8, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/97a3a6f05f6301364083005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/113e06304a90013638ac005056a9545d.html</guid>
             <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/113e06304a90013638ac005056a9545d" alt="Rubes by Leigh Rubin for Jun 15, 2018 " title="Rubes by Leigh Rubin for Jun 15, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rubes by Leigh Rubin for Jun 14, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/1338e9804a90013638ac005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/1338e9804a90013638ac005056a9545d.html</guid>
-            <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/1338e9804a90013638ac005056a9545d" alt="Rubes by Leigh Rubin for Jun 14, 2018 " title="Rubes by Leigh Rubin for Jun 14, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
