@@ -4,7 +4,7 @@
         <title>Buni</title>
         <link>https://www.comicsrss.com/preview/buni</link>
         <description>Buni by Ryan Pagelow</description>
-        <lastBuildDate>Mon, 09 Jul 2018 06:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jul 2018 22:56:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Ryan Pagelow</copyright>
         <atom:link href="https://www.comicsrss.com/rss/buni.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buni by Ryan Pagelow for Jul 13, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/03ded620688701364420005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/03ded620688701364420005056a9545d.html</guid>
+            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/03ded620688701364420005056a9545d" alt="Buni by Ryan Pagelow for Jul 13, 2018 " title="Buni by Ryan Pagelow for Jul 13, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Buni by Ryan Pagelow for Jul 11, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f83e953066fa01364351005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f83e953066fa01364351005056a9545d.html</guid>
+            <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f83e953066fa01364351005056a9545d" alt="Buni by Ryan Pagelow for Jul 11, 2018 " title="Buni by Ryan Pagelow for Jul 11, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Buni by Ryan Pagelow for Jul 9, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2993afc0655e013642a3005056a9545d.html</link>
@@ -174,20 +188,6 @@
             <guid>https://www.gocomics.com/buni/2018/05/16</guid>
             <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5d14d2803af301363308005056a9545d" alt="Buni by Ryan Pagelow for May 16, 2018 " title="Buni by Ryan Pagelow for May 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Buni by Ryan Pagelow for May 14, 2018 ]]></title>
-            <link>https://www.gocomics.com/buni/2018/05/14</link>
-            <guid>https://www.gocomics.com/buni/2018/05/14</guid>
-            <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d99782a0395c01363268005056a9545d" alt="Buni by Ryan Pagelow for May 14, 2018 " title="Buni by Ryan Pagelow for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Buni by Ryan Pagelow for May 11, 2018 ]]></title>
-            <link>https://www.gocomics.com/buni/2018/05/11</link>
-            <guid>https://www.gocomics.com/buni/2018/05/11</guid>
-            <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/03dd3df03710013631ce005056a9545d" alt="Buni by Ryan Pagelow for May 11, 2018 " title="Buni by Ryan Pagelow for May 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

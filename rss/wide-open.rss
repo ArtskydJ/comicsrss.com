@@ -4,7 +4,7 @@
         <title>Wide Open</title>
         <link>https://www.comicsrss.com/preview/wide-open</link>
         <description>Wide Open by Rich Powell</description>
-        <lastBuildDate>Mon, 09 Jul 2018 06:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jul 2018 22:56:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rich Powell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wide-open.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wide Open by Rich Powell for Jul 12, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/950561f06042013640bc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/950561f06042013640bc005056a9545d.html</guid>
+            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/950561f06042013640bc005056a9545d" alt="Wide Open by Rich Powell for Jul 12, 2018 " title="Wide Open by Rich Powell for Jul 12, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wide Open by Rich Powell for Jul 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1df760b05b8101363ed8005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/wide-open/2018/02/22</guid>
             <pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/df3c3090f26001351743005056a9545d" alt="Wide Open by Rich Powell for Feb 22, 2018 " title="Wide Open by Rich Powell for Feb 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wide Open by Rich Powell for Feb 15, 2018 ]]></title>
-            <link>http://www.gocomics.com/wide-open/2018/02/15</link>
-            <guid>http://www.gocomics.com/wide-open/2018/02/15</guid>
-            <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/6d698190ecda0135152e005056a9545d" alt="Wide Open by Rich Powell for Feb 15, 2018 " title="Wide Open by Rich Powell for Feb 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
