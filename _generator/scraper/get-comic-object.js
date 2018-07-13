@@ -67,7 +67,7 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 
 
 function getRelUrlFromOverviewPath(html) {
-	var comicsTabRelUrl = html.match(/<a class="nav-link" data-link="comics" href="([^">]+)">Comics<\/a>/)
+	var comicsTabRelUrl = html.match(/<a class="nav-link[^"]*" data-link="comics" href="([^">]+)">Comics<\/a>/)
 	if (comicsTabRelUrl === null || !comicsTabRelUrl[1]) throw new Error('Unable to parse comicsTabRelUrl')
 	return comicsTabRelUrl[1]
 }
@@ -77,7 +77,7 @@ function parseComicPage(pageUrl, html) {
 	var titleAuthorDateMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
 	var dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
 	var authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
-	var urlMatches = html.match(/<input .*?name="link.+?" value="([^"]+)"/)
+	var urlMatches = html.match(/<input .*?value="([^"]+)".+?aria-label=["']Get the permalink["']/)
 	var isFirstComic = /<a.+class=["'][^"']*fa-caret-left[^"']*disabled/.test(html)
 	var olderRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
 	var newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
