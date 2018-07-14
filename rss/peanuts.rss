@@ -4,7 +4,7 @@
         <title>Peanuts</title>
         <link>https://www.comicsrss.com/preview/peanuts</link>
         <description>Peanuts by Charles Schulz</description>
-        <lastBuildDate>Fri, 13 Jul 2018 22:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charles Schulz</copyright>
         <atom:link href="https://www.comicsrss.com/rss/peanuts.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peanuts by Charles Schulz for Jul 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c277b2605ad301363e9e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c277b2605ad301363e9e005056a9545d.html</guid>
+            <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c277b2605ad301363e9e005056a9545d" alt="Peanuts by Charles Schulz for Jul 14, 2018 " title="Peanuts by Charles Schulz for Jul 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Peanuts by Charles Schulz for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c0f079705ad301363e9e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/7695e4b04581013636af005056a9545d.html</guid>
             <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7695e4b04581013636af005056a9545d" alt="Peanuts by Charles Schulz for Jun 20, 2018 " title="Peanuts by Charles Schulz for Jun 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Peanuts by Charles Schulz for Jun 19, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/e19765b04582013636b1005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/e19765b04582013636b1005056a9545d.html</guid>
-            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e19765b04582013636b1005056a9545d" alt="Peanuts by Charles Schulz for Jun 19, 2018 " title="Peanuts by Charles Schulz for Jun 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

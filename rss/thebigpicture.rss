@@ -4,7 +4,7 @@
         <title>The Big Picture</title>
         <link>https://www.comicsrss.com/preview/thebigpicture</link>
         <description>The Big Picture by Lennie Peterson</description>
-        <lastBuildDate>Fri, 13 Jul 2018 22:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lennie Peterson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thebigpicture.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Big Picture by Lennie Peterson for Jul 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/bf7c6f9068ef01364444005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/bf7c6f9068ef01364444005056a9545d.html</guid>
+            <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bf7c6f9068ef01364444005056a9545d" alt="The Big Picture by Lennie Peterson for Jul 14, 2018 " title="The Big Picture by Lennie Peterson for Jul 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Big Picture by Lennie Peterson for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c6faf56068c301364431005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/thebigpicture/2018/05/05</guid>
             <pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e866051031d201362fd2005056a9545d" alt="The Big Picture by Lennie Peterson for May 5, 2018 " title="The Big Picture by Lennie Peterson for May 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Big Picture by Lennie Peterson for May 2, 2018 ]]></title>
-            <link>http://www.gocomics.com/thebigpicture/2018/05/02</link>
-            <guid>http://www.gocomics.com/thebigpicture/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/d8efe9d02fc201362ee2005056a9545d" alt="The Big Picture by Lennie Peterson for May 2, 2018 " title="The Big Picture by Lennie Peterson for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
