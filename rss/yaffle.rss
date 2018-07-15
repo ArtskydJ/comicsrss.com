@@ -4,7 +4,7 @@
         <title>Yaffle</title>
         <link>https://www.comicsrss.com/preview/yaffle</link>
         <description>Yaffle by Jeffrey Caulfield and Brian Ponshock</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeffrey Caulfield and Brian Ponshock</copyright>
         <atom:link href="https://www.comicsrss.com/rss/yaffle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yaffle by Jeffrey Caulfield and Brian Ponshock for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1f829a2069f601364498005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1f829a2069f601364498005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1f829a2069f601364498005056a9545d" alt="Yaffle by Jeffrey Caulfield and Brian Ponshock for Jul 15, 2018 " title="Yaffle by Jeffrey Caulfield and Brian Ponshock for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Yaffle by Jeffrey Caulfield and Brian Ponshock for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/61cbc19068c601364432005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/yaffle/2018/06/03</guid>
             <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/41bdc180467a01363743005056a9545d" alt="Yaffle by Jeffrey Caulfield and Brian Ponshock for Jun 3, 2018 " title="Yaffle by Jeffrey Caulfield and Brian Ponshock for Jun 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yaffle by Jeffrey Caulfield and Brian Ponshock for Jun 1, 2018 ]]></title>
-            <link>https://www.gocomics.com/yaffle/2018/06/01</link>
-            <guid>https://www.gocomics.com/yaffle/2018/06/01</guid>
-            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/124d75d043cf0136365b005056a9545d" alt="Yaffle by Jeffrey Caulfield and Brian Ponshock for Jun 1, 2018 " title="Yaffle by Jeffrey Caulfield and Brian Ponshock for Jun 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

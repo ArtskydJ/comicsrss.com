@@ -4,7 +4,7 @@
         <title>MazeToons Puzzle</title>
         <link>https://www.comicsrss.com/preview/mazetoons-puzzle</link>
         <description>MazeToons Puzzle by Joe Wos</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Joe Wos</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mazetoons-puzzle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MazeToons Puzzle by Joe Wos for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0add4db054c701363c73005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0add4db054c701363c73005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0add4db054c701363c73005056a9545d" alt="MazeToons Puzzle by Joe Wos for Jul 15, 2018 " title="MazeToons Puzzle by Joe Wos for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[MazeToons Puzzle by Joe Wos for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4c8fb3405e3b01364057005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/cde4e130518001363b68005056a9545d.html</guid>
             <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cde4e130518001363b68005056a9545d" alt="MazeToons Puzzle by Joe Wos for Jun 20, 2018 " title="MazeToons Puzzle by Joe Wos for Jun 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MazeToons Puzzle by Joe Wos for Jun 19, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/cf588220518001363b68005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/cf588220518001363b68005056a9545d.html</guid>
-            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cf588220518001363b68005056a9545d" alt="MazeToons Puzzle by Joe Wos for Jun 19, 2018 " title="MazeToons Puzzle by Joe Wos for Jun 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

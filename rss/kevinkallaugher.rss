@@ -4,7 +4,7 @@
         <title>Kevin Kallaugher</title>
         <link>https://www.comicsrss.com/preview/kevinkallaugher</link>
         <description>Kevin Kallaugher by Kevin Kallaugher</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Kevin Kallaugher</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kevinkallaugher.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kevin Kallaugher by Kevin Kallaugher for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9c32ac3069020136444f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9c32ac3069020136444f005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9c32ac3069020136444f005056a9545d" alt="Kevin Kallaugher by Kevin Kallaugher for Jul 15, 2018 " title="Kevin Kallaugher by Kevin Kallaugher for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Kevin Kallaugher by Kevin Kallaugher for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9d23c7f069020136444f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/kevinkallaugher/2018/04/13</guid>
             <pubDate>Fri, 13 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/eac5e5f02188013629d8005056a9545d" alt="Kevin Kallaugher by Kevin Kallaugher for Apr 13, 2018 " title="Kevin Kallaugher by Kevin Kallaugher for Apr 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Kallaugher by Kevin Kallaugher for Apr 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/kevinkallaugher/2018/04/10</link>
-            <guid>http://www.gocomics.com/kevinkallaugher/2018/04/10</guid>
-            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/c1f5fa101c08013627ae005056a9545d" alt="Kevin Kallaugher by Kevin Kallaugher for Apr 10, 2018 " title="Kevin Kallaugher by Kevin Kallaugher for Apr 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Frog Applause</title>
         <link>https://www.comicsrss.com/preview/frogapplause</link>
         <description>Frog Applause by Teresa Burritt</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Teresa Burritt</copyright>
         <atom:link href="https://www.comicsrss.com/rss/frogapplause.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frog Applause by Teresa Burritt for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4d5c34506a19013644a0005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4d5c34506a19013644a0005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4d5c34506a19013644a0005056a9545d" alt="Frog Applause by Teresa Burritt for Jul 15, 2018 " title="Frog Applause by Teresa Burritt for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frog Applause by Teresa Burritt for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/84d22810695801364480005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/8a688520567c01363d28005056a9545d.html</guid>
             <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/8a688520567c01363d28005056a9545d" alt="Frog Applause by Teresa Burritt for Jun 20, 2018 " title="Frog Applause by Teresa Burritt for Jun 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frog Applause by Teresa Burritt for Jun 19, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/0b633ac055c201363cd1005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/0b633ac055c201363cd1005056a9545d.html</guid>
-            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0b633ac055c201363cd1005056a9545d" alt="Frog Applause by Teresa Burritt for Jun 19, 2018 " title="Frog Applause by Teresa Burritt for Jun 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

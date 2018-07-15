@@ -4,7 +4,7 @@
         <title>Lola</title>
         <link>https://www.comicsrss.com/preview/lola</link>
         <description>Lola by Todd Clark</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Todd Clark</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lola.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lola by Todd Clark for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b24c82404d1b013639ef005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b24c82404d1b013639ef005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b24c82404d1b013639ef005056a9545d" alt="Lola by Todd Clark for Jul 15, 2018 " title="Lola by Todd Clark for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lola by Todd Clark for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d03733c0610301364118005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/79589660509501363ae3005056a9545d.html</guid>
             <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/79589660509501363ae3005056a9545d" alt="Lola by Todd Clark for Jun 21, 2018 " title="Lola by Todd Clark for Jun 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lola by Todd Clark for Jun 20, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7802ed20509501363ae3005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7802ed20509501363ae3005056a9545d.html</guid>
-            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7802ed20509501363ae3005056a9545d" alt="Lola by Todd Clark for Jun 20, 2018 " title="Lola by Todd Clark for Jun 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

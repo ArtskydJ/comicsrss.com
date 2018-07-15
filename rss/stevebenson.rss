@@ -4,7 +4,7 @@
         <title>Steve Benson</title>
         <link>https://www.comicsrss.com/preview/stevebenson</link>
         <description>Steve Benson by Steve Benson</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Benson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stevebenson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Benson by Steve Benson for Jul 14, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/bae84840698201364488005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/bae84840698201364488005056a9545d.html</guid>
+            <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bae84840698201364488005056a9545d" alt="Steve Benson by Steve Benson for Jul 14, 2018 " title="Steve Benson by Steve Benson for Jul 14, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Benson by Steve Benson for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7c38664068760136441d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b29c1a90536001363c3e005056a9545d.html</guid>
             <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b29c1a90536001363c3e005056a9545d" alt="Steve Benson by Steve Benson for Jun 16, 2018 " title="Steve Benson by Steve Benson for Jun 16, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Benson by Steve Benson for Jun 15, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7344bc20529701363bf1005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7344bc20529701363bf1005056a9545d.html</guid>
-            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7344bc20529701363bf1005056a9545d" alt="Steve Benson by Steve Benson for Jun 15, 2018 " title="Steve Benson by Steve Benson for Jun 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Little Dog Lost</title>
         <link>https://www.comicsrss.com/preview/littledoglost</link>
         <description>Little Dog Lost by Steve Boreman</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Boreman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/littledoglost.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Little Dog Lost by Steve Boreman for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/190babd05cc201363f8b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/190babd05cc201363f8b005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/190babd05cc201363f8b005056a9545d" alt="Little Dog Lost by Steve Boreman for Jul 15, 2018 " title="Little Dog Lost by Steve Boreman for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Little Dog Lost by Steve Boreman for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/168ed6105cc201363f8b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ce2a1c80542701363c58005056a9545d.html</guid>
             <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ce2a1c80542701363c58005056a9545d" alt="Little Dog Lost by Steve Boreman for Jun 21, 2018 " title="Little Dog Lost by Steve Boreman for Jun 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Little Dog Lost by Steve Boreman for Jun 20, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/cd065b70542701363c58005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/cd065b70542701363c58005056a9545d.html</guid>
-            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cd065b70542701363c58005056a9545d" alt="Little Dog Lost by Steve Boreman for Jun 20, 2018 " title="Little Dog Lost by Steve Boreman for Jun 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

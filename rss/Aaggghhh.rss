@@ -4,7 +4,7 @@
         <title>Aaggghhh</title>
         <link>https://www.comicsrss.com/preview/Aaggghhh</link>
         <description>Aaggghhh by Ham</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/Aaggghhh.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aaggghhh by Ham for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c986a7305d2801363fb8005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c986a7305d2801363fb8005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c986a7305d2801363fb8005056a9545d" alt="Aaggghhh by Ham for Jul 15, 2018 " title="Aaggghhh by Ham for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Aaggghhh by Ham for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d4ed8de05d2801363fb8005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/0a43bd60442301363667005056a9545d.html</guid>
             <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0a43bd60442301363667005056a9545d" alt="Aaggghhh by Ham for Jun 13, 2018 " title="Aaggghhh by Ham for Jun 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Aaggghhh by Ham for Jun 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/f37d9200442201363667005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/f37d9200442201363667005056a9545d.html</guid>
-            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f37d9200442201363667005056a9545d" alt="Aaggghhh by Ham for Jun 12, 2018 " title="Aaggghhh by Ham for Jun 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

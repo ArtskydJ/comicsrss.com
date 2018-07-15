@@ -4,7 +4,7 @@
         <title>Shortcuts</title>
         <link>https://www.comicsrss.com/preview/shortcuts</link>
         <description>Shortcuts by Jeff Harris</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Harris</copyright>
         <atom:link href="https://www.comicsrss.com/rss/shortcuts.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shortcuts by Jeff Harris for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ff65df80557d01363cb7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ff65df80557d01363cb7005056a9545d.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ff65df80557d01363cb7005056a9545d" alt="Shortcuts by Jeff Harris for Jul 15, 2018 " title="Shortcuts by Jeff Harris for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Shortcuts by Jeff Harris for Jul 9, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/0a7e84304de501363a38005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/shortcuts/2018/05/06</guid>
             <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/4c5875a01e7c0136284f005056a9545d" alt="Shortcuts by Jeff Harris for May 6, 2018 " title="Shortcuts by Jeff Harris for May 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shortcuts by Jeff Harris for Apr 30, 2018 ]]></title>
-            <link>http://www.gocomics.com/shortcuts/2018/04/30</link>
-            <guid>http://www.gocomics.com/shortcuts/2018/04/30</guid>
-            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8594978016a00136258e005056a9545d" alt="Shortcuts by Jeff Harris for Apr 30, 2018 " title="Shortcuts by Jeff Harris for Apr 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

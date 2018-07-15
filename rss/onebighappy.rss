@@ -4,7 +4,7 @@
         <title>One Big Happy</title>
         <link>https://www.comicsrss.com/preview/onebighappy</link>
         <description>One Big Happy by Rick Detorie</description>
-        <lastBuildDate>Sat, 14 Jul 2018 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rick Detorie</copyright>
         <atom:link href="https://www.comicsrss.com/rss/onebighappy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One Big Happy by Rick Detorie for Jul 15, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/40cd2e105e23012ee3bf00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/40cd2e105e23012ee3bf00163e41dd5b.html</guid>
+            <pubDate>Sun, 15 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/40cd2e105e23012ee3bf00163e41dd5b" alt="One Big Happy by Rick Detorie for Jul 15, 2018 " title="One Big Happy by Rick Detorie for Jul 15, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[One Big Happy by Rick Detorie for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/90134a005e24012ee3bf00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/a3837b205e22012ee3bf00163e41dd5b.html</guid>
             <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a3837b205e22012ee3bf00163e41dd5b" alt="One Big Happy by Rick Detorie for Jun 21, 2018 " title="One Big Happy by Rick Detorie for Jun 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[One Big Happy by Rick Detorie for Jun 20, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/776ce6005e25012ee3bf00163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/776ce6005e25012ee3bf00163e41dd5b.html</guid>
-            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/776ce6005e25012ee3bf00163e41dd5b" alt="One Big Happy by Rick Detorie for Jun 20, 2018 " title="One Big Happy by Rick Detorie for Jun 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
