@@ -4,7 +4,7 @@
         <title>Ted Rall</title>
         <link>https://www.comicsrss.com/preview/ted-rall</link>
         <description>Ted Rall by Ted Rall</description>
-        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jul 2018 06:36:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ted Rall</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ted-rall.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ted Rall by Ted Rall for Jul 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/766abce0676801364382005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/766abce0676801364382005056a9545d.html</guid>
+            <pubDate>Mon, 16 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/766abce0676801364382005056a9545d" alt="Ted Rall by Ted Rall for Jul 16, 2018 " title="Ted Rall by Ted Rall for Jul 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/51d27110635d01364220005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/ted-rall/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d17c09c03cff01363405005056a9545d" alt="Ted Rall by Ted Rall for May 21, 2018 " title="Ted Rall by Ted Rall for May 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ted Rall by Ted Rall for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/ted-rall/2018/05/18</link>
-            <guid>https://www.gocomics.com/ted-rall/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e3848b103d0101363409005056a9545d" alt="Ted Rall by Ted Rall for May 18, 2018 " title="Ted Rall by Ted Rall for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Please Listen to Me</title>
         <link>https://www.comicsrss.com/preview/please-listen-to-me</link>
         <description>Please Listen to Me by Matt Lubchansky</description>
-        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jul 2018 06:36:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Matt Lubchansky</copyright>
         <atom:link href="https://www.comicsrss.com/rss/please-listen-to-me.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Please Listen to Me by Matt Lubchansky for Jul 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5e704860523b01363bb9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5e704860523b01363bb9005056a9545d.html</guid>
+            <pubDate>Mon, 16 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5e704860523b01363bb9005056a9545d" alt="Please Listen to Me by Matt Lubchansky for Jul 16, 2018 " title="Please Listen to Me by Matt Lubchansky for Jul 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Please Listen to Me by Matt Lubchansky for Jul 12, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6f74aca0523b01363bb9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/please-listen-to-me/2018/03/22</guid>
             <pubDate>Thu, 22 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/ee780f40fb0501351ae4005056a9545d" alt="Please Listen to Me by Matt Lubchansky for Mar 22, 2018 " title="Please Listen to Me by Matt Lubchansky for Mar 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Please Listen to Me by Matt Lubchansky for Mar 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/please-listen-to-me/2018/03/19</link>
-            <guid>http://www.gocomics.com/please-listen-to-me/2018/03/19</guid>
-            <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ed3eb610fb0501351ae4005056a9545d" alt="Please Listen to Me by Matt Lubchansky for Mar 19, 2018 " title="Please Listen to Me by Matt Lubchansky for Mar 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

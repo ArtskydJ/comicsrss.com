@@ -4,7 +4,7 @@
         <title>Momma</title>
         <link>https://www.comicsrss.com/preview/momma</link>
         <description>Momma by Mell Lazarus</description>
-        <lastBuildDate>Sun, 15 Jul 2018 06:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jul 2018 06:36:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mell Lazarus</copyright>
         <atom:link href="https://www.comicsrss.com/rss/momma.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Momma by Mell Lazarus for Jul 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/604c319064e201364285005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/604c319064e201364285005056a9545d.html</guid>
+            <pubDate>Mon, 16 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/604c319064e201364285005056a9545d" alt="Momma by Mell Lazarus for Jul 16, 2018 " title="Momma by Mell Lazarus for Jul 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Momma by Mell Lazarus for Jul 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5e18675064e201364285005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/c2211b504ee101363a57005056a9545d.html</guid>
             <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c2211b504ee101363a57005056a9545d" alt="Momma by Mell Lazarus for Jun 22, 2018 " title="Momma by Mell Lazarus for Jun 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Momma by Mell Lazarus for Jun 21, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b49566604ee101363a57005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b49566604ee101363a57005056a9545d.html</guid>
-            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b49566604ee101363a57005056a9545d" alt="Momma by Mell Lazarus for Jun 21, 2018 " title="Momma by Mell Lazarus for Jun 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

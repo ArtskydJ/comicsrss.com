@@ -4,7 +4,7 @@
         <title>Tutelandia</title>
         <link>https://www.comicsrss.com/preview/tutelandia</link>
         <description>Tutelandia by Tute</description>
-        <lastBuildDate>Sun, 15 Jul 2018 06:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jul 2018 06:36:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tute</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tutelandia.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tutelandia by Tute for Jul 16, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/36fd5940570c01363d6e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/36fd5940570c01363d6e005056a9545d.html</guid>
+            <pubDate>Mon, 16 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/36fd5940570c01363d6e005056a9545d" alt="Tutelandia by Tute for Jul 16, 2018 " title="Tutelandia by Tute for Jul 16, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tutelandia by Tute for Jul 14, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3d4b631046ce01363775005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b1399320404101363511005056a9545d.html</guid>
             <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b1399320404101363511005056a9545d" alt="Tutelandia by Tute for Jun 18, 2018 " title="Tutelandia by Tute for Jun 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tutelandia by Tute for Jun 16, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b41c64c039f70136329c005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b41c64c039f70136329c005056a9545d.html</guid>
-            <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b41c64c039f70136329c005056a9545d" alt="Tutelandia by Tute for Jun 16, 2018 " title="Tutelandia by Tute for Jun 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
