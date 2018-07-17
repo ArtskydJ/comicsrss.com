@@ -4,7 +4,7 @@
         <title>Harley</title>
         <link>https://www.comicsrss.com/preview/harley</link>
         <description>Harley by Dan Thompson</description>
-        <lastBuildDate>Mon, 16 Jul 2018 06:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/harley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Harley by Dan Thompson for Jul 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/193860e06b69013644fe005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/193860e06b69013644fe005056a9545d.html</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/193860e06b69013644fe005056a9545d" alt="Harley by Dan Thompson for Jul 17, 2018 " title="Harley by Dan Thompson for Jul 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Harley by Dan Thompson for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7a7f61206a80013644af005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/246bdd90586301363df5005056a9545d.html</guid>
             <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/246bdd90586301363df5005056a9545d" alt="Harley by Dan Thompson for Jun 23, 2018 " title="Harley by Dan Thompson for Jun 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Harley by Dan Thompson for Jun 22, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/c5d878d057ac01363dab005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/c5d878d057ac01363dab005056a9545d.html</guid>
-            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c5d878d057ac01363dab005056a9545d" alt="Harley by Dan Thompson for Jun 22, 2018 " title="Harley by Dan Thompson for Jun 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

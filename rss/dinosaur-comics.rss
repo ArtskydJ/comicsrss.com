@@ -4,7 +4,7 @@
         <title>Dinosaur Comics</title>
         <link>https://www.comicsrss.com/preview/dinosaur-comics</link>
         <description>Dinosaur Comics by Ryan North</description>
-        <lastBuildDate>Mon, 16 Jul 2018 06:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ryan North</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dinosaur-comics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dinosaur Comics by Ryan North for Jul 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/eae3ffa079e90135eb2c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/eae3ffa079e90135eb2c005056a9545d.html</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/eae3ffa079e90135eb2c005056a9545d" alt="Dinosaur Comics by Ryan North for Jul 17, 2018 " title="Dinosaur Comics by Ryan North for Jul 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dinosaur Comics by Ryan North for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c71d991079e90135eb2c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/1db8513079e70135eb2b005056a9545d.html</guid>
             <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1db8513079e70135eb2b005056a9545d" alt="Dinosaur Comics by Ryan North for Jun 13, 2018 " title="Dinosaur Comics by Ryan North for Jun 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dinosaur Comics by Ryan North for Jun 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7040f98079e70135eb2b005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7040f98079e70135eb2b005056a9545d.html</guid>
-            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7040f98079e70135eb2b005056a9545d" alt="Dinosaur Comics by Ryan North for Jun 12, 2018 " title="Dinosaur Comics by Ryan North for Jun 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

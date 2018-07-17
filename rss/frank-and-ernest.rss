@@ -4,7 +4,7 @@
         <title>Frank and Ernest</title>
         <link>https://www.comicsrss.com/preview/frank-and-ernest</link>
         <description>Frank and Ernest by Thaves</description>
-        <lastBuildDate>Mon, 16 Jul 2018 06:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Thaves</copyright>
         <atom:link href="https://www.comicsrss.com/rss/frank-and-ernest.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frank and Ernest by Thaves for Jul 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7da2df6062b0013641ce005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7da2df6062b0013641ce005056a9545d.html</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7da2df6062b0013641ce005056a9545d" alt="Frank and Ernest by Thaves for Jul 17, 2018 " title="Frank and Ernest by Thaves for Jul 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frank and Ernest by Thaves for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7be5379062b0013641ce005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4e7c33504ca3013639ab005056a9545d.html</guid>
             <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4e7c33504ca3013639ab005056a9545d" alt="Frank and Ernest by Thaves for Jun 23, 2018 " title="Frank and Ernest by Thaves for Jun 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frank and Ernest by Thaves for Jun 22, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4c9f96404ca3013639ab005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4c9f96404ca3013639ab005056a9545d.html</guid>
-            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4c9f96404ca3013639ab005056a9545d" alt="Frank and Ernest by Thaves for Jun 22, 2018 " title="Frank and Ernest by Thaves for Jun 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

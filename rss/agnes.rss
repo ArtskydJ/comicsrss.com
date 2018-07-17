@@ -4,7 +4,7 @@
         <title>Agnes</title>
         <link>https://www.comicsrss.com/preview/agnes</link>
         <description>Agnes by Tony Cochran</description>
-        <lastBuildDate>Mon, 16 Jul 2018 06:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Tony Cochran</copyright>
         <atom:link href="https://www.comicsrss.com/rss/agnes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Agnes by Tony Cochran for Jul 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3298a11056ec01363d50005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3298a11056ec01363d50005056a9545d.html</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3298a11056ec01363d50005056a9545d" alt="Agnes by Tony Cochran for Jul 17, 2018 " title="Agnes by Tony Cochran for Jul 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Agnes by Tony Cochran for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4a6692f0565501363d1c005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/da598800411d01363583005056a9545d.html</guid>
             <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/da598800411d01363583005056a9545d" alt="Agnes by Tony Cochran for Jun 23, 2018 " title="Agnes by Tony Cochran for Jun 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Agnes by Tony Cochran for Jun 22, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/e890fea0411d01363583005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/e890fea0411d01363583005056a9545d.html</guid>
-            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e890fea0411d01363583005056a9545d" alt="Agnes by Tony Cochran for Jun 22, 2018 " title="Agnes by Tony Cochran for Jun 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

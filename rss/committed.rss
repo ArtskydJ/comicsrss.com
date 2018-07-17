@@ -4,7 +4,7 @@
         <title>Committed</title>
         <link>https://www.comicsrss.com/preview/committed</link>
         <description>Committed by Michael Fry</description>
-        <lastBuildDate>Mon, 16 Jul 2018 06:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Michael Fry</copyright>
         <atom:link href="https://www.comicsrss.com/rss/committed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Committed by Michael Fry for Jul 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ac43caa08bf8012ee3c400163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ac43caa08bf8012ee3c400163e41dd5b.html</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ac43caa08bf8012ee3c400163e41dd5b" alt="Committed by Michael Fry for Jul 17, 2018 " title="Committed by Michael Fry for Jul 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Committed by Michael Fry for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9e6285908c04012ee3c400163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/9c0213508be9012ee3c400163e41dd5b.html</guid>
             <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9c0213508be9012ee3c400163e41dd5b" alt="Committed by Michael Fry for Jun 19, 2018 " title="Committed by Michael Fry for Jun 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Committed by Michael Fry for Jun 18, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3cd640908c05012ee3c400163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3cd640908c05012ee3c400163e41dd5b.html</guid>
-            <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3cd640908c05012ee3c400163e41dd5b" alt="Committed by Michael Fry for Jun 18, 2018 " title="Committed by Michael Fry for Jun 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

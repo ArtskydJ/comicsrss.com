@@ -4,7 +4,7 @@
         <title>Tarzan</title>
         <link>https://www.comicsrss.com/preview/tarzan</link>
         <description>Tarzan by Edgar Rice Burroughs</description>
-        <lastBuildDate>Mon, 16 Jul 2018 06:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 06:35:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Edgar Rice Burroughs</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tarzan.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tarzan by Edgar Rice Burroughs for Jul 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/97f665804a7d013638a6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/97f665804a7d013638a6005056a9545d.html</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/97f665804a7d013638a6005056a9545d" alt="Tarzan by Edgar Rice Burroughs for Jul 17, 2018 " title="Tarzan by Edgar Rice Burroughs for Jul 17, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tarzan by Edgar Rice Burroughs for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/96becfa04a7d013638a6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/26099d50319b01362fcb005056a9545d.html</guid>
             <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/26099d50319b01362fcb005056a9545d" alt="Tarzan by Edgar Rice Burroughs for Jun 23, 2018 " title="Tarzan by Edgar Rice Burroughs for Jun 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tarzan by Edgar Rice Burroughs for Jun 22, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/24febce0319b01362fcb005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/24febce0319b01362fcb005056a9545d.html</guid>
-            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/24febce0319b01362fcb005056a9545d" alt="Tarzan by Edgar Rice Burroughs for Jun 22, 2018 " title="Tarzan by Edgar Rice Burroughs for Jun 22, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
