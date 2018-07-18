@@ -4,7 +4,7 @@
         <title>The Humble Stumble</title>
         <link>https://www.comicsrss.com/preview/humble-stumble</link>
         <description>The Humble Stumble by Roy Schneider</description>
-        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Roy Schneider</copyright>
         <atom:link href="https://www.comicsrss.com/rss/humble-stumble.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Humble Stumble by Roy Schneider for Jul 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2f5e8ad025ef012f2fcc00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2f5e8ad025ef012f2fcc00163e41dd5b.html</guid>
+            <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2f5e8ad025ef012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Jul 18, 2018 " title="The Humble Stumble by Roy Schneider for Jul 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Humble Stumble by Roy Schneider for Jul 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a805a9c025ea012f2fcc00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/996acf7025ee012f2fcc00163e41dd5b.html</guid>
             <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/996acf7025ee012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Jun 24, 2018 " title="The Humble Stumble by Roy Schneider for Jun 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Humble Stumble by Roy Schneider for Jun 23, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/91add1f025ee012f2fcc00163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/91add1f025ee012f2fcc00163e41dd5b.html</guid>
-            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/91add1f025ee012f2fcc00163e41dd5b" alt="The Humble Stumble by Roy Schneider for Jun 23, 2018 " title="The Humble Stumble by Roy Schneider for Jun 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

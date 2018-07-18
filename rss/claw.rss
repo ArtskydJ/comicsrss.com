@@ -4,7 +4,7 @@
         <title>Claw</title>
         <link>https://www.comicsrss.com/preview/claw</link>
         <description>Claw by Cathy Law</description>
-        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Cathy Law</copyright>
         <atom:link href="https://www.comicsrss.com/rss/claw.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Claw by Cathy Law for Jul 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9bab96d066920136430f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9bab96d066920136430f005056a9545d.html</guid>
+            <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9bab96d066920136430f005056a9545d" alt="Claw by Cathy Law for Jul 18, 2018 " title="Claw by Cathy Law for Jul 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Claw by Cathy Law for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/84cc35c066900136430e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/claw/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b1bef2904017013634e9005056a9545d" alt="Claw by Cathy Law for May 23, 2018 " title="Claw by Cathy Law for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Claw by Cathy Law for May 21, 2018 ]]></title>
-            <link>https://www.gocomics.com/claw/2018/05/21</link>
-            <guid>https://www.gocomics.com/claw/2018/05/21</guid>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e5e997903ea60136345b005056a9545d" alt="Claw by Cathy Law for May 21, 2018 " title="Claw by Cathy Law for May 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

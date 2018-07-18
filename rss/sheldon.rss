@@ -4,7 +4,7 @@
         <title>Sheldon</title>
         <link>https://www.comicsrss.com/preview/sheldon</link>
         <description>Sheldon by Dave Kellett</description>
-        <lastBuildDate>Tue, 17 Jul 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 06:36:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Kellett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/sheldon.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sheldon by Dave Kellett for Jul 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/47d95e30345001363070005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/47d95e30345001363070005056a9545d.html</guid>
+            <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/47d95e30345001363070005056a9545d" alt="Sheldon by Dave Kellett for Jul 18, 2018 " title="Sheldon by Dave Kellett for Jul 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Sheldon by Dave Kellett for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/401e43b0345001363070005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/sheldon/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6b115830344c0136306d005056a9545d" alt="Sheldon by Dave Kellett for May 23, 2018 " title="Sheldon by Dave Kellett for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sheldon by Dave Kellett for May 21, 2018 ]]></title>
-            <link>https://www.gocomics.com/sheldon/2018/05/21</link>
-            <guid>https://www.gocomics.com/sheldon/2018/05/21</guid>
-            <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/db169cd0e918013513e3005056a9545d" alt="Sheldon by Dave Kellett for May 21, 2018 " title="Sheldon by Dave Kellett for May 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

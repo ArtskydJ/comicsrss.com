@@ -4,7 +4,7 @@
         <title>Buni</title>
         <link>https://www.comicsrss.com/preview/buni</link>
         <description>Buni by Ryan Pagelow</description>
-        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ryan Pagelow</copyright>
         <atom:link href="https://www.comicsrss.com/rss/buni.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buni by Ryan Pagelow for Jul 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f22132406c7601364586005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f22132406c7601364586005056a9545d.html</guid>
+            <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f22132406c7601364586005056a9545d" alt="Buni by Ryan Pagelow for Jul 18, 2018 " title="Buni by Ryan Pagelow for Jul 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Buni by Ryan Pagelow for Jul 16, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4600aee06adc013644cd005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/buni/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d4e512a03ed80136346a005056a9545d" alt="Buni by Ryan Pagelow for May 21, 2018 " title="Buni by Ryan Pagelow for May 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Buni by Ryan Pagelow for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/buni/2018/05/18</link>
-            <guid>https://www.gocomics.com/buni/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cf3dee103c87013633d2005056a9545d" alt="Buni by Ryan Pagelow for May 18, 2018 " title="Buni by Ryan Pagelow for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

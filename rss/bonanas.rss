@@ -4,7 +4,7 @@
         <title>Bo Nanas</title>
         <link>https://www.comicsrss.com/preview/bonanas</link>
         <description>Bo Nanas by John Kovaleski</description>
-        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Kovaleski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bonanas.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bo Nanas by John Kovaleski for Jul 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2a8bc6a0559601363cbf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2a8bc6a0559601363cbf005056a9545d.html</guid>
+            <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2a8bc6a0559601363cbf005056a9545d" alt="Bo Nanas by John Kovaleski for Jul 18, 2018 " title="Bo Nanas by John Kovaleski for Jul 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bo Nanas by John Kovaleski for Jul 17, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2fd7cdb0559601363cbf005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/30c8a830355c013630ff005056a9545d.html</guid>
             <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/30c8a830355c013630ff005056a9545d" alt="Bo Nanas by John Kovaleski for Jun 24, 2018 " title="Bo Nanas by John Kovaleski for Jun 24, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bo Nanas by John Kovaleski for Jun 23, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/2e24b2c0355c013630ff005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/2e24b2c0355c013630ff005056a9545d.html</guid>
-            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2e24b2c0355c013630ff005056a9545d" alt="Bo Nanas by John Kovaleski for Jun 23, 2018 " title="Bo Nanas by John Kovaleski for Jun 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

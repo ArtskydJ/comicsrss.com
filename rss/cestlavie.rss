@@ -4,7 +4,7 @@
         <title>C&amp;#39;est la Vie</title>
         <link>https://www.comicsrss.com/preview/cestlavie</link>
         <description>C&amp;#39;est la Vie by Jennifer Babcock</description>
-        <lastBuildDate>Tue, 17 Jul 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jennifer Babcock</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cestlavie.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C&#39;est la Vie by Jennifer Babcock for Jul 18, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ab7a50d062ed013641f9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ab7a50d062ed013641f9005056a9545d.html</guid>
+            <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ab7a50d062ed013641f9005056a9545d" alt="C&#39;est la Vie by Jennifer Babcock for Jul 18, 2018 " title="C&#39;est la Vie by Jennifer Babcock for Jul 18, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[C&#39;est la Vie by Jennifer Babcock for Jul 13, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7948f55062e9013641f7005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/cestlavie/2018/04/21</guid>
             <pubDate>Sat, 21 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/f440b2a0265601362b9b005056a9545d" alt="C&#39;est la Vie by Jennifer Babcock for Apr 21, 2018 " title="C&#39;est la Vie by Jennifer Babcock for Apr 21, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C&#39;est la Vie by Jennifer Babcock for Apr 20, 2018 ]]></title>
-            <link>http://www.gocomics.com/cestlavie/2018/04/20</link>
-            <guid>http://www.gocomics.com/cestlavie/2018/04/20</guid>
-            <pubDate>Fri, 20 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/30fd2f30264601362b8d005056a9545d" alt="C&#39;est la Vie by Jennifer Babcock for Apr 20, 2018 " title="C&#39;est la Vie by Jennifer Babcock for Apr 20, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
