@@ -4,7 +4,7 @@
         <title>Grand Avenue</title>
         <link>https://www.comicsrss.com/preview/grand-avenue</link>
         <description>Grand Avenue by Mike Thompson</description>
-        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jul 2018 06:35:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/grand-avenue.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grand Avenue by Mike Thompson for Jul 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/009ef11066880136430a005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/009ef11066880136430a005056a9545d.html</guid>
+            <pubDate>Thu, 19 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/009ef11066880136430a005056a9545d" alt="Grand Avenue by Mike Thompson for Jul 19, 2018 " title="Grand Avenue by Mike Thompson for Jul 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Grand Avenue by Mike Thompson for Jul 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/74e31eb066890136430b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/34ef17e0561401363ceb005056a9545d.html</guid>
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/34ef17e0561401363ceb005056a9545d" alt="Grand Avenue by Mike Thompson for Jun 25, 2018 " title="Grand Avenue by Mike Thompson for Jun 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grand Avenue by Mike Thompson for Jun 24, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3f960ee03c58013633c0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3f960ee03c58013633c0005056a9545d.html</guid>
-            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3f960ee03c58013633c0005056a9545d" alt="Grand Avenue by Mike Thompson for Jun 24, 2018 " title="Grand Avenue by Mike Thompson for Jun 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

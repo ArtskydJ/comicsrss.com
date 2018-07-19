@@ -4,7 +4,7 @@
         <title>Jack Ohman</title>
         <link>https://www.comicsrss.com/preview/jackohman</link>
         <description>Jack Ohman by Jack Ohman</description>
-        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jul 2018 06:35:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jack Ohman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jackohman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jack Ohman by Jack Ohman for Jul 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3f85d7606d13013645dd005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3f85d7606d13013645dd005056a9545d.html</guid>
+            <pubDate>Thu, 19 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3f85d7606d13013645dd005056a9545d" alt="Jack Ohman by Jack Ohman for Jul 19, 2018 " title="Jack Ohman by Jack Ohman for Jul 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jack Ohman by Jack Ohman for Jul 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/10e919006c4a01364577005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/9c2ade804da401363a29005056a9545d.html</guid>
             <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9c2ade804da401363a29005056a9545d" alt="Jack Ohman by Jack Ohman for Jun 10, 2018 " title="Jack Ohman by Jack Ohman for Jun 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jack Ohman by Jack Ohman for Jun 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/758440804cdb013639da005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/758440804cdb013639da005056a9545d.html</guid>
-            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/758440804cdb013639da005056a9545d" alt="Jack Ohman by Jack Ohman for Jun 8, 2018 " title="Jack Ohman by Jack Ohman for Jun 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

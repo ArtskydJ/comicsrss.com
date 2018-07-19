@@ -4,7 +4,7 @@
         <title>Family Tree</title>
         <link>https://www.comicsrss.com/preview/familytree</link>
         <description>Family Tree by Signe Wilkinson</description>
-        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jul 2018 06:35:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Signe Wilkinson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/familytree.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Family Tree by Signe Wilkinson for Jul 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/73048040a5540131428e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/73048040a5540131428e005056a9545d.html</guid>
+            <pubDate>Thu, 19 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/73048040a5540131428e005056a9545d" alt="Family Tree by Signe Wilkinson for Jul 19, 2018 " title="Family Tree by Signe Wilkinson for Jul 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Family Tree by Signe Wilkinson for Jul 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/71dfdf20a5540131428e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/5c4c6790a5540131428e005056a9545d.html</guid>
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5c4c6790a5540131428e005056a9545d" alt="Family Tree by Signe Wilkinson for Jun 25, 2018 " title="Family Tree by Signe Wilkinson for Jun 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Family Tree by Signe Wilkinson for Jun 24, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7ae4dc40a56e013142a3005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7ae4dc40a56e013142a3005056a9545d.html</guid>
-            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7ae4dc40a56e013142a3005056a9545d" alt="Family Tree by Signe Wilkinson for Jun 24, 2018 " title="Family Tree by Signe Wilkinson for Jun 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

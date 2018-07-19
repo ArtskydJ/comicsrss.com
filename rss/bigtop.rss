@@ -4,7 +4,7 @@
         <title>Big Top</title>
         <link>https://www.comicsrss.com/preview/bigtop</link>
         <description>Big Top by Rob Harrell</description>
-        <lastBuildDate>Wed, 18 Jul 2018 06:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jul 2018 06:35:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rob Harrell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bigtop.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Top by Rob Harrell for Jul 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/4652a120212a102d94d7001438c0f03b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/4652a120212a102d94d7001438c0f03b.html</guid>
+            <pubDate>Thu, 19 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/4652a120212a102d94d7001438c0f03b" alt="Big Top by Rob Harrell for Jul 19, 2018 " title="Big Top by Rob Harrell for Jul 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Big Top by Rob Harrell for Jul 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d7b539c4212b102d94d7001438c0f03b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b0a0b0a02123102d94d7001438c0f03b.html</guid>
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b0a0b0a02123102d94d7001438c0f03b" alt="Big Top by Rob Harrell for Jun 25, 2018 " title="Big Top by Rob Harrell for Jun 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Big Top by Rob Harrell for Jun 24, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/76ef5ae4212a102d94d7001438c0f03b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/76ef5ae4212a102d94d7001438c0f03b.html</guid>
-            <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/76ef5ae4212a102d94d7001438c0f03b" alt="Big Top by Rob Harrell for Jun 24, 2018 " title="Big Top by Rob Harrell for Jun 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
