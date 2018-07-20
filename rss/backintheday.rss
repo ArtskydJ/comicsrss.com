@@ -4,7 +4,7 @@
         <title>Back in the Day</title>
         <link>https://www.comicsrss.com/preview/backintheday</link>
         <description>Back in the Day by Eric Scott</description>
-        <lastBuildDate>Thu, 19 Jul 2018 06:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 06:35:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Eric Scott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/backintheday.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Back in the Day by Eric Scott for Jul 20, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/072d4d706dad0136460c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/072d4d706dad0136460c005056a9545d.html</guid>
+            <pubDate>Fri, 20 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/072d4d706dad0136460c005056a9545d" alt="Back in the Day by Eric Scott for Jul 20, 2018 " title="Back in the Day by Eric Scott for Jul 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Back in the Day by Eric Scott for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/62cf14306cd9013645ac005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/d351e74054b501363c6e005056a9545d.html</guid>
             <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d351e74054b501363c6e005056a9545d" alt="Back in the Day by Eric Scott for Jun 18, 2018 " title="Back in the Day by Eric Scott for Jun 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Back in the Day by Eric Scott for Jun 15, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/2f1890f0524101363bc3005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/2f1890f0524101363bc3005056a9545d.html</guid>
-            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2f1890f0524101363bc3005056a9545d" alt="Back in the Day by Eric Scott for Jun 15, 2018 " title="Back in the Day by Eric Scott for Jun 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Crumb</title>
         <link>https://www.comicsrss.com/preview/crumb</link>
         <description>Crumb by David Fletcher</description>
-        <lastBuildDate>Thu, 19 Jul 2018 06:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 06:35:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright David Fletcher</copyright>
         <atom:link href="https://www.comicsrss.com/rss/crumb.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crumb by David Fletcher for Jul 20, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/dff8df50684101364401005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/dff8df50684101364401005056a9545d.html</guid>
+            <pubDate>Fri, 20 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/dff8df50684101364401005056a9545d" alt="Crumb by David Fletcher for Jul 20, 2018 " title="Crumb by David Fletcher for Jul 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Crumb by David Fletcher for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/dd3e5ec0684101364401005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/05cb76404b35013638fa005056a9545d.html</guid>
             <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/05cb76404b35013638fa005056a9545d" alt="Crumb by David Fletcher for Jun 22, 2018 " title="Crumb by David Fletcher for Jun 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Crumb by David Fletcher for Jun 21, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/08686bc04b35013638fa005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/08686bc04b35013638fa005056a9545d.html</guid>
-            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/08686bc04b35013638fa005056a9545d" alt="Crumb by David Fletcher for Jun 21, 2018 " title="Crumb by David Fletcher for Jun 21, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

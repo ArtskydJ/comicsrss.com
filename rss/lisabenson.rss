@@ -4,7 +4,7 @@
         <title>Lisa Benson</title>
         <link>https://www.comicsrss.com/preview/lisabenson</link>
         <description>Lisa Benson by Lisa Benson</description>
-        <lastBuildDate>Thu, 19 Jul 2018 06:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 06:35:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lisa Benson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lisabenson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lisa Benson by Lisa Benson for Jul 19, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6474d7806ddc0136462c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6474d7806ddc0136462c005056a9545d.html</guid>
+            <pubDate>Thu, 19 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6474d7806ddc0136462c005056a9545d" alt="Lisa Benson by Lisa Benson for Jul 19, 2018 " title="Lisa Benson by Lisa Benson for Jul 19, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lisa Benson by Lisa Benson for Jul 18, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6cf948706ba201364516005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/lisabenson/2018/05/25</guid>
             <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1d3c434041db013635d9005056a9545d" alt="Lisa Benson by Lisa Benson for May 25, 2018 " title="Lisa Benson by Lisa Benson for May 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Benson by Lisa Benson for May 24, 2018 ]]></title>
-            <link>https://www.gocomics.com/lisabenson/2018/05/24</link>
-            <guid>https://www.gocomics.com/lisabenson/2018/05/24</guid>
-            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f15f8b8041110136357d005056a9545d" alt="Lisa Benson by Lisa Benson for May 24, 2018 " title="Lisa Benson by Lisa Benson for May 24, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

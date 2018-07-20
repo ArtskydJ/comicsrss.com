@@ -4,7 +4,7 @@
         <title>Close to Home</title>
         <link>https://www.comicsrss.com/preview/closetohome</link>
         <description>Close to Home by John McPherson</description>
-        <lastBuildDate>Thu, 19 Jul 2018 06:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 06:35:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John McPherson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/closetohome.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Close to Home by John McPherson for Jul 20, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d3a3180066be0136433d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d3a3180066be0136433d005056a9545d.html</guid>
+            <pubDate>Fri, 20 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d3a3180066be0136433d005056a9545d" alt="Close to Home by John McPherson for Jul 20, 2018 " title="Close to Home by John McPherson for Jul 20, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Close to Home by John McPherson for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d1e9fd2066be0136433d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/806f82a0563e01363d15005056a9545d.html</guid>
             <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/806f82a0563e01363d15005056a9545d" alt="Close to Home by John McPherson for Jun 26, 2018 " title="Close to Home by John McPherson for Jun 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Close to Home by John McPherson for Jun 25, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7ed08000563e01363d15005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7ed08000563e01363d15005056a9545d.html</guid>
-            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7ed08000563e01363d15005056a9545d" alt="Close to Home by John McPherson for Jun 25, 2018 " title="Close to Home by John McPherson for Jun 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
