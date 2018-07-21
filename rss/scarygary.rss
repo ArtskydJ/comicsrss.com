@@ -4,7 +4,7 @@
         <title>Scary Gary</title>
         <link>https://www.comicsrss.com/preview/scarygary</link>
         <description>Scary Gary by Mark Buford</description>
-        <lastBuildDate>Fri, 20 Jul 2018 06:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jul 2018 06:34:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Buford</copyright>
         <atom:link href="https://www.comicsrss.com/rss/scarygary.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scary Gary by Mark Buford for Jul 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/21cc313064e401364285005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/21cc313064e401364285005056a9545d.html</guid>
+            <pubDate>Sat, 21 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/21cc313064e401364285005056a9545d" alt="Scary Gary by Mark Buford for Jul 21, 2018 " title="Scary Gary by Mark Buford for Jul 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Scary Gary by Mark Buford for Jul 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/28ed896064e401364285005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/e6f97d00546301363c5f005056a9545d.html</guid>
             <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e6f97d00546301363c5f005056a9545d" alt="Scary Gary by Mark Buford for Jun 27, 2018 " title="Scary Gary by Mark Buford for Jun 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scary Gary by Mark Buford for Jun 26, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/e2a30cf0546301363c5f005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/e2a30cf0546301363c5f005056a9545d.html</guid>
-            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e2a30cf0546301363c5f005056a9545d" alt="Scary Gary by Mark Buford for Jun 26, 2018 " title="Scary Gary by Mark Buford for Jun 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

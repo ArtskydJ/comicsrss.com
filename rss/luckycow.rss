@@ -4,7 +4,7 @@
         <title>Lucky Cow</title>
         <link>https://www.comicsrss.com/preview/luckycow</link>
         <description>Lucky Cow by Mark Pett</description>
-        <lastBuildDate>Fri, 20 Jul 2018 06:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jul 2018 06:34:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Pett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/luckycow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucky Cow by Mark Pett for Jul 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e1517f0e2a9c102d94d7001438c0f03b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e1517f0e2a9c102d94d7001438c0f03b.html</guid>
+            <pubDate>Sat, 21 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e1517f0e2a9c102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Jul 21, 2018 " title="Lucky Cow by Mark Pett for Jul 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lucky Cow by Mark Pett for Jul 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/20fea8922a99102d94d7001438c0f03b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/5d907e422a9f102d94d7001438c0f03b.html</guid>
             <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5d907e422a9f102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Jun 27, 2018 " title="Lucky Cow by Mark Pett for Jun 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lucky Cow by Mark Pett for Jun 26, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7814798a2a9a102d94d7001438c0f03b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7814798a2a9a102d94d7001438c0f03b.html</guid>
-            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7814798a2a9a102d94d7001438c0f03b" alt="Lucky Cow by Mark Pett for Jun 26, 2018 " title="Lucky Cow by Mark Pett for Jun 26, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

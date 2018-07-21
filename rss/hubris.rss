@@ -4,7 +4,7 @@
         <title>HUBRIS!</title>
         <link>https://www.comicsrss.com/preview/hubris</link>
         <description>HUBRIS! by Greg Cravens</description>
-        <lastBuildDate>Fri, 20 Jul 2018 06:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jul 2018 06:34:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Greg Cravens</copyright>
         <atom:link href="https://www.comicsrss.com/rss/hubris.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HUBRIS! by Greg Cravens for Jul 21, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a5c0d2406b7d01364508005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a5c0d2406b7d01364508005056a9545d.html</guid>
+            <pubDate>Sat, 21 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a5c0d2406b7d01364508005056a9545d" alt="HUBRIS! by Greg Cravens for Jul 21, 2018 " title="HUBRIS! by Greg Cravens for Jul 21, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[HUBRIS! by Greg Cravens for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a2897e406b7d01364508005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4bbdf2904000013634d5005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4bbdf2904000013634d5005056a9545d" alt="HUBRIS! by Greg Cravens for Jun 6, 2018 " title="HUBRIS! by Greg Cravens for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HUBRIS! by Greg Cravens for Jun 5, 2018 ]]></title>
-            <link>https://www.gocomics.com/hubris/2018/06/05</link>
-            <guid>https://www.gocomics.com/hubris/2018/06/05</guid>
-            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4aea38c04000013634d5005056a9545d" alt="HUBRIS! by Greg Cravens for Jun 5, 2018 " title="HUBRIS! by Greg Cravens for Jun 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
