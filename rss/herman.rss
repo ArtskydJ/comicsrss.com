@@ -4,7 +4,7 @@
         <title>Herman</title>
         <link>https://www.comicsrss.com/preview/herman</link>
         <description>Herman by Jim Unger</description>
-        <lastBuildDate>Sat, 21 Jul 2018 06:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Unger</copyright>
         <atom:link href="https://www.comicsrss.com/rss/herman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Herman by Jim Unger for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/64b250304a7d013638a6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/64b250304a7d013638a6005056a9545d.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/64b250304a7d013638a6005056a9545d" alt="Herman by Jim Unger for Jul 22, 2018 " title="Herman by Jim Unger for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Herman by Jim Unger for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9a41df7062d9013641f1005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b3366e60510901363b29005056a9545d.html</guid>
             <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b3366e60510901363b29005056a9545d" alt="Herman by Jim Unger for Jun 28, 2018 " title="Herman by Jim Unger for Jun 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Herman by Jim Unger for Jun 27, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b1bf1120510901363b29005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b1bf1120510901363b29005056a9545d.html</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b1bf1120510901363b29005056a9545d" alt="Herman by Jim Unger for Jun 27, 2018 " title="Herman by Jim Unger for Jun 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

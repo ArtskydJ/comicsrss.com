@@ -4,7 +4,7 @@
         <title>The Boondocks</title>
         <link>https://www.comicsrss.com/preview/boondocks</link>
         <description>The Boondocks by Aaron McGruder</description>
-        <lastBuildDate>Sat, 21 Jul 2018 06:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jul 2018 06:33:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Aaron McGruder</copyright>
         <atom:link href="https://www.comicsrss.com/rss/boondocks.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Boondocks by Aaron McGruder for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1a716830509901315bcf001dd8b71c47.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1a716830509901315bcf001dd8b71c47.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1a716830509901315bcf001dd8b71c47" alt="The Boondocks by Aaron McGruder for Jul 22, 2018 " title="The Boondocks by Aaron McGruder for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Boondocks by Aaron McGruder for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5e80db20539501315e2b001dd8b71c47.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4c8c17e0539501315e2b001dd8b71c47.html</guid>
             <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4c8c17e0539501315e2b001dd8b71c47" alt="The Boondocks by Aaron McGruder for Jun 28, 2018 " title="The Boondocks by Aaron McGruder for Jun 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Boondocks by Aaron McGruder for Jun 27, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4bb7a940539501315e2b001dd8b71c47.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4bb7a940539501315e2b001dd8b71c47.html</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4bb7a940539501315e2b001dd8b71c47" alt="The Boondocks by Aaron McGruder for Jun 27, 2018 " title="The Boondocks by Aaron McGruder for Jun 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

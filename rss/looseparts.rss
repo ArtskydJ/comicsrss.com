@@ -4,7 +4,7 @@
         <title>Loose Parts</title>
         <link>https://www.comicsrss.com/preview/looseparts</link>
         <description>Loose Parts by Dave Blazek</description>
-        <lastBuildDate>Sat, 21 Jul 2018 06:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Blazek</copyright>
         <atom:link href="https://www.comicsrss.com/rss/looseparts.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Loose Parts by Dave Blazek for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1add9d004cba013639bd005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1add9d004cba013639bd005056a9545d.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1add9d004cba013639bd005056a9545d" alt="Loose Parts by Dave Blazek for Jul 22, 2018 " title="Loose Parts by Dave Blazek for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Loose Parts by Dave Blazek for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3df286c061280136413d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4c446ee04c1201363975005056a9545d.html</guid>
             <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4c446ee04c1201363975005056a9545d" alt="Loose Parts by Dave Blazek for Jun 28, 2018 " title="Loose Parts by Dave Blazek for Jun 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Loose Parts by Dave Blazek for Jun 27, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4633ae004c1201363975005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4633ae004c1201363975005056a9545d.html</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4633ae004c1201363975005056a9545d" alt="Loose Parts by Dave Blazek for Jun 27, 2018 " title="Loose Parts by Dave Blazek for Jun 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

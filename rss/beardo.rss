@@ -4,7 +4,7 @@
         <title>Beardo</title>
         <link>https://www.comicsrss.com/preview/beardo</link>
         <description>Beardo by Dan Dougherty</description>
-        <lastBuildDate>Sat, 21 Jul 2018 06:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jul 2018 06:33:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Dougherty</copyright>
         <atom:link href="https://www.comicsrss.com/rss/beardo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beardo by Dan Dougherty for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c2cf1a406e970136466f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c2cf1a406e970136466f005056a9545d.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c2cf1a406e970136466f005056a9545d" alt="Beardo by Dan Dougherty for Jul 22, 2018 " title="Beardo by Dan Dougherty for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Beardo by Dan Dougherty for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/576238d06d2f013645e7005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3ffcc80050f801363b1e005056a9545d.html</guid>
             <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3ffcc80050f801363b1e005056a9545d" alt="Beardo by Dan Dougherty for Jun 14, 2018 " title="Beardo by Dan Dougherty for Jun 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beardo by Dan Dougherty for Jun 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3f18a55050f801363b1e005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3f18a55050f801363b1e005056a9545d.html</guid>
-            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3f18a55050f801363b1e005056a9545d" alt="Beardo by Dan Dougherty for Jun 13, 2018 " title="Beardo by Dan Dougherty for Jun 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

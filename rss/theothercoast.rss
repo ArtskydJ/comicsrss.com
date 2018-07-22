@@ -4,7 +4,7 @@
         <title>The Other Coast</title>
         <link>https://www.comicsrss.com/preview/theothercoast</link>
         <description>The Other Coast by Adrian Raeside</description>
-        <lastBuildDate>Sat, 21 Jul 2018 06:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Adrian Raeside</copyright>
         <atom:link href="https://www.comicsrss.com/rss/theothercoast.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Other Coast by Adrian Raeside for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/65ee69006a63013644a9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/65ee69006a63013644a9005056a9545d.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/65ee69006a63013644a9005056a9545d" alt="The Other Coast by Adrian Raeside for Jul 22, 2018 " title="The Other Coast by Adrian Raeside for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Other Coast by Adrian Raeside for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/425968a05d0301363fa0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/c1b67d904fd901363a9c005056a9545d.html</guid>
             <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c1b67d904fd901363a9c005056a9545d" alt="The Other Coast by Adrian Raeside for Jun 28, 2018 " title="The Other Coast by Adrian Raeside for Jun 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Other Coast by Adrian Raeside for Jun 27, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/be0757f04fd901363a9c005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/be0757f04fd901363a9c005056a9545d.html</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/be0757f04fd901363a9c005056a9545d" alt="The Other Coast by Adrian Raeside for Jun 27, 2018 " title="The Other Coast by Adrian Raeside for Jun 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
