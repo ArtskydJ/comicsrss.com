@@ -4,7 +4,7 @@
         <title>KidSpot</title>
         <link>https://www.comicsrss.com/preview/kidspot</link>
         <description>KidSpot by Dan Thompson</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kidspot.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KidSpot by Dan Thompson for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/34d6849066c701364340005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/34d6849066c701364340005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/34d6849066c701364340005056a9545d" alt="KidSpot by Dan Thompson for Jul 23, 2018 " title="KidSpot by Dan Thompson for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[KidSpot by Dan Thompson for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/16d47c00614701364157005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/7fa9845050c601363b0e005056a9545d.html</guid>
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7fa9845050c601363b0e005056a9545d" alt="KidSpot by Dan Thompson for Jun 25, 2018 " title="KidSpot by Dan Thompson for Jun 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KidSpot by Dan Thompson for Jun 23, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/552250a04b460136390a005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/552250a04b460136390a005056a9545d.html</guid>
-            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/552250a04b460136390a005056a9545d" alt="KidSpot by Dan Thompson for Jun 23, 2018 " title="KidSpot by Dan Thompson for Jun 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

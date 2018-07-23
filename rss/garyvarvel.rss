@@ -4,7 +4,7 @@
         <title>Gary Varvel</title>
         <link>https://www.comicsrss.com/preview/garyvarvel</link>
         <description>Gary Varvel by Gary Varvel</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gary Varvel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/garyvarvel.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gary Varvel by Gary Varvel for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/457c82306faa013646a5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/457c82306faa013646a5005056a9545d.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/457c82306faa013646a5005056a9545d" alt="Gary Varvel by Gary Varvel for Jul 22, 2018 " title="Gary Varvel by Gary Varvel for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/73322ee06d70013645f5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/garyvarvel/2018/06/04</guid>
             <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4e8ad69049f20136387a005056a9545d" alt="Gary Varvel by Gary Varvel for Jun 4, 2018 " title="Gary Varvel by Gary Varvel for Jun 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gary Varvel by Gary Varvel for Jun 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/garyvarvel/2018/06/03</link>
-            <guid>https://www.gocomics.com/garyvarvel/2018/06/03</guid>
-            <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/29e1d67049290136384d005056a9545d" alt="Gary Varvel by Gary Varvel for Jun 3, 2018 " title="Gary Varvel by Gary Varvel for Jun 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Geech</title>
         <link>https://www.comicsrss.com/preview/geech</link>
         <description>Geech by Jerry Bittle</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Bittle</copyright>
         <atom:link href="https://www.comicsrss.com/rss/geech.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Geech by Jerry Bittle for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c8042e203986012f2fd000163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c8042e203986012f2fd000163e41dd5b.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c8042e203986012f2fd000163e41dd5b" alt="Geech by Jerry Bittle for Jul 23, 2018 " title="Geech by Jerry Bittle for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Jul 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d9794a8099ed012e2f8200163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4f6ad36099ed012e2f8200163e41dd5b.html</guid>
             <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4f6ad36099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jun 29, 2018 " title="Geech by Jerry Bittle for Jun 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Geech by Jerry Bittle for Jun 28, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/ce1d8d6099ed012e2f8200163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/ce1d8d6099ed012e2f8200163e41dd5b.html</guid>
-            <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ce1d8d6099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jun 28, 2018 " title="Geech by Jerry Bittle for Jun 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

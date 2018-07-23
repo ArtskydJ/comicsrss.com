@@ -4,7 +4,7 @@
         <title>Pickles</title>
         <link>https://www.comicsrss.com/preview/pickles</link>
         <description>Pickles by Brian Crane</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brian Crane</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pickles.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pickles by Brian Crane for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2d615d90636201364223005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2d615d90636201364223005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2d615d90636201364223005056a9545d" alt="Pickles by Brian Crane for Jul 23, 2018 " title="Pickles by Brian Crane for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Pickles by Brian Crane for Jul 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/26c7ad20523a01363bb8005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/68b219404c98013639a4005056a9545d.html</guid>
             <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/68b219404c98013639a4005056a9545d" alt="Pickles by Brian Crane for Jun 29, 2018 " title="Pickles by Brian Crane for Jun 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pickles by Brian Crane for Jun 28, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/5f6cc7e04c98013639a4005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/5f6cc7e04c98013639a4005056a9545d.html</guid>
-            <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/5f6cc7e04c98013639a4005056a9545d" alt="Pickles by Brian Crane for Jun 28, 2018 " title="Pickles by Brian Crane for Jun 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

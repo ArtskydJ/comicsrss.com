@@ -4,7 +4,7 @@
         <title>Sylvia</title>
         <link>https://www.comicsrss.com/preview/sylvia</link>
         <description>Sylvia by Nicole Hollander</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nicole Hollander</copyright>
         <atom:link href="https://www.comicsrss.com/rss/sylvia.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sylvia by Nicole Hollander for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/95b3b98072a6012d63eb00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/95b3b98072a6012d63eb00163e41dd5b.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/95b3b98072a6012d63eb00163e41dd5b" alt="Sylvia by Nicole Hollander for Jul 23, 2018 " title="Sylvia by Nicole Hollander for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Sylvia by Nicole Hollander for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8ddbac6072a6012d63eb00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/45457a605adb012d63cc00163e41dd5b.html</guid>
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/45457a605adb012d63cc00163e41dd5b" alt="Sylvia by Nicole Hollander for Jun 25, 2018 " title="Sylvia by Nicole Hollander for Jun 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia by Nicole Hollander for Jun 23, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/36fd7c005adb012d63cc00163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/36fd7c005adb012d63cc00163e41dd5b.html</guid>
-            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/36fd7c005adb012d63cc00163e41dd5b" alt="Sylvia by Nicole Hollander for Jun 23, 2018 " title="Sylvia by Nicole Hollander for Jun 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

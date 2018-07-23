@@ -4,7 +4,7 @@
         <title>My Dad is Dracula</title>
         <link>https://www.comicsrss.com/preview/my-dad-is-dracula</link>
         <description>My Dad is Dracula by Jason Poland</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jason Poland</copyright>
         <atom:link href="https://www.comicsrss.com/rss/my-dad-is-dracula.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Dad is Dracula by Jason Poland for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/230244a06a0b0136449b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/230244a06a0b0136449b005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/230244a06a0b0136449b005056a9545d" alt="My Dad is Dracula by Jason Poland for Jul 23, 2018 " title="My Dad is Dracula by Jason Poland for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[My Dad is Dracula by Jason Poland for Jul 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/20f6d0306a0b0136449b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/e9ca9b402bb101362d70005056a9545d.html</guid>
             <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e9ca9b402bb101362d70005056a9545d" alt="My Dad is Dracula by Jason Poland for Jun 11, 2018 " title="My Dad is Dracula by Jason Poland for Jun 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[My Dad is Dracula by Jason Poland for Jun 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/d1b5be202bb101362d70005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/d1b5be202bb101362d70005056a9545d.html</guid>
-            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d1b5be202bb101362d70005056a9545d" alt="My Dad is Dracula by Jason Poland for Jun 8, 2018 " title="My Dad is Dracula by Jason Poland for Jun 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

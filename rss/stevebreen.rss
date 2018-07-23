@@ -4,7 +4,7 @@
         <title>Steve Breen</title>
         <link>https://www.comicsrss.com/preview/stevebreen</link>
         <description>Steve Breen by Steve Breen</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>Copyright Steve Breen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stevebreen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Breen by Steve Breen for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/51b07c806faa013646a5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/51b07c806faa013646a5005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/51b07c806faa013646a5005056a9545d" alt="Steve Breen by Steve Breen for Jul 23, 2018 " title="Steve Breen by Steve Breen for Jul 23, 2018 ">]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Steve Breen by Steve Breen for Jul 22, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5f56bf906faa013646a5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5f56bf906faa013646a5005056a9545d.html</guid>
+            <pubDate>Sun, 22 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5f56bf906faa013646a5005056a9545d" alt="Steve Breen by Steve Breen for Jul 22, 2018 " title="Steve Breen by Steve Breen for Jul 22, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/78aa89206d2d013645e5005056a9545d.html</link>
@@ -174,20 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/aeb764f04cf5013639de005056a9545d.html</guid>
             <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/aeb764f04cf5013639de005056a9545d" alt="Steve Breen by Steve Breen for Jun 8, 2018 " title="Steve Breen by Steve Breen for Jun 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Breen by Steve Breen for Jun 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7073c7a04c2c0136397f005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7073c7a04c2c0136397f005056a9545d.html</guid>
-            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7073c7a04c2c0136397f005056a9545d" alt="Steve Breen by Steve Breen for Jun 7, 2018 " title="Steve Breen by Steve Breen for Jun 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Breen by Steve Breen for Jun 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/stevebreen/2018/06/03</link>
-            <guid>https://www.gocomics.com/stevebreen/2018/06/03</guid>
-            <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3111dc3049290136384d005056a9545d" alt="Steve Breen by Steve Breen for Jun 3, 2018 " title="Steve Breen by Steve Breen for Jun 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

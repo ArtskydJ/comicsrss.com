@@ -4,7 +4,7 @@
         <title>Francis</title>
         <link>https://www.comicsrss.com/preview/francis</link>
         <description>Francis by Patrick J. Marrin</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Patrick J. Marrin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/francis.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Francis by Patrick J. Marrin for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1b792870636301364224005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1b792870636301364224005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1b792870636301364224005056a9545d" alt="Francis by Patrick J. Marrin for Jul 23, 2018 " title="Francis by Patrick J. Marrin for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Francis by Patrick J. Marrin for Jul 19, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/0e64d380636301364224005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/francis/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4cf5eaa02a2301362cbe005056a9545d" alt="Francis by Patrick J. Marrin for May 7, 2018 " title="Francis by Patrick J. Marrin for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Francis by Patrick J. Marrin for May 3, 2018 ]]></title>
-            <link>https://www.gocomics.com/francis/2018/05/03</link>
-            <guid>https://www.gocomics.com/francis/2018/05/03</guid>
-            <pubDate>Thu, 03 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/486e2a902a2301362cbe005056a9545d" alt="Francis by Patrick J. Marrin for May 3, 2018 " title="Francis by Patrick J. Marrin for May 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

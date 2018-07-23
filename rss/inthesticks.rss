@@ -4,7 +4,7 @@
         <title>In the Sticks</title>
         <link>https://www.comicsrss.com/preview/inthesticks</link>
         <description>In the Sticks by Nathan Cooper</description>
-        <lastBuildDate>Sun, 22 Jul 2018 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 06:35:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nathan Cooper</copyright>
         <atom:link href="https://www.comicsrss.com/rss/inthesticks.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the Sticks by Nathan Cooper for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7c1a71407098012f2fdd00163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7c1a71407098012f2fdd00163e41dd5b.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7c1a71407098012f2fdd00163e41dd5b" alt="In the Sticks by Nathan Cooper for Jul 23, 2018 " title="In the Sticks by Nathan Cooper for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[In the Sticks by Nathan Cooper for Jul 21, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/942b1a507098012f2fdd00163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/0f3596307098012f2fdd00163e41dd5b.html</guid>
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0f3596307098012f2fdd00163e41dd5b" alt="In the Sticks by Nathan Cooper for Jun 25, 2018 " title="In the Sticks by Nathan Cooper for Jun 25, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[In the Sticks by Nathan Cooper for Jun 23, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4e179c107098012f2fdd00163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4e179c107098012f2fdd00163e41dd5b.html</guid>
-            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4e179c107098012f2fdd00163e41dd5b" alt="In the Sticks by Nathan Cooper for Jun 23, 2018 " title="In the Sticks by Nathan Cooper for Jun 23, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
