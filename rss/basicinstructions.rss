@@ -4,7 +4,7 @@
         <title>Basic Instructions</title>
         <link>https://www.comicsrss.com/preview/basicinstructions</link>
         <description>Basic Instructions by Scott Meyer</description>
-        <lastBuildDate>Mon, 23 Jul 2018 06:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jul 2018 19:20:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Meyer</copyright>
         <atom:link href="https://www.comicsrss.com/rss/basicinstructions.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Basic Instructions by Scott Meyer for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b98c5920700c013646b2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b98c5920700c013646b2005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b98c5920700c013646b2005056a9545d" alt="Basic Instructions by Scott Meyer for Jul 23, 2018 " title="Basic Instructions by Scott Meyer for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Basic Instructions by Scott Meyer for Jul 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5d845ef065210136428e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/basicinstructions/2018/05/28</guid>
             <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/88acf810440d01363663005056a9545d" alt="Basic Instructions by Scott Meyer for May 28, 2018 " title="Basic Instructions by Scott Meyer for May 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Basic Instructions by Scott Meyer for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/basicinstructions/2018/05/25</link>
-            <guid>https://www.gocomics.com/basicinstructions/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/127383e0392001363257005056a9545d" alt="Basic Instructions by Scott Meyer for May 25, 2018 " title="Basic Instructions by Scott Meyer for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
