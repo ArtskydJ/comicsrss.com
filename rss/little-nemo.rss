@@ -4,7 +4,7 @@
         <title>Little Nemo</title>
         <link>https://www.comicsrss.com/preview/little-nemo</link>
         <description>Little Nemo by Winsor McCay</description>
-        <lastBuildDate>Mon, 23 Jul 2018 19:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jul 2018 06:34:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Winsor McCay</copyright>
         <atom:link href="https://www.comicsrss.com/rss/little-nemo.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Little Nemo by Winsor McCay for Jul 24, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/76dc066041530134a04b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/76dc066041530134a04b005056a9545d.html</guid>
+            <pubDate>Tue, 24 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/76dc066041530134a04b005056a9545d" alt="Little Nemo by Winsor McCay for Jul 24, 2018 " title="Little Nemo by Winsor McCay for Jul 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Little Nemo by Winsor McCay for Jul 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/7bc4bc7041530134a04b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/d4dff6f0ff5501335ec0005056a9545d.html</guid>
             <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d4dff6f0ff5501335ec0005056a9545d" alt="Little Nemo by Winsor McCay for Jun 12, 2018 " title="Little Nemo by Winsor McCay for Jun 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Little Nemo by Winsor McCay for Jun 10, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/c927e8d0ff5501335ec0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/c927e8d0ff5501335ec0005056a9545d.html</guid>
-            <pubDate>Sun, 10 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c927e8d0ff5501335ec0005056a9545d" alt="Little Nemo by Winsor McCay for Jun 10, 2018 " title="Little Nemo by Winsor McCay for Jun 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Stuart Carlson</title>
         <link>https://www.comicsrss.com/preview/stuartcarlson</link>
         <description>Stuart Carlson by Stuart Carlson</description>
-        <lastBuildDate>Mon, 23 Jul 2018 19:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jul 2018 06:34:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Stuart Carlson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stuartcarlson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stuart Carlson by Stuart Carlson for Jul 23, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/bb6ad2a070dc013646ef005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/bb6ad2a070dc013646ef005056a9545d.html</guid>
+            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bb6ad2a070dc013646ef005056a9545d" alt="Stuart Carlson by Stuart Carlson for Jul 23, 2018 " title="Stuart Carlson by Stuart Carlson for Jul 23, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Stuart Carlson by Stuart Carlson for Jul 20, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b88634106e5f0136464f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/stuartcarlson/2018/05/29</guid>
             <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/786d9cd0458b013636b7005056a9545d" alt="Stuart Carlson by Stuart Carlson for May 29, 2018 " title="Stuart Carlson by Stuart Carlson for May 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stuart Carlson by Stuart Carlson for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/stuartcarlson/2018/05/25</link>
-            <guid>https://www.gocomics.com/stuartcarlson/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/cf137ff0426601363607005056a9545d" alt="Stuart Carlson by Stuart Carlson for May 25, 2018 " title="Stuart Carlson by Stuart Carlson for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

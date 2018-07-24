@@ -4,7 +4,7 @@
         <title>Jim Morin</title>
         <link>https://www.comicsrss.com/preview/jimmorin</link>
         <description>Jim Morin by Jim Morin</description>
-        <lastBuildDate>Mon, 23 Jul 2018 19:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jul 2018 06:34:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Morin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jimmorin.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jim Morin by Jim Morin for Jul 24, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/fac6d62070d7013646ea005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/fac6d62070d7013646ea005056a9545d.html</guid>
+            <pubDate>Tue, 24 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/fac6d62070d7013646ea005056a9545d" alt="Jim Morin by Jim Morin for Jul 24, 2018 " title="Jim Morin by Jim Morin for Jul 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jim Morin by Jim Morin for Jul 22, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/abc9bd706e800136465e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3e38973055f201363cd8005056a9545d.html</guid>
             <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3e38973055f201363cd8005056a9545d" alt="Jim Morin by Jim Morin for Jun 20, 2018 " title="Jim Morin by Jim Morin for Jun 20, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jim Morin by Jim Morin for Jun 17, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/d932f180522301363ba3005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/d932f180522301363ba3005056a9545d.html</guid>
-            <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d932f180522301363ba3005056a9545d" alt="Jim Morin by Jim Morin for Jun 17, 2018 " title="Jim Morin by Jim Morin for Jun 17, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

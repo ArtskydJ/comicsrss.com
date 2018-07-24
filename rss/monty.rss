@@ -4,7 +4,7 @@
         <title>Monty</title>
         <link>https://www.comicsrss.com/preview/monty</link>
         <description>Monty by Jim Meddick</description>
-        <lastBuildDate>Mon, 23 Jul 2018 19:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jul 2018 06:34:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Meddick</copyright>
         <atom:link href="https://www.comicsrss.com/rss/monty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monty by Jim Meddick for Jul 24, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9008d4406c4701364575005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9008d4406c4701364575005056a9545d.html</guid>
+            <pubDate>Tue, 24 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9008d4406c4701364575005056a9545d" alt="Monty by Jim Meddick for Jul 24, 2018 " title="Monty by Jim Meddick for Jul 24, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Monty by Jim Meddick for Jul 23, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8e35c9306c4701364575005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/dc8beee0564601363d19005056a9545d.html</guid>
             <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/dc8beee0564601363d19005056a9545d" alt="Monty by Jim Meddick for Jun 30, 2018 " title="Monty by Jim Meddick for Jun 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monty by Jim Meddick for Jun 29, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/db179e10564601363d19005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/db179e10564601363d19005056a9545d.html</guid>
-            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/db179e10564601363d19005056a9545d" alt="Monty by Jim Meddick for Jun 29, 2018 " title="Monty by Jim Meddick for Jun 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
