@@ -4,7 +4,7 @@
         <title>MythTickle</title>
         <link>https://www.comicsrss.com/preview/mythtickle</link>
         <description>MythTickle by Justin Thompson</description>
-        <lastBuildDate>Tue, 24 Jul 2018 06:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Justin Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mythtickle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MythTickle by Justin Thompson for Jul 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ffbfb4a069360136447b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ffbfb4a069360136447b005056a9545d.html</guid>
+            <pubDate>Wed, 25 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ffbfb4a069360136447b005056a9545d" alt="MythTickle by Justin Thompson for Jul 25, 2018 " title="MythTickle by Justin Thompson for Jul 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[MythTickle by Justin Thompson for Jul 23, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/fe200fb069360136447b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/mythtickle/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/54452ff0404301363514005056a9545d" alt="MythTickle by Justin Thompson for May 30, 2018 " title="MythTickle by Justin Thompson for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MythTickle by Justin Thompson for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/mythtickle/2018/05/28</link>
-            <guid>https://www.gocomics.com/mythtickle/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/53739c40404301363514005056a9545d" alt="MythTickle by Justin Thompson for May 28, 2018 " title="MythTickle by Justin Thompson for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

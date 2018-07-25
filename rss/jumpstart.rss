@@ -4,7 +4,7 @@
         <title>JumpStart</title>
         <link>https://www.comicsrss.com/preview/jumpstart</link>
         <description>JumpStart by Robb Armstrong</description>
-        <lastBuildDate>Tue, 24 Jul 2018 06:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Robb Armstrong</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jumpstart.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JumpStart by Robb Armstrong for Jul 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/85f91fb06c0c0136453d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/85f91fb06c0c0136453d005056a9545d.html</guid>
+            <pubDate>Wed, 25 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/85f91fb06c0c0136453d005056a9545d" alt="JumpStart by Robb Armstrong for Jul 25, 2018 " title="JumpStart by Robb Armstrong for Jul 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[JumpStart by Robb Armstrong for Jul 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1a7466306c0b0136453b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/eca6b3e042a101363626005056a9545d.html</guid>
             <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/eca6b3e042a101363626005056a9545d" alt="JumpStart by Robb Armstrong for Jul 1, 2018 " title="JumpStart by Robb Armstrong for Jul 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JumpStart by Robb Armstrong for Jun 30, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b7359020561201363cea005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b7359020561201363cea005056a9545d.html</guid>
-            <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b7359020561201363cea005056a9545d" alt="JumpStart by Robb Armstrong for Jun 30, 2018 " title="JumpStart by Robb Armstrong for Jun 30, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

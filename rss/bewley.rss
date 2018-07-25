@@ -4,7 +4,7 @@
         <title>Bewley</title>
         <link>https://www.comicsrss.com/preview/bewley</link>
         <description>Bewley by Anthony Blades</description>
-        <lastBuildDate>Tue, 24 Jul 2018 06:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jul 2018 06:36:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Anthony Blades</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bewley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bewley by Anthony Blades for Jul 25, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/25c06860402d012f2fd000163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/25c06860402d012f2fd000163e41dd5b.html</guid>
+            <pubDate>Wed, 25 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/25c06860402d012f2fd000163e41dd5b" alt="Bewley by Anthony Blades for Jul 25, 2018 " title="Bewley by Anthony Blades for Jul 25, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bewley by Anthony Blades for Jul 23, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/26107cb0402d012f2fd000163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/bewley/2018/05/30</guid>
             <pubDate>Wed, 30 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/8840b4601ce3012f2fc700163e41dd5b" alt="Bewley by Anthony Blades for May 30, 2018 " title="Bewley by Anthony Blades for May 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bewley by Anthony Blades for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/bewley/2018/05/28</link>
-            <guid>https://www.gocomics.com/bewley/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/87c093a01ce3012f2fc700163e41dd5b" alt="Bewley by Anthony Blades for May 28, 2018 " title="Bewley by Anthony Blades for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
