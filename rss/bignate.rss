@@ -4,7 +4,7 @@
         <title>Big Nate</title>
         <link>https://www.comicsrss.com/preview/bignate</link>
         <description>Big Nate by Lincoln Peirce</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lincoln Peirce</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bignate.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Nate by Lincoln Peirce for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5e6e5c206b5c013644f2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5e6e5c206b5c013644f2005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5e6e5c206b5c013644f2005056a9545d" alt="Big Nate by Lincoln Peirce for Jul 26, 2018 " title="Big Nate by Lincoln Peirce for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Big Nate by Lincoln Peirce for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5c7811806b5c013644f2005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/39bfe8f05ad601363ea2005056a9545d.html</guid>
             <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/39bfe8f05ad601363ea2005056a9545d" alt="Big Nate by Lincoln Peirce for Jul 2, 2018 " title="Big Nate by Lincoln Peirce for Jul 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Big Nate by Lincoln Peirce for Jul 1, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/0621df90319b01362fcb005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/0621df90319b01362fcb005056a9545d.html</guid>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0621df90319b01362fcb005056a9545d" alt="Big Nate by Lincoln Peirce for Jul 1, 2018 " title="Big Nate by Lincoln Peirce for Jul 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Watch Your Head</title>
         <link>https://www.comicsrss.com/preview/watchyourhead</link>
         <description>Watch Your Head by Cory Thomas</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Cory Thomas</copyright>
         <atom:link href="https://www.comicsrss.com/rss/watchyourhead.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch Your Head by Cory Thomas for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7fea3f30ce56013163dc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7fea3f30ce56013163dc005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7fea3f30ce56013163dc005056a9545d" alt="Watch Your Head by Cory Thomas for Jul 26, 2018 " title="Watch Your Head by Cory Thomas for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Watch Your Head by Cory Thomas for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/95643880ce59013163dc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/2817e840ce5b013163dc005056a9545d.html</guid>
             <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/2817e840ce5b013163dc005056a9545d" alt="Watch Your Head by Cory Thomas for Jul 2, 2018 " title="Watch Your Head by Cory Thomas for Jul 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Watch Your Head by Cory Thomas for Jul 1, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7a961440e42d0131761e005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7a961440e42d0131761e005056a9545d.html</guid>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7a961440e42d0131761e005056a9545d" alt="Watch Your Head by Cory Thomas for Jul 1, 2018 " title="Watch Your Head by Cory Thomas for Jul 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Joe Vanilla</title>
         <link>https://www.comicsrss.com/preview/joevanilla</link>
         <description>Joe Vanilla by Mark Litzler</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Litzler</copyright>
         <atom:link href="https://www.comicsrss.com/rss/joevanilla.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Vanilla by Mark Litzler for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/06750c6070c3013646e0005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/06750c6070c3013646e0005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/06750c6070c3013646e0005056a9545d" alt="Joe Vanilla by Mark Litzler for Jul 26, 2018 " title="Joe Vanilla by Mark Litzler for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Joe Vanilla by Mark Litzler for Jul 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/1cc0df606b5e013644f5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/joevanilla/2018/05/31</guid>
             <pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f63e1d90440001363661005056a9545d" alt="Joe Vanilla by Mark Litzler for May 31, 2018 " title="Joe Vanilla by Mark Litzler for May 31, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Joe Vanilla by Mark Litzler for May 29, 2018 ]]></title>
-            <link>https://www.gocomics.com/joevanilla/2018/05/29</link>
-            <guid>https://www.gocomics.com/joevanilla/2018/05/29</guid>
-            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a88d86803e9301363456005056a9545d" alt="Joe Vanilla by Mark Litzler for May 29, 2018 " title="Joe Vanilla by Mark Litzler for May 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

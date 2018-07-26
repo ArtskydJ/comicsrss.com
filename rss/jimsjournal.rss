@@ -4,7 +4,7 @@
         <title>Jim&amp;#39;s Journal</title>
         <link>https://www.comicsrss.com/preview/jimsjournal</link>
         <description>Jim&amp;#39;s Journal by Jim</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jimsjournal.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jim&#39;s Journal by Jim for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/015fd2b0d3d901350bfb005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/015fd2b0d3d901350bfb005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/015fd2b0d3d901350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for Jul 26, 2018 " title="Jim&#39;s Journal by Jim for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jim&#39;s Journal by Jim for Jul 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/eb0c8480d3d801350bfb005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/jimsjournal/2018/05/18</guid>
             <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/eda25560d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for May 18, 2018 " title="Jim&#39;s Journal by Jim for May 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jim&#39;s Journal by Jim for May 16, 2018 ]]></title>
-            <link>https://www.gocomics.com/jimsjournal/2018/05/16</link>
-            <guid>https://www.gocomics.com/jimsjournal/2018/05/16</guid>
-            <pubDate>Wed, 16 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e4500cf0d3d801350bfb005056a9545d" alt="Jim&#39;s Journal by Jim for May 16, 2018 " title="Jim&#39;s Journal by Jim for May 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

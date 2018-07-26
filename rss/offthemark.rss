@@ -4,7 +4,7 @@
         <title>Off the Mark</title>
         <link>https://www.comicsrss.com/preview/offthemark</link>
         <description>Off the Mark by Mark Parisi</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Parisi</copyright>
         <atom:link href="https://www.comicsrss.com/rss/offthemark.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Off the Mark by Mark Parisi for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/72f92e106b7e01364509005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/72f92e106b7e01364509005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/72f92e106b7e01364509005056a9545d" alt="Off the Mark by Mark Parisi for Jul 26, 2018 " title="Off the Mark by Mark Parisi for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Off the Mark by Mark Parisi for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/718123306b7e01364509005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/f5d095005afd01363eb7005056a9545d.html</guid>
             <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f5d095005afd01363eb7005056a9545d" alt="Off the Mark by Mark Parisi for Jul 2, 2018 " title="Off the Mark by Mark Parisi for Jul 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Off the Mark by Mark Parisi for Jul 1, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/6f9157a0410f0136357b005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/6f9157a0410f0136357b005056a9545d.html</guid>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6f9157a0410f0136357b005056a9545d" alt="Off the Mark by Mark Parisi for Jul 1, 2018 " title="Off the Mark by Mark Parisi for Jul 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

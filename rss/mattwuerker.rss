@@ -4,7 +4,7 @@
         <title>Matt Wuerker</title>
         <link>https://www.comicsrss.com/preview/mattwuerker</link>
         <description>Matt Wuerker by Matt Wuerker</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Matt Wuerker</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mattwuerker.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Matt Wuerker by Matt Wuerker for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a3eaa9f0727b013647b6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a3eaa9f0727b013647b6005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a3eaa9f0727b013647b6005056a9545d" alt="Matt Wuerker by Matt Wuerker for Jul 26, 2018 " title="Matt Wuerker by Matt Wuerker for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Matt Wuerker by Matt Wuerker for Jul 24, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6315f860718401364732005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/mattwuerker/2018/05/23</guid>
             <pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/07fcffb0403101363505005056a9545d" alt="Matt Wuerker by Matt Wuerker for May 23, 2018 " title="Matt Wuerker by Matt Wuerker for May 23, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Matt Wuerker by Matt Wuerker for May 18, 2018 ]]></title>
-            <link>https://www.gocomics.com/mattwuerker/2018/05/18</link>
-            <guid>https://www.gocomics.com/mattwuerker/2018/05/18</guid>
-            <pubDate>Fri, 18 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d5ce7a303cff01363405005056a9545d" alt="Matt Wuerker by Matt Wuerker for May 18, 2018 " title="Matt Wuerker by Matt Wuerker for May 18, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

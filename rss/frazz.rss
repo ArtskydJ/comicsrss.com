@@ -4,7 +4,7 @@
         <title>Frazz</title>
         <link>https://www.comicsrss.com/preview/frazz</link>
         <description>Frazz by Jef Mallett</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jef Mallett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/frazz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frazz by Jef Mallett for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6bbaaff06c0c0136453d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6bbaaff06c0c0136453d005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6bbaaff06c0c0136453d005056a9545d" alt="Frazz by Jef Mallett for Jul 26, 2018 " title="Frazz by Jef Mallett for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Frazz by Jef Mallett for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/06be81606c0b0136453b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/454e80c05b8d01363ede005056a9545d.html</guid>
             <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/454e80c05b8d01363ede005056a9545d" alt="Frazz by Jef Mallett for Jul 2, 2018 " title="Frazz by Jef Mallett for Jul 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frazz by Jef Mallett for Jul 1, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/8d2a7db03fb7013634be005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/8d2a7db03fb7013634be005056a9545d.html</guid>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8d2a7db03fb7013634be005056a9545d" alt="Frazz by Jef Mallett for Jul 1, 2018 " title="Frazz by Jef Mallett for Jul 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

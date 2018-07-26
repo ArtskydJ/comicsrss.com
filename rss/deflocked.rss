@@ -4,7 +4,7 @@
         <title>DeFlocked</title>
         <link>https://www.comicsrss.com/preview/deflocked</link>
         <description>DeFlocked by Jeff Corriveau</description>
-        <lastBuildDate>Wed, 25 Jul 2018 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Corriveau</copyright>
         <atom:link href="https://www.comicsrss.com/rss/deflocked.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DeFlocked by Jeff Corriveau for Jul 26, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1e9a45c06b5f013644f7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1e9a45c06b5f013644f7005056a9545d.html</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1e9a45c06b5f013644f7005056a9545d" alt="DeFlocked by Jeff Corriveau for Jul 26, 2018 " title="DeFlocked by Jeff Corriveau for Jul 26, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[DeFlocked by Jeff Corriveau for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cb0001b06b5d013644f4005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/a6fc7e005b8e01363edf005056a9545d.html</guid>
             <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a6fc7e005b8e01363edf005056a9545d" alt="DeFlocked by Jeff Corriveau for Jul 2, 2018 " title="DeFlocked by Jeff Corriveau for Jul 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DeFlocked by Jeff Corriveau for Jul 1, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/9684cf6041d6013635d5005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/9684cf6041d6013635d5005056a9545d.html</guid>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9684cf6041d6013635d5005056a9545d" alt="DeFlocked by Jeff Corriveau for Jul 1, 2018 " title="DeFlocked by Jeff Corriveau for Jul 1, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
