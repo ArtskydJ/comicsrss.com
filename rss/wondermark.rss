@@ -4,7 +4,7 @@
         <title>Wondermark</title>
         <link>https://www.comicsrss.com/preview/wondermark</link>
         <description>Wondermark by David Malki</description>
-        <lastBuildDate>Thu, 26 Jul 2018 06:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jul 2018 06:35:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright David Malki</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wondermark.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wondermark by David Malki for Jul 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/350aca2069ca01364491005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/350aca2069ca01364491005056a9545d.html</guid>
+            <pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/350aca2069ca01364491005056a9545d" alt="Wondermark by David Malki for Jul 27, 2018 " title="Wondermark by David Malki for Jul 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wondermark by David Malki for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2996116069ca01364491005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/wondermark/2018/06/01</guid>
             <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/97844f50475e013637c7005056a9545d" alt="Wondermark by David Malki for Jun 1, 2018 " title="Wondermark by David Malki for Jun 1, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wondermark by David Malki for May 28, 2018 ]]></title>
-            <link>https://www.gocomics.com/wondermark/2018/05/28</link>
-            <guid>https://www.gocomics.com/wondermark/2018/05/28</guid>
-            <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/004ad6800ea701362231005056a9545d" alt="Wondermark by David Malki for May 28, 2018 " title="Wondermark by David Malki for May 28, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

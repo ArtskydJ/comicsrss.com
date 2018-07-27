@@ -4,7 +4,7 @@
         <title>Gaturro</title>
         <link>https://www.comicsrss.com/preview/gaturro</link>
         <description>Gaturro by NIK</description>
-        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jul 2018 06:35:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright NIK</copyright>
         <atom:link href="https://www.comicsrss.com/rss/gaturro.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gaturro by NIK for Jul 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8be5375056cc01363d3b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8be5375056cc01363d3b005056a9545d.html</guid>
+            <pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8be5375056cc01363d3b005056a9545d" alt="Gaturro by NIK for Jul 27, 2018 " title="Gaturro by NIK for Jul 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gaturro by NIK for Jul 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8988aab056cc01363d3b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/61ac1ac0464d0136371d005056a9545d.html</guid>
             <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/61ac1ac0464d0136371d005056a9545d" alt="Gaturro by NIK for Jul 3, 2018 " title="Gaturro by NIK for Jul 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gaturro by NIK for Jul 2, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/5f5077c0464d0136371d005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/5f5077c0464d0136371d005056a9545d.html</guid>
-            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/5f5077c0464d0136371d005056a9545d" alt="Gaturro by NIK for Jul 2, 2018 " title="Gaturro by NIK for Jul 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

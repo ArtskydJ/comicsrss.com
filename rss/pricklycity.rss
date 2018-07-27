@@ -4,7 +4,7 @@
         <title>Prickly City</title>
         <link>https://www.comicsrss.com/preview/pricklycity</link>
         <description>Prickly City by Scott Stantis</description>
-        <lastBuildDate>Thu, 26 Jul 2018 06:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jul 2018 06:35:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Stantis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pricklycity.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prickly City by Scott Stantis for Jul 27, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a436bf606c0c0136453d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a436bf606c0c0136453d005056a9545d.html</guid>
+            <pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a436bf606c0c0136453d005056a9545d" alt="Prickly City by Scott Stantis for Jul 27, 2018 " title="Prickly City by Scott Stantis for Jul 27, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Prickly City by Scott Stantis for Jul 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a274bec06c0c0136453d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3708e4c05b9001363ee0005056a9545d.html</guid>
             <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3708e4c05b9001363ee0005056a9545d" alt="Prickly City by Scott Stantis for Jul 3, 2018 " title="Prickly City by Scott Stantis for Jul 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Prickly City by Scott Stantis for Jul 2, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3584d5b05b9001363ee0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3584d5b05b9001363ee0005056a9545d.html</guid>
-            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3584d5b05b9001363ee0005056a9545d" alt="Prickly City by Scott Stantis for Jul 2, 2018 " title="Prickly City by Scott Stantis for Jul 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
