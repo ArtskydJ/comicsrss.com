@@ -4,7 +4,7 @@
         <title>Strange Brew</title>
         <link>https://www.comicsrss.com/preview/strangebrew</link>
         <description>Strange Brew by John Deering</description>
-        <lastBuildDate>Fri, 27 Jul 2018 06:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jul 2018 06:34:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright John Deering</copyright>
         <atom:link href="https://www.comicsrss.com/rss/strangebrew.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strange Brew by John Deering for Jul 28, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5d0808706d23013645e2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5d0808706d23013645e2005056a9545d.html</guid>
+            <pubDate>Sat, 28 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5d0808706d23013645e2005056a9545d" alt="Strange Brew by John Deering for Jul 28, 2018 " title="Strange Brew by John Deering for Jul 28, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Strange Brew by John Deering for Jul 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/60cd29306d23013645e2005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/d6a11bd059e301363e57005056a9545d.html</guid>
             <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d6a11bd059e301363e57005056a9545d" alt="Strange Brew by John Deering for Jul 4, 2018 " title="Strange Brew by John Deering for Jul 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Strange Brew by John Deering for Jul 3, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/d1ba064059e301363e57005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/d1ba064059e301363e57005056a9545d.html</guid>
-            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d1ba064059e301363e57005056a9545d" alt="Strange Brew by John Deering for Jul 3, 2018 " title="Strange Brew by John Deering for Jul 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
