@@ -4,7 +4,7 @@
         <title>The Buckets</title>
         <link>https://www.comicsrss.com/preview/thebuckets</link>
         <description>The Buckets by Greg Cravens</description>
-        <lastBuildDate>Sat, 28 Jul 2018 06:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jul 2018 06:33:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Greg Cravens</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thebuckets.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Buckets by Greg Cravens for Jul 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/932f0b6055c001363cd0005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/932f0b6055c001363cd0005056a9545d.html</guid>
+            <pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/932f0b6055c001363cd0005056a9545d" alt="The Buckets by Greg Cravens for Jul 29, 2018 " title="The Buckets by Greg Cravens for Jul 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Buckets by Greg Cravens for Jul 28, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/56f822f06c0c0136453d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/043ce0e05b9001363ee0005056a9545d.html</guid>
             <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/043ce0e05b9001363ee0005056a9545d" alt="The Buckets by Greg Cravens for Jul 5, 2018 " title="The Buckets by Greg Cravens for Jul 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Buckets by Greg Cravens for Jul 4, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3b641dc05b8d01363ede005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3b641dc05b8d01363ede005056a9545d.html</guid>
-            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3b641dc05b8d01363ede005056a9545d" alt="The Buckets by Greg Cravens for Jul 4, 2018 " title="The Buckets by Greg Cravens for Jul 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

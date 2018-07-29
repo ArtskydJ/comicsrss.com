@@ -4,7 +4,7 @@
         <title>Andertoons</title>
         <link>https://www.comicsrss.com/preview/andertoons</link>
         <description>Andertoons by Mark Anderson</description>
-        <lastBuildDate>Sat, 28 Jul 2018 06:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jul 2018 06:33:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/andertoons.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andertoons by Mark Anderson for Jul 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/acf30dc02f9201362ebc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/acf30dc02f9201362ebc005056a9545d.html</guid>
+            <pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/acf30dc02f9201362ebc005056a9545d" alt="Andertoons by Mark Anderson for Jul 29, 2018 " title="Andertoons by Mark Anderson for Jul 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Andertoons by Mark Anderson for Jul 28, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e27d30802f9201362ebc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ef2096c02f9201362ebc005056a9545d.html</guid>
             <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ef2096c02f9201362ebc005056a9545d" alt="Andertoons by Mark Anderson for Jul 5, 2018 " title="Andertoons by Mark Anderson for Jul 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Andertoons by Mark Anderson for Jul 4, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/063cb9902f9301362ebc005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/063cb9902f9301362ebc005056a9545d.html</guid>
-            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/063cb9902f9301362ebc005056a9545d" alt="Andertoons by Mark Anderson for Jul 4, 2018 " title="Andertoons by Mark Anderson for Jul 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

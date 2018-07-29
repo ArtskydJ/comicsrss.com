@@ -4,7 +4,7 @@
         <title>Garfield Classics</title>
         <link>https://www.comicsrss.com/preview/garfield-classics</link>
         <description>Garfield Classics by Jim Davis</description>
-        <lastBuildDate>Sat, 28 Jul 2018 06:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jul 2018 06:33:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jim Davis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/garfield-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Garfield Classics by Jim Davis for Jul 29, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/48eb64d0d39001350bcb005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/48eb64d0d39001350bcb005056a9545d.html</guid>
+            <pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/48eb64d0d39001350bcb005056a9545d" alt="Garfield Classics by Jim Davis for Jul 29, 2018 " title="Garfield Classics by Jim Davis for Jul 29, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Garfield Classics by Jim Davis for Jul 28, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/47a21d10d39001350bcb005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/23ccd8d0d39001350bcb005056a9545d.html</guid>
             <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/23ccd8d0d39001350bcb005056a9545d" alt="Garfield Classics by Jim Davis for Jul 5, 2018 " title="Garfield Classics by Jim Davis for Jul 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Garfield Classics by Jim Davis for Jul 4, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/22539a40d39001350bcb005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/22539a40d39001350bcb005056a9545d.html</guid>
-            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/22539a40d39001350bcb005056a9545d" alt="Garfield Classics by Jim Davis for Jul 4, 2018 " title="Garfield Classics by Jim Davis for Jul 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
