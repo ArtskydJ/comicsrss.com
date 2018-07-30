@@ -4,7 +4,7 @@
         <title>WaynoVision</title>
         <link>https://www.comicsrss.com/preview/waynovision</link>
         <description>WaynoVision by Wayno</description>
-        <lastBuildDate>Sun, 29 Jul 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jul 2018 06:36:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Wayno</copyright>
         <atom:link href="https://www.comicsrss.com/rss/waynovision.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WaynoVision by Wayno for Jul 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7c9de460ed230132e908005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7c9de460ed230132e908005056a9545d.html</guid>
+            <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7c9de460ed230132e908005056a9545d" alt="WaynoVision by Wayno for Jul 30, 2018 " title="WaynoVision by Wayno for Jul 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[WaynoVision by Wayno for Jul 25, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/794105103fde0133080a005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/waynovision/2018/05/07</guid>
             <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f1c6be10a4e60132cc11005056a9545d" alt="WaynoVision by Wayno for May 7, 2018 " title="WaynoVision by Wayno for May 7, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WaynoVision by Wayno for May 2, 2018 ]]></title>
-            <link>https://www.gocomics.com/waynovision/2018/05/02</link>
-            <guid>https://www.gocomics.com/waynovision/2018/05/02</guid>
-            <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e983ae90a4e60132cc11005056a9545d" alt="WaynoVision by Wayno for May 2, 2018 " title="WaynoVision by Wayno for May 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

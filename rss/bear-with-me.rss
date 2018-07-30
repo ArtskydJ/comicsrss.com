@@ -4,7 +4,7 @@
         <title>Bear with Me</title>
         <link>https://www.comicsrss.com/preview/bear-with-me</link>
         <description>Bear with Me by Bob Scott</description>
-        <lastBuildDate>Sun, 29 Jul 2018 06:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jul 2018 06:36:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bob Scott</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bear-with-me.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bear with Me by Bob Scott for Jul 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a1a89a8074ed0136489f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a1a89a8074ed0136489f005056a9545d.html</guid>
+            <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a1a89a8074ed0136489f005056a9545d" alt="Bear with Me by Bob Scott for Jul 30, 2018 " title="Bear with Me by Bob Scott for Jul 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bear with Me by Bob Scott for Jul 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/f9562bc06e8601364662005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/bear-with-me/2018/05/22</guid>
             <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cd5cc0a03e2801363448005056a9545d" alt="Bear with Me by Bob Scott for May 22, 2018 " title="Bear with Me by Bob Scott for May 22, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bear with Me by Bob Scott for May 17, 2018 ]]></title>
-            <link>https://www.gocomics.com/bear-with-me/2018/05/17</link>
-            <guid>https://www.gocomics.com/bear-with-me/2018/05/17</guid>
-            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/263983003bb40136336f005056a9545d" alt="Bear with Me by Bob Scott for May 17, 2018 " title="Bear with Me by Bob Scott for May 17, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

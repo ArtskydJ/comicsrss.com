@@ -4,7 +4,7 @@
         <title>Doodle</title>
         <link>https://www.comicsrss.com/preview/doodle-for-food</link>
         <description>Doodle</description>
-        <lastBuildDate>Sun, 29 Jul 2018 06:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jul 2018 06:36:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Megan McKay</copyright>
         <atom:link href="https://www.comicsrss.com/rss/doodle-for-food.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doodle for Food by Megan McKay for Jul 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/68c8baf02eaa01362e56005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/68c8baf02eaa01362e56005056a9545d.html</guid>
+            <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/68c8baf02eaa01362e56005056a9545d" alt="Doodle for Food by Megan McKay for Jul 30, 2018 " title="Doodle for Food by Megan McKay for Jul 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Doodle for Food by Megan McKay for Jul 23, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6e6bfe702eaa01362e56005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/doodle-for-food/2018/02/19</guid>
             <pubDate>Mon, 19 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/fc957430ca27013508f9005056a9545d" alt="Doodle for Food by Megan McKay for Feb 19, 2018 " title="Doodle for Food by Megan McKay for Feb 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Doodle for Food by Megan McKay for Feb 12, 2018 ]]></title>
-            <link>http://www.gocomics.com/doodle-for-food/2018/02/12</link>
-            <guid>http://www.gocomics.com/doodle-for-food/2018/02/12</guid>
-            <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/efcd7240ca27013508f9005056a9545d" alt="Doodle for Food by Megan McKay for Feb 12, 2018 " title="Doodle for Food by Megan McKay for Feb 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

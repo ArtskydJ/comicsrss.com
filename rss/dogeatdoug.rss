@@ -4,7 +4,7 @@
         <title>Dog Eat Doug</title>
         <link>https://www.comicsrss.com/preview/dogeatdoug</link>
         <description>Dog Eat Doug by Brian Anderson</description>
-        <lastBuildDate>Sun, 29 Jul 2018 06:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jul 2018 06:36:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Brian Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dogeatdoug.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dog Eat Doug by Brian Anderson for Jul 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d09dfa506fe4013646a9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d09dfa506fe4013646a9005056a9545d.html</guid>
+            <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d09dfa506fe4013646a9005056a9545d" alt="Dog Eat Doug by Brian Anderson for Jul 30, 2018 " title="Dog Eat Doug by Brian Anderson for Jul 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dog Eat Doug by Brian Anderson for Jul 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/fc6aac406fe3013646a9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/1266417059e401363e57005056a9545d.html</guid>
             <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1266417059e401363e57005056a9545d" alt="Dog Eat Doug by Brian Anderson for Jul 6, 2018 " title="Dog Eat Doug by Brian Anderson for Jul 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dog Eat Doug by Brian Anderson for Jul 5, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/0ef02b0059e401363e57005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/0ef02b0059e401363e57005056a9545d.html</guid>
-            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0ef02b0059e401363e57005056a9545d" alt="Dog Eat Doug by Brian Anderson for Jul 5, 2018 " title="Dog Eat Doug by Brian Anderson for Jul 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

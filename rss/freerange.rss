@@ -4,7 +4,7 @@
         <title>Free Range</title>
         <link>https://www.comicsrss.com/preview/freerange</link>
         <description>Free Range by Bill Whitehead</description>
-        <lastBuildDate>Sun, 29 Jul 2018 06:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jul 2018 06:36:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Whitehead</copyright>
         <atom:link href="https://www.comicsrss.com/rss/freerange.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Free Range by Bill Whitehead for Jul 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0273adf06fe5013646a9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0273adf06fe5013646a9005056a9545d.html</guid>
+            <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0273adf06fe5013646a9005056a9545d" alt="Free Range by Bill Whitehead for Jul 30, 2018 " title="Free Range by Bill Whitehead for Jul 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Free Range by Bill Whitehead for Jul 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c51b8c006fe3013646a9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4539395059e401363e57005056a9545d.html</guid>
             <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4539395059e401363e57005056a9545d" alt="Free Range by Bill Whitehead for Jul 6, 2018 " title="Free Range by Bill Whitehead for Jul 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Free Range by Bill Whitehead for Jul 5, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3efc52c059e401363e57005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3efc52c059e401363e57005056a9545d.html</guid>
-            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3efc52c059e401363e57005056a9545d" alt="Free Range by Bill Whitehead for Jul 5, 2018 " title="Free Range by Bill Whitehead for Jul 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

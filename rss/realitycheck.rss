@@ -4,7 +4,7 @@
         <title>Reality Check</title>
         <link>https://www.comicsrss.com/preview/realitycheck</link>
         <description>Reality Check by Dave Whamond</description>
-        <lastBuildDate>Sun, 29 Jul 2018 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jul 2018 06:36:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Whamond</copyright>
         <atom:link href="https://www.comicsrss.com/rss/realitycheck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reality Check by Dave Whamond for Jul 30, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ffdbd400718901364736005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ffdbd400718901364736005056a9545d.html</guid>
+            <pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ffdbd400718901364736005056a9545d" alt="Reality Check by Dave Whamond for Jul 30, 2018 " title="Reality Check by Dave Whamond for Jul 30, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Reality Check by Dave Whamond for Jul 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b8e89a304d1b013639ef005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/5929dba05b8d01363ede005056a9545d.html</guid>
             <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5929dba05b8d01363ede005056a9545d" alt="Reality Check by Dave Whamond for Jul 6, 2018 " title="Reality Check by Dave Whamond for Jul 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reality Check by Dave Whamond for Jul 5, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/3c6a9c205b9001363ee0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/3c6a9c205b9001363ee0005056a9545d.html</guid>
-            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3c6a9c205b9001363ee0005056a9545d" alt="Reality Check by Dave Whamond for Jul 5, 2018 " title="Reality Check by Dave Whamond for Jul 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
