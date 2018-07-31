@@ -4,7 +4,7 @@
         <title>Ten Cats</title>
         <link>https://www.comicsrss.com/preview/ten-cats</link>
         <description>Ten Cats by Graham Harrop</description>
-        <lastBuildDate>Mon, 30 Jul 2018 06:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jul 2018 06:35:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Graham Harrop</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ten-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten Cats by Graham Harrop for Jul 31, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/18de3600768201364907005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/18de3600768201364907005056a9545d.html</guid>
+            <pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/18de3600768201364907005056a9545d" alt="Ten Cats by Graham Harrop for Jul 31, 2018 " title="Ten Cats by Graham Harrop for Jul 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ten Cats by Graham Harrop for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e5eee7c0728b013647c2005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/06a4f2b0620301364188005056a9545d.html</guid>
             <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/06a4f2b0620301364188005056a9545d" alt="Ten Cats by Graham Harrop for Jul 6, 2018 " title="Ten Cats by Graham Harrop for Jul 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ten Cats by Graham Harrop for Jul 5, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/07b28170620301364188005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/07b28170620301364188005056a9545d.html</guid>
-            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/07b28170620301364188005056a9545d" alt="Ten Cats by Graham Harrop for Jul 5, 2018 " title="Ten Cats by Graham Harrop for Jul 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

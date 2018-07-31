@@ -4,7 +4,7 @@
         <title>Jerry Holbert</title>
         <link>https://www.comicsrss.com/preview/jerryholbert</link>
         <description>Jerry Holbert by Jerry Holbert</description>
-        <lastBuildDate>Mon, 30 Jul 2018 06:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Holbert</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jerryholbert.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jerry Holbert by Jerry Holbert for Jul 31, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/08994d00764a013648e6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/08994d00764a013648e6005056a9545d.html</guid>
+            <pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/08994d00764a013648e6005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jul 31, 2018 " title="Jerry Holbert by Jerry Holbert for Jul 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jerry Holbert by Jerry Holbert for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ad4bca00740701364866005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/dc4979d050a201363af0005056a9545d.html</guid>
             <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/dc4979d050a201363af0005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jun 13, 2018 " title="Jerry Holbert by Jerry Holbert for Jun 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jerry Holbert by Jerry Holbert for Jun 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/440a6dc04fe601363aa1005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/440a6dc04fe601363aa1005056a9545d.html</guid>
-            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/440a6dc04fe601363aa1005056a9545d" alt="Jerry Holbert by Jerry Holbert for Jun 12, 2018 " title="Jerry Holbert by Jerry Holbert for Jun 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

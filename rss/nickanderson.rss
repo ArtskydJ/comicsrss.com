@@ -4,7 +4,7 @@
         <title>Nick Anderson</title>
         <link>https://www.comicsrss.com/preview/nickanderson</link>
         <description>Nick Anderson by Nick Anderson</description>
-        <lastBuildDate>Mon, 30 Jul 2018 06:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nick Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nickanderson.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nick Anderson by Nick Anderson for Jul 31, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/3ec67450768101364906005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/3ec67450768101364906005056a9545d.html</guid>
+            <pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3ec67450768101364906005056a9545d" alt="Nick Anderson by Nick Anderson for Jul 31, 2018 " title="Nick Anderson by Nick Anderson for Jul 31, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nick Anderson by Nick Anderson for Jul 26, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/bff422e07308013647ea005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/nickanderson/2018/05/19</guid>
             <pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/780682803d9901363433005056a9545d" alt="Nick Anderson by Nick Anderson for May 19, 2018 " title="Nick Anderson by Nick Anderson for May 19, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nick Anderson by Nick Anderson for May 17, 2018 ]]></title>
-            <link>https://www.gocomics.com/nickanderson/2018/05/17</link>
-            <guid>https://www.gocomics.com/nickanderson/2018/05/17</guid>
-            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/2da9a1703c0701363381005056a9545d" alt="Nick Anderson by Nick Anderson for May 17, 2018 " title="Nick Anderson by Nick Anderson for May 17, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
