@@ -4,7 +4,7 @@
         <title>Doodle Diary</title>
         <link>https://www.comicsrss.com/preview/doodle-diary</link>
         <description>Doodle Diary by Alex Hallatt</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Alex Hallatt</copyright>
         <atom:link href="https://www.comicsrss.com/rss/doodle-diary.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doodle Diary by Alex Hallatt for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c612f4006ddf0136462d005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c612f4006ddf0136462d005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c612f4006ddf0136462d005056a9545d" alt="Doodle Diary by Alex Hallatt for Aug 1, 2018 " title="Doodle Diary by Alex Hallatt for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Doodle Diary by Alex Hallatt for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c87ac2206ddf0136462d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b6e4a1c04210013635eb005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b6e4a1c04210013635eb005056a9545d" alt="Doodle Diary by Alex Hallatt for Jun 6, 2018 " title="Doodle Diary by Alex Hallatt for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Doodle Diary by Alex Hallatt for Jun 4, 2018 ]]></title>
-            <link>https://www.gocomics.com/doodle-diary/2018/06/04</link>
-            <guid>https://www.gocomics.com/doodle-diary/2018/06/04</guid>
-            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b8fc4c204210013635eb005056a9545d" alt="Doodle Diary by Alex Hallatt for Jun 4, 2018 " title="Doodle Diary by Alex Hallatt for Jun 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

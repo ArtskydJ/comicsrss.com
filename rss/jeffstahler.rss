@@ -4,7 +4,7 @@
         <title>Jeff Stahler</title>
         <link>https://www.comicsrss.com/preview/jeffstahler</link>
         <description>Jeff Stahler by Jeff Stahler</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Stahler</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jeffstahler.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeff Stahler by Jeff Stahler for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/263f5450772801364953005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/263f5450772801364953005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/263f5450772801364953005056a9545d" alt="Jeff Stahler by Jeff Stahler for Aug 1, 2018 " title="Jeff Stahler by Jeff Stahler for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jeff Stahler by Jeff Stahler for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8f214d80766b013648fc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/57a38570515d01363b48005056a9545d.html</guid>
             <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/57a38570515d01363b48005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jun 14, 2018 " title="Jeff Stahler by Jeff Stahler for Jun 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Stahler by Jeff Stahler for Jun 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/d81c64a050a201363af0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/d81c64a050a201363af0005056a9545d.html</guid>
-            <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d81c64a050a201363af0005056a9545d" alt="Jeff Stahler by Jeff Stahler for Jun 13, 2018 " title="Jeff Stahler by Jeff Stahler for Jun 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

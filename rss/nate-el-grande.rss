@@ -4,7 +4,7 @@
         <title>Nate el Grande</title>
         <link>https://www.comicsrss.com/preview/nate-el-grande</link>
         <description>Nate el Grande by Lincoln Peirce</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Lincoln Peirce</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nate-el-grande.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nate el Grande by Lincoln Peirce for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5248c5f0725401364796005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5248c5f0725401364796005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5248c5f0725401364796005056a9545d" alt="Nate el Grande by Lincoln Peirce for Aug 1, 2018 " title="Nate el Grande by Lincoln Peirce for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nate el Grande by Lincoln Peirce for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/50d14670725401364796005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/925ce590510901363b29005056a9545d.html</guid>
             <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/925ce590510901363b29005056a9545d" alt="Nate el Grande by Lincoln Peirce for Jul 8, 2018 " title="Nate el Grande by Lincoln Peirce for Jul 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nate el Grande by Lincoln Peirce for Jul 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/291588c05c4001363f3a005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/291588c05c4001363f3a005056a9545d.html</guid>
-            <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/291588c05c4001363f3a005056a9545d" alt="Nate el Grande by Lincoln Peirce for Jul 7, 2018 " title="Nate el Grande by Lincoln Peirce for Jul 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

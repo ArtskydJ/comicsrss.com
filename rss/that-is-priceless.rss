@@ -4,7 +4,7 @@
         <title>That is Priceless</title>
         <link>https://www.comicsrss.com/preview/that-is-priceless</link>
         <description>That is Priceless by Steve Melcher</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Melcher</copyright>
         <atom:link href="https://www.comicsrss.com/rss/that-is-priceless.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That is Priceless by Steve Melcher for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f88a763077700136497c005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f88a763077700136497c005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f88a763077700136497c005056a9545d" alt="That is Priceless by Steve Melcher for Aug 1, 2018 " title="That is Priceless by Steve Melcher for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[That is Priceless by Steve Melcher for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/9fb9efb076a301364911005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/0d632af05cb301363f86005056a9545d.html</guid>
             <pubDate>Thu, 28 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/0d632af05cb301363f86005056a9545d" alt="That is Priceless by Steve Melcher for Jun 28, 2018 " title="That is Priceless by Steve Melcher for Jun 28, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[That is Priceless by Steve Melcher for Jun 27, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/e244e8305be901363f22005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/e244e8305be901363f22005056a9545d.html</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e244e8305be901363f22005056a9545d" alt="That is Priceless by Steve Melcher for Jun 27, 2018 " title="That is Priceless by Steve Melcher for Jun 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

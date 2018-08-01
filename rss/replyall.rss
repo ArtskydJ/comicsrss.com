@@ -4,7 +4,7 @@
         <title>Reply All</title>
         <link>https://www.comicsrss.com/preview/replyall</link>
         <description>Reply All by Donna A. Lewis</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Donna A. Lewis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/replyall.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reply All by Donna A. Lewis for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0b1f44506e8401364660005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0b1f44506e8401364660005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0b1f44506e8401364660005056a9545d" alt="Reply All by Donna A. Lewis for Aug 1, 2018 " title="Reply All by Donna A. Lewis for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Reply All by Donna A. Lewis for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/0918a3b06e8401364660005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4f7ac4b04c1201363975005056a9545d.html</guid>
             <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4f7ac4b04c1201363975005056a9545d" alt="Reply All by Donna A. Lewis for Jul 8, 2018 " title="Reply All by Donna A. Lewis for Jul 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reply All by Donna A. Lewis for Jul 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/6c848bd0588301363e0b005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/6c848bd0588301363e0b005056a9545d.html</guid>
-            <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6c848bd0588301363e0b005056a9545d" alt="Reply All by Donna A. Lewis for Jul 7, 2018 " title="Reply All by Donna A. Lewis for Jul 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Scott Stantis</title>
         <link>https://www.comicsrss.com/preview/scottstantis</link>
         <description>Scott Stantis by Scott Stantis</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Stantis</copyright>
         <atom:link href="https://www.comicsrss.com/rss/scottstantis.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scott Stantis by Scott Stantis for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1d48c9b077320136495e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1d48c9b077320136495e005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1d48c9b077320136495e005056a9545d" alt="Scott Stantis by Scott Stantis for Aug 1, 2018 " title="Scott Stantis by Scott Stantis for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Scott Stantis by Scott Stantis for Jul 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/5f9c4b40734601364816005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/scottstantis/2018/05/27</guid>
             <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/38fb0830419f013635aa005056a9545d" alt="Scott Stantis by Scott Stantis for May 27, 2018 " title="Scott Stantis by Scott Stantis for May 27, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scott Stantis by Scott Stantis for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/scottstantis/2018/05/25</link>
-            <guid>https://www.gocomics.com/scottstantis/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3806c890419f013635aa005056a9545d" alt="Scott Stantis by Scott Stantis for May 25, 2018 " title="Scott Stantis by Scott Stantis for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>W.T. Duck</title>
         <link>https://www.comicsrss.com/preview/wtduck</link>
         <description>W.T. Duck by Aaron Johnson</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Aaron Johnson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/wtduck.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[W.T. Duck by Aaron Johnson for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0a9fc990ee8b012da5c500163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0a9fc990ee8b012da5c500163e41dd5b.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0a9fc990ee8b012da5c500163e41dd5b" alt="W.T. Duck by Aaron Johnson for Aug 1, 2018 " title="W.T. Duck by Aaron Johnson for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[W.T. Duck by Aaron Johnson for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/89acdb00ee8c012da5c500163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3191b420c5b4012d63f600163e41dd5b.html</guid>
             <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3191b420c5b4012d63f600163e41dd5b" alt="W.T. Duck by Aaron Johnson for Jul 8, 2018 " title="W.T. Duck by Aaron Johnson for Jul 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W.T. Duck by Aaron Johnson for Jul 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/65ba8360de33012da5c400163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/65ba8360de33012da5c400163e41dd5b.html</guid>
-            <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/65ba8360de33012da5c400163e41dd5b" alt="W.T. Duck by Aaron Johnson for Jul 7, 2018 " title="W.T. Duck by Aaron Johnson for Jul 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

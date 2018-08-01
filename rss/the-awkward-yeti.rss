@@ -4,7 +4,7 @@
         <title>The Awkward Yeti</title>
         <link>https://www.comicsrss.com/preview/the-awkward-yeti</link>
         <description>The Awkward Yeti by Nick Seluk</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Nick Seluk</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-awkward-yeti.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Awkward Yeti by Nick Seluk for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c6a1678067a4013643be005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c6a1678067a4013643be005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c6a1678067a4013643be005056a9545d" alt="The Awkward Yeti by Nick Seluk for Aug 1, 2018 " title="The Awkward Yeti by Nick Seluk for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Awkward Yeti by Nick Seluk for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ca8990e067a4013643be005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/the-awkward-yeti/2018/03/09</guid>
             <pubDate>Fri, 09 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/47fa4e80013e01361d38005056a9545d" alt="The Awkward Yeti by Nick Seluk for Mar 9, 2018 " title="The Awkward Yeti by Nick Seluk for Mar 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Awkward Yeti by Nick Seluk for Mar 7, 2018 ]]></title>
-            <link>http://www.gocomics.com/the-awkward-yeti/2018/03/07</link>
-            <guid>http://www.gocomics.com/the-awkward-yeti/2018/03/07</guid>
-            <pubDate>Wed, 07 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4a71ecb0013e01361d38005056a9545d" alt="The Awkward Yeti by Nick Seluk for Mar 7, 2018 " title="The Awkward Yeti by Nick Seluk for Mar 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

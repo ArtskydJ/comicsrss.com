@@ -4,7 +4,7 @@
         <title>Speechless</title>
         <link>https://www.comicsrss.com/preview/speechless</link>
         <description>Speechless by Len Borozinski</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Len Borozinski</copyright>
         <atom:link href="https://www.comicsrss.com/rss/speechless.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Speechless by Len Borozinski for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/5c01c23077790136497e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/5c01c23077790136497e005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5c01c23077790136497e005056a9545d" alt="Speechless by Len Borozinski for Aug 1, 2018 " title="Speechless by Len Borozinski for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Speechless by Len Borozinski for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3e8bcb80769b0136490f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ca0806e05d8801363ff9005056a9545d.html</guid>
             <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ca0806e05d8801363ff9005056a9545d" alt="Speechless by Len Borozinski for Jun 29, 2018 " title="Speechless by Len Borozinski for Jun 29, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speechless by Len Borozinski for Jun 27, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/9849a2f05bb701363f0c005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/9849a2f05bb701363f0c005056a9545d.html</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9849a2f05bb701363f0c005056a9545d" alt="Speechless by Len Borozinski for Jun 27, 2018 " title="Speechless by Len Borozinski for Jun 27, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

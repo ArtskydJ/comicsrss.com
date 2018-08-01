@@ -4,7 +4,7 @@
         <title>Get Fuzzy</title>
         <link>https://www.comicsrss.com/preview/getfuzzy</link>
         <description>Get Fuzzy by Darby Conley</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Darby Conley</copyright>
         <atom:link href="https://www.comicsrss.com/rss/getfuzzy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Fuzzy by Darby Conley for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/c7ee93c0718901364736005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/c7ee93c0718901364736005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c7ee93c0718901364736005056a9545d" alt="Get Fuzzy by Darby Conley for Aug 1, 2018 " title="Get Fuzzy by Darby Conley for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Get Fuzzy by Darby Conley for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/56135bd0718801364735005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ed0268804de401363a38005056a9545d.html</guid>
             <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ed0268804de401363a38005056a9545d" alt="Get Fuzzy by Darby Conley for Jul 8, 2018 " title="Get Fuzzy by Darby Conley for Jul 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Get Fuzzy by Darby Conley for Jul 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b59189e05b8e01363edf005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b59189e05b8e01363edf005056a9545d.html</guid>
-            <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b59189e05b8e01363edf005056a9545d" alt="Get Fuzzy by Darby Conley for Jul 7, 2018 " title="Get Fuzzy by Darby Conley for Jul 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

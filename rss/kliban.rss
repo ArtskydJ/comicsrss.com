@@ -4,7 +4,7 @@
         <title>Kliban</title>
         <link>https://www.comicsrss.com/preview/kliban</link>
         <description>Kliban by B. Kliban</description>
-        <lastBuildDate>Tue, 31 Jul 2018 06:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright B. Kliban</copyright>
         <atom:link href="https://www.comicsrss.com/rss/kliban.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kliban by B. Kliban for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/406b8f80684a01364409005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/406b8f80684a01364409005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/406b8f80684a01364409005056a9545d" alt="Kliban by B. Kliban for Aug 1, 2018 " title="Kliban by B. Kliban for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Kliban by B. Kliban for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/293fa340684801364405005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/a9853b8046750136373e005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a9853b8046750136373e005056a9545d" alt="Kliban by B. Kliban for Jun 6, 2018 " title="Kliban by B. Kliban for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kliban by B. Kliban for Jun 4, 2018 ]]></title>
-            <link>https://www.gocomics.com/kliban/2018/06/04</link>
-            <guid>https://www.gocomics.com/kliban/2018/06/04</guid>
-            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a665ca7046750136373e005056a9545d" alt="Kliban by B. Kliban for Jun 4, 2018 " title="Kliban by B. Kliban for Jun 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
