@@ -4,7 +4,7 @@
         <title>Steve Breen</title>
         <link>https://www.comicsrss.com/preview/stevebreen</link>
         <description>Steve Breen by Steve Breen</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Breen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stevebreen.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Breen by Steve Breen for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d209d070782d013649df005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d209d070782d013649df005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d209d070782d013649df005056a9545d" alt="Steve Breen by Steve Breen for Aug 2, 2018 " title="Steve Breen by Steve Breen for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Breen by Steve Breen for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/933dc430776401364977005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/fe7d1f5055bb01363ccf005056a9545d.html</guid>
             <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/fe7d1f5055bb01363ccf005056a9545d" alt="Steve Breen by Steve Breen for Jun 17, 2018 " title="Steve Breen by Steve Breen for Jun 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Breen by Steve Breen for Jun 15, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/dda787f0527501363be1005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/dda787f0527501363be1005056a9545d.html</guid>
-            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/dda787f0527501363be1005056a9545d" alt="Steve Breen by Steve Breen for Jun 15, 2018 " title="Steve Breen by Steve Breen for Jun 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Tom the Dancing Bug</title>
         <link>https://www.comicsrss.com/preview/tomthedancingbug</link>
         <description>Tom the Dancing Bug by Ruben Bolling</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ruben Bolling</copyright>
         <atom:link href="https://www.comicsrss.com/rss/tomthedancingbug.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tom the Dancing Bug by Ruben Bolling for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8597c5a058e101363e38005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8597c5a058e101363e38005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8597c5a058e101363e38005056a9545d" alt="Tom the Dancing Bug by Ruben Bolling for Aug 2, 2018 " title="Tom the Dancing Bug by Ruben Bolling for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Tom the Dancing Bug by Ruben Bolling for Jul 27, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/50ffd230713f01364717005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/tomthedancingbug/2018/05/11</guid>
             <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b13636203540013630f3005056a9545d" alt="Tom the Dancing Bug by Ruben Bolling for May 11, 2018 " title="Tom the Dancing Bug by Ruben Bolling for May 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tom the Dancing Bug by Ruben Bolling for May 10, 2018 ]]></title>
-            <link>http://www.gocomics.com/tomthedancingbug/2018/05/10</link>
-            <guid>http://www.gocomics.com/tomthedancingbug/2018/05/10</guid>
-            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/8ead54701bd001362789005056a9545d" alt="Tom the Dancing Bug by Ruben Bolling for May 10, 2018 " title="Tom the Dancing Bug by Ruben Bolling for May 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

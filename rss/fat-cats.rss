@@ -4,7 +4,7 @@
         <title>Fat Cats</title>
         <link>https://www.comicsrss.com/preview/fat-cats</link>
         <description>Fat Cats by Charlie Podrebarac</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charlie Podrebarac</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fat-cats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fat Cats by Charlie Podrebarac for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/77850de077ff013649bf005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/77850de077ff013649bf005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/77850de077ff013649bf005056a9545d" alt="Fat Cats by Charlie Podrebarac for Aug 2, 2018 " title="Fat Cats by Charlie Podrebarac for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Fat Cats by Charlie Podrebarac for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b04de740773e01364968005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/3d107b5062b7013641d6005056a9545d.html</guid>
             <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3d107b5062b7013641d6005056a9545d" alt="Fat Cats by Charlie Podrebarac for Jul 9, 2018 " title="Fat Cats by Charlie Podrebarac for Jul 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fat Cats by Charlie Podrebarac for Jul 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/43a8de7062b7013641d6005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/43a8de7062b7013641d6005056a9545d.html</guid>
-            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/43a8de7062b7013641d6005056a9545d" alt="Fat Cats by Charlie Podrebarac for Jul 8, 2018 " title="Fat Cats by Charlie Podrebarac for Jul 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

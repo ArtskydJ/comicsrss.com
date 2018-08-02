@@ -4,7 +4,7 @@
         <title>Joe Heller</title>
         <link>https://www.comicsrss.com/preview/joe-heller</link>
         <description>Joe Heller by Joe Heller</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Joe Heller</copyright>
         <atom:link href="https://www.comicsrss.com/rss/joe-heller.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Heller by Joe Heller for Aug 1, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/47c33d807827013649dc005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/47c33d807827013649dc005056a9545d.html</guid>
+            <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/47c33d807827013649dc005056a9545d" alt="Joe Heller by Joe Heller for Aug 1, 2018 " title="Joe Heller by Joe Heller for Aug 1, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Joe Heller by Joe Heller for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/2b60a080774901364970005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/31f71ed054a701363c6a005056a9545d.html</guid>
             <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/31f71ed054a701363c6a005056a9545d" alt="Joe Heller by Joe Heller for Jun 17, 2018 " title="Joe Heller by Joe Heller for Jun 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Joe Heller by Joe Heller for Jun 15, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/f6540e7052ea01363c07005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/f6540e7052ea01363c07005056a9545d.html</guid>
-            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f6540e7052ea01363c07005056a9545d" alt="Joe Heller by Joe Heller for Jun 15, 2018 " title="Joe Heller by Joe Heller for Jun 15, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Long Story Short</title>
         <link>https://www.comicsrss.com/preview/long-story-short</link>
         <description>Long Story Short by Daniel Beyer</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Daniel Beyer</copyright>
         <atom:link href="https://www.comicsrss.com/rss/long-story-short.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Long Story Short by Daniel Beyer for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1001e6406fe5013646a9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1001e6406fe5013646a9005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1001e6406fe5013646a9005056a9545d" alt="Long Story Short by Daniel Beyer for Aug 2, 2018 " title="Long Story Short by Daniel Beyer for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Long Story Short by Daniel Beyer for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/17b06c306fe5013646a9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/5f90e50059e401363e57005056a9545d.html</guid>
             <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5f90e50059e401363e57005056a9545d" alt="Long Story Short by Daniel Beyer for Jul 5, 2018 " title="Long Story Short by Daniel Beyer for Jul 5, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Long Story Short by Daniel Beyer for Jul 4, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/5a0e670059e401363e57005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/5a0e670059e401363e57005056a9545d.html</guid>
-            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/5a0e670059e401363e57005056a9545d" alt="Long Story Short by Daniel Beyer for Jul 4, 2018 " title="Long Story Short by Daniel Beyer for Jul 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

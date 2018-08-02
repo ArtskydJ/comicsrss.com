@@ -4,7 +4,7 @@
         <title>Dilbert Classics</title>
         <link>https://www.comicsrss.com/preview/dilbert-classics</link>
         <description>Dilbert Classics by Scott Adams</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Adams</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dilbert-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dilbert Classics by Scott Adams for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d1b6b2505dda01364014005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d1b6b2505dda01364014005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d1b6b2505dda01364014005056a9545d" alt="Dilbert Classics by Scott Adams for Aug 2, 2018 " title="Dilbert Classics by Scott Adams for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dilbert Classics by Scott Adams for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cfa9a8105dda01364014005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/016abbf05dd801364012005056a9545d.html</guid>
             <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/016abbf05dd801364012005056a9545d" alt="Dilbert Classics by Scott Adams for Jul 9, 2018 " title="Dilbert Classics by Scott Adams for Jul 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dilbert Classics by Scott Adams for Jul 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/ddf0dfe0fafa01351ad9005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/ddf0dfe0fafa01351ad9005056a9545d.html</guid>
-            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/ddf0dfe0fafa01351ad9005056a9545d" alt="Dilbert Classics by Scott Adams for Jul 8, 2018 " title="Dilbert Classics by Scott Adams for Jul 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

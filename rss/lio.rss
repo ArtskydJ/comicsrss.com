@@ -4,7 +4,7 @@
         <title>Lio</title>
         <link>https://www.comicsrss.com/preview/lio</link>
         <description>Lio by Mark Tatulli</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Tatulli</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lio.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lio by Mark Tatulli for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/047278706dd601364627005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/047278706dd601364627005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/047278706dd601364627005056a9545d" alt="Lio by Mark Tatulli for Aug 2, 2018 " title="Lio by Mark Tatulli for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lio by Mark Tatulli for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/030fd2f06dd601364627005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/d12fec005af901363eb3005056a9545d.html</guid>
             <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/d12fec005af901363eb3005056a9545d" alt="Lio by Mark Tatulli for Jul 9, 2018 " title="Lio by Mark Tatulli for Jul 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lio by Mark Tatulli for Jul 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/06f447204797013637db005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/06f447204797013637db005056a9545d.html</guid>
-            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/06f447204797013637db005056a9545d" alt="Lio by Mark Tatulli for Jul 8, 2018 " title="Lio by Mark Tatulli for Jul 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

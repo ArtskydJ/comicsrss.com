@@ -4,7 +4,7 @@
         <title>Cathy</title>
         <link>https://www.comicsrss.com/preview/cathy</link>
         <description>Cathy by Cathy Guisewite</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Cathy Guisewite</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cathy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cathy by Cathy Guisewite for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/82bcefe01009013622e5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/82bcefe01009013622e5005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/82bcefe01009013622e5005056a9545d" alt="Cathy by Cathy Guisewite for Aug 2, 2018 " title="Cathy by Cathy Guisewite for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Cathy by Cathy Guisewite for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/81123aa01009013622e5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/5e6c0f401009013622e5005056a9545d.html</guid>
             <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5e6c0f401009013622e5005056a9545d" alt="Cathy by Cathy Guisewite for Jul 9, 2018 " title="Cathy by Cathy Guisewite for Jul 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cathy by Cathy Guisewite for Jul 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/f607506040b801300e49001dd8b71c47.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/f607506040b801300e49001dd8b71c47.html</guid>
-            <pubDate>Sun, 08 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f607506040b801300e49001dd8b71c47" alt="Cathy by Cathy Guisewite for Jul 8, 2018 " title="Cathy by Cathy Guisewite for Jul 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

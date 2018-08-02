@@ -4,7 +4,7 @@
         <title>Joe Vanilla</title>
         <link>https://www.comicsrss.com/preview/joevanilla</link>
         <description>Joe Vanilla by Mark Litzler</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mark Litzler</copyright>
         <atom:link href="https://www.comicsrss.com/rss/joevanilla.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Vanilla by Mark Litzler for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/0a2eaa2077f7013649b5005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/0a2eaa2077f7013649b5005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/0a2eaa2077f7013649b5005056a9545d" alt="Joe Vanilla by Mark Litzler for Aug 2, 2018 " title="Joe Vanilla by Mark Litzler for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Joe Vanilla by Mark Litzler for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c2052eb0764f013648ea005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/51f932b04b520136390f005056a9545d.html</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/51f932b04b520136390f005056a9545d" alt="Joe Vanilla by Mark Litzler for Jun 6, 2018 " title="Joe Vanilla by Mark Litzler for Jun 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Joe Vanilla by Mark Litzler for Jun 4, 2018 ]]></title>
-            <link>https://www.gocomics.com/joevanilla/2018/06/04</link>
-            <guid>https://www.gocomics.com/joevanilla/2018/06/04</guid>
-            <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f8505d00440001363661005056a9545d" alt="Joe Vanilla by Mark Litzler for Jun 4, 2018 " title="Joe Vanilla by Mark Litzler for Jun 4, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

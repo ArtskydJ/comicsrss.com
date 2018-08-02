@@ -4,7 +4,7 @@
         <title>Gary Varvel</title>
         <link>https://www.comicsrss.com/preview/garyvarvel</link>
         <description>Gary Varvel by Gary Varvel</description>
-        <lastBuildDate>Wed, 01 Aug 2018 06:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gary Varvel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/garyvarvel.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gary Varvel by Gary Varvel for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b2c26e10782d013649df005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b2c26e10782d013649df005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b2c26e10782d013649df005056a9545d" alt="Gary Varvel by Gary Varvel for Aug 2, 2018 " title="Gary Varvel by Gary Varvel for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Gary Varvel by Gary Varvel for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e09a476076ff0136492f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/7aeb3730542901363c5a005056a9545d.html</guid>
             <pubDate>Sun, 17 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7aeb3730542901363c5a005056a9545d" alt="Gary Varvel by Gary Varvel for Jun 17, 2018 " title="Gary Varvel by Gary Varvel for Jun 17, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gary Varvel by Gary Varvel for Jun 16, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/66f82310531d01363c29005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/66f82310531d01363c29005056a9545d.html</guid>
-            <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/66f82310531d01363c29005056a9545d" alt="Gary Varvel by Gary Varvel for Jun 16, 2018 " title="Gary Varvel by Gary Varvel for Jun 16, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
