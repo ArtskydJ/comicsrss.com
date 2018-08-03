@@ -4,7 +4,7 @@
         <title>Graffiti</title>
         <link>https://www.comicsrss.com/preview/graffiti</link>
         <description>Graffiti by Gene Mora</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gene Mora</copyright>
         <atom:link href="https://www.comicsrss.com/rss/graffiti.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Graffiti by Gene Mora for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/6dd31d4070fe01364704005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/6dd31d4070fe01364704005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/6dd31d4070fe01364704005056a9545d" alt="Graffiti by Gene Mora for Aug 3, 2018 " title="Graffiti by Gene Mora for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Graffiti by Gene Mora for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/6bc1bdf070fe01364704005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b5c481405afd01363eb7005056a9545d.html</guid>
             <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b5c481405afd01363eb7005056a9545d" alt="Graffiti by Gene Mora for Jul 6, 2018 " title="Graffiti by Gene Mora for Jul 6, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Graffiti by Gene Mora for Jul 5, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b3bbc4505afd01363eb7005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b3bbc4505afd01363eb7005056a9545d.html</guid>
-            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b3bbc4505afd01363eb7005056a9545d" alt="Graffiti by Gene Mora for Jul 5, 2018 " title="Graffiti by Gene Mora for Jul 5, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Wee Pals</title>
         <link>https://www.comicsrss.com/preview/weepals</link>
         <description>Wee Pals by Morrie Turner</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Morrie Turner</copyright>
         <atom:link href="https://www.comicsrss.com/rss/weepals.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wee Pals by Morrie Turner for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/bb1c48406fe2013646a9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/bb1c48406fe2013646a9005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/bb1c48406fe2013646a9005056a9545d" alt="Wee Pals by Morrie Turner for Aug 3, 2018 " title="Wee Pals by Morrie Turner for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Wee Pals by Morrie Turner for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c70513f06fe2013646a9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/4d0736305f6201364083005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4d0736305f6201364083005056a9545d" alt="Wee Pals by Morrie Turner for Jul 10, 2018 " title="Wee Pals by Morrie Turner for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wee Pals by Morrie Turner for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4e3f88205f6201364083005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4e3f88205f6201364083005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4e3f88205f6201364083005056a9545d" alt="Wee Pals by Morrie Turner for Jul 9, 2018 " title="Wee Pals by Morrie Turner for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

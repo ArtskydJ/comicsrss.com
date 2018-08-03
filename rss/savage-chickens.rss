@@ -4,7 +4,7 @@
         <title>Savage Chickens</title>
         <link>https://www.comicsrss.com/preview/savage-chickens</link>
         <description>Savage Chickens by Doug Savage</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Doug Savage</copyright>
         <atom:link href="https://www.comicsrss.com/rss/savage-chickens.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Savage Chickens by Doug Savage for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/ebd12870548701363c65005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/ebd12870548701363c65005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ebd12870548701363c65005056a9545d" alt="Savage Chickens by Doug Savage for Aug 3, 2018 " title="Savage Chickens by Doug Savage for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Savage Chickens by Doug Savage for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/ccac7d60548701363c65005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/e1491a00548701363c65005056a9545d.html</guid>
             <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e1491a00548701363c65005056a9545d" alt="Savage Chickens by Doug Savage for Jul 2, 2018 " title="Savage Chickens by Doug Savage for Jul 2, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Savage Chickens by Doug Savage for Jun 29, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/eeee24a0548701363c65005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/eeee24a0548701363c65005056a9545d.html</guid>
-            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/eeee24a0548701363c65005056a9545d" alt="Savage Chickens by Doug Savage for Jun 29, 2018 " title="Savage Chickens by Doug Savage for Jun 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

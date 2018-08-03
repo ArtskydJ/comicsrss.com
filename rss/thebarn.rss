@@ -4,7 +4,7 @@
         <title>The Barn</title>
         <link>https://www.comicsrss.com/preview/thebarn</link>
         <description>The Barn by Ralph Hagen</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ralph Hagen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thebarn.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Barn by Ralph Hagen for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/df1fd0e06fe4013646a9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/df1fd0e06fe4013646a9005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/df1fd0e06fe4013646a9005056a9545d" alt="The Barn by Ralph Hagen for Aug 3, 2018 " title="The Barn by Ralph Hagen for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Barn by Ralph Hagen for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/d83b15a06fe4013646a9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/51931b105f6401364083005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/51931b105f6401364083005056a9545d" alt="The Barn by Ralph Hagen for Jul 10, 2018 " title="The Barn by Ralph Hagen for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Barn by Ralph Hagen for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4dcf1d005f6401364083005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4dcf1d005f6401364083005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4dcf1d005f6401364083005056a9545d" alt="The Barn by Ralph Hagen for Jul 9, 2018 " title="The Barn by Ralph Hagen for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

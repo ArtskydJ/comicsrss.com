@@ -4,7 +4,7 @@
         <title>Steve Kelley</title>
         <link>https://www.comicsrss.com/preview/stevekelley</link>
         <description>Steve Kelley by Steve Kelley</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Kelley</copyright>
         <atom:link href="https://www.comicsrss.com/rss/stevekelley.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Kelley by Steve Kelley for Aug 2, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a07ee670784f013649ee005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a07ee670784f013649ee005056a9545d.html</guid>
+            <pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a07ee670784f013649ee005056a9545d" alt="Steve Kelley by Steve Kelley for Aug 2, 2018 " title="Steve Kelley by Steve Kelley for Aug 2, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Steve Kelley by Steve Kelley for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/f257ad8076bc0136491d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/stevekelley/2018/05/09</guid>
             <pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/bf314ed035a501363119005056a9545d" alt="Steve Kelley by Steve Kelley for May 9, 2018 " title="Steve Kelley by Steve Kelley for May 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Steve Kelley by Steve Kelley for May 8, 2018 ]]></title>
-            <link>https://www.gocomics.com/stevekelley/2018/05/08</link>
-            <guid>https://www.gocomics.com/stevekelley/2018/05/08</guid>
-            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/743a9fe034dc013630af005056a9545d" alt="Steve Kelley by Steve Kelley for May 8, 2018 " title="Steve Kelley by Steve Kelley for May 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

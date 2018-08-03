@@ -4,7 +4,7 @@
         <title>Invisible Bread</title>
         <link>https://www.comicsrss.com/preview/invisible-bread</link>
         <description>Invisible Bread by Justin Boyd</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Justin Boyd</copyright>
         <atom:link href="https://www.comicsrss.com/rss/invisible-bread.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Invisible Bread by Justin Boyd for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/8c972b10775101364972005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/8c972b10775101364972005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/8c972b10775101364972005056a9545d" alt="Invisible Bread by Justin Boyd for Aug 3, 2018 " title="Invisible Bread by Justin Boyd for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Invisible Bread by Justin Boyd for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/8d9c9c70775101364972005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/invisible-bread/2017/07/13</guid>
             <pubDate>Thu, 13 Jul 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/f7d895b0479a0135d962005056a9545d" alt="Invisible Bread by Justin Boyd for Jul 13, 2017 " title="Invisible Bread by Justin Boyd for Jul 13, 2017 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Invisible Bread by Justin Boyd for Jul 10, 2017 ]]></title>
-            <link>https://www.gocomics.com/invisible-bread/2017/07/10</link>
-            <guid>https://www.gocomics.com/invisible-bread/2017/07/10</guid>
-            <pubDate>Mon, 10 Jul 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f6ea89e0479a0135d962005056a9545d" alt="Invisible Bread by Justin Boyd for Jul 10, 2017 " title="Invisible Bread by Justin Boyd for Jul 10, 2017 ">]]></description>
         </item>
     </channel>
 </rss>

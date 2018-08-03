@@ -4,7 +4,7 @@
         <title>Goats</title>
         <link>https://www.comicsrss.com/preview/goats</link>
         <description>Goats by Jon Rosenberg</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jon Rosenberg</copyright>
         <atom:link href="https://www.comicsrss.com/rss/goats.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Goats by Jon Rosenberg for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a0cf12a08cde01332c9f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a0cf12a08cde01332c9f005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a0cf12a08cde01332c9f005056a9545d" alt="Goats by Jon Rosenberg for Aug 3, 2018 " title="Goats by Jon Rosenberg for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Goats by Jon Rosenberg for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a00179808cde01332c9f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/e9a1dad074a101331f60005056a9545d.html</guid>
             <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e9a1dad074a101331f60005056a9545d" alt="Goats by Jon Rosenberg for Jun 8, 2018 " title="Goats by Jon Rosenberg for Jun 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Goats by Jon Rosenberg for Jun 6, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/d2010ac0741b01331f10005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/d2010ac0741b01331f10005056a9545d.html</guid>
-            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d2010ac0741b01331f10005056a9545d" alt="Goats by Jon Rosenberg for Jun 6, 2018 " title="Goats by Jon Rosenberg for Jun 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>C&amp;#39;est la Vie</title>
         <link>https://www.comicsrss.com/preview/cestlavie</link>
         <description>C&amp;#39;est la Vie by Jennifer Babcock</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jennifer Babcock</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cestlavie.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C&#39;est la Vie by Jennifer Babcock for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/84e283d07801013649c2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/84e283d07801013649c2005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/84e283d07801013649c2005056a9545d" alt="C&#39;est la Vie by Jennifer Babcock for Aug 3, 2018 " title="C&#39;est la Vie by Jennifer Babcock for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[C&#39;est la Vie by Jennifer Babcock for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/685cddc063970136424d005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/cestlavie/2018/05/11</guid>
             <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6f2a51e036d7013631bc005056a9545d" alt="C&#39;est la Vie by Jennifer Babcock for May 11, 2018 " title="C&#39;est la Vie by Jennifer Babcock for May 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C&#39;est la Vie by Jennifer Babcock for May 6, 2018 ]]></title>
-            <link>http://www.gocomics.com/cestlavie/2018/05/06</link>
-            <guid>http://www.gocomics.com/cestlavie/2018/05/06</guid>
-            <pubDate>Sun, 06 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/08905f9032dd01363020005056a9545d" alt="C&#39;est la Vie by Jennifer Babcock for May 6, 2018 " title="C&#39;est la Vie by Jennifer Babcock for May 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

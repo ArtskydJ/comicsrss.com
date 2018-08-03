@@ -4,7 +4,7 @@
         <title>Calvin and Hobbes</title>
         <link>https://www.comicsrss.com/preview/calvinandhobbes</link>
         <description>Calvin and Hobbes by Bill Watterson</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Bill Watterson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/calvinandhobbes.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Calvin and Hobbes by Bill Watterson for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/9665c5e0574a01363d89005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/9665c5e0574a01363d89005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/9665c5e0574a01363d89005056a9545d" alt="Calvin and Hobbes by Bill Watterson for Aug 3, 2018 " title="Calvin and Hobbes by Bill Watterson for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Calvin and Hobbes by Bill Watterson for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/952ca500574a01363d89005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/7cc46c40574a01363d89005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7cc46c40574a01363d89005056a9545d" alt="Calvin and Hobbes by Bill Watterson for Jul 10, 2018 " title="Calvin and Hobbes by Bill Watterson for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Calvin and Hobbes by Bill Watterson for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/7b6e46d0574a01363d89005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/7b6e46d0574a01363d89005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7b6e46d0574a01363d89005056a9545d" alt="Calvin and Hobbes by Bill Watterson for Jul 9, 2018 " title="Calvin and Hobbes by Bill Watterson for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

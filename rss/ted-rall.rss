@@ -4,7 +4,7 @@
         <title>Ted Rall</title>
         <link>https://www.comicsrss.com/preview/ted-rall</link>
         <description>Ted Rall by Ted Rall</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ted Rall</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ted-rall.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ted Rall by Ted Rall for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/23eca990764c013648e7005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/23eca990764c013648e7005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/23eca990764c013648e7005056a9545d" alt="Ted Rall by Ted Rall for Aug 3, 2018 " title="Ted Rall by Ted Rall for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ted Rall by Ted Rall for Aug 1, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/21ef3d80764c013648e7005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/19275d404a660136389d005056a9545d.html</guid>
             <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/19275d404a660136389d005056a9545d" alt="Ted Rall by Ted Rall for Jun 8, 2018 " title="Ted Rall by Ted Rall for Jun 8, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ted Rall by Ted Rall for Jun 6, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/177a57d04a660136389d005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/177a57d04a660136389d005056a9545d.html</guid>
-            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/177a57d04a660136389d005056a9545d" alt="Ted Rall by Ted Rall for Jun 6, 2018 " title="Ted Rall by Ted Rall for Jun 6, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

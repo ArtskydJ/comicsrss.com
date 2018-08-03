@@ -4,7 +4,7 @@
         <title>Jeff Danziger</title>
         <link>https://www.comicsrss.com/preview/jeffdanziger</link>
         <description>Jeff Danziger by Jeff Danziger</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jeff Danziger</copyright>
         <atom:link href="https://www.comicsrss.com/rss/jeffdanziger.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeff Danziger by Jeff Danziger for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b6ebaf3078dc01364a32005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b6ebaf3078dc01364a32005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b6ebaf3078dc01364a32005056a9545d" alt="Jeff Danziger by Jeff Danziger for Aug 3, 2018 " title="Jeff Danziger by Jeff Danziger for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Jeff Danziger by Jeff Danziger for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/bbbc766077bf01364994005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/91f1ee706080013640e5005056a9545d.html</guid>
             <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/91f1ee706080013640e5005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jul 3, 2018 " title="Jeff Danziger by Jeff Danziger for Jul 3, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Danziger by Jeff Danziger for Jul 2, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/849aded0603d013640ba005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/849aded0603d013640ba005056a9545d.html</guid>
-            <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/849aded0603d013640ba005056a9545d" alt="Jeff Danziger by Jeff Danziger for Jul 2, 2018 " title="Jeff Danziger by Jeff Danziger for Jul 2, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

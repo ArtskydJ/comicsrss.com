@@ -4,7 +4,7 @@
         <title>Overboard</title>
         <link>https://www.comicsrss.com/preview/overboard</link>
         <description>Overboard by Chip Dunham</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Chip Dunham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/overboard.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overboard by Chip Dunham for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/71a43740718801364735005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/71a43740718801364735005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/71a43740718801364735005056a9545d" alt="Overboard by Chip Dunham for Aug 3, 2018 " title="Overboard by Chip Dunham for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Overboard by Chip Dunham for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e8f8daf0718901364736005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ebeb4e106045013640c0005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ebeb4e106045013640c0005056a9545d" alt="Overboard by Chip Dunham for Jul 10, 2018 " title="Overboard by Chip Dunham for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Overboard by Chip Dunham for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/e9c51a006045013640c0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/e9c51a006045013640c0005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e9c51a006045013640c0005056a9545d" alt="Overboard by Chip Dunham for Jul 9, 2018 " title="Overboard by Chip Dunham for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>In the Bleachers</title>
         <link>https://www.comicsrss.com/preview/inthebleachers</link>
         <description>In the Bleachers by Steve Moore</description>
-        <lastBuildDate>Thu, 02 Aug 2018 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Moore</copyright>
         <atom:link href="https://www.comicsrss.com/rss/inthebleachers.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the Bleachers by Steve Moore for Aug 3, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/b12079e070f601364701005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/b12079e070f601364701005056a9545d.html</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b12079e070f601364701005056a9545d" alt="In the Bleachers by Steve Moore for Aug 3, 2018 " title="In the Bleachers by Steve Moore for Aug 3, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[In the Bleachers by Steve Moore for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/af8cb9e070f601364701005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/a411d8606075013640de005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a411d8606075013640de005056a9545d" alt="In the Bleachers by Steve Moore for Jul 10, 2018 " title="In the Bleachers by Steve Moore for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[In the Bleachers by Steve Moore for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/a295e8906075013640de005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/a295e8906075013640de005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a295e8906075013640de005056a9545d" alt="In the Bleachers by Steve Moore for Jul 9, 2018 " title="In the Bleachers by Steve Moore for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
