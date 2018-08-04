@@ -4,7 +4,7 @@
         <title>Animal Crackers</title>
         <link>https://www.comicsrss.com/preview/animalcrackers</link>
         <description>Animal Crackers by Mike Osbun</description>
-        <lastBuildDate>Fri, 03 Aug 2018 06:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Aug 2018 06:34:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Osbun</copyright>
         <atom:link href="https://www.comicsrss.com/rss/animalcrackers.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animal Crackers by Mike Osbun for Aug 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/34f8eb7063150136420a005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/34f8eb7063150136420a005056a9545d.html</guid>
+            <pubDate>Sat, 04 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/34f8eb7063150136420a005056a9545d" alt="Animal Crackers by Mike Osbun for Aug 4, 2018 " title="Animal Crackers by Mike Osbun for Aug 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Animal Crackers by Mike Osbun for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/3d23747063150136420a005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ad124b90535d01363c3a005056a9545d.html</guid>
             <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ad124b90535d01363c3a005056a9545d" alt="Animal Crackers by Mike Osbun for Jul 11, 2018 " title="Animal Crackers by Mike Osbun for Jul 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Animal Crackers by Mike Osbun for Jul 10, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/9b8506d0535d01363c3a005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/9b8506d0535d01363c3a005056a9545d.html</guid>
-            <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9b8506d0535d01363c3a005056a9545d" alt="Animal Crackers by Mike Osbun for Jul 10, 2018 " title="Animal Crackers by Mike Osbun for Jul 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

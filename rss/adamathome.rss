@@ -4,7 +4,7 @@
         <title>Adam@Home</title>
         <link>https://www.comicsrss.com/preview/adamathome</link>
         <description>Adam@Home by Rob Harrell</description>
-        <lastBuildDate>Fri, 03 Aug 2018 06:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Aug 2018 06:34:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Rob Harrell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/adamathome.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adam@Home by Rob Harrell for Aug 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e42ff8c070c8013646e4005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e42ff8c070c8013646e4005056a9545d.html</guid>
+            <pubDate>Sat, 04 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e42ff8c070c8013646e4005056a9545d" alt="Adam@Home by Rob Harrell for Aug 4, 2018 " title="Adam@Home by Rob Harrell for Aug 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Adam@Home by Rob Harrell for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/4a1b1da070ca013646e6005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/9e4ef8106045013640c0005056a9545d.html</guid>
             <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9e4ef8106045013640c0005056a9545d" alt="Adam@Home by Rob Harrell for Jul 11, 2018 " title="Adam@Home by Rob Harrell for Jul 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Adam@Home by Rob Harrell for Jul 10, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/9d12a9b06045013640c0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/9d12a9b06045013640c0005056a9545d.html</guid>
-            <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9d12a9b06045013640c0005056a9545d" alt="Adam@Home by Rob Harrell for Jul 10, 2018 " title="Adam@Home by Rob Harrell for Jul 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

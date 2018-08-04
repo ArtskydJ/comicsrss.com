@@ -4,7 +4,7 @@
         <title>The LeftyBosco Picture Show</title>
         <link>https://www.comicsrss.com/preview/leftyboscopictureshow</link>
         <description>The LeftyBosco Picture Show by Keith DuQuette</description>
-        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Aug 2018 06:34:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith DuQuette</copyright>
         <atom:link href="https://www.comicsrss.com/rss/leftyboscopictureshow.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The LeftyBosco Picture Show by Keith DuQuette for Aug 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/f1cdc16074b201364897005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/f1cdc16074b201364897005056a9545d.html</guid>
+            <pubDate>Sat, 04 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/f1cdc16074b201364897005056a9545d" alt="The LeftyBosco Picture Show by Keith DuQuette for Aug 4, 2018 " title="The LeftyBosco Picture Show by Keith DuQuette for Aug 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The LeftyBosco Picture Show by Keith DuQuette for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/08b07db074b301364897005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/9bb7a3a05d1501363fa9005056a9545d.html</guid>
             <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9bb7a3a05d1501363fa9005056a9545d" alt="The LeftyBosco Picture Show by Keith DuQuette for Jul 11, 2018 " title="The LeftyBosco Picture Show by Keith DuQuette for Jul 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The LeftyBosco Picture Show by Keith DuQuette for Jul 10, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/9a9179a05d1501363fa9005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/9a9179a05d1501363fa9005056a9545d.html</guid>
-            <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9a9179a05d1501363fa9005056a9545d" alt="The LeftyBosco Picture Show by Keith DuQuette for Jul 10, 2018 " title="The LeftyBosco Picture Show by Keith DuQuette for Jul 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

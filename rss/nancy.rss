@@ -4,7 +4,7 @@
         <title>Nancy</title>
         <link>https://www.comicsrss.com/preview/nancy</link>
         <description>Nancy by Olivia Jaimes</description>
-        <lastBuildDate>Fri, 03 Aug 2018 06:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Aug 2018 06:34:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Olivia Jaimes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nancy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nancy by Olivia Jaimes for Aug 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/18169b1070c9013646e4005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/18169b1070c9013646e4005056a9545d.html</guid>
+            <pubDate>Sat, 04 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/18169b1070c9013646e4005056a9545d" alt="Nancy by Olivia Jaimes for Aug 4, 2018 " title="Nancy by Olivia Jaimes for Aug 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nancy by Olivia Jaimes for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b45c86d070c7013646e2005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/e288f3706045013640c0005056a9545d.html</guid>
             <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e288f3706045013640c0005056a9545d" alt="Nancy by Olivia Jaimes for Jul 11, 2018 " title="Nancy by Olivia Jaimes for Jul 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nancy by Olivia Jaimes for Jul 10, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/e0579fa06045013640c0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/e0579fa06045013640c0005056a9545d.html</guid>
-            <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e0579fa06045013640c0005056a9545d" alt="Nancy by Olivia Jaimes for Jul 10, 2018 " title="Nancy by Olivia Jaimes for Jul 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
