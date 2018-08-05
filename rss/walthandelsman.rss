@@ -4,7 +4,7 @@
         <title>Walt Handelsman</title>
         <link>https://www.comicsrss.com/preview/walthandelsman</link>
         <description>Walt Handelsman by Walt Handelsman</description>
-        <lastBuildDate>Sun, 05 Aug 2018 06:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Aug 2018 08:27:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Walt Handelsman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/walthandelsman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Walt Handelsman by Walt Handelsman for Aug 4, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/08bfec307aa801364ab6005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/08bfec307aa801364ab6005056a9545d.html</guid>
+            <pubDate>Sat, 04 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/08bfec307aa801364ab6005056a9545d" alt="Walt Handelsman by Walt Handelsman for Aug 4, 2018 " title="Walt Handelsman by Walt Handelsman for Aug 4, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Walt Handelsman by Walt Handelsman for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b3397490791501364a45005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/walthandelsman/2018/05/26</guid>
             <pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6fea8ab043a601363657005056a9545d" alt="Walt Handelsman by Walt Handelsman for May 26, 2018 " title="Walt Handelsman by Walt Handelsman for May 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Walt Handelsman by Walt Handelsman for May 25, 2018 ]]></title>
-            <link>https://www.gocomics.com/walthandelsman/2018/05/25</link>
-            <guid>https://www.gocomics.com/walthandelsman/2018/05/25</guid>
-            <pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/6ebf9d9043a601363657005056a9545d" alt="Walt Handelsman by Walt Handelsman for May 25, 2018 " title="Walt Handelsman by Walt Handelsman for May 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
