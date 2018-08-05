@@ -4,7 +4,7 @@
         <title>Home and Away</title>
         <link>https://www.comicsrss.com/preview/homeandaway</link>
         <description>Home and Away by Steve Sicula</description>
-        <lastBuildDate>Sat, 04 Aug 2018 06:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Aug 2018 06:33:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Sicula</copyright>
         <atom:link href="https://www.comicsrss.com/rss/homeandaway.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home and Away by Steve Sicula for Aug 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/55c75920506d012e126700163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/55c75920506d012e126700163e41dd5b.html</guid>
+            <pubDate>Sun, 05 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/55c75920506d012e126700163e41dd5b" alt="Home and Away by Steve Sicula for Aug 5, 2018 " title="Home and Away by Steve Sicula for Aug 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Home and Away by Steve Sicula for Aug 4, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/83b49ca0533c012ee3b500163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/b347e5703a6e012e126700163e41dd5b.html</guid>
             <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b347e5703a6e012e126700163e41dd5b" alt="Home and Away by Steve Sicula for Jul 12, 2018 " title="Home and Away by Steve Sicula for Jul 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Home and Away by Steve Sicula for Jul 11, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b6537be03a6e012e126700163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b6537be03a6e012e126700163e41dd5b.html</guid>
-            <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b6537be03a6e012e126700163e41dd5b" alt="Home and Away by Steve Sicula for Jul 11, 2018 " title="Home and Away by Steve Sicula for Jul 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

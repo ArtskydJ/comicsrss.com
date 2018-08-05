@@ -4,7 +4,7 @@
         <title>Ask a Cat</title>
         <link>https://www.comicsrss.com/preview/ask-a-cat</link>
         <description>Ask a Cat by Charles Brubaker</description>
-        <lastBuildDate>Sat, 04 Aug 2018 06:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Aug 2018 06:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charles Brubaker</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ask-a-cat.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ask a Cat by Charles Brubaker for Aug 5, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/2a55f2c0da2001350e66005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/2a55f2c0da2001350e66005056a9545d.html</guid>
+            <pubDate>Sun, 05 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2a55f2c0da2001350e66005056a9545d" alt="Ask a Cat by Charles Brubaker for Aug 5, 2018 " title="Ask a Cat by Charles Brubaker for Aug 5, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ask a Cat by Charles Brubaker for Jul 29, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/62723b40d5f101350c93005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/ask-a-cat/2018/03/18</guid>
             <pubDate>Sun, 18 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/e775da706ff90135e7b3005056a9545d" alt="Ask a Cat by Charles Brubaker for Mar 18, 2018 " title="Ask a Cat by Charles Brubaker for Mar 18, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ask a Cat by Charles Brubaker for Mar 11, 2018 ]]></title>
-            <link>http://www.gocomics.com/ask-a-cat/2018/03/11</link>
-            <guid>http://www.gocomics.com/ask-a-cat/2018/03/11</guid>
-            <pubDate>Sun, 11 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/ea25d1706ff90135e7b3005056a9545d" alt="Ask a Cat by Charles Brubaker for Mar 11, 2018 " title="Ask a Cat by Charles Brubaker for Mar 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
