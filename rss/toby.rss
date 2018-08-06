@@ -4,7 +4,7 @@
         <title>TOBY</title>
         <link>https://www.comicsrss.com/preview/toby</link>
         <description>TOBY by Corey Pandolph</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Corey Pandolph</copyright>
         <atom:link href="https://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TOBY by Corey Pandolph for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/d0273aa3e753566c2187785d6c52e6cc.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/d0273aa3e753566c2187785d6c52e6cc.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/d0273aa3e753566c2187785d6c52e6cc" alt="TOBY by Corey Pandolph for Aug 6, 2018 " title="TOBY by Corey Pandolph for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[TOBY by Corey Pandolph for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/67b69b64e6188c76b2b2b5e0811d1340.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/cd4028ec900f2bb369e2a2023ed4082e.html</guid>
             <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cd4028ec900f2bb369e2a2023ed4082e" alt="TOBY by Corey Pandolph for Jun 11, 2018 " title="TOBY by Corey Pandolph for Jun 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TOBY by Corey Pandolph for Jun 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/f0199acb7063ec4fbdcfb292c245d0b3.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/f0199acb7063ec4fbdcfb292c245d0b3.html</guid>
-            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/f0199acb7063ec4fbdcfb292c245d0b3" alt="TOBY by Corey Pandolph for Jun 8, 2018 " title="TOBY by Corey Pandolph for Jun 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

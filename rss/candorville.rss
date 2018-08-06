@@ -4,7 +4,7 @@
         <title>Candorville</title>
         <link>https://www.comicsrss.com/preview/candorville</link>
         <description>Candorville by Darrin Bell</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Darrin Bell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/candorville.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Candorville by Darrin Bell for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7e066e6077d00136499f005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7e066e6077d00136499f005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7e066e6077d00136499f005056a9545d" alt="Candorville by Darrin Bell for Aug 6, 2018 " title="Candorville by Darrin Bell for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Candorville by Darrin Bell for Aug 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/56a314f068e20136443e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/1270f350605f013640d0005056a9545d.html</guid>
             <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/1270f350605f013640d0005056a9545d" alt="Candorville by Darrin Bell for Jul 13, 2018 " title="Candorville by Darrin Bell for Jul 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Candorville by Darrin Bell for Jul 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/0cfb77d0605f013640d0005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/0cfb77d0605f013640d0005056a9545d.html</guid>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/0cfb77d0605f013640d0005056a9545d" alt="Candorville by Darrin Bell for Jul 12, 2018 " title="Candorville by Darrin Bell for Jul 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

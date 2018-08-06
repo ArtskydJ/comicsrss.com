@@ -4,7 +4,7 @@
         <title>Annie</title>
         <link>https://www.comicsrss.com/preview/annie</link>
         <description>Annie by Jay Maeder and Alan Kupperberg</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jay Maeder and Alan Kupperberg</copyright>
         <atom:link href="https://www.comicsrss.com/rss/annie.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/1b6597506343012ee3c300163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/1b6597506343012ee3c300163e41dd5b.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1b6597506343012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for Aug 6, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for Aug 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/737677b06367012ee3c300163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/ef0ced006361012ee3c300163e41dd5b.html</guid>
             <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ef0ced006361012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for Jul 13, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for Jul 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Annie by Jay Maeder and Alan Kupperberg for Jul 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/26e6c0c0636f012ee3c300163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/26e6c0c0636f012ee3c300163e41dd5b.html</guid>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/26e6c0c0636f012ee3c300163e41dd5b" alt="Annie by Jay Maeder and Alan Kupperberg for Jul 12, 2018 " title="Annie by Jay Maeder and Alan Kupperberg for Jul 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Berkeley Mews</title>
         <link>https://www.comicsrss.com/preview/berkeley-mews</link>
         <description>Berkeley Mews by Ben Zaehringer</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ben Zaehringer</copyright>
         <atom:link href="https://www.comicsrss.com/rss/berkeley-mews.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Berkeley Mews by Ben Zaehringer for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/673ee89078ad01364a0b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/673ee89078ad01364a0b005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/673ee89078ad01364a0b005056a9545d" alt="Berkeley Mews by Ben Zaehringer for Aug 6, 2018 " title="Berkeley Mews by Ben Zaehringer for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Berkeley Mews by Ben Zaehringer for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/b322097071120136470a005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>http://www.gocomics.com/berkeley-mews/2018/03/26</guid>
             <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/c01b988009410136203c005056a9545d" alt="Berkeley Mews by Ben Zaehringer for Mar 26, 2018 " title="Berkeley Mews by Ben Zaehringer for Mar 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Berkeley Mews by Ben Zaehringer for Mar 19, 2018 ]]></title>
-            <link>http://www.gocomics.com/berkeley-mews/2018/03/19</link>
-            <guid>http://www.gocomics.com/berkeley-mews/2018/03/19</guid>
-            <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/00d8279007e801361f97005056a9545d" alt="Berkeley Mews by Ben Zaehringer for Mar 19, 2018 " title="Berkeley Mews by Ben Zaehringer for Mar 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

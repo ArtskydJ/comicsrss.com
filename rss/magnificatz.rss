@@ -4,7 +4,7 @@
         <title>Magnificatz</title>
         <link>https://www.comicsrss.com/preview/magnificatz</link>
         <description>Magnificatz by Steve Ogden</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve Ogden</copyright>
         <atom:link href="https://www.comicsrss.com/rss/magnificatz.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magnificatz by Steve Ogden for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/7bcd82607b4e01364ace005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/7bcd82607b4e01364ace005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7bcd82607b4e01364ace005056a9545d" alt="Magnificatz by Steve Ogden for Aug 6, 2018 " title="Magnificatz by Steve Ogden for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Magnificatz by Steve Ogden for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/cff785707840013649e5005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/5975d0905a4901363e71005056a9545d.html</guid>
             <pubDate>Sat, 30 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/5975d0905a4901363e71005056a9545d" alt="Magnificatz by Steve Ogden for Jun 30, 2018 " title="Magnificatz by Steve Ogden for Jun 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Magnificatz by Steve Ogden for Jun 29, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/4ff45d905a4901363e71005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/4ff45d905a4901363e71005056a9545d.html</guid>
-            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4ff45d905a4901363e71005056a9545d" alt="Magnificatz by Steve Ogden for Jun 29, 2018 " title="Magnificatz by Steve Ogden for Jun 29, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

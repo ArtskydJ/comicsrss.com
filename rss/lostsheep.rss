@@ -4,7 +4,7 @@
         <title>Lost Sheep</title>
         <link>https://www.comicsrss.com/preview/lostsheep</link>
         <description>Lost Sheep by Dan Thompson</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/lostsheep.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lost Sheep by Dan Thompson for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/a5c08b605f6201364084005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/a5c08b605f6201364084005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a5c08b605f6201364084005056a9545d" alt="Lost Sheep by Dan Thompson for Aug 6, 2018 " title="Lost Sheep by Dan Thompson for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Lost Sheep by Dan Thompson for Aug 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a0d988005f6201364084005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/6b6c51405f6201364084005056a9545d.html</guid>
             <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6b6c51405f6201364084005056a9545d" alt="Lost Sheep by Dan Thompson for Jul 13, 2018 " title="Lost Sheep by Dan Thompson for Jul 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lost Sheep by Dan Thompson for Jul 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/8c475fe05f6201364084005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/8c475fe05f6201364084005056a9545d.html</guid>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/8c475fe05f6201364084005056a9545d" alt="Lost Sheep by Dan Thompson for Jul 12, 2018 " title="Lost Sheep by Dan Thompson for Jul 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

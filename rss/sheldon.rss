@@ -4,7 +4,7 @@
         <title>Sheldon</title>
         <link>https://www.comicsrss.com/preview/sheldon</link>
         <description>Sheldon by Dave Kellett</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dave Kellett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/sheldon.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sheldon by Dave Kellett for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/96331200345601363075005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/96331200345601363075005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/96331200345601363075005056a9545d" alt="Sheldon by Dave Kellett for Aug 6, 2018 " title="Sheldon by Dave Kellett for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Sheldon by Dave Kellett for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/977efb90345601363075005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/6f64dd90344c0136306d005056a9545d.html</guid>
             <pubDate>Mon, 11 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6f64dd90344c0136306d005056a9545d" alt="Sheldon by Dave Kellett for Jun 11, 2018 " title="Sheldon by Dave Kellett for Jun 11, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sheldon by Dave Kellett for Jun 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/64818080344c0136306d005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/64818080344c0136306d005056a9545d.html</guid>
-            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/64818080344c0136306d005056a9545d" alt="Sheldon by Dave Kellett for Jun 8, 2018 " title="Sheldon by Dave Kellett for Jun 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

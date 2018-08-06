@@ -4,7 +4,7 @@
         <title>Bliss</title>
         <link>https://www.comicsrss.com/preview/bliss</link>
         <description>Bliss by Harry Bliss</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Harry Bliss</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bliss.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bliss by Harry Bliss for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e2092910797f01364a72005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e2092910797f01364a72005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e2092910797f01364a72005056a9545d" alt="Bliss by Harry Bliss for Aug 6, 2018 " title="Bliss by Harry Bliss for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bliss by Harry Bliss for Aug 4, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/c6cdf9f074310136487f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/c842268062b5013641d4005056a9545d.html</guid>
             <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/c842268062b5013641d4005056a9545d" alt="Bliss by Harry Bliss for Jul 9, 2018 " title="Bliss by Harry Bliss for Jul 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bliss by Harry Bliss for Jul 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/093a05605e3101364053005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/093a05605e3101364053005056a9545d.html</guid>
-            <pubDate>Sat, 07 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/093a05605e3101364053005056a9545d" alt="Bliss by Harry Bliss for Jul 7, 2018 " title="Bliss by Harry Bliss for Jul 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

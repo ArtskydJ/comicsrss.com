@@ -4,7 +4,7 @@
         <title>Making It</title>
         <link>https://www.comicsrss.com/preview/making-it</link>
         <description>Making It by Keith Robinson</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith Robinson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/making-it.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making It by Keith Robinson for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/e5e0cec02bd801313e43001dd8b71c47.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/e5e0cec02bd801313e43001dd8b71c47.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e5e0cec02bd801313e43001dd8b71c47" alt="Making It by Keith Robinson for Aug 6, 2018 " title="Making It by Keith Robinson for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Making It by Keith Robinson for Aug 2, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/a9deaa502f2b01314108001dd8b71c47.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.gocomics.com/making-it/2018/05/14</guid>
             <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/55908d80fe30013019d8001dd8b71c47" alt="Making It by Keith Robinson for May 14, 2018 " title="Making It by Keith Robinson for May 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Making It by Keith Robinson for May 10, 2018 ]]></title>
-            <link>https://www.gocomics.com/making-it/2018/05/10</link>
-            <guid>https://www.gocomics.com/making-it/2018/05/10</guid>
-            <pubDate>Thu, 10 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/559aa6b0fe30013019d8001dd8b71c47" alt="Making It by Keith Robinson for May 10, 2018 " title="Making It by Keith Robinson for May 10, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

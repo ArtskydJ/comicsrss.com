@@ -4,7 +4,7 @@
         <title>Flo and Friends</title>
         <link>https://www.comicsrss.com/preview/floandfriends</link>
         <description>Flo and Friends by Jenny Campbell</description>
-        <lastBuildDate>Sun, 05 Aug 2018 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Aug 2018 06:36:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jenny Campbell</copyright>
         <atom:link href="https://www.comicsrss.com/rss/floandfriends.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flo and Friends by Jenny Campbell for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/fixfeedlyscraper/95b8d4d0797f01364a72005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/fixfeedlyscraper/95b8d4d0797f01364a72005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/95b8d4d0797f01364a72005056a9545d" alt="Flo and Friends by Jenny Campbell for Aug 6, 2018 " title="Flo and Friends by Jenny Campbell for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Flo and Friends by Jenny Campbell for Aug 5, 2018 ]]></title>
             <link>https://www.comicsrss.com/fixfeedlyscraper/e70f50607563013648ac005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/fixfeedlyscraper/a6323c1062b5013641d4005056a9545d.html</guid>
             <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/a6323c1062b5013641d4005056a9545d" alt="Flo and Friends by Jenny Campbell for Jul 13, 2018 " title="Flo and Friends by Jenny Campbell for Jul 13, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Flo and Friends by Jenny Campbell for Jul 12, 2018 ]]></title>
-            <link>https://www.comicsrss.com/fixfeedlyscraper/b210c79062b5013641d4005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/fixfeedlyscraper/b210c79062b5013641d4005056a9545d.html</guid>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/b210c79062b5013641d4005056a9545d" alt="Flo and Friends by Jenny Campbell for Jul 12, 2018 " title="Flo and Friends by Jenny Campbell for Jul 12, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
