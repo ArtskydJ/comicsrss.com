@@ -1,5 +1,6 @@
 var Feed = require('feed')
 var crypto = require('crypto')
+var generateRssFeedItemFromComicStrip = require('./generate-rss-feed-item-from-comic-strip.js')
 
 module.exports = function (comicObject) {
 	if (!comicObject || !comicObject.comicStrips || !comicObject.comicStrips.length) {
@@ -24,12 +25,13 @@ module.exports = function (comicObject) {
 		var comicStripDate = new Date(comicStrip.date)
 
 		var uniqueString = comicStrip.comicImageUrl.split('/').pop()
-		var comicStripLink = 'https://www.comicsrss.com/rssitemcontent/' +
-			uniqueString.slice(0, 3) + '/' + uniqueString + '.html'
+		var comicStripLink = comicStripDate >= new Date('2018-08-08') ? 
+			'https://www.comicsrss.com/rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html' : // new
+			'https://www.comicsrss.com/rssitemcontent/' + uniqueString.slice(0, 3) + '/' + uniqueString + '.html' // old
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
 			link: comicStripLink,
-			description: generateHtml(comicStrip),
+			description: generateRssFeedItemFromComicStrip(comicStrip),
 			author: [{ name: feedAuthor }],
 			date: comicStripDate,
 			// Unfortunately, if the link changes, so will the ID.
@@ -46,8 +48,4 @@ function makeId(str) {
 	hasher.update(str)
 	var hash = hasher.digest('hex')
 	return hash.replace(/(.{8})(.{4})(.{4})(.{4})(.{12})/, '$1-$2-$3-$4-$5')
-}
-
-function generateHtml(comicStrip) {
-	return '<img src="' + comicStrip.comicImageUrl + '" alt="' + comicStrip.titleAuthorDate + '" title="' + comicStrip.titleAuthorDate + '">'
 }
