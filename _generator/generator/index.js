@@ -4,6 +4,7 @@ var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-obj
 var generatePreviewPageFromComicObject = require('./generate-preview-page-from-comic-object.js')
 var generateMainPageFromComicObjects = require('./generate-main-page-from-comic-objects.js')
 var comicObjects = require('../tmp/_comic-objects')
+var rssitemcontentTemplate = fs.readFileSync('./template/rssitemcontent-template.html')
 
 function writeFilesFromComicObjects(comicObjects) {
 	comicObjects = comicObjects.filter(Boolean)
@@ -20,7 +21,10 @@ function writeFilesFromComicObjects(comicObjects) {
 		writeFile('../../preview/' + comicObject.basename + '.html', previewPage)
 
 		comicObject.comicStrips.slice(0, 5).forEach(function (comicStrip) {
-			writeFile('../../fixfeedlyscraper/' + comicStrip.comicImageUrl.split('/').pop() + '.html', `<img src="${comicStrip.comicImageUrl}">`)
+			var uniqueString = comicStrip.comicImageUrl.split('/').pop()
+			var filename = '../../rssitemcontent/' + uniqueString.slice(0, 3) + '/' + uniqueString + '.html'
+			var rssitemcontent = rssitemcontentTemplate.replace(/<!-- COMIC IMAGE URL -->/, comicStrip.comicImageUrl)
+			writeFile(filename, rssitemcontent)
 		})
 	})
 }

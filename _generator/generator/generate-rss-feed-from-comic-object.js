@@ -23,9 +23,9 @@ module.exports = function (comicObject) {
 	comicObject.comicStrips.forEach(function (comicStrip) {
 		var comicStripDate = new Date(comicStrip.date)
 
-		var comicStripLink = comicStripDate < new Date('2018-06-05T05:00:00.000Z') ?
-			comicStrip.url : // old link (required because the rss module doesn't seem to honor the `id` field)
-			'https://www.comicsrss.com/fixfeedlyscraper/' + comicStrip.comicImageUrl.split('/').pop() + '.html' // new link
+		var uniqueString = comicStrip.comicImageUrl.split('/').pop()
+		var comicStripLink = 'https://www.comicsrss.com/rssitemcontent/' +
+			uniqueString.slice(0, 3) + '/' + uniqueString + '.html'
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
 			link: comicStripLink,
