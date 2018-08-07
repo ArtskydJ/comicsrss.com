@@ -4,7 +4,7 @@
         <title>Ballard Street</title>
         <link>https://www.comicsrss.com/preview/ballardstreet</link>
         <description>Ballard Street by Jerry Van Amerongen</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Van Amerongen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/ballardstreet.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ballard Street by Jerry Van Amerongen for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/a6a/a6a08d307564013648ac005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/a6a/a6a08d307564013648ac005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/a6a08d307564013648ac005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Aug 7, 2018 " title="Ballard Street by Jerry Van Amerongen for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Ballard Street by Jerry Van Amerongen for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/a89/a89f64007564013648ac005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/e1d/e1d9e9105f6301364083005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/e1d9e9105f6301364083005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jul 10, 2018 " title="Ballard Street by Jerry Van Amerongen for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ballard Street by Jerry Van Amerongen for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/e5c/e5ce82e05f6301364083005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/e5c/e5ce82e05f6301364083005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/e5ce82e05f6301364083005056a9545d" alt="Ballard Street by Jerry Van Amerongen for Jul 9, 2018 " title="Ballard Street by Jerry Van Amerongen for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

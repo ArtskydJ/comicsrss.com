@@ -4,7 +4,7 @@
         <title>9 to 5</title>
         <link>https://www.comicsrss.com/preview/9to5</link>
         <description>9 to 5 by Harley Schwadron</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Harley Schwadron</copyright>
         <atom:link href="https://www.comicsrss.com/rss/9to5.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[9 to 5 by Harley Schwadron for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/178/1786e65063150136420a005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/178/1786e65063150136420a005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/1786e65063150136420a005056a9545d" alt="9 to 5 by Harley Schwadron for Aug 7, 2018 " title="9 to 5 by Harley Schwadron for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[9 to 5 by Harley Schwadron for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/0a8/0a834b2063150136420a005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/442/4423c2705b3901363ec9005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4423c2705b3901363ec9005056a9545d" alt="9 to 5 by Harley Schwadron for Jul 10, 2018 " title="9 to 5 by Harley Schwadron for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9 to 5 by Harley Schwadron for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/4aa/4aa876505b3901363ec9005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/4aa/4aa876505b3901363ec9005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4aa876505b3901363ec9005056a9545d" alt="9 to 5 by Harley Schwadron for Jul 9, 2018 " title="9 to 5 by Harley Schwadron for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Geech</title>
         <link>https://www.comicsrss.com/preview/geech</link>
         <description>Geech by Jerry Bittle</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Jerry Bittle</copyright>
         <atom:link href="https://www.comicsrss.com/rss/geech.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Geech by Jerry Bittle for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/c98/c989db303986012f2fd000163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/c98/c989db303986012f2fd000163e41dd5b.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c989db303986012f2fd000163e41dd5b" alt="Geech by Jerry Bittle for Aug 7, 2018 " title="Geech by Jerry Bittle for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Geech by Jerry Bittle for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/0fa/0fabe82099ed012e2f8200163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/bd9/bd9adeb099ed012e2f8200163e41dd5b.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/bd9adeb099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jul 14, 2018 " title="Geech by Jerry Bittle for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Geech by Jerry Bittle for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/d7b/d7b119b099ed012e2f8200163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/d7b/d7b119b099ed012e2f8200163e41dd5b.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d7b119b099ed012e2f8200163e41dd5b" alt="Geech by Jerry Bittle for Jul 13, 2018 " title="Geech by Jerry Bittle for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

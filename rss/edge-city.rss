@@ -4,7 +4,7 @@
         <title>Edge City</title>
         <link>https://www.comicsrss.com/preview/edge-city</link>
         <description>Edge City by Terry and Patty LaBan</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Terry and Patty LaBan</copyright>
         <atom:link href="https://www.comicsrss.com/rss/edge-city.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Edge City by Terry and Patty LaBan for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/c26/c2646b10ccc40135096b005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/c26/c2646b10ccc40135096b005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/c2646b10ccc40135096b005056a9545d" alt="Edge City by Terry and Patty LaBan for Aug 7, 2018 " title="Edge City by Terry and Patty LaBan for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Edge City by Terry and Patty LaBan for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/b5b/b5b16fb0ccc40135096b005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/cac/cac5d330ccc40135096b005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/cac5d330ccc40135096b005056a9545d" alt="Edge City by Terry and Patty LaBan for Jul 14, 2018 " title="Edge City by Terry and Patty LaBan for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Edge City by Terry and Patty LaBan for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/d24/d2475ac0ccc40135096b005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/d24/d2475ac0ccc40135096b005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/d2475ac0ccc40135096b005056a9545d" alt="Edge City by Terry and Patty LaBan for Jul 13, 2018 " title="Edge City by Terry and Patty LaBan for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

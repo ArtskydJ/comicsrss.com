@@ -4,7 +4,7 @@
         <title>Nancy Classics</title>
         <link>https://www.comicsrss.com/preview/nancy-classics</link>
         <description>Nancy Classics by Ernie Bushmiller</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Ernie Bushmiller</copyright>
         <atom:link href="https://www.comicsrss.com/rss/nancy-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nancy Classics by Ernie Bushmiller for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/479/47988ce02e580133015e005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/479/47988ce02e580133015e005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/47988ce02e580133015e005056a9545d" alt="Nancy Classics by Ernie Bushmiller for Aug 7, 2018 " title="Nancy Classics by Ernie Bushmiller for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Nancy Classics by Ernie Bushmiller for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/6e2/6e2ebc702e580133015e005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/123/123648302e580133015e005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/123648302e580133015e005056a9545d" alt="Nancy Classics by Ernie Bushmiller for Jul 10, 2018 " title="Nancy Classics by Ernie Bushmiller for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Classics by Ernie Bushmiller for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/7fc/7fc756002e580133015e005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/7fc/7fc756002e580133015e005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7fc756002e580133015e005056a9545d" alt="Nancy Classics by Ernie Bushmiller for Jul 9, 2018 " title="Nancy Classics by Ernie Bushmiller for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

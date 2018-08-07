@@ -4,7 +4,7 @@
         <title>Dilbert en Español</title>
         <link>https://www.comicsrss.com/preview/dilbert-en-espanol</link>
         <description>Dilbert en Español by Scott Adams</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Scott Adams</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dilbert-en-espanol.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dilbert en Español by Scott Adams for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/626/626753e077c901364996005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/626/626753e077c901364996005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/626753e077c901364996005056a9545d" alt="Dilbert en Español by Scott Adams for Aug 7, 2018 " title="Dilbert en Español by Scott Adams for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dilbert en Español by Scott Adams for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/5ff/5ff0b7e077c901364996005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/06d/06d7d1f0610c01364123005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/06d7d1f0610c01364123005056a9545d" alt="Dilbert en Español by Scott Adams for Jul 14, 2018 " title="Dilbert en Español by Scott Adams for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dilbert en Español by Scott Adams for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/04f/04fcda10610c01364123005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/04f/04fcda10610c01364123005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/04fcda10610c01364123005056a9545d" alt="Dilbert en Español by Scott Adams for Jul 13, 2018 " title="Dilbert en Español by Scott Adams for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

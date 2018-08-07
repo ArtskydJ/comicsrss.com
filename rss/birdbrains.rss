@@ -4,7 +4,7 @@
         <title>Birdbrains</title>
         <link>https://www.comicsrss.com/preview/birdbrains</link>
         <description>Birdbrains by Thom Bluemel</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Thom Bluemel</copyright>
         <atom:link href="https://www.comicsrss.com/rss/birdbrains.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Birdbrains by Thom Bluemel for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/7b6/7b657dc077ea013649b0005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/7b6/7b657dc077ea013649b0005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/7b657dc077ea013649b0005056a9545d" alt="Birdbrains by Thom Bluemel for Aug 7, 2018 " title="Birdbrains by Thom Bluemel for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Birdbrains by Thom Bluemel for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/7a7/7a7e1ca077ea013649b0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/7db/7db15620685001364410005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/7db15620685001364410005056a9545d" alt="Birdbrains by Thom Bluemel for Jul 14, 2018 " title="Birdbrains by Thom Bluemel for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Birdbrains by Thom Bluemel for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/7e9/7e9b57f0685001364410005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/7e9/7e9b57f0685001364410005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/7e9b57f0685001364410005056a9545d" alt="Birdbrains by Thom Bluemel for Jul 13, 2018 " title="Birdbrains by Thom Bluemel for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Motley Classics</title>
         <link>https://www.comicsrss.com/preview/motley-classics</link>
         <description>Motley Classics by Larry Wright</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Larry Wright</copyright>
         <atom:link href="https://www.comicsrss.com/rss/motley-classics.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Motley Classics by Larry Wright for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/cef/cefc68f08be4012ee3c400163e41dd5b.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/cef/cefc68f08be4012ee3c400163e41dd5b.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/cefc68f08be4012ee3c400163e41dd5b" alt="Motley Classics by Larry Wright for Aug 7, 2018 " title="Motley Classics by Larry Wright for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Motley Classics by Larry Wright for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/252/2528e5208c08012ee3c400163e41dd5b.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/410/4108aa308bf7012ee3c400163e41dd5b.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/4108aa308bf7012ee3c400163e41dd5b" alt="Motley Classics by Larry Wright for Jul 10, 2018 " title="Motley Classics by Larry Wright for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Motley Classics by Larry Wright for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/9ab/9ab778008be4012ee3c400163e41dd5b.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/9ab/9ab778008be4012ee3c400163e41dd5b.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9ab778008be4012ee3c400163e41dd5b" alt="Motley Classics by Larry Wright for Jul 9, 2018 " title="Motley Classics by Larry Wright for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Thin Lines</title>
         <link>https://www.comicsrss.com/preview/thinlines</link>
         <description>Thin Lines by Randy Glasbergen</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Randy Glasbergen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/thinlines.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thin Lines by Randy Glasbergen for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/e08/e08566207ba101364ae2005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/e08/e08566207ba101364ae2005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/e08566207ba101364ae2005056a9545d" alt="Thin Lines by Randy Glasbergen for Aug 6, 2018 " title="Thin Lines by Randy Glasbergen for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Thin Lines by Randy Glasbergen for Jul 30, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/ab8/ab81da907636013648dc005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/3f4/3f4edc7011f501362397005056a9545d.html</guid>
             <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/3f4edc7011f501362397005056a9545d" alt="Thin Lines by Randy Glasbergen for Mar 26, 2018 " title="Thin Lines by Randy Glasbergen for Mar 26, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thin Lines by Randy Glasbergen for Mar 19, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/06a/06adfe200da7013621c1005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/06a/06adfe200da7013621c1005056a9545d.html</guid>
-            <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/06adfe200da7013621c1005056a9545d" alt="Thin Lines by Randy Glasbergen for Mar 19, 2018 " title="Thin Lines by Randy Glasbergen for Mar 19, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

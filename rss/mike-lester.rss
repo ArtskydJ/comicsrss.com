@@ -4,7 +4,7 @@
         <title>Mike Lester</title>
         <link>https://www.comicsrss.com/preview/mike-lester</link>
         <description>Mike Lester by Mike Lester</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Mike Lester</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mike-lester.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike Lester by Mike Lester for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/db8/db8e1a607bdf01364afe005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/db8/db8e1a607bdf01364afe005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/db8e1a607bdf01364afe005056a9545d" alt="Mike Lester by Mike Lester for Aug 6, 2018 " title="Mike Lester by Mike Lester for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Mike Lester by Mike Lester for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/1bc/1bcd7d90795201364a52005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/3c5/3c5f9c004e4c01363a44005056a9545d.html</guid>
             <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/3c5f9c004e4c01363a44005056a9545d" alt="Mike Lester by Mike Lester for Jun 9, 2018 " title="Mike Lester by Mike Lester for Jun 9, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mike Lester by Mike Lester for Jun 7, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/a24/a249acb04c870136399a005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/a24/a249acb04c870136399a005056a9545d.html</guid>
-            <pubDate>Thu, 07 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/a249acb04c870136399a005056a9545d" alt="Mike Lester by Mike Lester for Jun 7, 2018 " title="Mike Lester by Mike Lester for Jun 7, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

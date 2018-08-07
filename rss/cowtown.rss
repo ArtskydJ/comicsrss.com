@@ -4,7 +4,7 @@
         <title>CowTown</title>
         <link>https://www.comicsrss.com/preview/cowtown</link>
         <description>CowTown by Charlie Podrebarac</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Charlie Podrebarac</copyright>
         <atom:link href="https://www.comicsrss.com/rss/cowtown.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CowTown by Charlie Podrebarac for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/959/959ba7c07a3d01364aa9005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/959/959ba7c07a3d01364aa9005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/959ba7c07a3d01364aa9005056a9545d" alt="CowTown by Charlie Podrebarac for Aug 7, 2018 " title="CowTown by Charlie Podrebarac for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[CowTown by Charlie Podrebarac for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/98d/98d16a907a3d01364aa9005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/b6c/b6cd7840699d0136448c005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/b6cd7840699d0136448c005056a9545d" alt="CowTown by Charlie Podrebarac for Jul 14, 2018 " title="CowTown by Charlie Podrebarac for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CowTown by Charlie Podrebarac for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/382/3822452066a901364327005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/382/3822452066a901364327005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/3822452066a901364327005056a9545d" alt="CowTown by Charlie Podrebarac for Jul 13, 2018 " title="CowTown by Charlie Podrebarac for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

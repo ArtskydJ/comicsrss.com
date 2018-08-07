@@ -4,7 +4,7 @@
         <title>The Knight Life</title>
         <link>https://www.comicsrss.com/preview/theknightlife</link>
         <description>The Knight Life by Keith Knight</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Keith Knight</copyright>
         <atom:link href="https://www.comicsrss.com/rss/theknightlife.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Knight Life by Keith Knight for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/ac9/ac9fc6a0770501364932005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/ac9/ac9fc6a0770501364932005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ac9fc6a0770501364932005056a9545d" alt="The Knight Life by Keith Knight for Aug 7, 2018 " title="The Knight Life by Keith Knight for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[The Knight Life by Keith Knight for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/aa1/aa142c60770501364932005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/6e5/6e51bf1061060136411b005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/6e51bf1061060136411b005056a9545d" alt="The Knight Life by Keith Knight for Jul 14, 2018 " title="The Knight Life by Keith Knight for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Knight Life by Keith Knight for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/c7d/c7dc23d0610301364118005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/c7d/c7dc23d0610301364118005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/c7dc23d0610301364118005056a9545d" alt="The Knight Life by Keith Knight for Jul 13, 2018 " title="The Knight Life by Keith Knight for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

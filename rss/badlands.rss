@@ -4,7 +4,7 @@
         <title>Badlands</title>
         <link>https://www.comicsrss.com/preview/badlands</link>
         <description>Badlands by Steve McGarry</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Steve McGarry</copyright>
         <atom:link href="https://www.comicsrss.com/rss/badlands.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Badlands by Steve McGarry for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/3dd/3dddc7b07b5201364ad0005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/3dd/3dddc7b07b5201364ad0005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/3dddc7b07b5201364ad0005056a9545d" alt="Badlands by Steve McGarry for Aug 7, 2018 " title="Badlands by Steve McGarry for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Badlands by Steve McGarry for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/407/4078aa007b5201364ad0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/bc9/bc9e188033f301363050005056a9545d.html</guid>
             <pubDate>Sat, 12 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/bc9e188033f301363050005056a9545d" alt="Badlands by Steve McGarry for May 12, 2018 " title="Badlands by Steve McGarry for May 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Badlands by Steve McGarry for May 11, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/bed/bed546e033f301363050005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/bed/bed546e033f301363050005056a9545d.html</guid>
-            <pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/bed546e033f301363050005056a9545d" alt="Badlands by Steve McGarry for May 11, 2018 " title="Badlands by Steve McGarry for May 11, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

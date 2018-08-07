@@ -4,7 +4,7 @@
         <title>Broom Hilda</title>
         <link>https://www.comicsrss.com/preview/broomhilda</link>
         <description>Broom Hilda by Russell Myers</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Russell Myers</copyright>
         <atom:link href="https://www.comicsrss.com/rss/broomhilda.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Broom Hilda by Russell Myers for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/b26/b268d3e05ccb01363f90005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/b26/b268d3e05ccb01363f90005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/b268d3e05ccb01363f90005056a9545d" alt="Broom Hilda by Russell Myers for Aug 7, 2018 " title="Broom Hilda by Russell Myers for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Broom Hilda by Russell Myers for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/ab9/ab979a605ccb01363f90005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/ebd/ebdf9d504ab8013638b9005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/ebdf9d504ab8013638b9005056a9545d" alt="Broom Hilda by Russell Myers for Jul 14, 2018 " title="Broom Hilda by Russell Myers for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Broom Hilda by Russell Myers for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/fc1/fc1909104ab8013638b9005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/fc1/fc1909104ab8013638b9005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/fc1909104ab8013638b9005056a9545d" alt="Broom Hilda by Russell Myers for Jul 13, 2018 " title="Broom Hilda by Russell Myers for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

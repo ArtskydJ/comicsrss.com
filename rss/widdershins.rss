@@ -4,7 +4,7 @@
         <title>Widdershins</title>
         <link>https://www.comicsrss.com/preview/widdershins</link>
         <description>Widdershins by Kate Ashwin</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Kate Ashwin</copyright>
         <atom:link href="https://www.comicsrss.com/rss/widdershins.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Widdershins by Kate Ashwin for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/5f4/5f4640400ff8013622da005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/5f4/5f4640400ff8013622da005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5f4640400ff8013622da005056a9545d" alt="Widdershins by Kate Ashwin for Aug 7, 2018 " title="Widdershins by Kate Ashwin for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Widdershins by Kate Ashwin for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/4e6/4e6668a00ff8013622da005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/846/846dd0e00ff8013622da005056a9545d.html</guid>
             <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/846dd0e00ff8013622da005056a9545d" alt="Widdershins by Kate Ashwin for Jul 4, 2018 " title="Widdershins by Kate Ashwin for Jul 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Widdershins by Kate Ashwin for Jul 3, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/797/797b43a00ff8013622da005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/797/797b43a00ff8013622da005056a9545d.html</guid>
-            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/797b43a00ff8013622da005056a9545d" alt="Widdershins by Kate Ashwin for Jul 3, 2018 " title="Widdershins by Kate Ashwin for Jul 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

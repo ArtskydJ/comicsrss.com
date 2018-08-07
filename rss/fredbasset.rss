@@ -4,7 +4,7 @@
         <title>Fred Basset</title>
         <link>https://www.comicsrss.com/preview/fredbasset</link>
         <description>Fred Basset by Alex Graham</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Alex Graham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/fredbasset.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fred Basset by Alex Graham for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/221/22185970767601364900005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/221/22185970767601364900005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/22185970767601364900005056a9545d" alt="Fred Basset by Alex Graham for Aug 7, 2018 " title="Fred Basset by Alex Graham for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Fred Basset by Alex Graham for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/209/2090e8b0767601364900005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/9ee/9ee57b406075013640de005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/9ee57b406075013640de005056a9545d" alt="Fred Basset by Alex Graham for Jul 14, 2018 " title="Fred Basset by Alex Graham for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fred Basset by Alex Graham for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/9d7/9d7c08906075013640de005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/9d7/9d7c08906075013640de005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/9d7c08906075013640de005056a9545d" alt="Fred Basset by Alex Graham for Jul 13, 2018 " title="Fred Basset by Alex Graham for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

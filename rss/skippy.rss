@@ -4,7 +4,7 @@
         <title>Skippy</title>
         <link>https://www.comicsrss.com/preview/skippy</link>
         <description>Skippy by Percy Crosby</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Percy Crosby</copyright>
         <atom:link href="https://www.comicsrss.com/rss/skippy.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skippy by Percy Crosby for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/507/50783250135a013623f3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/507/50783250135a013623f3005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/50783250135a013623f3005056a9545d" alt="Skippy by Percy Crosby for Aug 7, 2018 " title="Skippy by Percy Crosby for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Skippy by Percy Crosby for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/ee2/ee2ee300135a013623f3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/aeb/aeb4a1c01361013623f3005056a9545d.html</guid>
             <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/aeb4a1c01361013623f3005056a9545d" alt="Skippy by Percy Crosby for Jul 4, 2018 " title="Skippy by Percy Crosby for Jul 4, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skippy by Percy Crosby for Jul 3, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/5c6/5c6eb3201359013623f3005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/5c6/5c6eb3201359013623f3005056a9545d.html</guid>
-            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/5c6eb3201359013623f3005056a9545d" alt="Skippy by Percy Crosby for Jul 3, 2018 " title="Skippy by Percy Crosby for Jul 3, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

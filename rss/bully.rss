@@ -4,7 +4,7 @@
         <title>Bully</title>
         <link>https://www.comicsrss.com/preview/bully</link>
         <description>Bully by Andrew Paavola</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Andrew Paavola</copyright>
         <atom:link href="https://www.comicsrss.com/rss/bully.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bully by Andrew Paavola for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/aa8/aa8bf53079d001364a99005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/aa8/aa8bf53079d001364a99005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/aa8bf53079d001364a99005056a9545d" alt="Bully by Andrew Paavola for Aug 7, 2018 " title="Bully by Andrew Paavola for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Bully by Andrew Paavola for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/b16/b16cecc079d001364a99005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/49e/49ea806063930136424b005056a9545d.html</guid>
             <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/49ea806063930136424b005056a9545d" alt="Bully by Andrew Paavola for Jul 10, 2018 " title="Bully by Andrew Paavola for Jul 10, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bully by Andrew Paavola for Jul 9, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/483/4833308063930136424b005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/483/4833308063930136424b005056a9545d.html</guid>
-            <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/4833308063930136424b005056a9545d" alt="Bully by Andrew Paavola for Jul 9, 2018 " title="Bully by Andrew Paavola for Jul 9, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

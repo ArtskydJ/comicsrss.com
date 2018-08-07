@@ -4,7 +4,7 @@
         <title>Periquita</title>
         <link>https://www.comicsrss.com/preview/periquita</link>
         <description>Periquita by Olivia Jaimes</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Olivia Jaimes</copyright>
         <atom:link href="https://www.comicsrss.com/rss/periquita.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Periquita by Olivia Jaimes for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/288/2884c1207811013649d3005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/288/2884c1207811013649d3005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/2884c1207811013649d3005056a9545d" alt="Periquita by Olivia Jaimes for Aug 7, 2018 " title="Periquita by Olivia Jaimes for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Periquita by Olivia Jaimes for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/26c/26c402707811013649d3005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/46f/46f5bc30614701364157005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/46f5bc30614701364157005056a9545d" alt="Periquita by Olivia Jaimes for Jul 14, 2018 " title="Periquita by Olivia Jaimes for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Periquita by Olivia Jaimes for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/45a/45a939b0614701364157005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/45a/45a939b0614701364157005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/45a939b0614701364157005056a9545d" alt="Periquita by Olivia Jaimes for Jul 13, 2018 " title="Periquita by Olivia Jaimes for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

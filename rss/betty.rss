@@ -4,7 +4,7 @@
         <title>Betty</title>
         <link>https://www.comicsrss.com/preview/betty</link>
         <description>Betty by Gary Delainey and Gerry Rasmussen</description>
-        <lastBuildDate>Tue, 07 Aug 2018 05:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Gary Delainey and Gerry Rasmussen</copyright>
         <atom:link href="https://www.comicsrss.com/rss/betty.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Betty by Gary Delainey and Gerry Rasmussen for Aug 7, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/ff5/ff595770763d013648e0005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/ff5/ff595770763d013648e0005056a9545d.html</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/ff595770763d013648e0005056a9545d" alt="Betty by Gary Delainey and Gerry Rasmussen for Aug 7, 2018 " title="Betty by Gary Delainey and Gerry Rasmussen for Aug 7, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Betty by Gary Delainey and Gerry Rasmussen for Aug 6, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/fdf/fdf51800763d013648e0005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/adb/adb147806045013640c0005056a9545d.html</guid>
             <pubDate>Sat, 14 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/adb147806045013640c0005056a9545d" alt="Betty by Gary Delainey and Gerry Rasmussen for Jul 14, 2018 " title="Betty by Gary Delainey and Gerry Rasmussen for Jul 14, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Betty by Gary Delainey and Gerry Rasmussen for Jul 13, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/13c/13ca00606047013640c2005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/13c/13ca00606047013640c2005056a9545d.html</guid>
-            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/13ca00606047013640c2005056a9545d" alt="Betty by Gary Delainey and Gerry Rasmussen for Jul 13, 2018 " title="Betty by Gary Delainey and Gerry Rasmussen for Jul 13, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
