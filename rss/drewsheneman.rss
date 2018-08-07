@@ -4,7 +4,7 @@
         <title>Drew Sheneman</title>
         <link>https://www.comicsrss.com/preview/drewsheneman</link>
         <description>Drew Sheneman by Drew Sheneman</description>
-        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 08:27:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Drew Sheneman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/drewsheneman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drew Sheneman by Drew Sheneman for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/5ea/5ea2dea07c3a01364b21005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/5ea/5ea2dea07c3a01364b21005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/5ea2dea07c3a01364b21005056a9545d" alt="Drew Sheneman by Drew Sheneman for Aug 6, 2018 " title="Drew Sheneman by Drew Sheneman for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Drew Sheneman by Drew Sheneman for Aug 3, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/ddc/ddcacb4079de01364a9f005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/410/410b81c0510201363b25005056a9545d.html</guid>
             <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://assets.amuniversal.com/410b81c0510201363b25005056a9545d" alt="Drew Sheneman by Drew Sheneman for Jun 12, 2018 " title="Drew Sheneman by Drew Sheneman for Jun 12, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Drew Sheneman by Drew Sheneman for Jun 8, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/961/961f47004ddd01363a36005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/961/961f47004ddd01363a36005056a9545d.html</guid>
-            <pubDate>Fri, 08 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://assets.amuniversal.com/961f47004ddd01363a36005056a9545d" alt="Drew Sheneman by Drew Sheneman for Jun 8, 2018 " title="Drew Sheneman by Drew Sheneman for Jun 8, 2018 ">]]></description>
         </item>
     </channel>
 </rss>

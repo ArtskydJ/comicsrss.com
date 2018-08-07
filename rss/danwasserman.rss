@@ -4,7 +4,7 @@
         <title>Dan Wasserman</title>
         <link>https://www.comicsrss.com/preview/danwasserman</link>
         <description>Dan Wasserman by Dan Wasserman</description>
-        <lastBuildDate>Tue, 07 Aug 2018 06:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Aug 2018 08:27:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,13 @@
         </image>
         <copyright>Copyright Dan Wasserman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/danwasserman.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dan Wasserman by Dan Wasserman for Aug 6, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/605/60509fb07c3a01364b21005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/605/60509fb07c3a01364b21005056a9545d.html</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://assets.amuniversal.com/60509fb07c3a01364b21005056a9545d" alt="Dan Wasserman by Dan Wasserman for Aug 6, 2018 " title="Dan Wasserman by Dan Wasserman for Aug 6, 2018 ">]]></description>
+        </item>
         <item>
             <title><![CDATA[Dan Wasserman by Dan Wasserman for Jul 31, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/628/6287f1a0778301364986005056a9545d.html</link>
@@ -181,13 +188,6 @@
             <guid>https://www.comicsrss.com/rssitemcontent/229/22920ef02f3801362e9f005056a9545d.html</guid>
             <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="http://assets.amuniversal.com/22920ef02f3801362e9f005056a9545d" alt="Dan Wasserman by Dan Wasserman for Apr 30, 2018 " title="Dan Wasserman by Dan Wasserman for Apr 30, 2018 ">]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dan Wasserman by Dan Wasserman for Apr 25, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/4d8/4d8695e02b4a01362d4d005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/4d8/4d8695e02b4a01362d4d005056a9545d.html</guid>
-            <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="http://assets.amuniversal.com/4d8695e02b4a01362d4d005056a9545d" alt="Dan Wasserman by Dan Wasserman for Apr 25, 2018 " title="Dan Wasserman by Dan Wasserman for Apr 25, 2018 ">]]></description>
         </item>
     </channel>
 </rss>
