@@ -4,7 +4,7 @@
         <title>MythTickle</title>
         <link>https://www.comicsrss.com/preview/mythtickle</link>
         <description>MythTickle by Justin Thompson</description>
-        <lastBuildDate>Thu, 16 Aug 2018 08:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Aug 2018 06:35:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -14,6 +14,21 @@
         </image>
         <copyright>Copyright Justin Thompson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/mythtickle.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MythTickle by Justin Thompson for Aug 17, 2018 ]]></title>
+            <link>https://www.comicsrss.com/rssitemcontent/2018-08-17/49f06fa083d101364e39005056a9545d.html</link>
+            <guid>https://www.comicsrss.com/rssitemcontent/2018-08-17/49f06fa083d101364e39005056a9545d.html</guid>
+            <pubDate>Fri, 17 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<div>
+	<img src="https://assets.amuniversal.com/49f06fa083d101364e39005056a9545d" alt="MythTickle by Justin Thompson for Aug 17, 2018 " title="MythTickle by Justin Thompson for Aug 17, 2018 ">
+</div>
+<div>
+	<a href="https://www.gocomics.com/mythtickle/2018/08/17">
+		<img src="https://www.comicsrss.com/static/gocomics_sm.png" alt="View on GoComics"> View on GoComics
+	</a>
+</div>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[MythTickle by Justin Thompson for Aug 15, 2018 ]]></title>
             <link>https://www.comicsrss.com/rssitemcontent/2018-08-15/3c6109a0799c01364a89005056a9545d.html</link>
@@ -369,21 +384,6 @@
 </div>
 <div>
 	<a href="https://www.gocomics.com/mythtickle/2018/06/22">
-		<img src="https://www.comicsrss.com/static/gocomics_sm.png" alt="View on GoComics"> View on GoComics
-	</a>
-</div>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MythTickle by Justin Thompson for Jun 20, 2018 ]]></title>
-            <link>https://www.comicsrss.com/rssitemcontent/0f3/0f358080564601363d18005056a9545d.html</link>
-            <guid>https://www.comicsrss.com/rssitemcontent/0f3/0f358080564601363d18005056a9545d.html</guid>
-            <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<div>
-	<img src="https://assets.amuniversal.com/0f358080564601363d18005056a9545d" alt="MythTickle by Justin Thompson for Jun 20, 2018 " title="MythTickle by Justin Thompson for Jun 20, 2018 ">
-</div>
-<div>
-	<a href="https://www.gocomics.com/mythtickle/2018/06/20">
 		<img src="https://www.comicsrss.com/static/gocomics_sm.png" alt="View on GoComics"> View on GoComics
 	</a>
 </div>
