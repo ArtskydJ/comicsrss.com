@@ -23,7 +23,7 @@ function writeFilesFromComicObjects(comicObjects) {
 		comicObject.comicStrips.slice(0, 3).forEach(function (comicStrip) {
 			var uniqueString = comicStrip.comicImageUrl.split('/').pop()
 			var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
-			var rssitemcontent = generateRssFeedItemFromComicStrip(comicStrip)
+			var rssitemcontent = generateRssFeedItemFromComicStrip(comicObject, comicStrip)
 			try {
 				writeFile(filename, rssitemcontent)
 			} catch (e) {

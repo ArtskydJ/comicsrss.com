@@ -13,7 +13,7 @@ module.exports = function (comicObject) {
 	var feed = new Feed({
 		title: comicObject.titleAndAuthor.split(' by ')[0],
 		description: comicObject.titleAndAuthor,
-		link: 'https://www.comicsrss.com/preview/' + comicObject.basename,
+		link: 'https://www.comicsrss.com/preview/' + encodeURI(comicObject.basename),
 		image: comicObject.headerImageUrl,
 		feed: 'https://www.comicsrss.com/rss/' + comicObject.basename + '.rss',
 		copyright: 'Copyright ' + feedAuthor,
@@ -31,7 +31,7 @@ module.exports = function (comicObject) {
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
 			link: comicStripLink,
-			description: generateRssFeedItemFromComicStrip(comicStrip),
+			description: generateRssFeedItemFromComicStrip(comicObject, comicStrip),
 			author: [{ name: feedAuthor }],
 			date: comicStripDate,
 			// Unfortunately, if the link changes, so will the ID.
