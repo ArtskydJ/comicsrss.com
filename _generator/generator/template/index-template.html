@@ -7,6 +7,7 @@
 	<title>Comics RSS</title>
 	<link rel="stylesheet" type="text/css" href="./static/style.css">
 	<link rel="icon" href="./static/favicon.ico" type="image/x-icon">
+	<style type="text/css" id="search-css"></style>
 </head>
 <body>
 	<nav>
@@ -40,35 +41,31 @@
 		<input type="text" class="search" placeholder="Search">
 
 		<script>
-			var input = document.querySelector('input.search')
+			var inputSearch = document.querySelector('input.search')
 
-			input.addEventListener('keydown', function () {
-				setTimeout(updateFilter, 0)
-			})
-
-			function updateFilter() {
-				var searchWords = normalizeSearchString(input.value).split(' ')
-				var didMatchSome = false
-				;[].forEach.call(document.querySelector('ul').children, function (li) {
-					var itemString = normalizeSearchString(li.getAttribute('data-search'))
-					var searchMatchesItem = searchWords.every(function (searchWord) {
-						return itemString.indexOf(searchWord) !== -1
-					})
-					if (searchMatchesItem) {
-						li.className = ''
-						didMatchSome = true
-					} else {
-						li.className = 'hidden'
-					}
-				})
-
-				document.getElementById('no-results-found').className = didMatchSome ? 'hidden' : ''
-			}
+			inputSearch.addEventListener('input', updateFilter)
+			updateFilter()
 
 			function normalizeSearchString(titleOrAuthor) {
 				return titleOrAuthor
+					.trim()
 					.replace(/&/g, 'and')
 					.toLowerCase()
+					.replace(/\s\s+/g, ' ')
+			}
+
+			function updateFilter() {
+				var searchPhrase = inputSearch.value
+				var cssRule = ''
+				if (searchPhrase.length) {
+					cssRule = normalizeSearchString(searchPhrase)
+						.split(' ')
+						.map(function(word) {
+							return 'ul#comics-list>li:not([data-search*="' + word + '"])'
+						})
+						.join(',') + '{display:none;}'
+				}
+				document.getElementById('search-css').innerHTML = cssRule
 			}
 		</script>
 

@@ -39,7 +39,7 @@ function suggestedComicsToHtml(suggestedComicObjects) {
 }
 
 function comicObjectsToHtml(comicObjects) {
-	return '<ul>' +
+	return '<ul id="comics-list">' +
 	comicObjects
 		.filter(Boolean)
 		.map(function (comicObject) {
@@ -50,6 +50,5 @@ function comicObjectsToHtml(comicObjects) {
 		})
 		.sort()
 		.join('\n') +
-	`<li id="no-results-found" class="hidden" data-search=""><span class="comic-title">No results found</span></li>
-	</ul>`
+	'</ul>'
 }

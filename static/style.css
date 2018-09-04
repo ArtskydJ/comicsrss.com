@@ -16,22 +16,33 @@ body {
 	margin: 0 auto;
 	padding: 0 20px;
 }
-ul {
+ul#comics-list {
 	padding: 0;
 	margin-top: 0;
 	margin-bottom: 16px;
+	min-height: 2em;
 	max-height: 80vh;
 	overflow-y: auto;
-	background-color: #fcfcfc;
 	border: 1px solid #aaa;
 	border-top: 0;
+	position: relative;
 }
-li {
+ul#comics-list:before {
+	content: "No results found";
+	position: absolute;
+	top: 4px;
+	left: 0;
+	right: 0;
+	display:block;
+	text-align: center;
+	z-index: -1;
+}
+ul#comics-list > li {
 	display: block;
 	margin: 0;
 	padding: 6px 6px 0;
-	border-bottom: 1px solid #aaa;
-	margin-bottom: -1px;
+	border-top: 1px solid #aaa;
+	background-color: #fcfcfc;
 }
 nav {
 	border-bottom: 1px solid #aaa;
@@ -58,9 +69,7 @@ input.search:focus{
 input.search::placeholder {
 	color: #aaa;
 }
-.hidden {
-	display: none;
-}
+
 textarea.copyable {
 	position: fixed;
 	top: 0;
