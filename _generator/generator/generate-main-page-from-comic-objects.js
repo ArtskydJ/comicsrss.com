@@ -29,9 +29,10 @@ function suggestedComicsToHtml(suggestedComicObjects) {
 	return suggestedComicObjects.map(function (comicObject) {
 		return `
 			<a href="./preview/${encodeURI(comicObject.basename)}" class="suggested-item">
-				<img src="${comicObject.headerImageUrl}">
+				<img src="./static/suggested/resized/${comicObject.basename}.jpg">
 				<span class="title-and-author">
-				${comicObject.titleAndAuthor.split(' by ').join('<br>by ')}
+					<div class="title">${comicObject.titleAndAuthor.split(' by ')[0]}</div>
+					<div class="author">by ${comicObject.titleAndAuthor.split(' by ')[1]}</div>
 				</span>
 			</a>
 			`.trim()

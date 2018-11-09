@@ -4,12 +4,17 @@ var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-obj
 var generatePreviewPageFromComicObject = require('./generate-preview-page-from-comic-object.js')
 var generateMainPageFromComicObjects = require('./generate-main-page-from-comic-objects.js')
 var generateRssFeedItemFromComicStrip = require('./generate-rss-feed-item-from-comic-strip.js')
+var generateSupportersPageFromJson = require('./generate-supporters-page-from-json.js')
 var comicObjects = require('../tmp/_comic-objects')
+var supporters = require('./supporters.json')
 
 function writeFilesFromComicObjects(comicObjects) {
 	comicObjects = comicObjects.filter(Boolean)
 	var mainPageHtml = generateMainPageFromComicObjects(comicObjects)
 	writeFile('../../index.html', mainPageHtml)
+
+	var supportersPageHtml = generateSupportersPageFromJson(supporters)
+	writeFile('../../supporters.html', supportersPageHtml)
 	
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null

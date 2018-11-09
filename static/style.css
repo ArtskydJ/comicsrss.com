@@ -195,5 +195,16 @@ img.preview-comic {
 	position: relative;
 	top: -8px;
 	padding: 0.2em 0.5em;
+}
+.suggested-item .title-and-author .title {
 	font-size: 14pt;
+}
+.suggested-item .title-and-author .author {
+	font-size: 10pt;
+}
+.supporters {
+	margin-bottom: 4em;
+}
+.supporter {
+	margin-bottom: 1em;
 }
