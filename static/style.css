@@ -178,6 +178,7 @@ img.preview-comic {
 }
 .suggested {
 	text-align: center;
+	font-size: 0; /* hide whitespace */
 }
 .suggested-item {
 	display: inline-block;
@@ -193,13 +194,10 @@ img.preview-comic {
 }
 .suggested-item .title-and-author {
 	display: block;
-	position: relative;
-	top: -8px;
-	padding: 0.2em 0.5em;
-}
-.suggested-item .title-and-author .title {
+	padding: 0 0.5em 0.2em;
 	font-size: 14pt;
 }
+.suggested-item .title-and-author .title {}
 .suggested-item .title-and-author .author {
 	font-size: 10pt;
 }
