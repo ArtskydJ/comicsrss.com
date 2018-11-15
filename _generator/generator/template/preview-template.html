@@ -32,9 +32,7 @@
 			<img src="../static/rss_sm.png" class="icon rss-icon">
 			Copy RSS URL
 		</a>
-		<span class="tooltip">
-			<span class="triangle"></span><span class="box">Copied!</span>
-		</span>
+		<span class="tooltip"><span class="tooltip-content">Copied!</span></span>
 	</p>
 
 	<!-- COMIC IMAGES -->
@@ -63,7 +61,7 @@
 			tooltip.classList.add('visible')
 			setTimeout(function () {
 				tooltip.classList.remove('visible')
-			}, 1)
+			}, 35)
 		}
 
 		function copy(self, event) {
