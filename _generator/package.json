@@ -10,6 +10,7 @@
   "author": "Joseph Dykstra",
   "license": "MIT",
   "dependencies": {
+    "art-template": "^4.13.2",
     "feed": "^1.1.1",
     "htmlparser2": "^3.9.2",
     "p-map-series": "^1.0.0"

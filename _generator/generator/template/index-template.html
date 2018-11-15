@@ -33,7 +33,15 @@
 	<div class="section">
 		<div class="main-page-header">Suggested</div>
 		<div class="suggested">
-			<!-- SUGGESTED PAGES -->
+			{{each suggestedComicObjects comicObject}}
+				<a href="./preview/{{encodeURI(comicObject.basename)}}" class="suggested-item">
+					<img src="./static/suggested/resized/{{comicObject.basename}}.jpg">
+					<span class="title-and-author">
+						<div class="title">{{comicObject.titleAndAuthor.split(' by ')[0]}}</div>
+						<div class="author">by {{comicObject.titleAndAuthor.split(' by ')[1]}}</div>
+					</span>
+				</a>
+			{{/each}}
 		</div>
 	</div>
 
@@ -70,14 +78,20 @@
 			}
 		</script>
 
-		<!-- RSS FEED LIST -->
+		<ul id="comics-list">
+			{{each comicObjects comicObject}}
+				<li data-search="{{comicObject.titleAndAuthor.toLowerCase()}}">
+					<a href="./preview/{{encodeURI(comicObject.basename)}}" class="comic-title">{{comicObject.titleAndAuthor}}</a>
+				</li>
+			{{/each}}
+		</ul>
 	</div>
 
 	<footer class="text-center">
 		<a href="https://github.com/ArtskydJ/comicsrss.com">View on GitHub</a> -
 		Made by <a href="https://www.josephdykstra.com">Joseph Dykstra</a> -
 		<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
-		<br><span class="gray">Generated on <!-- DATE GENERATED --></span>
+		<br><span class="gray">Generated on {{generatedDate}}</span>
 	</footer>
 
 </body>
