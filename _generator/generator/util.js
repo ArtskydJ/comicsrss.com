@@ -8,7 +8,7 @@ function writeFile(filename, contents) {
 		fs.writeFileSync(filePath, contents, 'utf-8')
 	} catch (e) {
 		if (e.code === 'ENOENT') {
-			fs.mkdirSync(path.dirname(filename))
+			fs.mkdirSync(path.dirname(filePath))
 			fs.writeFileSync(filePath, contents, 'utf-8')
 		} else {
 			throw e
