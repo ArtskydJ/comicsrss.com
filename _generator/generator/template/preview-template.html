@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no">
-	<title>Comics RSS for {{comicObject.titleAndAuthor}}</title>
+	<title>Comics RSS for {{@ comicObject.titleAndAuthor}}</title>
 	<link rel="stylesheet" type="text/css" href="../static/style.css">
 	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
 </head>
@@ -38,7 +38,7 @@
 	{{each comicObject.comicStrips.slice(0,14) comicStrip}}
 		<div class="spaced" id="{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
 			<div>
-				<span class="preview-header">{{comicStrip.titleAuthorDate}}</span>
+				<span class="preview-header">{{@ comicStrip.titleAuthorDate}}</span>
 				<a href="#{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
 					<img src="../static/link_sm.png" alt="Link to this comic strip">
 				</a>
