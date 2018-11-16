@@ -8,10 +8,7 @@ function writeFilesFromComicObjects(comicObjects) {
 	
 	util.render('index', '../../index.html', generateIndexData(comicObjects))
 
-	util.render('supporters', '../../supporters.html', {
-		dateGenerated: new Date().toDateString(),
-		supporters: supporters
-	})
+	util.render('supporters', '../../supporters.html', { supporters: supporters })
 	
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
@@ -22,7 +19,6 @@ function writeFilesFromComicObjects(comicObjects) {
 		var comicsRssFeedUrl = 'https://www.comicsrss.com/rss/' + encodeURI(comicObject.basename) + '.rss'
 		util.render('preview', '../../preview/' + comicObject.basename + '.html', {
 			comicObject: comicObject,
-			dateGenerated: new Date().toDateString(),
 			comicsRssFeedUrl: comicsRssFeedUrl,
 			feedlyFeedUrl: 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(comicsRssFeedUrl),
 			isoDate: function isoDate(date) { return new Date(date).toISOString().slice(0, 10) }
