@@ -1,6 +1,6 @@
 var Feed = require('feed')
 var crypto = require('crypto')
-var generateRssFeedItemFromComicStrip = require('./generate-rss-feed-item-from-comic-strip.js')
+var util = require('./util.js')
 
 module.exports = function (comicObject) {
 	if (!comicObject || !comicObject.comicStrips || !comicObject.comicStrips.length) {
@@ -31,7 +31,10 @@ module.exports = function (comicObject) {
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
 			link: comicStripLink,
-			description: generateRssFeedItemFromComicStrip(comicObject, comicStrip),
+			description: util.renderOutput('rssitemcontent', {
+				comicName: comicObject.basename,
+				comicStrip: comicStrip
+			}),
 			author: [{ name: feedAuthor }],
 			date: comicStripDate,
 			// Unfortunately, if the link changes, so will the ID.

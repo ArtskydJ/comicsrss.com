@@ -55,6 +55,9 @@ nav > a {
 	flex: 0 0 auto;
 	margin-right: 24px;
 }
+div.spaced {
+	margin: 18px 0;
+}
 input.search {
 	padding: 4px 4px;
 	height: 38px;

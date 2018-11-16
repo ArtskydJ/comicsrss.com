@@ -15,28 +15,28 @@
 		</a>
 	</nav>
 
-	<p>
+	<div class="spaced">
 		<a href="{{comicObject.comicUrl}}">
 			<img src="../static/gocomics_sm.png" class="icon gocomics-icon">
 			View on Go Comics
 		</a>
-	</p>
-	<p>
+	</div>
+	<div class="spaced">
 		<a href="{{feedlyFeedUrl}}" target="_blank">
 			<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
 			View on Feedly
 		</a>
-	</p>
-	<p>
+	</div>
+	<div class="spaced">
 		<a href="{{comicsRssFeedUrl}}" onclick="copy(this, event)">
 			<img src="../static/rss_sm.png" class="icon rss-icon">
 			Copy RSS URL
 		</a>
 		<span class="tooltip"><span class="tooltip-content">Copied!</span></span>
-	</p>
+	</div>
 
 	{{each comicObject.comicStrips.slice(0,14) comicStrip}}
-		<div id="{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
+		<div class="spaced" id="{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
 			<div>
 				<span class="preview-header">{{comicStrip.titleAuthorDate}}</span>
 				<a href="#{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
