@@ -1,23 +1,28 @@
-var util = require('./util.js')
+var renderTemplate = require('./render-template.js')
+var writeFile = require('../lib/write-file.js')
 var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
+
 var comicObjects = require('../tmp/_comic-objects')
-var supporters = require('./supporters.json')
+var moreComicObjects = [
+	require('../tmp/_dilbert-comic-objects')
+]
+var supporters = require('../tmp/supporters.json')
 
 function writeFilesFromComicObjects(comicObjects) {
-	comicObjects = comicObjects.filter(Boolean)
+	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
 	
-	util.render('index', '../../index.html', generateIndexData(comicObjects))
+	render('../../index.html', 'index', generateIndexData(comicObjects))
 
-	util.render('supporters', '../../supporters.html', { supporters: supporters })
+	render('../../supporters.html', 'supporters', { supporters: supporters })
 	
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
 
 		var rssFeed = generateRssFeedFromComicObject(comicObject)
-		util.writeFile('../../rss/' + comicObject.basename + '.rss', rssFeed)
+		writeFile('../../rss/' + comicObject.basename + '.rss', rssFeed)
 
 		var comicsRssFeedUrl = 'https://www.comicsrss.com/rss/' + encodeURI(comicObject.basename) + '.rss'
-		util.render('preview', '../../preview/' + comicObject.basename + '.html', {
+		render('../../preview/' + comicObject.basename + '.html', 'preview', {
 			comicObject: comicObject,
 			comicsRssFeedUrl: comicsRssFeedUrl,
 			feedlyFeedUrl: 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(comicsRssFeedUrl),
@@ -27,7 +32,7 @@ function writeFilesFromComicObjects(comicObjects) {
 		comicObject.comicStrips.slice(0, 3).forEach(function (comicStrip) {
 			var uniqueString = comicStrip.comicImageUrl.split('/').pop()
 			var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
-			util.render('rssitemcontent', filename, {
+			render(filename, 'rssitemcontent', {
 				comicName: comicObject.basename,
 				comicStrip: comicStrip
 			})
@@ -36,7 +41,7 @@ function writeFilesFromComicObjects(comicObjects) {
 }
 
 function generateIndexData(comicObjects) {
-	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,foxtrot,foxtrotclassics,peanuts,pearlsbeforeswine,dilbert-classics'.split(',')
+	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,dilbert-classics,foxtrot,foxtrotclassics,pearlsbeforeswine'.split(',')
 	return {
 		suggestedComicObjects: comicObjects.filter(filterCO).sort(sortCO),
 		comicObjects: comicObjects.sort(sortCO),
@@ -52,6 +57,11 @@ function generateIndexData(comicObjects) {
 		var b = bb.titleAndAuthor.toLowerCase()
 		return a > b ? 1 : (b > a ? -1 : 0)
 	}
+}
+
+function render(templateFilenamePrefix, outputFilename, templateData) {
+	var renderedOutput = renderTemplate(templateFilenamePrefix, templateData)
+	writeFile(outputFilename, renderedOutput)
 }
 
 

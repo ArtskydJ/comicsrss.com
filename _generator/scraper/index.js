@@ -1,6 +1,5 @@
-var fs = require('fs')
-var path = require('path')
 var pMap = require('p-map-series')
+var writeFile = require('../lib/write-file.js')
 var getPageList = require('./get-page-list.js')
 var getComicObject = require('./get-comic-object.js')
 var previousComicObjects = require('../tmp/_comic-objects.json')
@@ -36,11 +35,6 @@ getPageList()
 		console.error(err)
 		process.exit(1)
 	})
-
-function writeFile(filename, contents) {
-	var filePath = path.resolve(__dirname, filename)
-	fs.writeFileSync(filePath, contents, 'utf-8')
-}
 
 function getBasename(pageUrl) {
 	return pageUrl.split('/')[3].trim()
