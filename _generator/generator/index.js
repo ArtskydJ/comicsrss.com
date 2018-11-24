@@ -4,7 +4,7 @@ var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-obj
 
 var comicObjects = require('../tmp/_comic-objects')
 var moreComicObjects = [
-	require('../tmp/_dilbert-comic-objects')
+	require('../tmp/_dilbert-comic-object')
 ]
 var supporters = require('../tmp/supporters.json')
 
@@ -59,9 +59,9 @@ function generateIndexData(comicObjects) {
 	}
 }
 
-function render(templateFilenamePrefix, outputFilename, templateData) {
+function render(outputFilePath, templateFilenamePrefix, templateData) {
 	var renderedOutput = renderTemplate(templateFilenamePrefix, templateData)
-	writeFile(outputFilename, renderedOutput)
+	writeFile(outputFilePath, renderedOutput)
 }
 
 

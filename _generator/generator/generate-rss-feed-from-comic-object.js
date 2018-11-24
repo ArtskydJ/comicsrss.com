@@ -1,6 +1,6 @@
 var Feed = require('feed')
 var crypto = require('crypto')
-var util = require('./util.js')
+var renderTemplate = require('./render-template.js')
 
 module.exports = function (comicObject) {
 	if (!comicObject || !comicObject.comicStrips || !comicObject.comicStrips.length) {
@@ -31,7 +31,7 @@ module.exports = function (comicObject) {
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
 			link: comicStripLink,
-			description: util.renderOutput('rssitemcontent', {
+			description: renderTemplate('rssitemcontent', {
 				comicName: comicObject.basename,
 				comicStrip: comicStrip
 			}),
