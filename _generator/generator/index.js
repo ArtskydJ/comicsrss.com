@@ -41,7 +41,7 @@ function writeFilesFromComicObjects(comicObjects) {
 }
 
 function generateIndexData(comicObjects) {
-	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,dilbert-classics,foxtrot,foxtrotclassics,pearlsbeforeswine'.split(',')
+	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,foxtrot,foxtrotclassics,peanuts,pearlsbeforeswine'.split(',')
 	return {
 		suggestedComicObjects: comicObjects.filter(filterCO).sort(sortCO),
 		comicObjects: comicObjects.sort(sortCO),

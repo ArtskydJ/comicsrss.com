@@ -1,11 +1,12 @@
 var https = require('https')
 var writeFile = require('../lib/write-file.js')
 var httpGet = require('./http-get.js')
-var dilbertComicObject = require('../tmp/_dilbert-comic-object.json')
+var dilbertComicObjectJsonPath = '../tmp/_dilbert-comic-object.json'
+var dilbertComicObject = require(dilbertComicObjectJsonPath)
 
 httpGet('https://dilbert.com')
 	.then(function (html) {
-		var comicStrips = html
+		var newComicStrips = html
 			.split('\n')
 			.map(l => l.trim())
 			.filter(l => l.startsWith('<div class="comic-item-container'))
@@ -35,17 +36,17 @@ httpGet('https://dilbert.com')
 			// data-creator="Scott Adams"
 			// data-title="Boss Email Password"
 
-		var merged = mergeComicStrips(dilbertComicObject.comicStrips)
+		var merged = mergeComicStrips(dilbertComicObject.comicStrips, newComicStrips)
 		dilbertComicObject.comicStrips = merged.slice(0, 25)
 		var dilbertComicObjectJson = JSON.stringify(dilbertComicObject, null, '\t')
-		writeFile('../tmp/_comic-objects-dilbert.json', dilbertComicObjectJson)
+		writeFile(dilbertComicObjectJsonPath, dilbertComicObjectJson)
 	})
 
 function mergeComicStrips(oldComicStrips, newComicStrips) {
 	var previousComicStrip = oldComicStrips[0]
 	var addTheseComicStrips = []
-	for (var i = 0; i < comicStrips.length; i++) {
-		var comicStrip = comicStrips[i]
+	for (var i = 0; i < newComicStrips.length; i++) {
+		var comicStrip = newComicStrips[i]
 		if (comicStrip.date === previousComicStrip.date) {
 			break
 		}
