@@ -10,7 +10,7 @@
 <body>
 	<nav>
 		<a href="../">
-			<img src="../static/comicsrss-logo.svg" class="logo">
+			<img src="../static/comicsrss-logo.png" class="logo">
 			<span class="nav-header">Comics RSS</span>
 		</a>
 		<a href="../supporters">Supporters</a>
@@ -18,8 +18,8 @@
 
 	<div class="spaced">
 		<a href="{{comicObject.comicUrl}}">
-			<img src="../static/gocomics_sm.png" class="icon gocomics-icon">
-			View on Go Comics
+			<img src="../static/external_sm.png" class="icon">
+			View source
 		</a>
 	</div>
 	<div class="spaced">
@@ -41,10 +41,14 @@
 			<div>
 				<span class="preview-header">{{@ comicStrip.titleAuthorDate}}</span>
 				<a href="#{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
-					<img src="../static/link_sm.png" alt="Link to this comic strip">
+					<img src="../static/link_sm.png"
+						title="Link to this comic strip"
+						alt="Link to this comic strip"/>
 				</a>
 				<a href="{{comicStrip.url}}">
-					<img src="../static/gocomics_sm.png" alt="View on GoComics">
+					<img src="../static/external_sm.png"
+						title="View source"
+						alt="View source"/>
 				</a>
 			</div>
 			<img class="preview-comic" src="{{comicStrip.comicImageUrl}}">

@@ -51,6 +51,9 @@ a {
 	color: #0366d6;
 	text-decoration: none;
 }
+a:hover {
+	color: #003693;
+}
 nav > a {
 	flex: 0 0 auto;
 	margin-right: 24px;
@@ -88,7 +91,6 @@ textarea.copyable {
 
 .logo {
 	vertical-align: text-bottom;
-	width: 120px;
 }
 
 .comic-title {
@@ -113,8 +115,6 @@ textarea.copyable {
 	width: 20px;
 	height: 20px;
 }
-.gocomics-icon {}
-.rss-icon {}
 .feedly-icon {
 	margin: -4px;
 	width: 28px;
