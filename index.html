@@ -7,7 +7,6 @@
 	<title>Comics RSS</title>
 	<link rel="stylesheet" type="text/css" href="./static/style.css">
 	<link rel="icon" href="./static/favicon.ico" type="image/x-icon">
-	<style type="text/css" id="search-css"></style>
 </head>
 <body>
 	<nav>
@@ -90,6 +89,9 @@
 		<input type="text" class="search" placeholder="Search">
 
 		<script>
+			var searchCss = document.createElement('style')
+			document.head.appendChild(searchCss)
+
 			var inputSearch = document.querySelector('input.search')
 
 			inputSearch.addEventListener('input', updateFilter)
@@ -114,7 +116,7 @@
 						})
 						.join(',') + '{display:none;}'
 				}
-				document.getElementById('search-css').innerHTML = cssRule
+				searchCss.innerHTML = cssRule
 			}
 		</script>
 
