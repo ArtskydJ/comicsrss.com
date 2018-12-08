@@ -58,6 +58,9 @@ nav > a {
 	flex: 0 0 auto;
 	margin-right: 24px;
 }
+footer {
+	margin-bottom: 1em;
+}
 div.spaced {
 	margin: 18px 0;
 }
@@ -91,6 +94,7 @@ textarea.copyable {
 
 .logo {
 	vertical-align: text-bottom;
+	max-height: 32px;
 }
 
 .comic-title {
