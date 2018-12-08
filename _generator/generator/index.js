@@ -1,6 +1,7 @@
 var renderTemplate = require('./render-template.js')
 var writeFile = require('../lib/write-file.js')
 var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
+var isDebug = !!process.env.DEBUG
 
 var comicObjects = require('../tmp/_comic-objects')
 var moreComicObjects = [
@@ -12,9 +13,10 @@ function writeFilesFromComicObjects(comicObjects) {
 	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
 	
 	render('../../index.html', 'index', generateIndexData(comicObjects))
-
 	render('../../supporters.html', 'supporters', { supporters: supporters })
 	
+	if (isDebug) { return }
+
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
 
@@ -41,7 +43,7 @@ function writeFilesFromComicObjects(comicObjects) {
 }
 
 function generateIndexData(comicObjects) {
-	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,foxtrot,foxtrotclassics,peanuts,pearlsbeforeswine'.split(',')
+	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,foxtrot,foxtrotclassics,getfuzzy,peanuts'.split(',')
 	return {
 		suggestedComicObjects: comicObjects.filter(filterCO).sort(sortCO),
 		comicObjects: comicObjects.sort(sortCO),
