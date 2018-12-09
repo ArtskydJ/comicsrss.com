@@ -1,0 +1,68 @@
+<div class="spaced">
+	<a href="{{comicObject.comicUrl}}">
+		<img src="../static/external_sm.png" class="icon">
+		View source
+	</a>
+</div>
+<div class="spaced">
+	<a href="{{feedlyFeedUrl}}" target="_blank">
+		<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
+		View on Feedly
+	</a>
+</div>
+<div class="spaced">
+	<a href="{{comicsRssFeedUrl}}" onclick="copy(this, event)">
+		<img src="../static/rss_sm.png" class="icon rss-icon">
+		Copy RSS URL
+	</a>
+	<span class="tooltip"><span class="tooltip-content">Copied!</span></span>
+</div>
+
+{{each comicObject.comicStrips.slice(0,14) comicStrip}}
+	<div class="spaced" id="{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
+		<div>
+			<span class="preview-header">{{@ comicStrip.titleAuthorDate}}</span>
+			<a href="#{{isoDate(comicStrip.titleAuthorDate.split(' for ').pop())}}">
+				<img src="../static/link_sm.png"
+					title="Link to this comic strip"
+					alt="Link to this comic strip"/>
+			</a>
+			<a href="{{comicStrip.url}}">
+				<img src="../static/external_sm.png"
+					title="View source"
+					alt="View source"/>
+			</a>
+		</div>
+		<img class="preview-comic" src="{{comicStrip.comicImageUrl}}">
+	</div>
+{{/each}}
+
+<script>
+	function copyToClipboard(text) {
+		var textArea = document.createElement('textarea')
+		textArea.className = 'copyable'
+		textArea.value = text
+		document.body.appendChild(textArea)
+		textArea.select()
+		var wasSuccessful = document.execCommand('copy')
+		document.body.removeChild(textArea)
+		return wasSuccessful
+	}
+
+	function showTooltip(self, text) {
+		var tooltip = document.querySelector('.tooltip')
+		tooltip.classList.add('visible')
+		setTimeout(function () {
+			tooltip.classList.remove('visible')
+		}, 35)
+	}
+
+	function copy(self, event) {
+		var text = self.href
+		if (copyToClipboard(text)) {
+			showTooltip(self)
+			event.preventDefault()
+		}
+		return false
+	}
+</script>

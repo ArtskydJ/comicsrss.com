@@ -1,0 +1,71 @@
+<p>
+	If you use an <a href="https://www.digitaltrends.com/computing/how-to-use-rss/">RSS</a>
+	reader, and like reading comics, then this is the site for you!
+	Preview comic strips, and if you like them, then add the RSS feed to your reader.
+</p>
+
+<p>
+	If you enjoy this site, consider supporting it through
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a> or
+	<a href="https://paypal.me/artskydj">PayPal</a>.
+</p>
+
+<div class="section">
+	<div class="main-page-header">Suggested</div>
+	<div class="suggested">
+		{{each suggestedComicObjects comicObject}}
+			<a href="./preview/{{encodeURI(comicObject.basename)}}" class="suggested-item">
+				<img src="./static/suggested/resized/{{comicObject.basename}}.jpg">
+				<span class="title-and-author">
+					<div class="title">{{@ comicObject.titleAndAuthor.split(' by ')[0]}}</div>
+					<div class="author">by {{@ comicObject.titleAndAuthor.split(' by ')[1]}}</div>
+				</span>
+			</a>
+		{{/each}}
+	</div>
+</div>
+
+<div class="section">
+	<div class="main-page-header large-margin">Browse</div>
+	<input type="text" class="search" placeholder="Search">
+
+	<script>
+		var searchCss = document.createElement('style')
+		document.head.appendChild(searchCss)
+
+		var inputSearch = document.querySelector('input.search')
+
+		inputSearch.addEventListener('input', updateFilter)
+		updateFilter()
+
+		function normalizeSearchString(titleOrAuthor) {
+			return titleOrAuthor
+				.trim()
+				.replace(/&/g, 'and')
+				.toLowerCase()
+				.replace(/\s\s+/g, ' ')
+		}
+
+		function updateFilter() {
+			var searchPhrase = inputSearch.value
+			var cssRule = ''
+			if (searchPhrase.length) {
+				cssRule = normalizeSearchString(searchPhrase)
+					.split(' ')
+					.map(function(word) {
+						return 'ul#comics-list>li:not([data-search*="' + word + '"])'
+					})
+					.join(',') + '{display:none;}'
+			}
+			searchCss.innerHTML = cssRule
+		}
+	</script>
+
+	<ul id="comics-list">
+		{{each comicObjects comicObject}}
+			<li data-search="{{@ comicObject.titleAndAuthor.toLowerCase()}}">
+				<a href="./preview/{{encodeURI(comicObject.basename)}}" class="comic-title">{{@ comicObject.titleAndAuthor}}</a>
+			</li>
+		{{/each}}
+	</ul>
+</div>

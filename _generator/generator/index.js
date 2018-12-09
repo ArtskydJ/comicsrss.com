@@ -12,10 +12,12 @@ var supporters = require('../tmp/supporters.json')
 function writeFilesFromComicObjects(comicObjects) {
 	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
 	
-	render('../../index.html', 'index', generateIndexData(comicObjects))
-	render('../../supporters.html', 'supporters', { supporters: supporters })
+	render('../../index.html', 'master', generateIndexData(comicObjects))
+	render('../../supporters.html', 'master', { subtemplate: 'supporters', supporters: supporters })
 	
-	if (isDebug) { return }
+	if (isDebug) {
+		comicObjects = comicObjects.slice(0, 3)
+	}
 
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
@@ -24,7 +26,8 @@ function writeFilesFromComicObjects(comicObjects) {
 		writeFile('../../rss/' + comicObject.basename + '.rss', rssFeed)
 
 		var comicsRssFeedUrl = 'https://www.comicsrss.com/rss/' + encodeURI(comicObject.basename) + '.rss'
-		render('../../preview/' + comicObject.basename + '.html', 'preview', {
+		render('../../preview/' + comicObject.basename + '.html', 'master', {
+			subtemplate: 'preview',
 			comicObject: comicObject,
 			comicsRssFeedUrl: comicsRssFeedUrl,
 			feedlyFeedUrl: 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(comicsRssFeedUrl),
@@ -45,6 +48,7 @@ function writeFilesFromComicObjects(comicObjects) {
 function generateIndexData(comicObjects) {
 	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,foxtrot,foxtrotclassics,getfuzzy,peanuts'.split(',')
 	return {
+		subtemplate: 'index',
 		suggestedComicObjects: comicObjects.filter(filterCO).sort(sortCO),
 		comicObjects: comicObjects.sort(sortCO),
 		generatedDate: new Date().toDateString()

@@ -1,4 +1,3 @@
-var fs = require('fs')
 var path = require('path')
 var mustache = require('art-template')
 
@@ -8,8 +7,10 @@ var defaultData = {
 }
 
 module.exports = function renderTemplate(templateFilenamePrefix, templateData) {
+	if (typeof templateFilenamePrefix !== 'string') throw new TypeError('`templateFilenamePrefix` must be a string')
+	if (!templateData || typeof templateData !== 'object') throw new TypeError('`templateData` must be an object')
+	
 	var templateHtmlPath = path.resolve(__dirname, 'template', templateFilenamePrefix + '-template.html')
-	var templateHtml = fs.readFileSync(templateHtmlPath, 'utf-8')
 	var templateDataWithDefaults = Object.assign({}, defaultData, templateData)
-	return mustache.render(templateHtml, templateDataWithDefaults)
+	return mustache(templateHtmlPath, templateDataWithDefaults)
 }

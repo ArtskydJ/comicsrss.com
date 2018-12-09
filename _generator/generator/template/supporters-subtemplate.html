@@ -1,0 +1,43 @@
+<h1 class="text-center">Supporters</h1>
+
+<div class="supporters">
+	<div class="gold-supporters">
+		<h2>Gold Supporters</h2>
+		{{each supporters.gold supporter}}
+			<div class="supporter">
+				<a href="{{supporter.url}}">
+					<span class="supporter-name">{{supporter.displayName}}</span>
+				</a>
+				<span class="supporter-name">{{supporter.description}}</span>
+			</div>
+		{{/each}}
+		<a href="https://www.patreon.com/join/josephdykstra/checkout?rid=2790040">
+			{{if supporters.gold.length}}Also become a{{else}}Be the first{{/if}} Gold supporter
+		</a>
+	</div>
+	<div class="silver-supporters">
+		<h2>Silver Supporters</h2>
+		{{each supporters.silver supporter}}
+			<div class="supporter">
+				<a href="{{supporter.url}}">
+					<span class="supporter-name">{{supporter.displayName}}</span>
+				</a>
+			</div>
+		{{/each}}
+		<a href="https://www.patreon.com/join/josephdykstra/checkout?rid=2790035">
+			{{if supporters.silver.length}}Also become a{{else}}Be the first{{/if}} Silver supporter
+		</a>
+	</div>
+	<div class="bronze-supporters">
+		<h2>Bronze Supporters</h2>
+
+		{{each supporters.bronze supporter}}
+			<div class="supporter">
+				<span class="supporter-name">{{supporter.displayName}}</span>
+			</div>
+		{{/each}}
+		<a href="https://www.patreon.com/join/josephdykstra/checkout?rid=2275262">
+			{{if supporters.bronze.length}}Also become a{{else}}Be the first{{/if}} Bronze supporter
+		</a>
+	</div>
+</div>
