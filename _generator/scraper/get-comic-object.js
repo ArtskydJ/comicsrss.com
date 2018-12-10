@@ -1,7 +1,7 @@
 var httpGet = require('./http-get.js')
 var url = require('url')
 
-module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
+module.exports = function getComicObject(page, previousComicObject) {
 	var comicStrips = []
 	var previousComicStrips = []
 	var previousUrl = null
@@ -10,7 +10,7 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 		previousUrl = previousComicStrips[0].url
 	}
 
-	return getOverviewPage(overviewPageUrl)
+	return Promise.resolve('https://www.gocomics.com' + page.todayHref)
 		.then(getPage)
 		.then(getPage)
 		.then(getPage)
@@ -23,10 +23,11 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 			comicStrips = comicStrips.concat(previousComicStrips)
 
 			return {
-				titleAndAuthor: comicStrips[0].titleAuthorDate.split(' for ')[0],
-				basename: getBasename(comicStrips[0].comicUrl),
-				author: comicStrips[0].author,
-				comicUrl: comicStrips[0].comicUrl,
+				titleAndAuthor: page.title + ' by ' + page.author,
+				basename: page.basename,
+				author: page.author,
+				title: page.title,
+				comicUrl: page.todayHref,
 				headerImageUrl: comicStrips[0].headerImageUrl,
 				comicStrips: comicStrips.map(function (comicStrip) {
 					return {
@@ -39,17 +40,8 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 			}
 		})
 
-	function getOverviewPage(overviewPageUrl) {
-		return httpGet(overviewPageUrl)
-		.then(getRelUrlFromOverviewPath)
-		.then(function (relUrl) {
-			return url.resolve(overviewPageUrl, relUrl)
-		})
-	}
-
 	function getPage(pageUrl) {
-		if (!pageUrl) return null
-		if (previousUrl === pageUrl) {
+		if (!pageUrl || pageUrl === previousUrl) {
 			return null
 		}
 
@@ -66,7 +58,7 @@ module.exports = function getComicObject(overviewPageUrl, previousComicObject) {
 }
 
 
-function getRelUrlFromOverviewPath(html) {
+function getRelUrlFromHtml(html) {
 	var comicsTabRelUrl = html.match(/<a class="nav-link[^"]*" data-link="comics" href="([^">]+)">Comics<\/a>/)
 	if (comicsTabRelUrl === null || !comicsTabRelUrl[1]) throw new Error('Unable to parse comicsTabRelUrl')
 	return comicsTabRelUrl[1]
@@ -103,8 +95,4 @@ function parseComicPage(pageUrl, html) {
 		// newerRelUrl: newerRelUrlMatches[1],
 		headerImageUrl: headerImageUrlMatches[1]
 	}
-}
-
-function getBasename(comicUrl) {
-	return comicUrl.split('/')[3].trim()
 }

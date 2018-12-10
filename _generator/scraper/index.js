@@ -6,20 +6,19 @@ var previousComicObjects = require('../tmp/_comic-objects.json')
 var isDebug = !!process.env.DEBUG
 
 getPageList()
-	.then(function (pageUrls) {
-		if (!pageUrls.length) {
+	.then(function (pageList) {
+		if (!pageList.length) {
 			throw new Error('No comics found')
 		}
 		if (isDebug) {
-			pageUrls = pageUrls.slice(0, 3)
+			pageList = pageList.slice(0, 3)
 		}
-		return pMap(pageUrls, function (pageUrl) {
-			var basename = getBasename(pageUrl)
+		return pMap(pageList, function (page) {
 			var previousComicObject = previousComicObjects.find(function (comicObject) {
-				return (comicObject && comicObject.basename === basename)
+				return (comicObject && comicObject.basename === page.basename)
 			})
 
-			return getComicObject(pageUrl, previousComicObject)
+			return getComicObject(page, previousComicObject)
 				.then(function (comicObject) {
 					if (!comicObject) return null
 
@@ -28,7 +27,7 @@ getPageList()
 				.catch(function (err) {
 					if (err.message === 'Comic no longer exists') return null
 
-					console.error(pageUrl + ' ' + err.message)
+					console.error(page.basename + ' ' + err.message)
 				})
 		})
 	})
