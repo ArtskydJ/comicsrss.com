@@ -4,10 +4,9 @@ var url = require('url')
 module.exports = function getComicObject(page, previousComicObject) {
 	var comicStrips = []
 	var previousComicStrips = []
-	var previousUrl = null
+	var previousUrls = []
 	if (previousComicObject) {
-		previousComicStrips = previousComicObject.comicStrips
-		previousUrl = previousComicStrips[0].url
+		previousUrls = previousComicObject.comicStrips.map(strip => strip.url)
 	}
 
 	return Promise.resolve('https://www.gocomics.com' + page.todayHref)
@@ -41,14 +40,15 @@ module.exports = function getComicObject(page, previousComicObject) {
 		})
 
 	function getPage(pageUrl) {
-		if (!pageUrl || pageUrl === previousUrl) {
+		if (!pageUrl || previousUrls.indexOf(pageUrl) !== -1) {
 			return null
 		}
 
 		return httpGet(pageUrl)
 		.then(function (html) {
 			var parsed = parseComicPage(pageUrl, html)
-			if (previousUrl === parsed.url) {
+			if (previousUrls.indexOf(parsed.url) !== -1) {
+				console.log('THIS HAPPENED')
 				return null
 			}
 			comicStrips.push(parsed)
