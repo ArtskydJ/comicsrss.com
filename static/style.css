@@ -54,7 +54,7 @@ a {
 a:hover {
 	color: #003693;
 }
-nav > a {
+nav > a, nav > b {
 	flex: 0 0 auto;
 	margin-right: 24px;
 }
