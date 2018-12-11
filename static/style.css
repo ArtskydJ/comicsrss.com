@@ -19,7 +19,7 @@ body {
 ul#comics-list {
 	padding: 0;
 	margin-top: 0;
-	margin-bottom: 16px;
+	margin-bottom: -3em;
 	min-height: 2em;
 	max-height: 80vh;
 	overflow-y: auto;
@@ -59,7 +59,7 @@ nav > a, nav > b {
 	margin-right: 24px;
 }
 footer {
-	margin-bottom: 1em;
+	margin: 4em 0 1em;
 }
 div.spaced {
 	margin: 18px 0;
@@ -209,9 +209,6 @@ img.preview-comic {
 .suggested-item .title-and-author .title {}
 .suggested-item .title-and-author .author {
 	font-size: 10pt;
-}
-.supporters {
-	margin-bottom: 4em;
 }
 .supporter {
 	margin-bottom: 1em;
