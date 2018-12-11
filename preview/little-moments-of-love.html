@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	
+	
+	<title>Comics RSS for Little Moments of Love by By Catana Chetwynd</title>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<nav>
+		<a href="../">
+			<img src="../static/comicsrss-logo.png" class="logo">
+			<span class="nav-header">Comics RSS</span>
+		</a>
+		
+			<a href="../supporters">Supporters</a>
+		
+			<a href="../contact">Contact</a>
+	</nav>
+
+	<div class="spaced">
+	<a href="/little-moments-of-love/2018/12/06">
+		<img src="../static/external_sm.png" class="icon">
+		View source
+	</a>
+</div>
+<div class="spaced">
+	<a href="https://feedly.com/i/subscription/feed/https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flittle-moments-of-love.rss" target="_blank">
+		<img src="../static/feedly_green_sm.png" class="icon feedly-icon" alt="Follow in feedly">
+		View on Feedly
+	</a>
+</div>
+<div class="spaced">
+	<a href="https://www.comicsrss.com/rss/little-moments-of-love.rss" onclick="copy(this, event)">
+		<img src="../static/rss_sm.png" class="icon rss-icon">
+		Copy RSS URL
+	</a>
+	<span class="tooltip"><span class="tooltip-content">Copied!</span></span>
+</div>
+
+
+	<div class="spaced" id="2018-12-06">
+		<div>
+			<span class="preview-header">Little Moments of Love by Catana Chetwynd for December 06, 2018 </span>
+			<a href="#2018-12-06">
+				<img src="../static/link_sm.png"
+					title="Link to this comic strip"
+					alt="Link to this comic strip"/>
+			</a>
+			<a href="https://www.gocomics.com/little-moments-of-love/2018/12/06">
+				<img src="../static/external_sm.png"
+					title="View source"
+					alt="View source"/>
+			</a>
+		</div>
+		<img class="preview-comic" src="https://assets.amuniversal.com/935ab600d48b01366b5e005056a9545d">
+	</div>
+
+	<div class="spaced" id="2018-12-03">
+		<div>
+			<span class="preview-header">Little Moments of Love by Catana Chetwynd for December 03, 2018 </span>
+			<a href="#2018-12-03">
+				<img src="../static/link_sm.png"
+					title="Link to this comic strip"
+					alt="Link to this comic strip"/>
+			</a>
+			<a href="https://www.gocomics.com/little-moments-of-love/2018/12/03">
+				<img src="../static/external_sm.png"
+					title="View source"
+					alt="View source"/>
+			</a>
+		</div>
+		<img class="preview-comic" src="https://assets.amuniversal.com/17cc10d0c68601366685005056a9545d">
+	</div>
+
+	<div class="spaced" id="2018-11-29">
+		<div>
+			<span class="preview-header">Little Moments of Love by Catana Chetwynd for November 29, 2018 </span>
+			<a href="#2018-11-29">
+				<img src="../static/link_sm.png"
+					title="Link to this comic strip"
+					alt="Link to this comic strip"/>
+			</a>
+			<a href="https://www.gocomics.com/little-moments-of-love/2018/11/29">
+				<img src="../static/external_sm.png"
+					title="View source"
+					alt="View source"/>
+			</a>
+		</div>
+		<img class="preview-comic" src="https://assets.amuniversal.com/19023a80c68601366685005056a9545d">
+	</div>
+
+	<div class="spaced" id="2018-11-26">
+		<div>
+			<span class="preview-header">Little Moments of Love by Catana Chetwynd for November 26, 2018 </span>
+			<a href="#2018-11-26">
+				<img src="../static/link_sm.png"
+					title="Link to this comic strip"
+					alt="Link to this comic strip"/>
+			</a>
+			<a href="https://www.gocomics.com/little-moments-of-love/2018/11/26">
+				<img src="../static/external_sm.png"
+					title="View source"
+					alt="View source"/>
+			</a>
+		</div>
+		<img class="preview-comic" src="https://assets.amuniversal.com/1a180940c68601366685005056a9545d">
+	</div>
+
+	<div class="spaced" id="2018-11-22">
+		<div>
+			<span class="preview-header">Little Moments of Love by Catana Chetwynd for November 22, 2018 </span>
+			<a href="#2018-11-22">
+				<img src="../static/link_sm.png"
+					title="Link to this comic strip"
+					alt="Link to this comic strip"/>
+			</a>
+			<a href="https://www.gocomics.com/little-moments-of-love/2018/11/22">
+				<img src="../static/external_sm.png"
+					title="View source"
+					alt="View source"/>
+			</a>
+		</div>
+		<img class="preview-comic" src="https://assets.amuniversal.com/169c53c0c68601366685005056a9545d">
+	</div>
+
+
+<script>
+	function copyToClipboard(text) {
+		var textArea = document.createElement('textarea')
+		textArea.className = 'copyable'
+		textArea.value = text
+		document.body.appendChild(textArea)
+		textArea.select()
+		var wasSuccessful = document.execCommand('copy')
+		document.body.removeChild(textArea)
+		return wasSuccessful
+	}
+
+	function showTooltip(self, text) {
+		var tooltip = document.querySelector('.tooltip')
+		tooltip.classList.add('visible')
+		setTimeout(function () {
+			tooltip.classList.remove('visible')
+		}, 35)
+	}
+
+	function copy(self, event) {
+		var text = self.href
+		if (copyToClipboard(text)) {
+			showTooltip(self)
+			event.preventDefault()
+		}
+		return false
+	}
+</script>
+
+
+	<footer class="text-center">
+		<a href="https://github.com/ArtskydJ/comicsrss.com">GitHub</a> -
+		Made by <a href="https://www.josephdykstra.com">Joseph Dykstra</a>
+	</footer>
+</body>
+</html>
