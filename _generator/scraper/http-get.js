@@ -1,4 +1,5 @@
 var https = require('https')
+var concat = require('simple-concat')
 var isDebug = !!process.env.DEBUG
 
 module.exports = function httpGet(url) {
@@ -14,21 +15,13 @@ function handleResponse(resolve, reject, response) {
 	var location = response.headers.location
 
 	if (statusCode == 200) {
-		concat(response, resolve, reject)
+		concat(response, function (err, buffer) {
+			if (err) { reject(err) }
+			else { resolve(buffer.toString()) }
+		})
 	} else if (statusCode >= 300 && statusCode < 400 && location === 'https://www.gocomics.com/') {
 		reject(new Error('Comic no longer exists'))
 	} else {
 		reject(new Error(statusCode + ' error'))
 	}
-}
-
-function concat(stream, resolve, reject) {
-	var chunks = []
-	stream.on('data', chunk => {
-		chunks.push(chunk)
-	})
-	stream.once('end', () => {
-		resolve(Buffer.concat(chunks).toString())
-	})
-	stream.once('error', reject)
 }
