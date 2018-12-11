@@ -17,7 +17,10 @@
 			<img src="{{root}}/static/comicsrss-logo.png" class="logo">
 			<span class="nav-header">Comics RSS</span>
 		</a>
-		{{if subtemplate == 'supporters'}}<b>Supporters</b>{{else}}<a href="{{root}}/supporters">Supporters</a>{{/if}}
+		{{if subtemplate == 'supporters'}}<b>Supporters</b>{{else}}
+			<a href="{{root}}/supporters">Supporters</a>{{/if}}
+		{{if subtemplate == 'contact'}}<b>Contact</b>{{else}}
+			<a href="{{root}}/contact">Contact</a>{{/if}}
 	</nav>
 
 	{{include './'+subtemplate+'-subtemplate.html'}}

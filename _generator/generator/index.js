@@ -13,9 +13,11 @@ function writeFilesFromComicObjects(comicObjects) {
 	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
 	
 	render('../../index.html', 'master', generateIndexData(comicObjects))
+	render('../../contact.html', 'master', { subtemplate: 'contact' })
 	render('../../supporters.html', 'master', { subtemplate: 'supporters', supporters: supporters })
 	
 	if (isDebug) {
+		return;
 		comicObjects = comicObjects.slice(0, 3)
 	}
 
