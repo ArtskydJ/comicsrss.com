@@ -9,6 +9,7 @@ module.exports = function (comicObject) {
 	}
 
 	var feedAuthor = comicObject.author
+	var lastComicDate = comicObject.comicStrips[0].date
 
 	var feed = new Feed({
 		title: comicObject.titleAndAuthor.split(' by ')[0],
@@ -17,6 +18,7 @@ module.exports = function (comicObject) {
 		image: comicObject.headerImageUrl,
 		feed: 'https://www.comicsrss.com/rss/' + comicObject.basename + '.rss',
 		copyright: 'Copyright ' + feedAuthor,
+		updated: new Date(lastComicDate),
 		author: { name: feedAuthor },
 		id: makeId(comicObject.comicUrl)
 	})
