@@ -29,10 +29,10 @@ function atozParser(body) {
 		// var iconUrlMatches = bodyPart.match(/<img.+?data-srcset="(.+?), 72w"/)
 		// fan-art and outland are missing icon URLs
 
-		var titleMatches = bodyPart.match(/<h4 class=['"]media-heading h4 mb-0['"]>(.+?)<\/h4>/)
+		var titleMatches = bodyPart.match(/<h4 class=['"]media-heading h4 mb-0['"]>(.+?)<\/h4>/i)
 		if (titleMatches === null || !titleMatches[1]) throw new Error('Unable to parse title in a-to-z: ' + basename)
 
-		var authorMatches = bodyPart.match(/<span class=['"]media-(?:sub)?heading small['"]>(.+?)<\/span>/)
+		var authorMatches = bodyPart.match(/<span class=['"]media-(?:sub)?heading small['"]>By (.+?)<\/span>/i)
 		var hasAuthor = authorMatches !== null && !!authorMatches[1]
 
 		return {

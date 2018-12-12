@@ -4,6 +4,9 @@ var isDebug = !!process.env.DEBUG
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
+		if (isDebug) {
+			console.log('GET ' + url)
+		}
 		setTimeout(function () { // Rate limiting, haha
 			https.get(url, handleResponse.bind(null, resolve, reject))
 		}, isDebug ? 0 : 900) // 800 might work, 700 doesn't

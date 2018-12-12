@@ -3,13 +3,13 @@ var url = require('url')
 
 module.exports = function getComicObject(page, previousComicObject) {
 	var comicStrips = []
-	var previousComicStrips = []
 	var previousUrls = []
 	if (previousComicObject) {
 		previousUrls = previousComicObject.comicStrips.map(strip => strip.url)
 	}
+	var fullComicUrl = 'https://www.gocomics.com' + page.todayHref
 
-	return Promise.resolve('https://www.gocomics.com' + page.todayHref)
+	return Promise.resolve(fullComicUrl)
 		.then(getPage)
 		.then(getPage)
 		.then(getPage)
@@ -19,14 +19,14 @@ module.exports = function getComicObject(page, previousComicObject) {
 			if (!comicStrips.length) {
 				return previousComicObject
 			}
-			comicStrips = comicStrips.concat(previousComicStrips)
+			comicStrips = comicStrips.concat(previousComicObject.comicStrips)
 
 			return {
 				titleAndAuthor: page.title + ' by ' + page.author,
 				basename: page.basename,
 				author: page.author,
 				title: page.title,
-				comicUrl: page.todayHref,
+				comicUrl: fullComicUrl,
 				headerImageUrl: comicStrips[0].headerImageUrl,
 				comicStrips: comicStrips.map(function (comicStrip) {
 					return {
