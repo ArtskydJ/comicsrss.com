@@ -6,6 +6,12 @@
 	"headerImageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg",
 	"comicStrips": [
 		{
+			"titleAuthorDate": "Dilbert by Scott Adams for January 04, 2019",
+			"url": "https://dilbert.com/strip/2019-01-04",
+			"date": "2019-01-04",
+			"comicImageUrl": "https://assets.amuniversal.com/8655c3e0da1d01366d7a005056a9545d"
+		},
+		{
 			"titleAuthorDate": "Dilbert by Scott Adams for January 03, 2019",
 			"url": "https://dilbert.com/strip/2019-01-03",
 			"date": "2019-01-03",
@@ -148,12 +154,6 @@
 			"url": "https://dilbert.com/strip/2018-12-11",
 			"date": "2018-12-11",
 			"comicImageUrl": "https://assets.amuniversal.com/3f28c100c8c601366722005056a9545d"
-		},
-		{
-			"titleAuthorDate": "Dilbert by Scott Adams for December 10, 2018",
-			"url": "https://dilbert.com/strip/2018-12-10",
-			"date": "2018-12-10",
-			"comicImageUrl": "https://assets.amuniversal.com/3c4fcb60c8c601366722005056a9545d"
 		}
 	]
 }
