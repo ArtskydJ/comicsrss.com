@@ -18,6 +18,7 @@
 		var u="//jlddata.com/";
 		_paq.push(['setTrackerUrl', u+'piwik.php']);
 		_paq.push(['setSiteId', '2']);
+		_paq.push(['enableHeartBeatTimer']);
 		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
 		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 	})();
@@ -122,20 +123,23 @@
 				.replace(/&/g, 'and')
 				.toLowerCase()
 				.replace(/\s\s+/g, ' ')
+				.replace(/"/g, '')
 		}
 
 		function updateFilter() {
-			var searchPhrase = inputSearch.value
-			var cssRule = ''
+			var searchPhrase = normalizeSearchString(inputSearch.value)
+			var cssHideRule = ''
 			if (searchPhrase.length) {
-				cssRule = normalizeSearchString(searchPhrase)
-					.split(' ')
-					.map(function(word) {
-						return 'ul#comics-list>li:not([data-search*="' + word + '"])'
-					})
-					.join(',') + '{display:none;}'
+				cssHideRule = searchPhrase.split(' ').map(wordToSelectorNonHits).join(',') + '{display:none;}'
+				var cssShowSelector = searchPhrase.split(' ').map(wordToSelectorHits).join(',')
+
+				var resultCount = document.querySelectorAll(cssShowSelector).length
+				_paq.push(['trackSiteSearch', searchPhrase, false, resultCount])
 			}
-			searchCss.innerHTML = cssRule
+			searchCss.innerHTML = cssHideRule
+
+			function wordToSelectorNonHits(word) { return 'ul#comics-list>li:not([data-search*="' + word + '"])' }
+			function wordToSelectorHits(word) {    return 'ul#comics-list>li[data-search*="' + word + '"]' }
 		}
 	</script>
 
