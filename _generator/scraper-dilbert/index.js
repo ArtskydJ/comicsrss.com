@@ -1,4 +1,3 @@
-var https = require('https')
 var writeFile = require('../lib/write-file.js')
 var httpGet = require('./http-get.js')
 var dilbertComicObjectJsonPath = '../tmp/_dilbert-comic-object.json'
