@@ -1,7 +1,6 @@
-var writeFile = require('../lib/write-file.js')
+var comicObjectsIO = require('../comic-objects-io.js')
 var httpGet = require('./http-get.js')
-var dilbertComicObjectJsonPath = '../tmp/_dilbert-comic-object.json'
-var dilbertComicObject = require(dilbertComicObjectJsonPath)
+var dilbertComicObject = comicObjectsIO.read('dilbert')
 
 httpGet('https://dilbert.com')
 	.then(function (html) {
@@ -37,8 +36,7 @@ httpGet('https://dilbert.com')
 
 		var merged = mergeComicStrips(dilbertComicObject.comicStrips, newComicStrips)
 		dilbertComicObject.comicStrips = merged.slice(0, 25)
-		var dilbertComicObjectJson = JSON.stringify(dilbertComicObject, null, '\t')
-		writeFile(dilbertComicObjectJsonPath, dilbertComicObjectJson)
+		comicObjectsIO.write('dilbert', dilbertComicObject)
 	})
 
 function mergeComicStrips(oldComicStrips, newComicStrips) {

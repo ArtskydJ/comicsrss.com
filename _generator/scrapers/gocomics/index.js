@@ -1,8 +1,8 @@
 var pEach = require('p-map-series')
-var writeFile = require('../lib/write-file.js')
+var comicObjectsIO = require('../comic-objects-io.js')
 var getPageList = require('./get-page-list.js')
 var getComicObject = require('./get-comic-object.js')
-var comicObjects = require('../tmp/_comic-objects.json')
+var comicObjects = comicObjectsIO.read('gocomics')
 var isDebug = !!process.env.DEBUG
 
 getPageList()
@@ -46,7 +46,7 @@ getPageList()
 		})
 	})
 	.then(function (_) {
-		writeFile('../tmp/_comic-objects.json', JSON.stringify(comicObjects, null, '\t'))
+		comicObjectsIO.write('gocomics', comicObjects)
 	})
 	.catch(function (err) {
 		console.error(err)

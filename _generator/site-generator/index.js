@@ -1,5 +1,5 @@
 var renderTemplate = require('./render-template.js')
-var writeFile = require('../lib/write-file.js')
+var writeFile = require('./write-file.js')
 var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
 var isDebug = !!process.env.DEBUG
 
@@ -12,9 +12,9 @@ var supporters = require('../tmp/supporters.json')
 function writeFilesFromComicObjects(comicObjects) {
 	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
 	
-	render('../../index.html', 'master', generateIndexData(comicObjects))
-	render('../../contact.html', 'master', { subtemplate: 'contact' })
-	render('../../supporters.html', 'master', { subtemplate: 'supporters', supporters: supporters })
+	renderAndWrite('../../index.html', 'master', generateIndexData(comicObjects))
+	renderAndWrite('../../contact.html', 'master', { subtemplate: 'contact' })
+	renderAndWrite('../../supporters.html', 'master', { subtemplate: 'supporters', supporters: supporters })
 	
 	if (isDebug) {
 		return;
@@ -28,7 +28,7 @@ function writeFilesFromComicObjects(comicObjects) {
 		writeFile('../../rss/' + comicObject.basename + '.rss', rssFeed)
 
 		var comicsRssFeedUrl = 'https://www.comicsrss.com/rss/' + encodeURI(comicObject.basename) + '.rss'
-		render('../../preview/' + comicObject.basename + '.html', 'master', {
+		renderAndWrite('../../preview/' + comicObject.basename + '.html', 'master', {
 			subtemplate: 'preview',
 			comicObject: comicObject,
 			comicsRssFeedUrl: comicsRssFeedUrl,
@@ -39,7 +39,7 @@ function writeFilesFromComicObjects(comicObjects) {
 		comicObject.comicStrips.slice(0, 3).forEach(function (comicStrip) {
 			var uniqueString = comicStrip.comicImageUrl.split('/').pop()
 			var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
-			render(filename, 'rssitemcontent', {
+			renderAndWrite(filename, 'rssitemcontent', {
 				comicName: comicObject.basename,
 				comicStrip: comicStrip
 			})
@@ -67,7 +67,7 @@ function generateIndexData(comicObjects) {
 	}
 }
 
-function render(outputFilePath, templateFilenamePrefix, templateData) {
+function renderAndWrite(outputFilePath, templateFilenamePrefix, templateData) {
 	var renderedOutput = renderTemplate(templateFilenamePrefix, templateData)
 	writeFile(outputFilePath, renderedOutput)
 }
