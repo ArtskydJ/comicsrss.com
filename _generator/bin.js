@@ -40,23 +40,31 @@ node bin.js [--debug] { --scrape | --generate | --scrape --generate }
 	return process.exit(exitCode)
 }
 
+var fs = require('fs')
+var scrapers = fs.readdirSync('./scrapers')
+var comicObjectsIO = require('./comic-objects-io.js')
+
 if (scrape) {
-	console.log('scrape code is not yet implemented :(')
-	process.exit(1)
+	scrapers.forEach(function (scraper) {
+		var comicObjects = comicObjectsIO.read(scraper)
+		require(`./scrapers/${scraper}/index.js`, function (comicObjects) {
+			comicObjectsIO.write(comicObjects)
+		}) // This will write the tmp comic objects files
+	})
 }
 
-if (generate) {
+// I NEED TO IMPLEMENT ASYNC HANDLING OF SCRAPERS...
+// p-map-series might do the trick
 
-	var readComicObjects = require('./comic-objects-io.js').read
+if (generate) {
 	var siteGenerator = require('./site-generator/index.js')
 	var supporters = require('./tmp/supporters.json')
 
-	var comicObjects = readComicObjects('gocomics')
-	var moreComicObjects = [
-		readComicObjects('dilbert')
-	]
-	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
-
+	var comicObjects = []
+	scrapers.forEach(function (scraper) {
+		var moreComicObjects = comicObjectsIO.read(scraper).filter(Boolean)
+		comicObjects = comicObjects.concat(moreComicObjects)
+	})
 	if (DEBUG) {
 		comicObjects = comicObjects.slice(0, 3)
 	}

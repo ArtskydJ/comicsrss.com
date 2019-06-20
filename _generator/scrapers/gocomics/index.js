@@ -1,10 +1,9 @@
 var pEach = require('p-map-series')
-var comicObjectsIO = require('../../comic-objects-io.js')
 var getPageList = require('./get-page-list.js')
 var getComicObject = require('./get-comic-object.js')
-var comicObjects = comicObjectsIO.read('gocomics')
 
-getPageList()
+module.exports = function main(comicObjects, callback) {
+	getPageList()
 	.then(function (pageList) {
 		if (!pageList.length) {
 			throw new Error('No comics found')
@@ -45,9 +44,10 @@ getPageList()
 		})
 	})
 	.then(function (_) {
-		comicObjectsIO.write('gocomics', comicObjects)
+		callback(comicObjects)
 	})
 	.catch(function (err) {
 		console.error(err)
 		process.exit(1)
 	})
+}

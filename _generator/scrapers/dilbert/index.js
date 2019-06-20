@@ -1,8 +1,9 @@
-var comicObjectsIO = require('../../comic-objects-io.js')
 var httpGet = require('./http-get.js')
-var dilbertComicObject = comicObjectsIO.read('dilbert')
 
-httpGet('https://dilbert.com')
+module.exports = function main(comicObjects, callback) {
+	var dilbertComicObject = comicObjects[0]
+
+	httpGet('https://dilbert.com')
 	.then(function (html) {
 		var newComicStrips = html
 			.split('\n')
@@ -36,8 +37,9 @@ httpGet('https://dilbert.com')
 
 		var merged = mergeComicStrips(dilbertComicObject.comicStrips, newComicStrips)
 		dilbertComicObject.comicStrips = merged.slice(0, 25)
-		comicObjectsIO.write('dilbert', dilbertComicObject)
+		callback(dilbertComicObject)
 	})
+}
 
 function mergeComicStrips(oldComicStrips, newComicStrips) {
 	var previousComicStrip = oldComicStrips[0]
