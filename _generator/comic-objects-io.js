@@ -18,7 +18,7 @@ function getFilePath(name) {
 	}[name]
 
 	// var filePath = `../tmp/_${name}-comic-objects.json`
-	var filePath = path.resolve(__dirname, '..', 'tmp', fileName)
+	var filePath = path.resolve(__dirname, 'tmp', fileName)
 	return filePath
 }
 

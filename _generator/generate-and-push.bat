@@ -1,12 +1,4 @@
-node scrapers/dilbert
-if ERRORLEVEL 1 (
-    exit /b 1
-)
-node scrapers/gocomics
-if ERRORLEVEL 1 (
-    exit /b 1
-)
-node site-generator
+node bin --scrape --generate
 if ERRORLEVEL 1 (
     exit /b 1
 )

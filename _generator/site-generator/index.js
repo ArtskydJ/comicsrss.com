@@ -1,25 +1,12 @@
 var renderTemplate = require('./render-template.js')
 var writeFile = require('./write-file.js')
 var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
-var isDebug = !!process.env.DEBUG
 
-var comicObjects = require('../tmp/_comic-objects')
-var moreComicObjects = [
-	require('../tmp/_dilbert-comic-object')
-]
-var supporters = require('../tmp/supporters.json')
-
-function writeFilesFromComicObjects(comicObjects) {
-	comicObjects = comicObjects.concat(moreComicObjects).filter(Boolean)
+module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 	
 	renderAndWrite('../../index.html', 'master', generateIndexData(comicObjects))
 	renderAndWrite('../../contact.html', 'master', { subtemplate: 'contact' })
 	renderAndWrite('../../supporters.html', 'master', { subtemplate: 'supporters', supporters: supporters })
-	
-	if (isDebug) {
-		return;
-		comicObjects = comicObjects.slice(0, 3)
-	}
 
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
@@ -71,6 +58,3 @@ function renderAndWrite(outputFilePath, templateFilenamePrefix, templateData) {
 	var renderedOutput = renderTemplate(templateFilenamePrefix, templateData)
 	writeFile(outputFilePath, renderedOutput)
 }
-
-
-writeFilesFromComicObjects(comicObjects)

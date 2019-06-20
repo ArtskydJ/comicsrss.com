@@ -1,4 +1,4 @@
-var comicObjectsIO = require('../comic-objects-io.js')
+var comicObjectsIO = require('../../comic-objects-io.js')
 var httpGet = require('./http-get.js')
 var dilbertComicObject = comicObjectsIO.read('dilbert')
 
