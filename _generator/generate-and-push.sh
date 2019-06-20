@@ -1,9 +1,9 @@
 #!/usr/bin/sh
 cd ~/comicsrss.com/
 git pull --ff-only origin gh-pages -q > /dev/null
-node _generator/scraper-dilbert
-node _generator/scraper
-node _generator/generator
+node _generator/scrapers/dilbert
+node _generator/scrapers/gocomics
+node _generator/site-generator
 git add .
 git commit -q -m "Build"
 git gc --auto --quiet

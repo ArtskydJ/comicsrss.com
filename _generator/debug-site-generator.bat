@@ -1,3 +1,3 @@
 set "DEBUG=true"
-node generator
+node site-generator
 set "DEBUG="

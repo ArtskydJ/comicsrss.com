@@ -1,4 +1,4 @@
 set "DEBUG=true"
-node scraper-dilbert
-node scraper
+node scrapers/dilbert
+node scrapers/gocomics
 set "DEBUG="
