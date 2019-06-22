@@ -1,8 +1,7 @@
 var httpGet = require('./http-get.js')
+var mergeComicStrips = require('./merge.js')
 
-module.exports = function main(comicObjects, callback) {
-	var dilbertComicObject = comicObjects[0]
-
+module.exports = function main(comicObjects) {
 	return httpGet('https://dilbert.com').then(function (html) {
 		var newComicStrips = html
 			.split('\n')
@@ -29,26 +28,18 @@ module.exports = function main(comicObjects, callback) {
 			})
 			// data-id="2018-11-20"
 			// data-url="https://dilbert.com/strip/2018-11-20"
-			// data-image="//assets.amunibersal.com/6a95e580..."
+			// data-image="//assets.amuniversal.com/6a95e580..."
 			// data-date="November 20, 2018"
 			// data-creator="Scott Adams"
 			// data-title="Boss Email Password"
 
-		var merged = mergeComicStrips(dilbertComicObject.comicStrips, newComicStrips)
-		dilbertComicObject.comicStrips = merged.slice(0, 25)
-		return [ dilbertComicObject ]
+		return [{
+			titleAndAuthor: "Dilbert by Scott Adams",
+			basename: "dilbert",
+			author: "Scott Adams",
+			comicUrl: "https://dilbert.com/",
+			headerImageUrl: "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg",
+			comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
+		}]
 	})
-}
-
-function mergeComicStrips(oldComicStrips, newComicStrips) {
-	var previousComicStrip = oldComicStrips[0]
-	var addTheseComicStrips = []
-	for (var i = 0; i < newComicStrips.length; i++) {
-		var comicStrip = newComicStrips[i]
-		if (comicStrip.date === previousComicStrip.date) {
-			break
-		}
-		addTheseComicStrips.push(comicStrip)
-	}
-	return addTheseComicStrips.concat(oldComicStrips)
 }
