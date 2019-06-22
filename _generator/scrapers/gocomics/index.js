@@ -2,8 +2,8 @@ var pEach = require('p-map-series')
 var getPageList = require('./get-page-list.js')
 var getComicObject = require('./get-comic-object.js')
 
-module.exports = function main(comicObjects, callback) {
-	getPageList()
+module.exports = function main(comicObjects) {
+	return getPageList()
 	.then(function (pageList) {
 		if (!pageList.length) {
 			throw new Error('No comics found')
@@ -44,10 +44,6 @@ module.exports = function main(comicObjects, callback) {
 		})
 	})
 	.then(function (_) {
-		callback(comicObjects)
-	})
-	.catch(function (err) {
-		console.error(err)
-		process.exit(1)
+		return comicObjects
 	})
 }

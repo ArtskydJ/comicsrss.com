@@ -3,8 +3,7 @@ var httpGet = require('./http-get.js')
 module.exports = function main(comicObjects, callback) {
 	var dilbertComicObject = comicObjects[0]
 
-	httpGet('https://dilbert.com')
-	.then(function (html) {
+	return httpGet('https://dilbert.com').then(function (html) {
 		var newComicStrips = html
 			.split('\n')
 			.map(l => l.trim())
@@ -37,7 +36,7 @@ module.exports = function main(comicObjects, callback) {
 
 		var merged = mergeComicStrips(dilbertComicObject.comicStrips, newComicStrips)
 		dilbertComicObject.comicStrips = merged.slice(0, 25)
-		callback(dilbertComicObject)
+		return [ dilbertComicObject ]
 	})
 }
 

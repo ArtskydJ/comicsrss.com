@@ -1,4 +1,4 @@
-node bin --scrape --generate
+node bin scrape generate
 if ERRORLEVEL 1 (
     exit /b 1
 )

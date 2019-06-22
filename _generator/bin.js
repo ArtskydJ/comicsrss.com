@@ -1,70 +1,85 @@
 #!/usr/bin/env node
 
-global.DEBUG = false
-var help = false
-var scrape = false
-var generate = false
-var exitCode = 0
+var pMapSeries = require('p-map-series')
+var fs = require('fs')
+var path = require('path')
 
-process.argv.slice(2).forEach(function (argument) {
-	if (argument === '--help') help = true
-	else if (argument === '--debug') DEBUG = true
-	else if (argument === '--scrape') scrape = true
-	else if (argument === '--generate') generate = true
-	else {
-		console.error(`ERROR: unexpected argument "${argument}"\r\n`)
-		exitCode = 1
-		help = true
-	}
+
+var { debug, help, scrape, generate } = parseCliOptions(process.argv.slice(2))
+global.DEBUG = debug || false
+
+if (! scrape && ! generate) {
+	if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
+	console.log('Comics RSS usage:')
+	console.log('node bin [ debug ] { scrape | generate | scrape generate }')
+	console.log('debug     When enabled, this will cause the scrapers and generator to work on')
+	console.log('          fewer files, so everything runs more quickly, but the site is only')
+	console.log('          partially generated. Defaults to processing all files.')
+	console.log('scrape    Whether or not to scrape the websites. Scraping updates the cached')
+	console.log('          comic information. Defaults to false.')
+	console.log('generate  Generate the static site from the cached comic information.')
+	console.log('Example: node bin debug scrape')
+	process.exit(help ? 0 : 1)
+}
+
+const SCRAPER_NAMES = fs.readdirSync('./scrapers')
+
+var promise = Promise.resolve()
+if (scrape)   promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper))
+if (generate) promise = promise.then(runGenerator)
+
+promise.then(()=>{
+	if (DEBUG) console.log('Completed')
+	process.exit(0)
+})
+.catch(function (err) {
+	console.error(err)
+	process.exit(1)
 })
 
-if (!help && !scrape && !generate) {
-	console.error('ERROR: You must enable the --scrape flag and/or the --generate flag.\r\n')
-	exitCode = 1
-	help = true
+
+function parseCliOptions(args) {
+	return args.reduce((memo, arg) => {
+		memo[arg.replace(/^--/, '')] = true
+		return memo
+	}, {})
 }
 
-if (help) {
-	console.log(`
-Comics RSS usage:
-node bin.js --help
-node bin.js [--debug] { --scrape | --generate | --scrape --generate }
---help      Show this help text
---debug     When enabled, this will cause the scrapers and generator to work on
-            fewer files, so everything runs more quickly, but the site is only
-            partially generated. Defaults to processing all files.
---scrape    Whether or not to scrape the websites. Scraping updates the cached
-            comic information. Defaults to false.
---generate  Generate the static site from the cached comic information.
-`.trim())
-	return process.exit(exitCode)
+function readComicObjectFile(scraperName) {
+	var json = fs.readFileSync(getFilePath(scraperName), 'utf-8')
+	return JSON.parse(json)
 }
 
-var fs = require('fs')
-var scrapers = fs.readdirSync('./scrapers')
-var comicObjectsIO = require('./comic-objects-io.js')
+function writeComicObjectFile(scraperName, contents) {
+	var json = JSON.stringify(contents, null, '\t')
+	fs.writeFileSync(getFilePath(scraperName), json, 'utf-8')
+}
 
-if (scrape) {
-	scrapers.forEach(function (scraper) {
-		var comicObjects = comicObjectsIO.read(scraper)
-		require(`./scrapers/${scraper}/index.js`, function (comicObjects) {
-			comicObjectsIO.write(comicObjects)
-		}) // This will write the tmp comic objects files
+function getFilePath(scraperName) {
+	return path.resolve(__dirname, 'tmp', `_${scraperName}-comic-objects.json`)
+}
+
+function runScraper(scraperName) {
+	if (DEBUG) console.log('Scraping ' + scraperName)
+	var thisScraper = require(`./scrapers/${scraperName}/index.js`)
+	var inComicObjects = readComicObjectFile(scraperName)
+	return thisScraper(inComicObjects).then(outComicObjects => {
+		if (!Array.isArray(outComicObjects)) {
+			throw new Error('Expected resulting comicObjects variable to be an array.')
+		}
+		writeComicObjectFile(scraperName, outComicObjects)
 	})
 }
 
-// I NEED TO IMPLEMENT ASYNC HANDLING OF SCRAPERS...
-// p-map-series might do the trick
-
-if (generate) {
+function runGenerator() {
 	var siteGenerator = require('./site-generator/index.js')
 	var supporters = require('./tmp/supporters.json')
 
-	var comicObjects = []
-	scrapers.forEach(function (scraper) {
-		var moreComicObjects = comicObjectsIO.read(scraper).filter(Boolean)
-		comicObjects = comicObjects.concat(moreComicObjects)
-	})
+	var comicObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
+		var moreComicObjects = readComicObjectFile(scraperName).filter(Boolean)
+		return memo.concat(moreComicObjects)
+	}, [])
+
 	if (DEBUG) {
 		comicObjects = comicObjects.slice(0, 3)
 	}

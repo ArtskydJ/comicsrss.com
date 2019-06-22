@@ -1,1 +1,0 @@
-git checkout gh-pages _generator/tmp/_comic-objects.json
