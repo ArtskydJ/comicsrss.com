@@ -9,6 +9,10 @@ Source code for the site generator and rss feed generator for [comicsrss.com](ht
 If you'd like to help keep this site going, you can send me a few bucks using [Patreon](https://www.patreon.com/bePatron?u=6855838). I'd really appreciate it!
 
 
+<!-- Try to cut down on all these unnecessary details...
+Why do I need to explain the inner workings of the entire thing before giving them the API to try it out?
+
+Probably trim these sections down sometime later... -->
 
 ## Technical Details
 
@@ -113,12 +117,12 @@ module.exports = function main(comicObjects) {
 ### More examples
 
 #### Dilbert
-You can look at the code for `_generator/scrapers/dilbert`. It is quite similar to the example above. Dilbert was quite easy because with one https request, I can parse 3 comic strips. (If you load the website, you'll see that it has javascript infinite-scrolling.) I haven't bothered adding the feature to navigate the back-catalog.
+You can find the code [here](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/dilbert). It is quite similar to the example above. Dilbert was quite easy because with one https request, I can parse 3 comic strips. (If you load the website, you'll see that it has javascript infinite-scrolling.) I haven't bothered adding the feature to navigate the back-catalog.
 
 
 #### Go Comics
 
-You can also look at the code for `_generator/scrapers/gocomics`. It is much more complicated since it hosts multiple comic strips. It is also more complicated since it is written to navigate the back-catalog of comic strips as needed. Each gocomics.com comic strip page only shows one comic strip at a time.
+You can also find the code [here](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/gocomics). It is much more complicated since it hosts multiple comic strips. It is also more complicated since it is written to navigate the back-catalog of comic strips as needed. Each gocomics.com comic strip page only shows one comic strip at a time.
 
 My scraper could stop working due to gocomics.com changing their website. If I don't fix it for 3 days, then I would permanently miss a few days of comic strips if my scraper only looked at the latest comic strip.
 
@@ -132,8 +136,8 @@ The `index.js` file's must do something like this:
 
 ```js
 module.export = function main(comicObjects) { // this is the cached comicObjects object. It might be up-to-date, or it might not be.
-	// request and parse comic website, and add any new comic strips to the comicObjects object (or a copy, it doesn't matter)
-	return promise // this promise resolves with the updated comicObjects
+  // request and parse comic website, and add any new comic strips to the comicObjects object (or a copy, it doesn't matter)
+  return promise // this promise resolves with the updated comicObjects
 }
 ```
 
