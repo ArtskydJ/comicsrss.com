@@ -67,7 +67,7 @@ To add a scraper for a website that hosts one comic strip, and shows multiple st
 2. Create a folder in `_generator/scrapers`
 3. Copy the `_generator/scrapers/dilbert/http-get.js` file, and paste it into your new folder
 4. Copy the `_generator/scrapers/dilbert/merge.js` file, and paste it into your new folder
-5. Create an `index.js` file in your new folder with the following
+5. Create an `index.js` file in your new folder. Copy the javascript below
 
 ```js
 // index.js
@@ -76,40 +76,39 @@ const httpGet = require('./http-get.js')
 const mergeComicStrips = require('./merge.js')
 
 module.exports = function main(comicObjects) {
-	return httpGet('https://example.com').then(function (html) {
-		// parse the html, and turn it into an array of comic strips
-		var newComicStrips = html
-			.match(/<div class="comics">([\w\W]+)<footer>/)[1] // grab the middle
-			.split(/<\/div><div class="comic">/) // split up the comic strips
-			.map(function (comicStripHtml) { // parse!
-				// do some string parsing, or regex matching
-				var url = comicStripHtml.match(/<a href="([^"]+)">Permalink/)[1]
-				var [_, comicImageUrl, date] = comicStripHtml.match(/<img src="([^"]+)" title="Comic for (\d\d\d\d-\d\d-\d\d)"/)
-				// matches[1] = img src, matches[2] = date
-				var titleAuthorDate = `My Comic Strip by Author Name for ${date}`
+  return httpGet('https://example.com').then(function (html) {
+    // parse the html, and turn it into an array of comic strips
+    var newComicStrips = html
+      .match(/<div class="comics">([\w\W]+)<footer>/)[1] // grab the middle
+      .split(/<\/div><div class="comic">/) // split up the comic strips
+      .map(function (comicStripHtml) { // parse!
+        // do some string parsing, or regex matching
+        var url = comicStripHtml.match(/<a href="([^"]+)">Permalink/)[1]
+        var [_, comicImageUrl, date] = comicStripHtml.match(/<img src="([^"]+)" title="Comic for (\d\d\d\d-\d\d-\d\d)"/)
+        // matches[1] = img src, matches[2] = date
+        var titleAuthorDate = `My Comic Strip by Author Name for ${date}`
 
-				return {
-					titleAuthorDate,
-					url,
-					date,
-					comicImageUrl
-				}
-			})
+        return {
+          titleAuthorDate,
+          url,
+          date,
+          comicImageUrl
+        }
+      })
 
-		// You are responsible to merge into `comicObjects`
-
-		return [{
-			titleAndAuthor: "My Comic Strip by Author Name",
-			basename: "my-comic-strip",
-			author: "Author Name",
-			comicUrl: "https://example.com/",
-			headerImageUrl: "https://example.com/my_comic_strip-large.jpg",
-			comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
-		}]
-	})
+    return [{
+      titleAndAuthor: "My Comic Strip by Author Name",
+      basename: "my-comic-strip",
+      author: "Author Name",
+      comicUrl: "https://example.com/",
+      headerImageUrl: "https://example.com/my_comic_strip-large.jpg",
+      comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
+    }]
+  })
 }
 ```
-123456789123456789
+
+
 
 ### More examples
 
@@ -129,84 +128,38 @@ My scraper could stop working due to gocomics.com changing their website. If I d
 
 Each folder inside `_generator/scrapers` must have an `index.js` file in it.
 
-The `index.js` file's export must be `function main(comicObjects) { ... }`.
+The `index.js` file's must do something like this:
+
+```js
+module.export = function main(comicObjects) { // this is the cached comicObjects object. It might be up-to-date, or it might not be.
+	// request and parse comic website, and add any new comic strips to the comicObjects object (or a copy, it doesn't matter)
+	return promise // this promise resolves with the updated comicObjects
+}
+```
 
 A corresponding temp file is parsed to an array of `comicObject`s, and the array is passed to `main(comicObjects)`
 
 
 
-### `comicObjects` array
+### `comicObject` object
 
-An array of `comicObject` objects, with the following properties:
+Properties of `comicObject`:
 
-
-
-### `comicObject.basename` string
-
-The basename is used as a unique identifier in some cases.
-
-It will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the preview page and rss page.
-
-- `https://www.comicsrss.com/preview/my-comic-strip`
-- `https://www.comicsrss.com/rss/my-comic-strip.rss`
+- `basename` string - The basename is sometimes used as an identifier. It will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the preview page and rss page. (`https://www.comicsrss.com/preview/my-comic-strip` and `https://www.comicsrss.com/rss/my-comic-strip.rss`)
+- `titleAndAuthor` string - Must have the word "by" somewhere in the middle. Example: `"Calvin and Hobbes by Bill Watterson"`
+- `author` string - The comic strip author's name. Example, `"Bill Watterson"`
+- `comicUrl` string - A URL for the whole comic strip. Usually this is the HTML page that the comic was scraped from.
+- `headerImageUrl` string - A URL for an image that represents the whole comic.
+- `comicStrips` array - An array of `comicStrip` objects. See below
 
 
 
-### `comicObject.titleAndAuthor` string
+### `comicStrip` object
 
-Must have the word "by" somewhere in the middle.
-
-For example, `"Calvin and Hobbes by Bill Watterson"`
-
-
-
-### `comicObject.author` string
-
-Holds the comic strip author's name.
-
-For example, `"Bill Watterson"`
-
-
-
-### `comicObject.comicUrl` string
-
-TODO document this
-
-
-
-### `comicObject.headerImageUrl` string
-
-TODO document this
-
-
-
-### `comicObject.comicStrips` array
-
-An array of `comicStrip` objects, with the following properties:
-
-
-
-### `comicStrip.titleAuthorDate` string
-
-TODO document this
-
-
-
-### `comicStrip.url` string
-
-TODO document this
-
-
-
-### `comicStrip.date` string
-
-TODO document this
-
-
-
-### `comicStrip.comicImageUrl` string
-
-TODO document this
+- `titleAuthorDate` string - Must have the words "by", and "for". Example: `"Dilbert by Scott Adams for June 22, 2019"`
+- `url` string - Permalink to the specific comic strip. 
+- `date` string - The date that the comic strip was published. (Not the date it was scraped.) Formatted as `yyyy-mm-dd`
+- `comicImageUrl` string - The URL of the image of the actual comic strip. Example: `"https://assets.amuniversal.com/00e343804e6d013797bd005056a9545d"`
 
 
 
