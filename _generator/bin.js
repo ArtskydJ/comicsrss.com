@@ -22,7 +22,7 @@ if (! scrape && ! generate) {
 	process.exit(help ? 0 : 1)
 }
 
-const SCRAPER_NAMES = fs.readdirSync('./scrapers')
+const SCRAPER_NAMES = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
 
 var promise = Promise.resolve()
 if (scrape)   promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper))
@@ -46,16 +46,16 @@ function parseCliOptions(args) {
 }
 
 function readComicObjectFile(scraperName) {
-	var json = fs.readFileSync(getFilePath(scraperName), 'utf-8')
+	var json = fs.readFileSync(getComicObjectsPath(scraperName), 'utf-8')
 	return JSON.parse(json)
 }
 
 function writeComicObjectFile(scraperName, contents) {
 	var json = JSON.stringify(contents, null, '\t')
-	fs.writeFileSync(getFilePath(scraperName), json, 'utf-8')
+	fs.writeFileSync(getComicObjectsPath(scraperName), json, 'utf-8')
 }
 
-function getFilePath(scraperName) {
+function getComicObjectsPath(scraperName) {
 	return path.resolve(__dirname, 'tmp', `_${scraperName}-comic-objects.json`)
 }
 
