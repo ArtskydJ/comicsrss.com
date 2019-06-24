@@ -5,8 +5,12 @@ var fs = require('fs')
 var path = require('path')
 
 
-var { debug, help, scrape, generate } = parseCliOptions(process.argv.slice(2))
-global.DEBUG = debug || false
+var cliOpts = parseCliOptions(process.argv.slice(2))
+global.DEBUG = cliOpts.debug || false
+var help = cliOpts.help
+var scrape = cliOpts.scrape
+var generate = cliOpts.generate
+
 
 if (! scrape && ! generate) {
 	if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
