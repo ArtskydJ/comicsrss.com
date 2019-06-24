@@ -25,7 +25,7 @@ if (! scrape && ! generate) {
 const SCRAPER_NAMES = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
 
 var promise = Promise.resolve()
-if (scrape)   promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper))
+if (scrape)   promise = promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper))
 if (generate) promise = promise.then(runGenerator)
 
 promise.then(()=>{
