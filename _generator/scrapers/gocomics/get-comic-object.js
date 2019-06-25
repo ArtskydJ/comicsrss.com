@@ -16,10 +16,13 @@ module.exports = function getComicObject(page, previousComicObject) {
 		.then(getPage)
 		.then(getPage)
 		.then(function () {
-			if (!comicStrips.length) {
+			if (previousComicObject && ! comicStrips.length) {
+				// If no new info was gathered, then avoid changing the cached copy
 				return previousComicObject
 			}
-			comicStrips = comicStrips.concat(previousComicObject.comicStrips)
+			if (previousComicObject) {
+				comicStrips = comicStrips.concat(previousComicObject.comicStrips)
+			}
 
 			return {
 				titleAndAuthor: page.title + ' by ' + page.author,

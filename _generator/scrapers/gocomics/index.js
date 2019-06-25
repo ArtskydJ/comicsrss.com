@@ -15,8 +15,8 @@ module.exports = function main(comicObjects) {
 			var comicObjectIndex = comicObjects.findIndex(function (comicObject) {
 				return (comicObject && comicObject.basename === page.basename)
 			})
-			var comicObject = comicObjects[comicObjectIndex]
-			if (DEBUG) console.log((comicObject ? '' : 'New: ') + comicObject.basename)
+			var comicObject = comicObjects[comicObjectIndex] // might be undefined
+			if (DEBUG) console.log((comicObject ? comicObject.basename : 'New: '))
 
 			return getComicObject(page, comicObject)
 				.then(function (newComicObject) {
