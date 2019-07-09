@@ -1,8 +1,19 @@
-<p>
-	<img src="{{comicStrip.comicImageUrl}}" alt="{{comicStrip.titleAuthorDate}}" title="{{comicStrip.titleAuthorDate}}">
-</p>
-<p>
-	<a href="{{comicStrip.url}}">Source</a> -
-	<a href="https://www.comicsrss.com/preview/{{encodeURI(comicName)}}">Comics RSS</a> -
-	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
-</p>
+<html>
+	<head>
+		<title>{{comicStrip.titleAuthorDate}}</title>
+		<meta property="og:title" content="{{comicStrip.titleAuthorDate}}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://www.comicsrss.com/rssitemcontent/{{comicStrip.date}}/" />
+		<meta property="og:image" content="{{comicStrip.comicImageUrl}}" />
+	</head>
+	<body>	
+		<p>
+			<img src="{{comicStrip.comicImageUrl}}" alt="{{comicStrip.titleAuthorDate}}" title="{{comicStrip.titleAuthorDate}}">
+		</p>
+		<p>
+			<a href="{{comicStrip.url}}">Source</a> -
+			<a href="https://www.comicsrss.com/preview/{{encodeURI(comicName)}}">Comics RSS</a> -
+			<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+		</p>
+	</body>
+</html>
