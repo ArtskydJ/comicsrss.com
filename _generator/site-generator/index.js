@@ -28,6 +28,7 @@ module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 			var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
 			renderAndWrite(filename, 'rssitemcontent', {
 				comicName: comicObject.basename,
+				urlFileName: uniqueString + '.html',
 				comicStrip: comicStrip
 			})
 		})
