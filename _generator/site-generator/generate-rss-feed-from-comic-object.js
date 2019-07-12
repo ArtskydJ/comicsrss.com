@@ -23,10 +23,10 @@ module.exports = function (comicObject) {
 		id: makeId(comicObject.comicUrl)
 	})
 
-	comicObject.comicStrips.forEach(function (comicStrip) {
+	comicObject.comicStrips.slice(0, 15).forEach(function (comicStrip) {
 		var comicStripDate = new Date(comicStrip.date)
 
-		var uniqueString = comicStrip.comicImageUrl.split('/').pop()
+		// var uniqueString = comicStrip.comicImageUrl.split('/').pop()
 		// var comicStripLink = comicStripDate >= new Date('2018-08-08') ? 
 		// 	'https://www.comicsrss.com/rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html' : // new
 		// 	'https://www.comicsrss.com/rssitemcontent/' + uniqueString.slice(0, 3) + '/' + uniqueString + '.html' // old
