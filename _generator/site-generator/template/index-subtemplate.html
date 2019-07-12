@@ -15,7 +15,7 @@
 	<div class="suggested">
 		{{each suggestedComicObjects comicObject}}
 			<a href="./preview/{{encodeURI(comicObject.basename)}}" class="suggested-item">
-				<img src="./static/suggested/resized/{{comicObject.basename}}.jpg">
+				<!-- <img src="./static/suggested/resized/{{comicObject.basename}}.jpg"> -->
 				<span class="title-and-author">
 					<div class="title">{{@ comicObject.titleAndAuthor.split(' by ')[0]}}</div>
 					<div class="author">by {{@ comicObject.titleAndAuthor.split(' by ')[1]}}</div>
