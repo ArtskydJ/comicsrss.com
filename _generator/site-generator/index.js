@@ -23,14 +23,14 @@ module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 			isoDate: function isoDate(date) { return new Date(date).toISOString().slice(0, 10) }
 		})
 
-		comicObject.comicStrips.slice(0, 3).forEach(function (comicStrip) {
-			var uniqueString = comicStrip.comicImageUrl.split('/').pop()
-			var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
-			renderAndWrite(filename, 'rssitemcontent', {
-				comicName: comicObject.basename,
-				comicStrip: comicStrip
-			})
-		})
+		// comicObject.comicStrips.slice(0, 3).forEach(function (comicStrip) {
+		// 	var uniqueString = comicStrip.comicImageUrl.split('/').pop()
+		// 	var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
+		// 	renderAndWrite(filename, 'rssitemcontent', {
+		// 		comicName: comicObject.basename,
+		// 		comicStrip: comicStrip
+		// 	})
+		// })
 	})
 }
 
