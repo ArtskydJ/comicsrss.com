@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	
 	
-	<title>Comics RSS for The Creeps by Jean Floch</title>
+	<title>Comics RSS</title>
 	<link rel="stylesheet" type="text/css" href="../static/style.css">
 	<link rel="icon" href="../static/favicon.ico" type="image/x-icon">
 	<script type="text/javascript">
@@ -24,60 +24,27 @@
 	<noscript><p><img src="//jlddata.com/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 </head>
 <body>
-	<nav>
-		<a href="../">
-			<img src="../static/comicsrss-logo.png" class="logo">
-			<span class="nav-header">Comics RSS</span>
-		</a>
-		
-			<a href="../supporters">Supporters</a>
-		
-			<a href="../contact">Contact</a>
-	</nav>
+	<div class="container">
+		<nav>
+			<a href="../">
+				<img src="../static/comicsrss-logo.png" class="logo">
+				<span class="nav-header">Comics RSS</span>
+			</a>
+			<a href="../#supporters">Supporters</a>
+			<a href="../#contact">Contact</a>
+		</nav>
+	</div>
 
-	<div class="spaced">
-	<a href="https://www.gocomics.com/the-creeps/2017/05/31">
-		<img src="../static/external_sm.png" class="icon">
-		View source
-	</a>
-</div>
-<div class="spaced">
-	<a href="https://www.comicsrss.com/rss/the-creeps.rss" onclick="copy(this, event)">
-		<img src="../static/rss_sm.png" class="icon rss-icon">
-		Copy RSS URL
-	</a>
-	<span class="tooltip"><span class="tooltip-content">Copied!</span></span>
-</div>
-
-<script>
-	function copyToClipboard(text) {
-		var textArea = document.createElement('textarea')
-		textArea.className = 'copyable'
-		textArea.value = text
-		document.body.appendChild(textArea)
-		textArea.select()
-		var wasSuccessful = document.execCommand('copy')
-		document.body.removeChild(textArea)
-		return wasSuccessful
-	}
-
-	function showTooltip(self, text) {
-		var tooltip = document.querySelector('.tooltip')
-		tooltip.classList.add('visible')
-		setTimeout(function () {
-			tooltip.classList.remove('visible')
-		}, 35)
-	}
-
-	function copy(self, event) {
-		var text = self.href
-		if (copyToClipboard(text)) {
-			showTooltip(self)
-			event.preventDefault()
-		}
-		return false
-	}
-</script>
+	<section id="preview-message" class="container">
+	<p>
+		The preview functionality has been removed to avoid copyright infringement.
+	</p>
+	<p>
+		If you used this site because you prefered its interface compared to gocomics, perhaps try
+		<a href="https://licensing.andrewsmcmeel.com/comics">https://licensing.andrewsmcmeel.com/comics</a>.
+		Unfortunately, there are watermarks, so it's not a complete win.
+	</p>
+</section>
 
 
 	<footer class="text-center">
