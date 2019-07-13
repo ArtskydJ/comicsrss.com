@@ -7,7 +7,7 @@
 	<meta name="google-site-verification" content="Tk31ash1naJq9LaQiLemTrYorcKAfUrJ2xHCW745vVM">
 	{{/if}}
 	{{if subtemplate == 'preview'}}{{set root = '..'}}{{else}}{{set root = '.'}}{{/if}}
-	<title>Comics RSS{{if subtemplate == 'preview'}} for {{@ comicObject.titleAndAuthor}}{{/if}}</title>
+	<title>Comics RSS</title>
 	<link rel="stylesheet" type="text/css" href="{{root}}/static/style.css">
 	<link rel="icon" href="{{root}}/static/favicon.ico" type="image/x-icon">
 	<script type="text/javascript">
@@ -26,16 +26,16 @@
 	<noscript><p><img src="//jlddata.com/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 </head>
 <body>
-	<nav>
-		<a href="{{root}}/">
-			<img src="{{root}}/static/comicsrss-logo.png" class="logo">
-			<span class="nav-header">Comics RSS</span>
-		</a>
-		{{if subtemplate == 'supporters'}}<b>Supporters</b>{{else}}
-			<a href="{{root}}/supporters">Supporters</a>{{/if}}
-		{{if subtemplate == 'contact'}}<b>Contact</b>{{else}}
-			<a href="{{root}}/contact">Contact</a>{{/if}}
-	</nav>
+	<div class="container">
+		<nav>
+			<a href="{{root}}/">
+				<img src="{{root}}/static/comicsrss-logo.png" class="logo">
+				<span class="nav-header">Comics RSS</span>
+			</a>
+			<a href="{{root}}/#supporters">Supporters</a>
+			<a href="{{root}}/#contact">Contact</a>
+		</nav>
+	</div>
 
 	{{include './'+subtemplate+'-subtemplate.html'}}
 

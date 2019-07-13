@@ -33,7 +33,7 @@ if (scrape)   promise = promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper)
 if (generate) promise = promise.then(runGenerator)
 
 promise.then(()=>{
-	if (DEBUG) console.log('Completed')
+	if (global.DEBUG) console.log('Completed')
 	process.exit(0)
 })
 .catch(function (err) {
@@ -64,7 +64,7 @@ function getComicObjectsPath(scraperName) {
 }
 
 function runScraper(scraperName) {
-	if (DEBUG) console.log('Scraping ' + scraperName)
+	if (global.DEBUG) console.log('Scraping ' + scraperName)
 	var thisScraper = require(`./scrapers/${scraperName}/index.js`)
 	var inComicObjects = readComicObjectFile(scraperName)
 	return thisScraper(inComicObjects).then(outComicObjects => {
@@ -84,7 +84,7 @@ function runGenerator() {
 		return memo.concat(moreComicObjects)
 	}, [])
 
-	if (DEBUG) {
+	if (global.DEBUG) {
 		comicObjects = comicObjects.slice(0, 3)
 	}
 

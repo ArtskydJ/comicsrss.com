@@ -4,9 +4,8 @@ var generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-obj
 
 module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 	
-	renderAndWrite('../../index.html', 'master', generateIndexData(comicObjects))
-	renderAndWrite('../../contact.html', 'master', { subtemplate: 'contact' })
-	renderAndWrite('../../supporters.html', 'master', { subtemplate: 'supporters', supporters: supporters })
+	var renderedOutput = renderTemplate('master', generateIndexData(comicObjects, supporters))
+	writeFile('../../index.html', renderedOutput)
 
 	comicObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
@@ -14,32 +13,18 @@ module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 		var rssFeed = generateRssFeedFromComicObject(comicObject)
 		writeFile('../../rss/' + comicObject.basename + '.rss', rssFeed)
 
-		var comicsRssFeedUrl = 'https://www.comicsrss.com/rss/' + encodeURI(comicObject.basename) + '.rss'
-		renderAndWrite('../../preview/' + comicObject.basename + '.html', 'master', {
-			subtemplate: 'preview',
-			comicObject: comicObject,
-			comicsRssFeedUrl: comicsRssFeedUrl,
-			feedlyFeedUrl: 'https://feedly.com/i/subscription/feed/' + encodeURIComponent(comicsRssFeedUrl),
-			isoDate: function isoDate(date) { return new Date(date).toISOString().slice(0, 10) }
-		})
-
-		// comicObject.comicStrips.slice(0, 3).forEach(function (comicStrip) {
-		// 	var uniqueString = comicStrip.comicImageUrl.split('/').pop()
-		// 	var filename = '../../rssitemcontent/' + comicStrip.date + '/' + uniqueString + '.html'
-		// 	renderAndWrite(filename, 'rssitemcontent', {
-		// 		comicName: comicObject.basename,
-		// 		comicStrip: comicStrip
-		// 	})
-		// })
+		var renderedOutput = renderTemplate('master', { subtemplate: 'preview' })
+		writeFile('../../preview/' + comicObject.basename + '.html', renderedOutput)
 	})
 }
 
-function generateIndexData(comicObjects) {
+function generateIndexData(comicObjects, supporters) {
 	var SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,foxtrot,foxtrotclassics,getfuzzy,peanuts'.split(',')
 	return {
 		subtemplate: 'index',
 		suggestedComicObjects: comicObjects.filter(filterCO).sort(sortCO),
 		comicObjects: comicObjects.sort(sortCO),
+		supporters: supporters,
 		generatedDate: new Date().toDateString()
 	}
 
@@ -52,9 +37,4 @@ function generateIndexData(comicObjects) {
 		var b = bb.titleAndAuthor.toLowerCase()
 		return a > b ? 1 : (b > a ? -1 : 0)
 	}
-}
-
-function renderAndWrite(outputFilePath, templateFilenamePrefix, templateData) {
-	var renderedOutput = renderTemplate(templateFilenamePrefix, templateData)
-	writeFile(outputFilePath, renderedOutput)
 }

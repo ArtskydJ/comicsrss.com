@@ -1,43 +1,8 @@
-<div class="spaced">
-	<a href="{{comicObject.comicUrl}}">
-		<img src="../static/external_sm.png" class="icon">
-		View source
-	</a>
-</div>
-<div class="spaced">
-	<a href="{{comicsRssFeedUrl}}" onclick="copy(this, event)">
-		<img src="../static/rss_sm.png" class="icon rss-icon">
-		Copy RSS URL
-	</a>
-	<span class="tooltip"><span class="tooltip-content">Copied!</span></span>
-</div>
-
-<script>
-	function copyToClipboard(text) {
-		var textArea = document.createElement('textarea')
-		textArea.className = 'copyable'
-		textArea.value = text
-		document.body.appendChild(textArea)
-		textArea.select()
-		var wasSuccessful = document.execCommand('copy')
-		document.body.removeChild(textArea)
-		return wasSuccessful
-	}
-
-	function showTooltip(self, text) {
-		var tooltip = document.querySelector('.tooltip')
-		tooltip.classList.add('visible')
-		setTimeout(function () {
-			tooltip.classList.remove('visible')
-		}, 35)
-	}
-
-	function copy(self, event) {
-		var text = self.href
-		if (copyToClipboard(text)) {
-			showTooltip(self)
-			event.preventDefault()
-		}
-		return false
-	}
-</script>
+<p>
+	The preview functionality has been removed to avoid copyright infringement.
+</p>
+<p>
+	If you used this site because you prefered it more than gocomics, perhaps try
+	<a href="https://licensing.andrewsmcmeel.com/comics">licensing.andrewsmcmeel.com/comics</a>.
+	Unfortunately, there are watermarks, so it's not a complete win.
+</p>

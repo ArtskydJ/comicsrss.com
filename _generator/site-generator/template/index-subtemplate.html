@@ -1,74 +1,189 @@
-<p>
-	If you use an <a href="https://www.digitaltrends.com/computing/how-to-use-rss/">RSS</a>
-	reader, and like reading comics, then this is the site for you!
-	Preview comic strips, and if you like them, then add the RSS feed to your reader.
-</p>
+<section id="intro">
+	<div class="container">
+		<p>
+			If you use an <a href="https://www.digitaltrends.com/computing/how-to-use-rss/">RSS</a>
+			reader, and like reading comics, then this is the site for you!
+			Preview comic strips, and if you like them, then add the RSS feed to your reader.
+		</p>
 
-<p>
-	If you enjoy this site, consider supporting it through
-	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a> or
-	<a href="https://paypal.me/artskydj">PayPal</a>.
-</p>
-
-<div class="section">
-	<div class="main-page-header">Suggested</div>
-	<div class="suggested">
-		{{each suggestedComicObjects comicObject}}
-			<a href="./preview/{{encodeURI(comicObject.basename)}}" class="suggested-item">
-				<!-- <img src="./static/suggested/resized/{{comicObject.basename}}.jpg"> -->
-				<span class="title-and-author">
-					<div class="title">{{@ comicObject.titleAndAuthor.split(' by ')[0]}}</div>
-					<div class="author">by {{@ comicObject.titleAndAuthor.split(' by ')[1]}}</div>
-				</span>
-			</a>
-		{{/each}}
+		<p>
+			If you enjoy this site, consider supporting it through
+			<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a> or
+			<a href="https://paypal.me/artskydj">PayPal</a>.
+		</p>
 	</div>
-</div>
+</section>
 
-<div class="section">
-	<div class="main-page-header large-margin">Browse</div>
-	<input type="text" class="search" placeholder="Search">
+<!--
+<section id="suggested">
+	<div class="container">
+		<div class="main-page-header">Suggested</div>
+		<div class="suggested">
+			{{each suggestedComicObjects comicObject}}
+				<a href="./preview/{{encodeURI(comicObject.basename)}}" class="suggested-item">
+					<span class="title-and-author">
+						<div class="title">{{@ comicObject.titleAndAuthor.split(' by ')[0]}}</div>
+						<div class="author">by {{@ comicObject.titleAndAuthor.split(' by ')[1]}}</div>
+					</span>
+				</a>
+			{{/each}}
+		</div>
+	</div>
+</section>
+-->
 
-	<script>
-		var searchCss = document.createElement('style')
-		document.head.appendChild(searchCss)
+<section id="browse">
+	<div class="container">
+		<div class="main-page-header large-margin">Browse</div>
+		<input type="text" class="search" placeholder="Search">
 
-		var inputSearch = document.querySelector('input.search')
+		<script>
+			var searchCss = document.createElement('style')
+			document.head.appendChild(searchCss)
 
-		inputSearch.addEventListener('input', updateFilter)
-		updateFilter()
+			var inputSearch = document.querySelector('input.search')
 
-		function normalizeSearchString(titleOrAuthor) {
-			return titleOrAuthor
-				.trim()
-				.replace(/&/g, 'and')
-				.toLowerCase()
-				.replace(/\s\s+/g, ' ')
-				.replace(/"/g, '')
-		}
+			inputSearch.addEventListener('input', updateFilter)
+			updateFilter()
 
-		function updateFilter() {
-			var searchPhrase = normalizeSearchString(inputSearch.value)
-			var cssHideRule = ''
-			if (searchPhrase.length) {
-				cssHideRule = searchPhrase.split(' ').map(wordToSelectorNonHits).join(',') + '{display:none;}'
-				var cssShowSelector = searchPhrase.split(' ').map(wordToSelectorHits).join(',')
-
-				var resultCount = document.querySelectorAll(cssShowSelector).length
-				_paq.push(['trackSiteSearch', searchPhrase, false, resultCount])
+			function normalizeSearchString(titleOrAuthor) {
+				return titleOrAuthor
+					.trim()
+					.replace(/&/g, 'and')
+					.toLowerCase()
+					.replace(/\s\s+/g, ' ')
+					.replace(/"/g, '')
 			}
-			searchCss.innerHTML = cssHideRule
 
-			function wordToSelectorNonHits(word) { return 'ul#comics-list>li:not([data-search*="' + word + '"])' }
-			function wordToSelectorHits(word) {    return 'ul#comics-list>li[data-search*="' + word + '"]' }
+			function updateFilter() {
+				var searchPhrase = normalizeSearchString(inputSearch.value)
+				var cssHideRule = ''
+				if (searchPhrase.length) {
+					cssHideRule = searchPhrase.split(' ').map(wordToSelectorNonHits).join(',') + '{display:none;}'
+					var cssShowSelector = searchPhrase.split(' ').map(wordToSelectorHits).join(',')
+
+					var resultCount = document.querySelectorAll(cssShowSelector).length
+					_paq.push(['trackSiteSearch', searchPhrase, false, resultCount])
+				}
+				searchCss.innerHTML = cssHideRule
+
+				function wordToSelectorNonHits(word) { return 'ul#comics-list>li:not([data-search*="' + word + '"])' }
+				function wordToSelectorHits(word) {    return 'ul#comics-list>li[data-search*="' + word + '"]' }
+			}
+		</script>
+
+		<ul id="comics-list">
+			{{each comicObjects comicObject}}
+				<li data-search="{{@ comicObject.titleAndAuthor.toLowerCase()}}">
+					<div class="ellipsis" title="{{@ comicObject.titleAndAuthor}}">
+						{{@ comicObject.titleAndAuthor}}
+					</div>
+					<div class="actions">
+						<a href="./rss/{{encodeURI(comicObject.basename)}}.rss" onclick="copy(this, event)">
+							<img src="../static/rss_sm.png" class="icon rss-icon">
+							<span class="status">Copy RSS URL</span>
+						</a>
+						<a href="{{comicObject.comicUrl}}" target="_blank">
+							<img src="./static/external_sm.png" class="icon">
+							View
+						</a>
+					</div>
+				</li>
+			{{/each}}
+		</ul>
+	</div>
+</section>
+
+
+<section id="supporters">
+	<div class="container">
+		<h1 class="text-center">Supporters</h1>
+
+		<div class="gold-supporters">
+			<h2>Gold Supporters</h2>
+			{{each supporters.gold supporter}}
+				<div class="supporter">
+					<a href="{{supporter.url}}">
+						<span class="supporter-name">{{supporter.displayName}}</span>
+					</a>
+					<span class="supporter-name">{{supporter.description}}</span>
+				</div>
+			{{/each}}
+			<a href="https://www.patreon.com/join/josephdykstra/checkout?rid=2790040">
+				{{if supporters.gold.length}}Also become a{{else}}Be the first{{/if}} Gold supporter
+			</a>
+		</div>
+		<div class="silver-supporters">
+			<h2>Silver Supporters</h2>
+			{{each supporters.silver supporter}}
+				<div class="supporter">
+					<a href="{{supporter.url}}">
+						<span class="supporter-name">{{supporter.displayName}}</span>
+					</a>
+				</div>
+			{{/each}}
+			<a href="https://www.patreon.com/join/josephdykstra/checkout?rid=2790035">
+				{{if supporters.silver.length}}Also become a{{else}}Be the first{{/if}} Silver supporter
+			</a>
+		</div>
+		<div class="bronze-supporters">
+			<h2>Bronze Supporters</h2>
+
+			{{each supporters.bronze supporter}}
+				<div class="supporter">
+					<span class="supporter-name">{{supporter.displayName}}</span>
+				</div>
+			{{/each}}
+			<a href="https://www.patreon.com/join/josephdykstra/checkout?rid=2275262">
+				{{if supporters.bronze.length}}Also become a{{else}}Be the first{{/if}} Bronze supporter
+			</a>
+		</div>
+	</div>
+</section>
+
+<section id="contact">
+	<div class="container">
+		<h1 class="text-center">Contact</h1>
+		<p>
+			Suggestions? Comments? Questions?
+		</p>
+		<p>
+			I'd love to hear your thoughts about the site! Send an email to
+			<a id="mail"><span>joseph<span>@com</span>icsrss.</span>com</a>
+		</p>
+	</div>
+</section>
+
+<script>
+	// Obfuscate email
+	document.getElementById('mail').href = 'mailt' + 'o:joseph' + '@com' + 'icsrss.com'
+
+
+	function copyToClipboard(text) {
+		var textArea = document.createElement('textarea')
+		textArea.className = 'copyable'
+		textArea.value = text
+		document.body.appendChild(textArea)
+		textArea.select()
+		var wasSuccessful = document.execCommand('copy')
+		document.body.removeChild(textArea)
+		return wasSuccessful
+	}
+
+	function updateStatus(self) {
+		var status = self.querySelector('.status')
+		status.innerHTML = status.innerHTML.replace('Copy', 'Copied')
+		setTimeout(function () {
+			status.innerHTML = status.innerHTML.replace('Copied', 'Copy')
+		}, 1500)
+	}
+
+	function copy(self, event) {
+		var text = self.href
+		if (copyToClipboard(text)) {
+			updateStatus(self)
+			event.preventDefault()
 		}
-	</script>
-
-	<ul id="comics-list">
-		{{each comicObjects comicObject}}
-			<li data-search="{{@ comicObject.titleAndAuthor.toLowerCase()}}">
-				<a href="./preview/{{encodeURI(comicObject.basename)}}" class="comic-title">{{@ comicObject.titleAndAuthor}}</a>
-			</li>
-		{{/each}}
-	</ul>
-</div>
+		return false
+	}
+</script>

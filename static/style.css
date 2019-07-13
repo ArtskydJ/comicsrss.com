@@ -9,17 +9,25 @@ body, input {
 }
 body {
 	line-height: 1.5;
-
+	margin: 0;
+	padding: 0;
+}
+section {
+	padding: 1em 0;
+}
+footer {
+	padding: 2em 0;
+}
+.container {
 	max-width: 700px;
-	width: calc(100% - 40px);
+	width: calc(100% - 80px);
 	min-width: 300px;
-	margin: 0 auto;
-	padding: 0 20px;
+	margin: 0 auto 1em;
+	padding: 0 40px;
 }
 ul#comics-list {
 	padding: 0;
 	margin-top: 0;
-	margin-bottom: -3em;
 	min-height: 2em;
 	max-height: 80vh;
 	overflow-y: auto;
@@ -38,28 +46,33 @@ ul#comics-list:before {
 	z-index: -1;
 }
 ul#comics-list > li {
-	display: block;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 	margin: 0;
-	padding: 6px 6px 0;
+	padding: 8px;
 	border-top: 1px solid #aaa;
 	background-color: #fcfcfc;
+}
+@media screen and (max-width: 600px) {
+	ul#comics-list > li {
+		flex-direction: column;
+	}
+}
+.actions {
+	white-space: nowrap;
+	display: flex;
+	justify-content: space-between;
+}
+.actions a + a {
+	margin-left: 8px;
 }
 nav {
 	border-bottom: 1px solid #aaa;
 }
-a {
-	color: #0366d6;
-	text-decoration: none;
-}
-a:hover {
-	color: #003693;
-}
 nav > a, nav > b {
 	flex: 0 0 auto;
 	margin-right: 24px;
-}
-footer {
-	margin: 4em 0 1em;
 }
 div.spaced {
 	margin: 18px 0;
@@ -97,11 +110,10 @@ textarea.copyable {
 	max-height: 32px;
 }
 
-.comic-title {
+.ellipsis {
 	text-overflow: ellipsis;
 	display: inline-block;
 	white-space: nowrap;
-	width: 100%;
 	overflow: hidden;
 }
 
@@ -123,9 +135,6 @@ textarea.copyable {
 	margin: -4px;
 	width: 28px;
 	height: 28px;
-}
-.section {
-	margin: 1em 0;
 }
 
 .gray {
@@ -153,31 +162,13 @@ img.preview-comic {
 	max-width:100%;
 }
 
-.tooltip {
-	visibility: hidden;
-	opacity: 0;
-	transition: visibility 0s 1.5s, opacity 1.5s cubic-bezier(1, 0, 1, 1);
+a {
+	color: #0366d6;
+	text-decoration: none;
 }
-.tooltip.visible {
-	visibility: visible;
-	opacity: 1;
-	transition: visibility 0s, opacity 0s;
+a:hover {
+	color: #00336a;
 }
-.tooltip::before {
-	display: inline-block;
-	width: 0px;
-	height: 0px;
-	border: 6px solid transparent;
-	border-right-color: #000;
-	content: '';
-}
-.tooltip .tooltip-content {
-	background-color: #000;
-	color: #fff;
-	display: inline-block;
-	padding: 0px 5px;
-}
-
 .main-page-header {
 	font-size: 1.5em;
 	font-weight: 300;
@@ -194,9 +185,11 @@ img.preview-comic {
 	margin: 5px;
 	text-align: left;
 	border: 1px solid #0366d6;
+	background-color: #fff;
 }
 .suggested-item:hover {
-	border-color: #003693;
+	border-color: #00336a;
+	background-color: #def;
 }
 .suggested-item img {
 	max-width: 100%;
@@ -213,3 +206,9 @@ img.preview-comic {
 .supporter {
 	margin-bottom: 1em;
 }
+
+#suggested {  background-color: #aaddff; } /* ccbbff light purple*/
+/*#browse {     background-color: #f78422; } orange that matches the copy links */
+#supporters { background-color: #77ff77; }
+#contact {    background-color: #ff77aa; }
+/*footer {      background-color: #bbeecc; } f7a462 light greens */
