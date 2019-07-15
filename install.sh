@@ -1,3 +1,4 @@
+#!/usr/bin/sh
 cd /root
 git clone git@github.com:ArtskydJ/comicsrss.com.git || true
 apt-get install sendmail -y
