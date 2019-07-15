@@ -1,6 +1,8 @@
 # comicsrss.com
 
-Source code for the site generator and rss feed generator for [comicsrss.com](https://www.comicsrss.com)
+Source code for the site generator and rss feed generator for [comicsrss.com](https://www.comicsrss.com).
+
+Also, all of the site's content is in this repository, as it is hosted by GitHub Pages.
 
 
 
@@ -38,17 +40,17 @@ Finally, it writes the lists of comics with their list of strips to a JSON file 
 
 ### How the site generator works
 
-The site generator finds the temporary files made by the scrapers. Each temporary file is a JSON array of objects. These arrays are concatenated into one big list of comics, each with their list of daily comic strips. The generator uses templates to generate an `index.html file`, `preview/{comic}.html` files, `rss/{comic}.rss` files, and some other files.
+The site generator finds the temporary files made by the scrapers. Each temporary file is a JSON array of objects. These arrays are concatenated into one big list of comics, each with their list of daily comic strips. The generator uses templates to generate an `index.html file`, and `rss/{comic}.rss` files.
 
-When these updated/new files are committed and pushed to this repository, they will be hosted on gh-pages, which is how you view the site today.
+When these updated/new files are committed and pushed to this repository, they get hosted on gh-pages, which is how you view the site today.
 
 
 
 ### Install for yourself
 
-I have a linux server with a cron job that runs `node _generator/bin.js scrape generate` each hour.
+I have a linux server with a cron job that runs `sh _generator/generate-and-push.sh` each hour.
 
-To do the same, run the following on a linux machine:
+To do the same, run this on linux or macOS:
 
 ```sh
 curl https://www.comicsrss.com/install.sh | sh
@@ -124,7 +126,7 @@ You can find the code [here](https://github.com/ArtskydJ/comicsrss.com/tree/gh-p
 
 You can also find the code [here](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/gocomics). It is much more complicated since it hosts multiple comic strips. It is also more complicated since it is written to navigate the back-catalog of comic strips as needed. Each gocomics.com comic strip page only shows one comic strip at a time.
 
-My scraper could stop working due to gocomics.com changing their website. If I don't fix it for 3 days, then I would permanently miss a few days of comic strips if my scraper only looked at the latest comic strip.
+My scraper could stop working if gocomics.com changes their website. If I don't fix it for 3 days, and if my scraper only looked at the latest comic strip, then I would permanently miss a few days of comic strips. That is why it is important to be able to navigate the back-catalog.
 
 
 
