@@ -1,4 +1,4 @@
-var Feed = require('feed')
+var Feed = require('feed').Feed
 var crypto = require('crypto')
 var renderTemplate = require('./render-template.js')
 
@@ -25,6 +25,10 @@ module.exports = function (comicObject) {
 
 	comicObject.comicStrips.slice(0, 15).forEach(function (comicStrip) {
 		var comicStripDate = new Date(comicStrip.date)
+		var guid = comicStrip.url
+		if (comicStripDate >= new Date('2019-10-17')) {
+			guid = makeId(comicStrip.basename + comicStrip.date)
+		}
 
 		feed.addItem({
 			title: comicStrip.titleAuthorDate,
@@ -35,9 +39,8 @@ module.exports = function (comicObject) {
 			}),
 			author: [{ name: feedAuthor }],
 			date: comicStripDate,
-			// Unfortunately, if the link changes, so will the ID.
-			// The links shouldn't be changing, so hopefully this doesn't become an issue.
-			id: makeId(comicStrip.url)
+			guid: guid,
+			id: guid
 		})
 	})
 
