@@ -74,23 +74,35 @@
 
 		<ul id="comics-list">
 			{{each comicObjects comicObject}}
-				<li data-search="{{@ comicObject.titleAndAuthor.toLowerCase()}}">
-					<div class="ellipsis" title="{{@ comicObject.titleAndAuthor}}">
-						{{@ comicObject.titleAndAuthor}}
-					</div>
-					<div class="actions">
-						<a href="./rss/{{encodeURI(comicObject.basename)}}.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="{{comicObject.comicUrl}}" target="_blank">
-							<img src="./static/external_sm.png" class="icon">
-							View
-						</a>
-					</div>
-				</li>
+				{{if language === (comicObject.language || 'eng')}}
+					<li data-search="{{@ comicObject.titleAndAuthor.toLowerCase()}}">
+						<div class="ellipsis" title="{{@ comicObject.titleAndAuthor}}">
+							{{@ comicObject.titleAndAuthor}}
+						</div>
+						<div class="actions">
+							<a href="./rss/{{encodeURI(comicObject.basename)}}.rss" onclick="copy(this, event)">
+								<img src="../static/rss_sm.png" class="icon rss-icon">
+								<span class="status">Copy RSS URL</span>
+							</a>
+							<a href="{{comicObject.comicUrl}}" target="_blank">
+								<img src="./static/external_sm.png" class="icon">
+								View
+							</a>
+						</div>
+					</li>
+				{{/if}}
 			{{/each}}
 		</ul>
+
+		{{if language === 'eng'}}
+			<b>English</b>
+			&mdash;
+			<a href="./espanol.html">Español</a>
+		{{else if language === 'spa'}}
+			<a href="./">English</a>
+			&mdash;
+			<b>Español</b>
+		{{/if}}
 	</div>
 </section>
 

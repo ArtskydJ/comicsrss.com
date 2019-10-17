@@ -31,6 +31,8 @@ module.exports = function getComicObject(page, previousComicObject) {
 				title: page.title,
 				comicUrl: fullComicUrl,
 				headerImageUrl: comicStrips[0].headerImageUrl,
+				isPolitical: page.isPolitical,
+				language: page.language,
 				comicStrips: comicStrips.map(function (comicStrip) {
 					return {
 						titleAuthorDate: comicStrip.titleAuthorDate,

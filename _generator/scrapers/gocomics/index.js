@@ -13,7 +13,7 @@ module.exports = function main(comicObjects) {
 		}
 		return pEach(pageList, function (page) {
 			var comicObjectIndex = comicObjects.findIndex(function (comicObject) {
-				return (comicObject && comicObject.basename === page.basename)
+				return (comicObject && comicObject.basename.trim() === page.basename)
 			})
 			var comicObject = comicObjects[comicObjectIndex] // might be undefined
 			if (DEBUG) console.log((comicObject ? comicObject.basename : 'New: '))

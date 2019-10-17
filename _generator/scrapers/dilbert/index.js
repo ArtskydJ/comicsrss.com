@@ -34,11 +34,13 @@ module.exports = function main(comicObjects) {
 			// data-title="Boss Email Password"
 
 		return [{
-			titleAndAuthor: "Dilbert by Scott Adams",
-			basename: "dilbert",
-			author: "Scott Adams",
-			comicUrl: "https://dilbert.com/",
-			headerImageUrl: "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg",
+			titleAndAuthor: 'Dilbert by Scott Adams',
+			basename: 'dilbert',
+			author: 'Scott Adams',
+			comicUrl: 'https://dilbert.com/',
+			headerImageUrl: 'https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg',
+			isPolitical: false,
+			language: 'eng',
 			comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
 		}]
 	})

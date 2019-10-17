@@ -85,7 +85,7 @@ function runGenerator() {
 	}, [])
 
 	if (global.DEBUG) {
-		comicObjects = comicObjects.slice(0, 3)
+		comicObjects = comicObjects.slice(0, 10)
 	}
 
 	siteGenerator(comicObjects, supporters)
