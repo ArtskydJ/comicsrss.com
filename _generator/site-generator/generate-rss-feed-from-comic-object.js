@@ -1,4 +1,3 @@
-var Feed = require('feed').Feed
 var crypto = require('crypto')
 var renderTemplate = require('./render-template.js')
 
@@ -11,40 +10,29 @@ module.exports = function (comicObject) {
 	var feedAuthor = comicObject.author
 	var lastComicDate = comicObject.comicStrips[0].date
 
-	var feed = new Feed({
+	var templateOpts = {
 		title: comicObject.titleAndAuthor.split(' by ')[0],
 		description: comicObject.titleAndAuthor,
-		link: 'https://www.comicsrss.com/preview/' + encodeURI(comicObject.basename),
-		image: comicObject.headerImageUrl,
-		feed: 'https://www.comicsrss.com/rss/' + comicObject.basename + '.rss',
-		copyright: 'Copyright ' + feedAuthor,
-		updated: new Date(lastComicDate),
-		author: { name: feedAuthor },
-		id: makeId(comicObject.comicUrl)
-	})
-
-	comicObject.comicStrips.slice(0, 15).forEach(function (comicStrip) {
-		var comicStripDate = new Date(comicStrip.date)
-		var guid = comicStrip.url
-		if (comicStripDate >= new Date('2019-10-17')) {
-			guid = makeId(comicStrip.basename + comicStrip.date)
-		}
-
-		feed.addItem({
-			title: comicStrip.titleAuthorDate,
-			link: comicStrip.url,
-			description: renderTemplate('rssitemcontent', {
-				comicName: comicObject.basename,
-				comicStrip: comicStrip
-			}),
-			author: [{ name: feedAuthor }],
-			date: comicStripDate,
-			guid: guid,
-			id: guid
+		basename: encodeURI(comicObject.basename),
+		headerImageUrl: comicObject.headerImageUrl,
+		updatedDate: new Date(lastComicDate),
+		author: feedAuthor,
+		language: comicObject.language,
+		// id: makeId(comicObject.comicUrl),
+		comicStrips: comicObject.comicStrips.slice(0, 15).map(function (comicStrip) {
+			comicStrip.guid = comicStrip.url
+			comicStrip.isPermaLink = true
+			if (comicStrip.date >= '2019-10-17') {
+				comicStrip.guid = makeId(comicStrip.basename + comicStrip.date)
+				comicStrip.isPermaLink = false
+			}
+			comicStrip.includePreviewLink = comicStrip.date <= '2019-10-19'
+			comicStrip.date = new Date(comicStrip.date)
+			return comicStrip
 		})
-	})
+	}
 
-	return feed.rss2()
+	return renderTemplate('rss-feed', templateOpts)
 }
 
 function makeId(str) {

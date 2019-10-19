@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{title}}</title>
+        <link>https://www.comicsrss.com/preview/{{basename}}</link>
+        <description>{{description}}</description>
+        <lastBuildDate>{{updatedDate.toUTCString()}}</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+        <language>{{language === 'spa' ? 'es' : 'en'}}</language>
+        <image>
+            <title>{{title}}</title>
+            <url>{{headerImageUrl}}</url>
+            <link>https://www.comicsrss.com/preview/{{basename}}</link>
+        </image>
+        <copyright>Copyright {{author}}</copyright>
+        <atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
+{{each comicStrips comicStrip}}
+        <item>
+            <title><![CDATA[{{comicStrip.titleAuthorDate}}]]></title>
+            <link>{{comicStrip.url}}</link>
+            <guid{{if ! comicStrip.isPermaLink}} isPermaLink="false"{{/if}}>{{comicStrip.guid}}</guid>
+            <pubDate>{{comicStrip.date.toUTCString()}}</pubDate>
+            <description><![CDATA[<p>
+	<img src="{{comicStrip.comicImageUrl}}" alt="{{comicStrip.titleAuthorDate}}" title="{{comicStrip.titleAuthorDate}}">
+</p>
+<p>
+	<a href="{{comicStrip.url}}">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>{{/each}}
+    </channel>
+</rss>
