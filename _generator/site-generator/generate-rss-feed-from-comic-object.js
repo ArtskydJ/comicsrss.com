@@ -22,8 +22,11 @@ module.exports = function (comicObject) {
 		comicStrips: comicObject.comicStrips.slice(0, 15).map(function (comicStrip) {
 			comicStrip.guid = comicStrip.url
 			comicStrip.isPermaLink = true
-			if (comicStrip.date >= '2019-10-17') {
-				comicStrip.guid = makeId(comicStrip.basename + comicStrip.date)
+			if (comicStrip.date >= '2019-10-20') {
+				comicStrip.guid = comicObject.basename + comicStrip.date
+				comicStrip.isPermaLink = false
+			} else if (comicStrip.date >= '2019-10-17') {
+				comicStrip.guid = makeId(comicStrip.basename + comicStrip.date) // comicStrip.basename is undefined. I'm a doofus. Issue #116
 				comicStrip.isPermaLink = false
 			}
 			comicStrip.includePreviewLink = comicStrip.date <= '2019-10-19'
