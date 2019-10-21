@@ -15,7 +15,20 @@
         </image>
         <copyright>Copyright {{author}}</copyright>
         <atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
-{{each comicStrips comicStrip}}
+{{if basename.slice(-3) === '%20'}}
+        <item>
+            <title><![CDATA[{{description}} -- Este feed RSS ya no se actualiza.]]></title>
+            <link>https://www.comicsrss.com/espanol</link>
+            <guid isPermaLink="false">{{basename}}2019-10-21nolongerupdated</guid>
+            <pubDate>Mon, 21 Oct 2019 16:00:00 GMT</pubDate>
+            <description><![CDATA[
+                <p>This feed is no longer being updated. Use the following URL.</p>
+                <p>Este feed RSS ya no se actualiza. Use la siguiente URL.</p>
+                <p><a href="https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss">
+                    https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss</a></p>
+            ]]></description>
+        </item>
+{{/if}}{{each comicStrips comicStrip}}
         <item>
             <title><![CDATA[{{comicStrip.titleAuthorDate}}]]></title>
             <link>{{comicStrip.url}}</link>
