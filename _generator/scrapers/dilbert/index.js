@@ -1,5 +1,5 @@
 const httpGet = require('./http-get.js')
-const mergeComicStrips = require('./merge.js')
+const mergeStrips = require('./merge.js')
 
 module.exports = function main(seriesObjects) {
 	return httpGet('https://dilbert.com').then(function (html) {
@@ -40,7 +40,7 @@ module.exports = function main(seriesObjects) {
 			imageUrl: 'https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg',
 			isPolitical: false,
 			language: 'eng',
-			strips: mergeComicStrips(seriesObjects[0].strips, newStrips)
+			strips: mergeStrips(seriesObjects[0].strips, newStrips)
 		}]
 	})
 }

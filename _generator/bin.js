@@ -6,13 +6,52 @@ const path = require('path')
 
 
 const startTime = new Date()
-const oneMonthAgo = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * 30)
+const expirationDays = 90
+const expirationDate = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * expirationDays)
 const cliOpts = parseCliOptions(process.argv.slice(2))
 global.DEBUG = cliOpts.debug || false
 global.VERBOSE = cliOpts.verbose || global.DEBUG
 const help = cliOpts.help
 const scrape = cliOpts.scrape
 const generate = cliOpts.generate
+
+if (cliOpts.transform) {
+	var transform = function (scraperName) {
+		var seriesObjects = readSeriesObjectsFile(scraperName)
+		var seriesObjects2 = seriesObjects
+			.filter(Boolean)
+			.map(function (seriesObject) {
+				const { basename, title, titleAndAuthor, author, comicUrl, headerImageUrl, isPolitical, language, comicStrips } = seriesObject
+				console.log('  ' + basename)
+				return {
+					basename,
+					title: title || titleAndAuthor.split(' by ')[0],
+					author,
+					url: comicUrl,
+					imageUrl: headerImageUrl,
+					isPolitical,
+					language,
+					strips: comicStrips
+						.map(strip => {
+							const { url, date, comicImageUrl } = strip
+							return {
+								url,
+								date,
+								imageUrl: comicImageUrl
+							}
+						})
+						.slice(0, 25)
+				}
+			})
+		writeSeriesObjectsFile(scraperName, seriesObjects2)
+		console.log(`Fixed ${scraperName} tmp file`)
+	}
+
+	transform('dilbert')
+	transform('gocomics')
+
+	process.exit(0)
+}
 
 
 if (! scrape && ! generate) {
@@ -78,29 +117,31 @@ function runScraper(scraperName) {
 			throw new Error('Expected resulting seriesObjects variable to be an array.')
 		}
 
-		const verifiedSeriesObjects = newSeriesObjects.map(function (seriesObject) {
-			const { basename, title, author, url, imageUrl, isPolitical, language, strips } = seriesObject
-			return {
-				basename,
-				title,
-				author,
-				url,
-				imageUrl,
-				isPolitical,
-				language,
-				strips: strips
-					.map(strip => {
-						const { url, date, imageUrl } = strip
-						return {
-							url,
-							date,
-							imageUrl
-						}
-					})
-					.filter(strip => new Date(strip.date) > oneMonthAgo) // keeps recent strips
-					.slice(0, 15)
-			}
-		})
+		const verifiedSeriesObjects = newSeriesObjects
+			.filter(Boolean)
+			.map(function (seriesObject) {
+				const { basename, title, author, url, imageUrl, isPolitical, language, strips } = seriesObject
+				return {
+					basename,
+					title,
+					author,
+					url,
+					imageUrl,
+					isPolitical,
+					language,
+					strips: strips
+						.map(strip => {
+							const { url, date, imageUrl } = strip
+							return {
+								url,
+								date,
+								imageUrl
+							}
+						})
+						.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
+						.slice(0, 25)
+				}
+			})
 
 		writeSeriesObjectsFile(scraperName, verifiedSeriesObjects)
 	})

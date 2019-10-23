@@ -23,8 +23,9 @@ module.exports = function main(seriesObjects) {
 					if (newSeriesObject) {
 						if (seriesObject) {
 							if (global.DEBUG) {
-								const oldDate = seriesObject.comicStrips[0].date
-								const newDate = newSeriesObject.comicStrips[0].date
+								const oldStrip = seriesObject.strips[0]
+								const oldDate = oldStrip && oldStrip.date
+								const newDate = newSeriesObject.strips[0].date
 								if (oldDate !== newDate) {
 									console.log(`  Replacing ${oldDate} with ${newDate}`)
 								}
