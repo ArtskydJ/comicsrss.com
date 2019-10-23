@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>We the Robots</title>
         <link>https://www.comicsrss.com/preview/we-the-robots</link>
         <description>We the Robots by Chris Harding</description>
         <lastBuildDate>Thu, 13 Jul 2017 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>We the Robots</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wtr/large_rec-201701251554.jpg</url>
             <link>https://www.comicsrss.com/preview/we-the-robots</link>
         </image>
         <copyright>Copyright Chris Harding</copyright>
         <atom:link href="https://www.comicsrss.com/rss/we-the-robots.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[We the Robots by Chris Harding for Wed Jul 12 2017]]></title>
+            <link>https://www.gocomics.com/we-the-robots/2017/07/13</link>
+            <guid>https://www.gocomics.com/we-the-robots/2017/07/13</guid>
+            <pubDate>Thu, 13 Jul 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/b70b48c045b20135d908005056a9545d" alt="We the Robots by Chris Harding on Wed Jul 12 2017" title="We the Robots by Chris Harding on Wed Jul 12 2017">
+</p>
+<p>
+	<a href="https://www.gocomics.com/we-the-robots/2017/07/13">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

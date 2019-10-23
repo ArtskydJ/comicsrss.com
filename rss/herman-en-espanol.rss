@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>Herman en Español</title>
         <link>https://www.comicsrss.com/preview/herman-en-espanol</link>
         <description>Herman en Español by Jim Unger</description>
         <lastBuildDate>Sun, 28 Sep 2014 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>Herman en Español</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hmsp/large_rec.jpg</url>
             <link>https://www.comicsrss.com/preview/herman-en-espanol</link>
         </image>
         <copyright>Copyright Jim Unger</copyright>
         <atom:link href="https://www.comicsrss.com/rss/herman-en-espanol.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[Herman en Español by Jim Unger for Sat Sep 27 2014]]></title>
+            <link>https://www.gocomics.com/herman-en-espanol/2014/09/28</link>
+            <guid>https://www.gocomics.com/herman-en-espanol/2014/09/28</guid>
+            <pubDate>Sun, 28 Sep 2014 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/6fe0a94015c401329a39005056a9545d" alt="Herman en Español by Jim Unger on Sat Sep 27 2014" title="Herman en Español by Jim Unger on Sat Sep 27 2014">
+</p>
+<p>
+	<a href="https://www.gocomics.com/herman-en-espanol/2014/09/28">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

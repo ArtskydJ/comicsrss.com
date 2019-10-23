@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>The Creeps</title>
         <link>https://www.comicsrss.com/preview/the-creeps</link>
         <description>The Creeps by Jean Floch</description>
         <lastBuildDate>Wed, 31 May 2017 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>The Creeps</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/cre/large_rec-201701251557.jpg</url>
             <link>https://www.comicsrss.com/preview/the-creeps</link>
         </image>
         <copyright>Copyright Jean Floch</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-creeps.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[The Creeps by Jean Floch for Tue May 30 2017]]></title>
+            <link>https://www.gocomics.com/the-creeps/2017/05/31</link>
+            <guid>https://www.gocomics.com/the-creeps/2017/05/31</guid>
+            <pubDate>Wed, 31 May 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/d72a1cb0d3e00132df24005056a9545d" alt="The Creeps by Jean Floch on Tue May 30 2017" title="The Creeps by Jean Floch on Tue May 30 2017">
+</p>
+<p>
+	<a href="https://www.gocomics.com/the-creeps/2017/05/31">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

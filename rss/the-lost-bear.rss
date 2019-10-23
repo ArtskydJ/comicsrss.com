@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>The Lost Bear</title>
         <link>https://www.comicsrss.com/preview/the-lost-bear</link>
         <description>The Lost Bear by Bradley Trevor Greive</description>
         <lastBuildDate>Fri, 01 Jun 2018 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>The Lost Bear</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tlb/large_rec-201701251557.jpg</url>
             <link>https://www.comicsrss.com/preview/the-lost-bear</link>
         </image>
         <copyright>Copyright Bradley Trevor Greive</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-lost-bear.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[The Lost Bear by Bradley Trevor Greive for Thu May 31 2018]]></title>
+            <link>https://www.gocomics.com/the-lost-bear/2018/06/01</link>
+            <guid>https://www.gocomics.com/the-lost-bear/2018/06/01</guid>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/268854a04788013637d6005056a9545d" alt="The Lost Bear by Bradley Trevor Greive on Thu May 31 2018" title="The Lost Bear by Bradley Trevor Greive on Thu May 31 2018">
+</p>
+<p>
+	<a href="https://www.gocomics.com/the-lost-bear/2018/06/01">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

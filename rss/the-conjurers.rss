@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>The Conjurers</title>
         <link>https://www.comicsrss.com/preview/the-conjurers</link>
         <description>The Conjurers by Brian Anderson</description>
         <lastBuildDate>Tue, 12 Dec 2017 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>The Conjurers</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/conj/large_rec-201701251557.jpg</url>
             <link>https://www.comicsrss.com/preview/the-conjurers</link>
         </image>
         <copyright>Copyright Brian Anderson</copyright>
         <atom:link href="https://www.comicsrss.com/rss/the-conjurers.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[The Conjurers by Brian Anderson for Mon Dec 11 2017]]></title>
+            <link>https://www.gocomics.com/the-conjurers/2017/12/12</link>
+            <guid>https://www.gocomics.com/the-conjurers/2017/12/12</guid>
+            <pubDate>Tue, 12 Dec 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/b2472a80c17e01350557005056a9545d" alt="The Conjurers by Brian Anderson on Mon Dec 11 2017" title="The Conjurers by Brian Anderson on Mon Dec 11 2017">
+</p>
+<p>
+	<a href="https://www.gocomics.com/the-conjurers/2017/12/12">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

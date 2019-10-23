@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>Webcomic Name</title>
         <link>https://www.comicsrss.com/preview/webcomic-name</link>
         <description>Webcomic Name by Alex Norris</description>
         <lastBuildDate>Wed, 06 Sep 2017 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>Webcomic Name</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wn/large_wn_rec_201706020930.jpg</url>
             <link>https://www.comicsrss.com/preview/webcomic-name</link>
         </image>
         <copyright>Copyright Alex Norris</copyright>
         <atom:link href="https://www.comicsrss.com/rss/webcomic-name.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[Webcomic Name by Alex Norris for Tue Sep 05 2017]]></title>
+            <link>https://www.gocomics.com/webcomic-name/2017/09/06</link>
+            <guid>https://www.gocomics.com/webcomic-name/2017/09/06</guid>
+            <pubDate>Wed, 06 Sep 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/ac10d37065d50135e432005056a9545d" alt="Webcomic Name by Alex Norris on Tue Sep 05 2017" title="Webcomic Name by Alex Norris on Tue Sep 05 2017">
+</p>
+<p>
+	<a href="https://www.gocomics.com/webcomic-name/2017/09/06">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

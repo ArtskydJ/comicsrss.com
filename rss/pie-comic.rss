@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>Pie Comic</title>
         <link>https://www.comicsrss.com/preview/pie-comic</link>
         <description>Pie Comic by John McNamee</description>
         <lastBuildDate>Mon, 24 Sep 2018 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>Pie Comic</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pie/large_rec-201701251558.jpg</url>
             <link>https://www.comicsrss.com/preview/pie-comic</link>
         </image>
         <copyright>Copyright John McNamee</copyright>
         <atom:link href="https://www.comicsrss.com/rss/pie-comic.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[Pie Comic by John McNamee for Sun Sep 23 2018]]></title>
+            <link>https://www.gocomics.com/pie-comic/2018/09/24</link>
+            <guid>https://www.gocomics.com/pie-comic/2018/09/24</guid>
+            <pubDate>Mon, 24 Sep 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/49825ed0a0d401365888005056a9545d" alt="Pie Comic by John McNamee on Sun Sep 23 2018" title="Pie Comic by John McNamee on Sun Sep 23 2018">
+</p>
+<p>
+	<a href="https://www.gocomics.com/pie-comic/2018/09/24">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>

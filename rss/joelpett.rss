@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>Joel Pett</title>
         <link>https://www.comicsrss.com/preview/joelpett</link>
         <description>Joel Pett by Joel Pett</description>
         <lastBuildDate>Mon, 29 Jan 2018 00:00:00 GMT</lastBuildDate>
@@ -9,12 +9,26 @@
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
         <image>
-            <title></title>
+            <title>Joel Pett</title>
             <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jp/large_rec-201701251556.jpg</url>
             <link>https://www.comicsrss.com/preview/joelpett</link>
         </image>
         <copyright>Copyright Joel Pett</copyright>
         <atom:link href="https://www.comicsrss.com/rss/joelpett.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[Joel Pett by Joel Pett for Sun Jan 28 2018]]></title>
+            <link>https://www.gocomics.com/joelpett/2018/01/29</link>
+            <guid>https://www.gocomics.com/joelpett/2018/01/29</guid>
+            <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/948cf2a0e50f01351271005056a9545d" alt="Joel Pett by Joel Pett on Sun Jan 28 2018" title="Joel Pett by Joel Pett on Sun Jan 28 2018">
+</p>
+<p>
+	<a href="https://www.gocomics.com/joelpett/2018/01/29">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
     </channel>
 </rss>
