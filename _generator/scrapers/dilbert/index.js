@@ -1,9 +1,11 @@
 const httpGet = require('./http-get.js')
 const mergeComicStrips = require('./merge.js')
 
-module.exports = function main(comicObjects) {
+module.exports = function main(seriesObjects) {
+	console.log('dilbertseriesobj')
+	console.log(seriesObjects)
 	return httpGet('https://dilbert.com').then(function (html) {
-		const newComicStrips = html
+		const newStrips = html
 			.split('\n')
 			.map(l => l.trim())
 			.filter(l => l.startsWith('<div class="comic-item-container'))
@@ -20,10 +22,9 @@ module.exports = function main(comicObjects) {
 					}, {})
 
 				return {
-					titleAuthorDate: `Dilbert by ${data.creator} for ${data.date}`,
 					url: data.url,
 					date: data.id,
-					comicImageUrl: data.image.replace(/^\/\//, 'https://')
+					imageUrl: data.image.replace(/^\/\//, 'https://')
 				}
 			})
 			// data-id="2018-11-20"
@@ -34,14 +35,14 @@ module.exports = function main(comicObjects) {
 			// data-title="Boss Email Password"
 
 		return [{
-			titleAndAuthor: 'Dilbert by Scott Adams',
 			basename: 'dilbert',
+			title: 'Dilbert',
 			author: 'Scott Adams',
-			comicUrl: 'https://dilbert.com/',
-			headerImageUrl: 'https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg',
+			url: 'https://dilbert.com/',
+			imageUrl: 'https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg',
 			isPolitical: false,
 			language: 'eng',
-			comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
+			strips: mergeComicStrips(seriesObjects[0].strips, newStrips)
 		}]
 	})
 }

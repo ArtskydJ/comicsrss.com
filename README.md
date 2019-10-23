@@ -18,9 +18,9 @@ Probably trim these sections down sometime later... -->
 
 ## Technical Details
 
-I have received [many requests](https://github.com/ArtskydJ/comicsrss.com/issues/86) to add more comic strips to the site. However, my time is limited. So if you want to help out, you can make a scraper!
+I have received [many requests](https://github.com/ArtskydJ/comicsrss.com/issues/86) to add more comic series to the site. However, my time is limited. So if you want to help out, you can make a scraper!
 
-To be able to add comics to Comics RSS, it is helpful to understand the basics of what is going on.
+To be able to add comic series to Comics RSS, it is helpful to understand the basics of what is going on.
 
 Comics RSS has two types of parts: scrapers, and the site generator. Each scraper parses a different comic website, and writes a temporary file to the disk. The site generator reads the temporary JSON files, generates and writes static HTML and RSS files to the disk.
 
@@ -30,17 +30,17 @@ Comics RSS has two types of parts: scrapers, and the site generator. Each scrape
 
 The scrapers make https requests to a website (for example, `gocomics.com`), parse the responses, and write temporary JSON files to the disk.
 
-On a site like gocomics.com, a scraper has to first make a request to get the list of comics. (For example, `gocomics.com/comics/a-to-z`)
+On a site like gocomics.com, a scraper has to first make a request to get the list of comic series. (For example, `gocomics.com/comics/a-to-z`)
 
-Then, for each comic it finds, it needs to look up the latest day's comic strip. If it has not seen that day's comic strip, then it remembers that comic strip, and looks up the previous day's comic strip. When it finds a day's comic strip that it has seen before, it will look at the next comic, until it finishes the website.
+Then, for each comic series it finds, it needs to look up the latest day's comic strip. If it has not seen that day's comic strip, then it saves that comic strip, and looks up the previous day's comic strip. When it finds a comic strip that it has seen before, it will continue to the next comic series, until it finishes the website.
 
-Finally, it writes the lists of comics with their list of strips to a JSON file on the hard drive.
+Finally, it writes the lists of comic series with their list of strips to a temporary JSON file on the hard drive.
 
 
 
 ### How the site generator works
 
-The site generator finds the temporary files made by the scrapers. Each temporary file is a JSON array of objects. These arrays are concatenated into one big list of comics, each with their list of daily comic strips. The generator uses templates to generate an `index.html file`, and `rss/{comic}.rss` files.
+The site generator finds the temporary JSON files made by the scrapers. Each file has an array of `seriesObject`s. These arrays are concatenated into one big list of comic series, each with their list of comic strips. The generator uses templates to generate an `index.html` file, and `rss/{comic}.rss` files.
 
 When these updated/new files are committed and pushed to this repository, they get hosted on gh-pages, which is how you view the site today.
 
@@ -79,36 +79,30 @@ To add a scraper for a website that hosts one comic strip, and shows multiple st
 // index.js
 // modify as needed
 const httpGet = require('./http-get.js')
-const mergeComicStrips = require('./merge.js')
+const mergeStrips = require('./merge.js')
 
-module.exports = function main(comicObjects) {
+module.exports = function main(seriesObjects) {
   return httpGet('https://example.com').then(function (html) {
     // parse the html, and turn it into an array of comic strips
-    const newComicStrips = html
+    const newStrips = html
       .match(/<div class="comics">([\w\W]+)<footer>/)[1] // grab the middle
       .split(/<\/div><div class="comic">/) // split up the comic strips
       .map(function (comicStripHtml) { // parse!
         // do some string parsing, or regex matching
-        const url = comicStripHtml.match(/<a href="([^"]+)">Permalink/)[1]
-        const [_, comicImageUrl, date] = comicStripHtml.match(/<img src="([^"]+)" title="Comic for (\d\d\d\d-\d\d-\d\d)"/)
-        // matches[1] = img src, matches[2] = date
-        const titleAuthorDate = `My Comic Strip by Author Name for ${date}`
-
         return {
-          titleAuthorDate,
-          url,
-          date,
-          comicImageUrl
+          url: comicStripHtml.match(/<a href="([^"]+)">Permalink/)[1],
+          date: comicStripHtml.match(/<img src="([^"]+)"/)[1],
+          imageUrl: comicStripHtml.match(/<img .+ title="Comic for (\d\d\d\d-\d\d-\d\d)"/)[1]
         }
       })
 
     return [{
-      titleAndAuthor: 'My Comic Strip by Author Name',
       basename: 'my-comic-strip',
+      title: 'My Comic Strip',
       author: 'Author Name',
-      comicUrl: 'https://example.com/',
-      headerImageUrl: 'https://example.com/my_comic_strip-large.jpg',
-      comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
+      url: 'https://example.com/',
+      imageUrl: 'https://example.com/my_comic_strip-large.jpg',
+      strips: mergeStrips(seriesObjects[0].strips, newStrips)
     }]
   })
 }
@@ -137,35 +131,34 @@ Each folder inside `_generator/scrapers` must have an `index.js` file in it.
 The `index.js` file's must do something like this:
 
 ```js
-module.export = function main(comicObjects) { // this is the cached comicObjects object. It might be up-to-date, or it might not be.
-  // request and parse comic website, and add any new comic strips to the comicObjects object (or a copy, it doesn't matter)
-  return promise // this promise resolves with the updated comicObjects
+module.export = function main(seriesObjects) { // this is the cached seriesObjects object. It might be up-to-date, or it might not be.
+  // request and parse comic website, and add any new comic strips to the seriesObjects object (or a copy, it doesn't matter)
+  return promise // this promise resolves with the updated seriesObjects
 }
 ```
 
-A corresponding temp file is parsed to an array of `comicObject`s, and the array is passed to `main(comicObjects)`
+A corresponding temp file is parsed to an array of `seriesObject`s, and the array is passed to `main(seriesObjects)`
 
 
 
-### `comicObject` object
+### `seriesObject` object
 
-Properties of `comicObject`:
+Properties of `seriesObject`:
 
-- `basename` string - The basename is sometimes used as an identifier. It will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the preview page and rss page. (`https://www.comicsrss.com/preview/my-comic-strip` and `https://www.comicsrss.com/rss/my-comic-strip.rss`)
-- `titleAndAuthor` string - Must have the word "by" somewhere in the middle. Example: `"Calvin and Hobbes by Bill Watterson"`
-- `author` string - The comic strip author's name. Example, `"Bill Watterson"`
-- `comicUrl` string - A URL for the whole comic strip. Usually this is the HTML page that the comic was scraped from.
-- `headerImageUrl` string - A URL for an image that represents the whole comic.
-- `comicStrips` array - An array of `comicStrip` objects. See below
+- `basename` string - The basename is sometimes used as an identifier. It will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the rss page. Example: `calvinandhobbes`
+- `title` string - The title of the series. Example: `Calvin and Hobbes`
+- `author` string - The comic series author's name. Example: `Bill Watterson`
+- `url` string - A URL for the whole series. This should be a web page that represents the whole comic series. Example: `https://www.gocomics.com/calvinandhobbes/about`
+- `imageUrl` string - A URL for an image that represents the whole comic series.
+- `strips` array - An array of `strip` objects. See below
 
 
 
-### `comicStrip` object
+### `strip` object
 
-- `titleAuthorDate` string - Must have the words "by", and "for". Example: `"Dilbert by Scott Adams for June 22, 2019"`
 - `url` string - Permalink to the specific comic strip. 
 - `date` string - The date that the comic strip was published. (Not the date it was scraped.) Formatted as `yyyy-mm-dd`
-- `comicImageUrl` string - The URL of the image of the actual comic strip. Example: `"https://assets.amuniversal.com/00e343804e6d013797bd005056a9545d"`
+- `imageUrl` string - The URL of the image of the actual comic strip. Example: `https://assets.amuniversal.com/00e343804e6d013797bd005056a9545d`
 
 
 

@@ -28,17 +28,19 @@
                     https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss</a></p>
             ]]></description>
         </item>
-{{/if}}{{each comicStrips comicStrip}}
+{{/if}}{{each strips strip}}
         <item>
-            <title><![CDATA[{{comicStrip.titleAuthorDate}}]]></title>
-            <link>{{comicStrip.url}}</link>
-            <guid{{if ! comicStrip.isPermaLink}} isPermaLink="false"{{/if}}>{{comicStrip.guid}}</guid>
-            <pubDate>{{comicStrip.date.toUTCString()}}</pubDate>
+            <title><![CDATA[{{title}} by {{author}} on {{strip.date.toDateString()}}]]></title>
+            <link>{{strip.url}}</link>
+            <guid{{if ! strip.isPermaLink}} isPermaLink="false"{{/if}}>{{strip.guid}}</guid>
+            <pubDate>{{strip.date.toUTCString()}}</pubDate>
             <description><![CDATA[<p>
-	<img src="{{comicStrip.comicImageUrl}}" alt="{{comicStrip.titleAuthorDate}}" title="{{comicStrip.titleAuthorDate}}">
+	<img src="{{strip.imageUrl}}"
+        alt="{{title}} by {{author}} on {{strip.date.toDateString()}}"
+        title="{{title}} by {{author}} on {{strip.date.toDateString()}}">
 </p>
 <p>
-	<a href="{{comicStrip.url}}">Source</a> -
+	<a href="{{strip.url}}">Source</a> -
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>

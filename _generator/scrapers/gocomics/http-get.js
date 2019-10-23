@@ -1,5 +1,5 @@
-var https = require('https')
-var concat = require('simple-concat')
+const https = require('https')
+const concat = require('simple-concat')
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
@@ -13,10 +13,10 @@ module.exports = function httpGet(url) {
 }
 
 function handleResponse(resolve, reject, response) {
-	var statusCode = response.statusCode
-	var location = response.headers.location
+	const statusCode = response.statusCode
+	const location = response.headers.location
 
-	if (statusCode == 200) {
+	if (statusCode === 200) {
 		concat(response, function (err, buffer) {
 			if (err) { reject(err) }
 			else { resolve(buffer.toString()) }

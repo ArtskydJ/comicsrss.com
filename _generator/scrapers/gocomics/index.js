@@ -1,8 +1,8 @@
-var pEach = require('p-map-series')
-var getPageList = require('./get-page-list.js')
-var getComicObject = require('./get-comic-object.js')
+const pEach = require('p-map-series')
+const getPageList = require('./get-page-list.js')
+const getSeriesObject = require('./get-comic-object.js')
 
-module.exports = function main(comicObjects) {
+module.exports = function main(seriesObjects) {
 	return getPageList()
 	.then(function (pageList) {
 		if (!pageList.length) {
@@ -12,26 +12,26 @@ module.exports = function main(comicObjects) {
 			pageList = pageList.slice(0, 10)
 		}
 		return pEach(pageList, function (page) {
-			var comicObjectIndex = comicObjects.findIndex(function (comicObject) {
-				return (comicObject && comicObject.basename.trim() === page.basename)
+			const seriesObjectIndex = seriesObjects.findIndex(function (seriesObject) {
+				return (seriesObject && seriesObject.basename.trim() === page.basename)
 			})
-			var comicObject = comicObjects[comicObjectIndex] // might be undefined
-			if (global.VERBOSE) console.log((comicObject ? comicObject.basename : 'New: '))
+			const seriesObject = seriesObjects[seriesObjectIndex] // might be undefined
+			if (global.VERBOSE) console.log((seriesObject ? seriesObject.basename : 'New: '))
 
-			return getComicObject(page, comicObject)
-				.then(function (newComicObject) {
-					if (newComicObject) {
-						if (comicObject) {
+			return getSeriesObject(page, seriesObject)
+				.then(function (newSeriesObject) {
+					if (newSeriesObject) {
+						if (seriesObject) {
 							if (global.DEBUG) {
-								var oldDate = comicObject.comicStrips[0].date
-								var newDate = newComicObject.comicStrips[0].date
+								const oldDate = seriesObject.comicStrips[0].date
+								const newDate = newSeriesObject.comicStrips[0].date
 								if (oldDate !== newDate) {
 									console.log(`  Replacing ${oldDate} with ${newDate}`)
 								}
 							}
-							comicObjects[comicObjectIndex] = newComicObject
+							seriesObjects[seriesObjectIndex] = newSeriesObject
 						} else {
-							comicObjects.push(newComicObject)
+							seriesObjects.push(newSeriesObject)
 						}
 					}
 				})
@@ -44,6 +44,6 @@ module.exports = function main(comicObjects) {
 		})
 	})
 	.then(function (_) {
-		return comicObjects
+		return seriesObjects
 	})
 }
