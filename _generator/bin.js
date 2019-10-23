@@ -82,7 +82,7 @@ function runGenerator() {
 	const siteGenerator = require('./site-generator/index.js')
 	const supporters = require('./tmp/supporters.json')
 
-	let comicObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
+	var comicObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
 		const moreComicObjects = readComicObjectFile(scraperName).filter(Boolean)
 		return memo.concat(moreComicObjects)
 	}, [])

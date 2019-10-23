@@ -2,8 +2,8 @@ const httpGet = require('./http-get.js')
 const url = require('url')
 
 module.exports = function getComicObject(page, previousComicObject) {
-	let comicStrips = []
-	let previousUrls = []
+	var comicStrips = []
+	var previousUrls = []
 	if (previousComicObject) {
 		previousUrls = previousComicObject.comicStrips.map(strip => strip.url)
 	}
