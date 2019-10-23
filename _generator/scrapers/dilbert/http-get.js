@@ -1,15 +1,15 @@
-var https = require('https')
+const https = require('https')
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
 		https.get(url, function handleResponse(response) {
-			var statusCode = response.statusCode
+			const statusCode = response.statusCode
 
 			if (statusCode != 200) {
 				reject(new Error(statusCode + ' error'))
 			}
 
-			var chunks = []
+			const chunks = []
 			response.on('data', chunk => {
 				chunks.push(chunk)
 			})

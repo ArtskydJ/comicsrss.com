@@ -1,20 +1,20 @@
-var httpGet = require('./http-get.js')
-var mergeComicStrips = require('./merge.js')
+const httpGet = require('./http-get.js')
+const mergeComicStrips = require('./merge.js')
 
 module.exports = function main(comicObjects) {
 	return httpGet('https://dilbert.com').then(function (html) {
-		var newComicStrips = html
+		const newComicStrips = html
 			.split('\n')
 			.map(l => l.trim())
 			.filter(l => l.startsWith('<div class="comic-item-container'))
 			.map(function (line) {
-				var data = line
+				const data = line
 					.split('" ')
 					.filter(a => a.startsWith('data-'))
 					.reduce(function (memo, attr) {
-						var parts = attr.split('=')
-						var attrName = parts[0].replace(/^data-/, '')
-						var attrValue = parts[1].replace(/.*?"(.*)/, '$1').replace(/(.*)".*/, '$1')
+						const parts = attr.split('=')
+						const attrName = parts[0].replace(/^data-/, '')
+						const attrValue = parts[1].replace(/.*?"(.*)/, '$1').replace(/(.*)".*/, '$1')
 						memo[attrName] = attrValue
 						return memo
 					}, {})

@@ -84,15 +84,15 @@ const mergeComicStrips = require('./merge.js')
 module.exports = function main(comicObjects) {
   return httpGet('https://example.com').then(function (html) {
     // parse the html, and turn it into an array of comic strips
-    var newComicStrips = html
+    const newComicStrips = html
       .match(/<div class="comics">([\w\W]+)<footer>/)[1] // grab the middle
       .split(/<\/div><div class="comic">/) // split up the comic strips
       .map(function (comicStripHtml) { // parse!
         // do some string parsing, or regex matching
-        var url = comicStripHtml.match(/<a href="([^"]+)">Permalink/)[1]
-        var [_, comicImageUrl, date] = comicStripHtml.match(/<img src="([^"]+)" title="Comic for (\d\d\d\d-\d\d-\d\d)"/)
+        const url = comicStripHtml.match(/<a href="([^"]+)">Permalink/)[1]
+        const [_, comicImageUrl, date] = comicStripHtml.match(/<img src="([^"]+)" title="Comic for (\d\d\d\d-\d\d-\d\d)"/)
         // matches[1] = img src, matches[2] = date
-        var titleAuthorDate = `My Comic Strip by Author Name for ${date}`
+        const titleAuthorDate = `My Comic Strip by Author Name for ${date}`
 
         return {
           titleAuthorDate,
@@ -103,11 +103,11 @@ module.exports = function main(comicObjects) {
       })
 
     return [{
-      titleAndAuthor: "My Comic Strip by Author Name",
-      basename: "my-comic-strip",
-      author: "Author Name",
-      comicUrl: "https://example.com/",
-      headerImageUrl: "https://example.com/my_comic_strip-large.jpg",
+      titleAndAuthor: 'My Comic Strip by Author Name',
+      basename: 'my-comic-strip',
+      author: 'Author Name',
+      comicUrl: 'https://example.com/',
+      headerImageUrl: 'https://example.com/my_comic_strip-large.jpg',
       comicStrips: mergeComicStrips(comicObjects[0].comicStrips, newComicStrips)
     }]
   })

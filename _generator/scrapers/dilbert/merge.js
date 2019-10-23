@@ -1,8 +1,8 @@
 function mergeComicStrips(oldComicStrips, newComicStrips) {
-	var previousComicStrip = oldComicStrips[0]
-	var addTheseComicStrips = []
-	for (var i = 0; i < newComicStrips.length; i++) {
-		var comicStrip = newComicStrips[i]
+	const previousComicStrip = oldComicStrips[0]
+	const addTheseComicStrips = []
+	for (let i = 0; i < newComicStrips.length; i++) {
+		const comicStrip = newComicStrips[i]
 		if (comicStrip.date === previousComicStrip.date) {
 			break
 		}

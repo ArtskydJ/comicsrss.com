@@ -1,13 +1,13 @@
-var httpGet = require('./http-get.js')
-var url = require('url')
+const httpGet = require('./http-get.js')
+const url = require('url')
 
 module.exports = function getComicObject(page, previousComicObject) {
-	var comicStrips = []
-	var previousUrls = []
+	let comicStrips = []
+	let previousUrls = []
 	if (previousComicObject) {
 		previousUrls = previousComicObject.comicStrips.map(strip => strip.url)
 	}
-	var fullComicUrl = 'https://www.gocomics.com' + page.todayHref
+	const fullComicUrl = 'https://www.gocomics.com' + page.todayHref
 
 	return Promise.resolve(fullComicUrl)
 		.then(getPage)
@@ -64,15 +64,15 @@ module.exports = function getComicObject(page, previousComicObject) {
 
 
 function parseComicPage(pageUrl, html) {
-	var comicImageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
-	var titleAuthorDateMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
-	var dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
-	var authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
-	var urlMatches = html.match(/<input .*?value="([^"]+)".+?aria-label=["']Get the permalink["']/)
-	var isFirstComic = /<a.+class=["'][^"']*fa-caret-left[^"']*disabled/.test(html)
-	var olderRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
-	var newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
-	var headerImageUrlMatches = html.match(/src="(https:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
+	const comicImageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
+	const titleAuthorDateMatches = html.match(/<meta property="og:title" content="([^">|]+)/)
+	const dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
+	const authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
+	const urlMatches = html.match(/<input .*?value="([^"]+)".+?aria-label=["']Get the permalink["']/)
+	const isFirstComic = /<a.+class=["'][^"']*fa-caret-left[^"']*disabled/.test(html)
+	const olderRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
+	const newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
+	const headerImageUrlMatches = html.match(/src="(https:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
 
 	if (comicImageUrlMatches === null || !comicImageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + pageUrl)
 	if (titleAuthorDateMatches === null || !titleAuthorDateMatches[1]) throw new Error('Unable to parse title, author, date in ' + pageUrl)

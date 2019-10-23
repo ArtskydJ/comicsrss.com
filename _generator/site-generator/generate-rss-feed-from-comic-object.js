@@ -1,5 +1,5 @@
-var crypto = require('crypto')
-var renderTemplate = require('./render-template.js')
+const crypto = require('crypto')
+const renderTemplate = require('./render-template.js')
 
 module.exports = function (comicObject) {
 	if (!comicObject || !comicObject.comicStrips || !comicObject.comicStrips.length) {
@@ -7,16 +7,13 @@ module.exports = function (comicObject) {
 		throw new Error('Expected comicObject.comicStrips to be a non-empty array')
 	}
 
-	var feedAuthor = comicObject.author
-	var lastComicDate = comicObject.comicStrips[0].date
-
-	var templateOpts = {
-		title: comicObject.titleAndAuthor.split(' by ')[0],
+	const templateOpts = {
+		title: comicObject.title,
 		description: comicObject.titleAndAuthor,
 		basename: encodeURI(comicObject.basename),
 		headerImageUrl: comicObject.headerImageUrl,
-		updatedDate: new Date(lastComicDate),
-		author: feedAuthor,
+		updatedDate: new Date(comicObject.comicStrips[0].date),
+		author: comicObject.author,
 		language: comicObject.language,
 		// id: makeId(comicObject.comicUrl),
 		comicStrips: comicObject.comicStrips.map(function (comicStrip) {
@@ -37,7 +34,7 @@ module.exports = function (comicObject) {
 			// and it only puts up to 15 into the RSS feed.
 			// A currently-running daily strip will hit the 15-count limit.
 			// An inactive or weekly strip will hit the time limit.
-			var monthAgo = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * 30)
+			const monthAgo = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * 30)
 			return comicStrip.date > monthAgo
 		}).slice(0, 15)
 	}
@@ -46,8 +43,8 @@ module.exports = function (comicObject) {
 }
 
 function makeId(str) {
-	var hasher = crypto.createHash('md5')
+	const hasher = crypto.createHash('md5')
 	hasher.update(str)
-	var hash = hasher.digest('hex')
+	const hash = hasher.digest('hex')
 	return hash.replace(/(.{8})(.{4})(.{4})(.{4})(.{12})/, '$1-$2-$3-$4-$5')
 }

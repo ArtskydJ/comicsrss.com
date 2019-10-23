@@ -1,17 +1,17 @@
 #!/usr/bin/env node
 
-var pMapSeries = require('p-map-series')
-var fs = require('fs')
-var path = require('path')
+const pMapSeries = require('p-map-series')
+const fs = require('fs')
+const path = require('path')
 
 
-var startTime = new Date()
-var cliOpts = parseCliOptions(process.argv.slice(2))
+const startTime = new Date()
+const cliOpts = parseCliOptions(process.argv.slice(2))
 global.DEBUG = cliOpts.debug || false
 global.VERBOSE = cliOpts.verbose || global.DEBUG
-var help = cliOpts.help
-var scrape = cliOpts.scrape
-var generate = cliOpts.generate
+const help = cliOpts.help
+const scrape = cliOpts.scrape
+const generate = cliOpts.generate
 
 
 if (! scrape && ! generate) {
@@ -31,7 +31,7 @@ if (! scrape && ! generate) {
 
 const SCRAPER_NAMES = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
 
-var promise = Promise.resolve()
+let promise = Promise.resolve()
 if (scrape)   promise = promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper))
 if (generate) promise = promise.then(runGenerator)
 
@@ -53,12 +53,12 @@ function parseCliOptions(args) {
 }
 
 function readComicObjectFile(scraperName) {
-	var json = fs.readFileSync(getComicObjectsPath(scraperName), 'utf-8')
+	const json = fs.readFileSync(getComicObjectsPath(scraperName), 'utf-8')
 	return JSON.parse(json)
 }
 
 function writeComicObjectFile(scraperName, contents) {
-	var json = JSON.stringify(contents, null, '\t')
+	const json = JSON.stringify(contents, null, '\t')
 	fs.writeFileSync(getComicObjectsPath(scraperName), json, 'utf-8')
 }
 
@@ -68,8 +68,8 @@ function getComicObjectsPath(scraperName) {
 
 function runScraper(scraperName) {
 	if (global.VERBOSE) console.log('Scraping ' + scraperName)
-	var thisScraper = require(`./scrapers/${scraperName}/index.js`)
-	var inComicObjects = readComicObjectFile(scraperName)
+	const thisScraper = require(`./scrapers/${scraperName}/index.js`)
+	const inComicObjects = readComicObjectFile(scraperName)
 	return thisScraper(inComicObjects).then(outComicObjects => {
 		if (!Array.isArray(outComicObjects)) {
 			throw new Error('Expected resulting comicObjects variable to be an array.')
@@ -79,11 +79,11 @@ function runScraper(scraperName) {
 }
 
 function runGenerator() {
-	var siteGenerator = require('./site-generator/index.js')
-	var supporters = require('./tmp/supporters.json')
+	const siteGenerator = require('./site-generator/index.js')
+	const supporters = require('./tmp/supporters.json')
 
-	var comicObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
-		var moreComicObjects = readComicObjectFile(scraperName).filter(Boolean)
+	let comicObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
+		const moreComicObjects = readComicObjectFile(scraperName).filter(Boolean)
 		return memo.concat(moreComicObjects)
 	}, [])
 
@@ -94,7 +94,7 @@ function runGenerator() {
 	siteGenerator(comicObjects, supporters)
 
 	if (global.VERBOSE) {
-		var seconds = (new Date() - startTime) / 1000
-		console.log('Finished in ' + seconds + ' seconds')
+		const seconds = (new Date() - startTime) / 1000
+		console.log(`Finished in ${seconds} seconds`)
 	}
 }
