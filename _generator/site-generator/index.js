@@ -28,8 +28,8 @@ function generateIndexData(seriesObjects, supporters, language) {
 	}
 
 	function sortCO(aa, bb) {
-		const a = aa.titleAndAuthor.toLowerCase()
-		const b = bb.titleAndAuthor.toLowerCase()
+		const a = aa.title.toLowerCase()
+		const b = bb.title.toLowerCase()
 		return a > b ? 1 : (b > a ? -1 : 0)
 	}
 }

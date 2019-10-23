@@ -57,9 +57,9 @@
 		<ul id="comics-list">
 			{{each seriesObjects seriesObject}}
 				{{if language === (seriesObject.language || 'eng')}}
-					<li data-search="{{@ seriesObject.titleAndAuthor.toLowerCase() }}">
-						<div class="ellipsis" title="{{@ seriesObject.titleAndAuthor }}">
-							{{@ seriesObject.titleAndAuthor}}
+					<li data-search="{{@ seriesObject.title.toLowerCase() }} by {{@ seriesObject.author.toLowerCase() }}">
+						<div class="ellipsis" title="{{@ seriesObject.title }} by {{@ seriesObject.author }}">
+							{{ seriesObject.title }} by {{ seriesObject.author }}
 						</div>
 						<div class="actions">
 							<a href="./rss/{{ encodeURI(seriesObject.basename) }}.rss" onclick="copy(this, event)">
