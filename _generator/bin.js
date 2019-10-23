@@ -17,34 +17,10 @@ const generate = cliOpts.generate
 
 if (cliOpts.transform) {
 	var transform = function (scraperName) {
-		var seriesObjects = readSeriesObjectsFile(scraperName)
-		var seriesObjects2 = seriesObjects
-			.filter(Boolean)
-			.map(function (seriesObject) {
-				const { basename, title, titleAndAuthor, author, comicUrl, headerImageUrl, isPolitical, language, comicStrips } = seriesObject
-				console.log('  ' + basename)
-				return {
-					basename,
-					title: title || titleAndAuthor.split(' by ')[0],
-					author,
-					url: comicUrl,
-					imageUrl: headerImageUrl,
-					isPolitical,
-					language,
-					strips: comicStrips
-						.map(strip => {
-							const { url, date, comicImageUrl } = strip
-							return {
-								url,
-								date,
-								imageUrl: comicImageUrl
-							}
-						})
-						.slice(0, 25)
-				}
-			})
-		writeSeriesObjectsFile(scraperName, seriesObjects2)
-		console.log(`Fixed ${scraperName} tmp file`)
+		// var seriesObjects = readSeriesObjectsFile(scraperName)
+		// var seriesObjects2 = seriesObjects.reduce(...)
+		// writeSeriesObjectsFile(scraperName, seriesObjects2)
+		// console.log(`Fixed ${scraperName} tmp file`)
 	}
 
 	transform('dilbert')
