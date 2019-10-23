@@ -15,9 +15,6 @@ module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 
 		var rssFeed = generateRssFeedFromComicObject(comicObject)
 		writeFile('../../rss/' + comicObject.basename + '.rss', rssFeed)
-
-		var renderedOutput = renderTemplate('master', { subtemplate: 'preview' })
-		writeFile('../../preview/' + comicObject.basename + '.html', renderedOutput)
 	})
 }
 

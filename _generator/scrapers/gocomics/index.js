@@ -8,7 +8,7 @@ module.exports = function main(comicObjects) {
 		if (!pageList.length) {
 			throw new Error('No comics found')
 		}
-		if (DEBUG) {
+		if (global.DEBUG) {
 			pageList = pageList.slice(0, 10)
 		}
 		return pEach(pageList, function (page) {
@@ -16,13 +16,13 @@ module.exports = function main(comicObjects) {
 				return (comicObject && comicObject.basename.trim() === page.basename)
 			})
 			var comicObject = comicObjects[comicObjectIndex] // might be undefined
-			if (DEBUG) console.log((comicObject ? comicObject.basename : 'New: '))
+			if (global.VERBOSE) console.log((comicObject ? comicObject.basename : 'New: '))
 
 			return getComicObject(page, comicObject)
 				.then(function (newComicObject) {
 					if (newComicObject) {
 						if (comicObject) {
-							if (DEBUG) {
+							if (global.DEBUG) {
 								var oldDate = comicObject.comicStrips[0].date
 								var newDate = newComicObject.comicStrips[0].date
 								if (oldDate !== newDate) {
@@ -36,7 +36,7 @@ module.exports = function main(comicObjects) {
 					}
 				})
 				.catch(function (err) {
-					if (DEBUG) console.log(err)
+					if (global.VERBOSE) console.log(err)
 					if (err.message === 'Comic no longer exists') return null
 
 					console.error(page.basename + ' ' + err.message)

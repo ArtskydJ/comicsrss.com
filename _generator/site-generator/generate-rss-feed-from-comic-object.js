@@ -19,7 +19,7 @@ module.exports = function (comicObject) {
 		author: feedAuthor,
 		language: comicObject.language,
 		// id: makeId(comicObject.comicUrl),
-		comicStrips: comicObject.comicStrips.slice(0, 15).map(function (comicStrip) {
+		comicStrips: comicObject.comicStrips.map(function (comicStrip) {
 			comicStrip.guid = comicStrip.url
 			comicStrip.isPermaLink = true
 			if (comicStrip.date >= '2019-10-20') {
@@ -32,7 +32,14 @@ module.exports = function (comicObject) {
 			comicStrip.includePreviewLink = comicStrip.date <= '2019-10-19'
 			comicStrip.date = new Date(comicStrip.date)
 			return comicStrip
-		})
+		}).filter(function (comicStrip) {
+			// Only puts comics in the RSS feed if they are under one month of age,
+			// and it only puts up to 15 into the RSS feed.
+			// A currently-running daily strip will hit the 15-count limit.
+			// An inactive or weekly strip will hit the time limit.
+			var monthAgo = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * 30)
+			return comicStrip.date > monthAgo
+		}).slice(0, 15)
 	}
 
 	return renderTemplate('rss-feed', templateOpts)

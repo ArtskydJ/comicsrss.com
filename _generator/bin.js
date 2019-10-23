@@ -5,8 +5,10 @@ var fs = require('fs')
 var path = require('path')
 
 
+var startTime = new Date()
 var cliOpts = parseCliOptions(process.argv.slice(2))
 global.DEBUG = cliOpts.debug || false
+global.VERBOSE = cliOpts.verbose || global.DEBUG
 var help = cliOpts.help
 var scrape = cliOpts.scrape
 var generate = cliOpts.generate
@@ -15,10 +17,11 @@ var generate = cliOpts.generate
 if (! scrape && ! generate) {
 	if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
 	console.log('Comics RSS usage:')
-	console.log('node bin [ debug ] { scrape | generate | scrape generate }')
+	console.log('node bin [ debug | verbose ] { scrape | generate | scrape generate }')
 	console.log('debug     When enabled, this will cause the scrapers and generator to work on')
 	console.log('          fewer files, so everything runs more quickly, but the site is only')
 	console.log('          partially generated. Defaults to processing all files.')
+	console.log('verbose   When enabled, more information will be logged to the console.')
 	console.log('scrape    Whether or not to scrape the websites. Scraping updates the cached')
 	console.log('          comic information. Defaults to false.')
 	console.log('generate  Generate the static site from the cached comic information.')
@@ -33,7 +36,7 @@ if (scrape)   promise = promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper)
 if (generate) promise = promise.then(runGenerator)
 
 promise.then(()=>{
-	if (global.DEBUG) console.log('Completed')
+	if (global.VERBOSE) console.log('Completed')
 	process.exit(0)
 })
 .catch(function (err) {
@@ -64,7 +67,7 @@ function getComicObjectsPath(scraperName) {
 }
 
 function runScraper(scraperName) {
-	if (global.DEBUG) console.log('Scraping ' + scraperName)
+	if (global.VERBOSE) console.log('Scraping ' + scraperName)
 	var thisScraper = require(`./scrapers/${scraperName}/index.js`)
 	var inComicObjects = readComicObjectFile(scraperName)
 	return thisScraper(inComicObjects).then(outComicObjects => {
@@ -89,4 +92,9 @@ function runGenerator() {
 	}
 
 	siteGenerator(comicObjects, supporters)
+
+	if (global.VERBOSE) {
+		var seconds = (new Date() - startTime) / 1000
+		console.log('Finished in ' + seconds + ' seconds')
+	}
 }

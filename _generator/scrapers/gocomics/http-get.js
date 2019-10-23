@@ -3,12 +3,12 @@ var concat = require('simple-concat')
 
 module.exports = function httpGet(url) {
 	return new Promise(function (resolve, reject) {
-		if (DEBUG) {
+		if (global.VERBOSE) {
 			console.log('GET ' + url)
 		}
 		setTimeout(function () { // Rate limiting, haha
 			https.get(url, handleResponse.bind(null, resolve, reject))
-		}, DEBUG ? 0 : 900) // 800 might work, 700 doesn't
+		}, global.DEBUG ? 0 : 900) // 800 might work, 700 doesn't
 	})
 }
 
