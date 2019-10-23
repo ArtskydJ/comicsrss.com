@@ -2,25 +2,25 @@ const crypto = require('crypto')
 const renderTemplate = require('./render-template.js')
 
 module.exports = function (seriesObject) {
-	if (!seriesObject || !seriesObject.strips || !seriesObject.strips.length) {
+	if (! seriesObject || ! seriesObject.strips || ! seriesObject.strips.length) {
 		console.log(seriesObject)
 		throw new Error('Expected seriesObject.strips to be a non-empty array')
 	}
 
+	const { basename, title, imageUrl, author, language, strips } = seriesObject
+
 	const templateOpts = {
-		title: seriesObject.title,
-		description: seriesObject.titleAndAuthor,
-		basename: encodeURI(seriesObject.basename),
-		headerImageUrl: seriesObject.headerImageUrl,
-		updatedDate: new Date(seriesObject.strips[0].date),
-		author: seriesObject.author,
-		language: seriesObject.language,
-		// id: makeId(seriesObject.comicUrl),
-		strips: seriesObject.strips.map(function (strip) {
+		basename: encodeURI(basename),
+		title,
+		imageUrl,
+		author,
+		language,
+		updatedDate: new Date(strips[0].date),
+		strips: strips.map(function (strip) {
 			strip.guid = strip.url
 			strip.isPermaLink = true
 			if (strip.date >= '2019-10-20') {
-				strip.guid = seriesObject.basename + strip.date
+				strip.guid = basename + strip.date
 				strip.isPermaLink = false
 			} else if (strip.date >= '2019-10-17') {
 				strip.guid = makeId(strip.basename + strip.date) // strip.basename is undefined. I'm a doofus. Issue #116
