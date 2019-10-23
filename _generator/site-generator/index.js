@@ -2,15 +2,15 @@ const renderTemplate = require('./render-template.js')
 const writeFile = require('./write-file.js')
 const generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
 
-module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
+module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters) {
 	
-	const renderedOutput = renderTemplate('master', generateIndexData(comicObjects, supporters, 'eng'))
+	const renderedOutput = renderTemplate('master', generateIndexData(seriesObjects, supporters, 'eng'))
 	writeFile('../../index.html', renderedOutput)
 
-	const renderedOutputSpa = renderTemplate('master', generateIndexData(comicObjects, supporters, 'spa'))
+	const renderedOutputSpa = renderTemplate('master', generateIndexData(seriesObjects, supporters, 'spa'))
 	writeFile('../../espanol.html', renderedOutputSpa)
 
-	comicObjects.forEach(function (comicObject) {
+	seriesObjects.forEach(function (comicObject) {
 		if (!comicObject) return null
 
 		const rssFeed = generateRssFeedFromComicObject(comicObject)
@@ -18,24 +18,18 @@ module.exports = function writeFilesFromComicObjects(comicObjects, supporters) {
 	})
 }
 
-function generateIndexData(comicObjects, supporters, language) {
-	const SUGGESTED_COMIC_NAMES = 'calvinandhobbes,dilbert,foxtrot,foxtrotclassics,getfuzzy,peanuts'.split(',')
+function generateIndexData(seriesObjects, supporters, language) {
 	return {
 		subtemplate: 'index',
-		suggestedComicObjects: comicObjects.filter(filterCO).sort(sortCO),
-		comicObjects: comicObjects.sort(sortCO),
+		seriesObjects: seriesObjects.sort(sortCO),
 		supporters: supporters,
 		language: language,
 		generatedDate: new Date().toDateString()
 	}
 
-	function filterCO(comicObject) {
-		return SUGGESTED_COMIC_NAMES.indexOf(comicObject.basename) !== -1
-	}
-
 	function sortCO(aa, bb) {
-		const a = aa.titleAndAuthor.toLowerCase()
-		const b = bb.titleAndAuthor.toLowerCase()
+		const a = aa.title.toLowerCase()
+		const b = bb.title.toLowerCase()
 		return a > b ? 1 : (b > a ? -1 : 0)
 	}
 }

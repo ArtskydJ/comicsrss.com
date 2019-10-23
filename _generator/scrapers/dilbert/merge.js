@@ -1,14 +1,12 @@
-function mergeComicStrips(oldComicStrips, newComicStrips) {
-	const previousComicStrip = oldComicStrips[0]
-	const addTheseComicStrips = []
-	for (var i = 0; i < newComicStrips.length; i++) {
-		const comicStrip = newComicStrips[i]
-		if (comicStrip.date === previousComicStrip.date) {
+module.exports = function mergeStrips(cachedStrips, newStrips) {
+	const mostRecentStrip = cachedStrips[0]
+	const addTheseStrips = []
+	for (var i = 0; i < newStrips.length; i++) {
+		const strip = newStrips[i]
+		if (strip.date === mostRecentStrip.date) {
 			break
 		}
-		addTheseComicStrips.push(comicStrip)
+		addTheseStrips.push(strip)
 	}
-	return addTheseComicStrips.concat(oldComicStrips).slice(0, 25)
+	return addTheseStrips.concat(cachedStrips)
 }
-
-module.exports = mergeComicStrips

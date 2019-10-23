@@ -14,24 +14,6 @@
 	</div>
 </section>
 
-<!--
-<section id="suggested">
-	<div class="container">
-		<div class="main-page-header">Suggested</div>
-		<div class="suggested">
-			{{each suggestedComicObjects comicObject}}
-				<a href="./preview/{{encodeURI(comicObject.basename)}}" class="suggested-item">
-					<span class="title-and-author">
-						<div class="title">{{@ comicObject.titleAndAuthor.split(' by ')[0]}}</div>
-						<div class="author">by {{@ comicObject.titleAndAuthor.split(' by ')[1]}}</div>
-					</span>
-				</a>
-			{{/each}}
-		</div>
-	</div>
-</section>
--->
-
 <section id="browse">
 	<div class="container">
 		<div class="main-page-header large-margin">Browse</div>
@@ -73,18 +55,18 @@
 		</script>
 
 		<ul id="comics-list">
-			{{each comicObjects comicObject}}
-				{{if language === (comicObject.language || 'eng')}}
-					<li data-search="{{@ comicObject.titleAndAuthor.toLowerCase()}}">
-						<div class="ellipsis" title="{{@ comicObject.titleAndAuthor}}">
-							{{@ comicObject.titleAndAuthor}}
+			{{each seriesObjects seriesObject}}
+				{{if language === (seriesObject.language || 'eng')}}
+					<li data-search="{{@ seriesObject.title.toLowerCase() }} by {{@ seriesObject.author.toLowerCase() }}">
+						<div class="ellipsis" title="{{@ seriesObject.title }} by {{@ seriesObject.author }}">
+							{{ seriesObject.title }} by {{ seriesObject.author }}
 						</div>
 						<div class="actions">
-							<a href="./rss/{{encodeURI(comicObject.basename)}}.rss" onclick="copy(this, event)">
+							<a href="./rss/{{ encodeURI(seriesObject.basename) }}.rss" onclick="copy(this, event)">
 								<img src="../static/rss_sm.png" class="icon rss-icon">
 								<span class="status">Copy RSS URL</span>
 							</a>
-							<a href="{{comicObject.comicUrl}}" target="_blank">
+							<a href="{{ seriesObject.url }}" target="_blank">
 								<img src="./static/external_sm.png" class="icon">
 								View
 							</a>

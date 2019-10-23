@@ -6,12 +6,52 @@ const path = require('path')
 
 
 const startTime = new Date()
+const expirationDays = 90
+const expirationDate = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * expirationDays)
 const cliOpts = parseCliOptions(process.argv.slice(2))
 global.DEBUG = cliOpts.debug || false
 global.VERBOSE = cliOpts.verbose || global.DEBUG
 const help = cliOpts.help
 const scrape = cliOpts.scrape
 const generate = cliOpts.generate
+
+if (cliOpts.transform) {
+	var transform = function (scraperName) {
+		var seriesObjects = readSeriesObjectsFile(scraperName)
+		var seriesObjects2 = seriesObjects
+			.filter(Boolean)
+			.map(function (seriesObject) {
+				const { basename, title, titleAndAuthor, author, comicUrl, headerImageUrl, isPolitical, language, comicStrips } = seriesObject
+				console.log('  ' + basename)
+				return {
+					basename,
+					title: title || titleAndAuthor.split(' by ')[0],
+					author,
+					url: comicUrl,
+					imageUrl: headerImageUrl,
+					isPolitical,
+					language,
+					strips: comicStrips
+						.map(strip => {
+							const { url, date, comicImageUrl } = strip
+							return {
+								url,
+								date,
+								imageUrl: comicImageUrl
+							}
+						})
+						.slice(0, 25)
+				}
+			})
+		writeSeriesObjectsFile(scraperName, seriesObjects2)
+		console.log(`Fixed ${scraperName} tmp file`)
+	}
+
+	transform('dilbert')
+	transform('gocomics')
+
+	process.exit(0)
+}
 
 
 if (! scrape && ! generate) {
@@ -52,29 +92,58 @@ function parseCliOptions(args) {
 	}, {})
 }
 
-function readComicObjectFile(scraperName) {
-	const json = fs.readFileSync(getComicObjectsPath(scraperName), 'utf-8')
+function readSeriesObjectsFile(scraperName) {
+	const filePath = getSeriesObjectsPath(scraperName)
+	const json = fs.readFileSync(filePath, 'utf-8')
 	return JSON.parse(json)
 }
 
-function writeComicObjectFile(scraperName, contents) {
+function writeSeriesObjectsFile(scraperName, contents) {
+	const filePath = getSeriesObjectsPath(scraperName)
 	const json = JSON.stringify(contents, null, '\t')
-	fs.writeFileSync(getComicObjectsPath(scraperName), json, 'utf-8')
+	fs.writeFileSync(filePath, json, 'utf-8')
 }
 
-function getComicObjectsPath(scraperName) {
+function getSeriesObjectsPath(scraperName) {
 	return path.resolve(__dirname, 'tmp', `_${scraperName}-comic-objects.json`)
 }
 
 function runScraper(scraperName) {
 	if (global.VERBOSE) console.log('Scraping ' + scraperName)
 	const thisScraper = require(`./scrapers/${scraperName}/index.js`)
-	const inComicObjects = readComicObjectFile(scraperName)
-	return thisScraper(inComicObjects).then(outComicObjects => {
-		if (!Array.isArray(outComicObjects)) {
-			throw new Error('Expected resulting comicObjects variable to be an array.')
+	const cachedSeriesObjects = readSeriesObjectsFile(scraperName)
+	return thisScraper(cachedSeriesObjects).then(newSeriesObjects => {
+		if (!Array.isArray(newSeriesObjects)) {
+			throw new Error('Expected resulting seriesObjects variable to be an array.')
 		}
-		writeComicObjectFile(scraperName, outComicObjects)
+
+		const verifiedSeriesObjects = newSeriesObjects
+			.filter(Boolean)
+			.map(function (seriesObject) {
+				const { basename, title, author, url, imageUrl, isPolitical, language, strips } = seriesObject
+				return {
+					basename,
+					title,
+					author,
+					url,
+					imageUrl,
+					isPolitical,
+					language,
+					strips: strips
+						.map(strip => {
+							const { url, date, imageUrl } = strip
+							return {
+								url,
+								date,
+								imageUrl
+							}
+						})
+						.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
+						.slice(0, 25)
+				}
+			})
+
+		writeSeriesObjectsFile(scraperName, verifiedSeriesObjects)
 	})
 }
 
@@ -82,16 +151,16 @@ function runGenerator() {
 	const siteGenerator = require('./site-generator/index.js')
 	const supporters = require('./tmp/supporters.json')
 
-	var comicObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
-		const moreComicObjects = readComicObjectFile(scraperName).filter(Boolean)
-		return memo.concat(moreComicObjects)
+	var seriesObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
+		const moreSeriesObjects = readSeriesObjectsFile(scraperName).filter(Boolean)
+		return memo.concat(moreSeriesObjects)
 	}, [])
 
 	if (global.DEBUG) {
-		comicObjects = comicObjects.slice(0, 10)
+		seriesObjects = seriesObjects.slice(0, 10)
 	}
 
-	siteGenerator(comicObjects, supporters)
+	siteGenerator(seriesObjects, supporters)
 
 	if (global.VERBOSE) {
 		const seconds = (new Date() - startTime) / 1000
