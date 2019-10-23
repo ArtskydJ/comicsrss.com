@@ -53,7 +53,7 @@ module.exports = function getComicObject(page, previousComicObject) {
 		.then(function (html) {
 			var parsed = parseComicPage(pageUrl, html)
 			if (previousUrls.indexOf(parsed.url) !== -1) {
-				console.log('THIS HAPPENED')
+				console.log('Previous day does not match (' + page.basename + ')')
 				return null
 			}
 			comicStrips.push(parsed)
@@ -62,12 +62,6 @@ module.exports = function getComicObject(page, previousComicObject) {
 	}
 }
 
-
-function getRelUrlFromHtml(html) {
-	var comicsTabRelUrl = html.match(/<a class="nav-link[^"]*" data-link="comics" href="([^">]+)">Comics<\/a>/)
-	if (comicsTabRelUrl === null || !comicsTabRelUrl[1]) throw new Error('Unable to parse comicsTabRelUrl')
-	return comicsTabRelUrl[1]
-}
 
 function parseComicPage(pageUrl, html) {
 	var comicImageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
