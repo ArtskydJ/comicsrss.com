@@ -2,8 +2,6 @@ const httpGet = require('./http-get.js')
 const mergeComicStrips = require('./merge.js')
 
 module.exports = function main(seriesObjects) {
-	console.log('dilbertseriesobj')
-	console.log(seriesObjects)
 	return httpGet('https://dilbert.com').then(function (html) {
 		const newStrips = html
 			.split('\n')
