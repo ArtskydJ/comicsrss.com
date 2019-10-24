@@ -17,7 +17,7 @@
         <atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
 {{if basename.slice(-3) === '%20'}}
         <item>
-            <title><![CDATA[{{description}} -- Este feed RSS ya no se actualiza.]]></title>
+            <title><![CDATA[{{@ title}} -- Este feed RSS ya no se actualiza.]]></title>
             <link>https://www.comicsrss.com/espanol</link>
             <guid isPermaLink="false">{{basename}}2019-10-21nolongerupdated</guid>
             <pubDate>Mon, 21 Oct 2019 16:00:00 GMT</pubDate>
@@ -30,7 +30,7 @@
         </item>
 {{/if}}{{each strips strip}}
         <item>
-            <title><![CDATA[{{title}} by {{author}} for {{strip.date.toDateString()}}]]></title>
+            <title><![CDATA[{{@ title}} by {{@ author}} for {{@ strip.date.toUTCString().slice(0, -13)}}]]></title>
             <link>{{strip.url}}</link>
             <guid{{if ! strip.isPermaLink}} isPermaLink="false"{{/if}}>{{strip.guid}}</guid>
             <pubDate>{{strip.date.toUTCString()}}</pubDate>
