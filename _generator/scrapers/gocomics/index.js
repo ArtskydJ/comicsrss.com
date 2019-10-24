@@ -1,6 +1,6 @@
 const pEach = require('p-map-series')
-const getSeriesObjects = require('./get-page-list.js')
-const getStrips = require('./get-comic-object.js')
+const getSeriesObjects = require('./get-series-objects.js')
+const getStrips = require('./get-strips.js')
 
 module.exports = function main(cachedSeriesObjects) {
 	return getSeriesObjects()

@@ -28,8 +28,7 @@ if (cliOpts.transform) {
 		// console.log(`Updated ${scraperName} tmp file`)
 	}
 
-	transform('dilbert')
-	transform('gocomics')
+	scraperNames.forEach(transform)
 
 	process.exit(0)
 }
@@ -50,10 +49,10 @@ if (! scrape && ! generate) {
 	process.exit(help ? 0 : 1)
 }
 
-const SCRAPER_NAMES = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
+const scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
 
 var promise = Promise.resolve()
-if (scrape)   promise = promise.then(() => pMapSeries(SCRAPER_NAMES, runScraper))
+if (scrape)   promise = promise.then(() => pMapSeries(scraperNames, runScraper))
 if (generate) promise = promise.then(runGenerator)
 
 promise.then(()=>{
@@ -86,7 +85,7 @@ function writeSeriesObjectsFile(scraperName, contents) {
 }
 
 function getSeriesObjectsPath(scraperName) {
-	return path.resolve(__dirname, 'tmp', `_${scraperName}-comic-objects.json`)
+	return path.resolve(__dirname, 'tmp', `${scraperName}-series-objects.json`)
 }
 
 function runScraper(scraperName) {
@@ -131,7 +130,7 @@ function runGenerator() {
 	const siteGenerator = require('./site-generator/index.js')
 	const supporters = require('./tmp/supporters.json')
 
-	var seriesObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
+	var seriesObjects = scraperNames.reduce(function (memo, scraperName) {
 		const moreSeriesObjects = readSeriesObjectsFile(scraperName)
 		return Object.assign(memo, moreSeriesObjects)
 	}, {})

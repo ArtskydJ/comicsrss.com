@@ -1,6 +1,6 @@
 const renderTemplate = require('./render-template.js')
 const writeFile = require('./write-file.js')
-const generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
+const generateRssFeedFromSeriesObject = require('./generate-rss-feed-from-series-object.js')
 
 module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters) {
 	var seriesObjectsArr = Object.keys(seriesObjects).map(key => Object.assign({ basename: key }, seriesObjects[key]))
@@ -18,7 +18,7 @@ module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters)
 	seriesObjectsArr.forEach(function (comicObject) {
 		if (!comicObject) return null
 
-		const rssFeed = generateRssFeedFromComicObject(comicObject)
+		const rssFeed = generateRssFeedFromSeriesObject(comicObject)
 		writeFile(`../../rss/${comicObject.basename}.rss`, rssFeed)
 	})
 }
