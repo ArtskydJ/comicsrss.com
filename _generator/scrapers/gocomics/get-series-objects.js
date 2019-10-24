@@ -7,7 +7,9 @@ module.exports = function getPages() {
 		getPage('https://www.gocomics.com/comics/espanol?page=1'),
 		getPage('https://www.gocomics.com/comics/espanol?page=2')
 	])
-	.then(flatten)
+	.then(function flatten(arrayOfObjects) {
+		return Object.assign({}, ...arrayOfObjects)
+	})
 }
 
 function getPage(url) {
@@ -66,7 +68,3 @@ function atozAndEspanolParser(url, body) {
 	}, {})
 }
 
-// from https://stackoverflow.com/a/10865042/1509389
-function flatten(arrayOfArrays) {
-	return [].concat.apply([], arrayOfArrays)
-}
