@@ -55,25 +55,23 @@
 		</script>
 
 		<ul id="comics-list">
-			{{each seriesObjects seriesObject}}
-				{{if language === (seriesObject.language || 'eng')}}
-					<li data-search="{{@ seriesObject.title.toLowerCase() }} by {{@ seriesObject.author.toLowerCase() }}">
-						<div class="ellipsis" title="{{@ seriesObject.title }} by {{@ seriesObject.author }}">
-							{{ seriesObject.title }} by {{ seriesObject.author }}
-						</div>
-						<div class="actions">
-							<a href="./rss/{{ encodeURI(seriesObject.basename) }}.rss" onclick="copy(this, event)">
-								<img src="../static/rss_sm.png" class="icon rss-icon">
-								<span class="status">Copy RSS URL</span>
-							</a>
-							<a href="{{ seriesObject.url }}" target="_blank">
-								<img src="./static/external_sm.png" class="icon">
-								View
-							</a>
-						</div>
-					</li>
-				{{/if}}
-			{{/each}}
+			{{each seriesObjects seriesObject}}{{if language === (seriesObject.language || 'eng')}}
+				<li data-search="{{@ seriesObject.title.toLowerCase() }} by {{@ seriesObject.author.toLowerCase() }}">
+					<div class="ellipsis" title="{{@ seriesObject.title }} by {{@ seriesObject.author }}">
+						{{ seriesObject.title }} by {{ seriesObject.author }}
+					</div>
+					<div class="actions">
+						<a href="./rss/{{ encodeURI(seriesObject.basename) }}.rss" onclick="copy(this, event)">
+							<img src="../static/rss_sm.png" class="icon rss-icon">
+							<span class="status">Copy RSS URL</span>
+						</a>
+						<a href="{{ seriesObject.url }}" target="_blank">
+							<img src="./static/external_sm.png" class="icon">
+							View
+						</a>
+					</div>
+				</li>
+			{{/if}}{{/each}}
 		</ul>
 
 		{{if language === 'eng'}}
