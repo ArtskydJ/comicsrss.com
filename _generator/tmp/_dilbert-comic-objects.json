@@ -1,138 +1,127 @@
-[
-	{
-		"basename": "dilbert",
-		"title": "Dilbert",
+{
+	"dilbert": {
 		"author": "Scott Adams",
-		"url": "https://dilbert.com/",
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
-				"url": "https://dilbert.com/strip/2019-10-23",
 				"date": "2019-10-23",
-				"imageUrl": "https://assets.amuniversal.com/8a814180c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/8a814180c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-23"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-23",
-				"date": "2019-10-23",
-				"imageUrl": "https://assets.amuniversal.com/8a814180c7460137c2df005056a9545d"
-			},
-			{
-				"url": "https://dilbert.com/strip/2019-10-23",
-				"date": "2019-10-23",
-				"imageUrl": "https://assets.amuniversal.com/8a814180c7460137c2df005056a9545d"
-			},
-			{
-				"url": "https://dilbert.com/strip/2019-10-22",
 				"date": "2019-10-22",
-				"imageUrl": "https://assets.amuniversal.com/87b83e10c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/87b83e10c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-22"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-21",
 				"date": "2019-10-21",
-				"imageUrl": "https://assets.amuniversal.com/84f1bdb0c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/84f1bdb0c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-21"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-20",
 				"date": "2019-10-20",
-				"imageUrl": "https://assets.amuniversal.com/bf2ac5c0b0d30137ba71005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/bf2ac5c0b0d30137ba71005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-20"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-19",
 				"date": "2019-10-19",
-				"imageUrl": "https://assets.amuniversal.com/82347a40c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/82347a40c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-19"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-18",
 				"date": "2019-10-18",
-				"imageUrl": "https://assets.amuniversal.com/7f7ed250c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/7f7ed250c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-18"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-17",
 				"date": "2019-10-17",
-				"imageUrl": "https://assets.amuniversal.com/7cb7eb90c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/7cb7eb90c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-17"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-16",
 				"date": "2019-10-16",
-				"imageUrl": "https://assets.amuniversal.com/7a228350c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/7a228350c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-16"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-15",
 				"date": "2019-10-15",
-				"imageUrl": "https://assets.amuniversal.com/77cf9fb0c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/77cf9fb0c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-15"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-14",
 				"date": "2019-10-14",
-				"imageUrl": "https://assets.amuniversal.com/751379c0c7460137c2df005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/751379c0c7460137c2df005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-14"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-13",
 				"date": "2019-10-13",
-				"imageUrl": "https://assets.amuniversal.com/bad03510b0d30137ba71005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/bad03510b0d30137ba71005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-13"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-12",
 				"date": "2019-10-12",
-				"imageUrl": "https://assets.amuniversal.com/c96061d0c6910137c28f005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/c96061d0c6910137c28f005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-12"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-11",
 				"date": "2019-10-11",
-				"imageUrl": "https://assets.amuniversal.com/c0cec390c6930137c291005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/c0cec390c6930137c291005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-11"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-10",
 				"date": "2019-10-10",
-				"imageUrl": "https://assets.amuniversal.com/c7151910c6910137c28f005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/c7151910c6910137c28f005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-10"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-09",
 				"date": "2019-10-09",
-				"imageUrl": "https://assets.amuniversal.com/beb30170c6930137c291005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/beb30170c6930137c291005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-09"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-08",
 				"date": "2019-10-08",
-				"imageUrl": "https://assets.amuniversal.com/c4e95f10c6910137c28f005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/c4e95f10c6910137c28f005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-08"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-07",
 				"date": "2019-10-07",
-				"imageUrl": "https://assets.amuniversal.com/bc828ad0c6930137c291005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/bc828ad0c6930137c291005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-07"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-06",
 				"date": "2019-10-06",
-				"imageUrl": "https://assets.amuniversal.com/1bac4410a7650137b78f005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/1bac4410a7650137b78f005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-06"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-05",
 				"date": "2019-10-05",
-				"imageUrl": "https://assets.amuniversal.com/37dc2fa0c0460137c01a005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/37dc2fa0c0460137c01a005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-05"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-04",
 				"date": "2019-10-04",
-				"imageUrl": "https://assets.amuniversal.com/bd72a9c0c0470137c01c005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/bd72a9c0c0470137c01c005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-04"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-03",
 				"date": "2019-10-03",
-				"imageUrl": "https://assets.amuniversal.com/ba290890c0470137c01c005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/ba290890c0470137c01c005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-03"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-02",
 				"date": "2019-10-02",
-				"imageUrl": "https://assets.amuniversal.com/34df4760c0460137c01a005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/34df4760c0460137c01a005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-02"
 			},
 			{
-				"url": "https://dilbert.com/strip/2019-10-01",
 				"date": "2019-10-01",
-				"imageUrl": "https://assets.amuniversal.com/b7d4d590c0470137c01c005056a9545d"
+				"imageUrl": "https://assets.amuniversal.com/b7d4d590c0470137c01c005056a9545d",
+				"url": "https://dilbert.com/strip/2019-10-01"
 			}
-		]
+		],
+		"title": "Dilbert",
+		"url": "https://dilbert.com/"
 	}
-]
+}

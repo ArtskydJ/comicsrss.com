@@ -3,6 +3,7 @@
 const pMapSeries = require('p-map-series')
 const fs = require('fs')
 const path = require('path')
+const jsonStableStringify = require('json-stable-stringify')
 
 
 const startTime = new Date()
@@ -18,9 +19,13 @@ const generate = cliOpts.generate
 if (cliOpts.transform) {
 	var transform = function (scraperName) {
 		// var seriesObjects = readSeriesObjectsFile(scraperName)
-		// var seriesObjects2 = seriesObjects.reduce(...)
-		// writeSeriesObjectsFile(scraperName, seriesObjects2)
-		// console.log(`Fixed ${scraperName} tmp file`)
+		// var seriesObjects2 = Object.keys(seriesObjects).reduce(function (memo, id) {
+		// 	memo[id] = seriesObjects[id]
+
+		// 	return memo
+		// }, {})
+		// writeSeriesObjectsFile(scraperName, seriesObjects)
+		// console.log(`Updated ${scraperName} tmp file`)
 	}
 
 	transform('dilbert')
@@ -76,7 +81,7 @@ function readSeriesObjectsFile(scraperName) {
 
 function writeSeriesObjectsFile(scraperName, contents) {
 	const filePath = getSeriesObjectsPath(scraperName)
-	const json = JSON.stringify(contents, null, '\t')
+	const json = jsonStableStringify(contents, { space: '\t' })
 	fs.writeFileSync(filePath, json, 'utf-8')
 }
 
@@ -89,16 +94,14 @@ function runScraper(scraperName) {
 	const thisScraper = require(`./scrapers/${scraperName}/index.js`)
 	const cachedSeriesObjects = readSeriesObjectsFile(scraperName)
 	return thisScraper(cachedSeriesObjects).then(newSeriesObjects => {
-		if (!Array.isArray(newSeriesObjects)) {
-			throw new Error('Expected resulting seriesObjects variable to be an array.')
+		if (Array.isArray(newSeriesObjects)) {
+			throw new Error('Did not expect resulting seriesObjects variable to be an array.')
 		}
 
-		const verifiedSeriesObjects = newSeriesObjects
-			.filter(Boolean)
-			.map(function (seriesObject) {
-				const { basename, title, author, url, imageUrl, isPolitical, language, strips } = seriesObject
-				return {
-					basename,
+		const verifiedSeriesObjects = Object.keys(newSeriesObjects)
+			.reduce(function (memo, id) {
+				const { title, author, url, imageUrl, isPolitical, language, strips } = newSeriesObjects[id]
+				memo[id] = {
 					title,
 					author,
 					url,
@@ -117,7 +120,8 @@ function runScraper(scraperName) {
 						.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
 						.slice(0, 25)
 				}
-			})
+				return memo
+			}, {})
 
 		writeSeriesObjectsFile(scraperName, verifiedSeriesObjects)
 	})
@@ -128,13 +132,9 @@ function runGenerator() {
 	const supporters = require('./tmp/supporters.json')
 
 	var seriesObjects = SCRAPER_NAMES.reduce(function (memo, scraperName) {
-		const moreSeriesObjects = readSeriesObjectsFile(scraperName).filter(Boolean)
-		return memo.concat(moreSeriesObjects)
-	}, [])
-
-	if (global.DEBUG) {
-		seriesObjects = seriesObjects.slice(0, 10)
-	}
+		const moreSeriesObjects = readSeriesObjectsFile(scraperName)
+		return Object.assign(memo, moreSeriesObjects)
+	}, {})
 
 	siteGenerator(seriesObjects, supporters)
 

@@ -81,7 +81,7 @@ To add a scraper for a website that hosts one comic strip, and shows multiple st
 const httpGet = require('./http-get.js')
 const mergeStrips = require('./merge.js')
 
-module.exports = function main(seriesObjects) {
+module.exports = function main(cachedSeriesObjects) {
   return httpGet('https://example.com').then(function (html) {
     // parse the html, and turn it into an array of comic strips
     const newStrips = html
@@ -96,14 +96,15 @@ module.exports = function main(seriesObjects) {
         }
       })
 
-    return [{
-      basename: 'my-comic-strip',
-      title: 'My Comic Strip',
-      author: 'Author Name',
-      url: 'https://example.com/',
-      imageUrl: 'https://example.com/my_comic_strip-large.jpg',
-      strips: mergeStrips(seriesObjects[0].strips, newStrips)
-    }]
+    return {
+      'mycomicstrip': {
+        title: 'My Comic Strip',
+        author: 'Author Name',
+        url: 'https://example.com/',
+        imageUrl: 'https://example.com/my_comic_strip-large.jpg',
+        strips: mergeStrips(cachedSeriesObjects['mycomicstrip'].strips, newStrips)
+      }
+    }
   })
 }
 ```
@@ -131,8 +132,8 @@ Each folder inside `_generator/scrapers` must have an `index.js` file in it.
 The `index.js` file's must do something like this:
 
 ```js
-module.export = function main(seriesObjects) { // this is the cached seriesObjects object. It might be up-to-date, or it might not be.
-  // request and parse comic website, and add any new comic strips to the seriesObjects object (or a copy, it doesn't matter)
+module.export = function main(cachedSeriesObjects) { // this might be up-to-date, or it might not be.
+  // request and parse comic website, and add any new comic strips to the cachedSeriesObjects object (or a copy, it doesn't matter)
   return promise // this promise resolves with the updated seriesObjects
 }
 ```
@@ -141,11 +142,22 @@ A corresponding temp file is parsed to an array of `seriesObject`s, and the arra
 
 
 
+### `cachedSeriesObjects` object
+
+This is an object that holds a bunch of `seriesObject`s based on an ID. The ID will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the rss page. Example: `calvinandhobbes`
+
+```json
+{
+  "calvinandhobbes": { /* seriesObject */ },
+  "dilbert": { /* seriesObject */ },
+  /* more... */
+}
+```
+
 ### `seriesObject` object
 
 Properties of `seriesObject`:
 
-- `basename` string - The basename is sometimes used as an identifier. It will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the rss page. Example: `calvinandhobbes`
 - `title` string - The title of the series. Example: `Calvin and Hobbes`
 - `author` string - The comic series author's name. Example: `Bill Watterson`
 - `url` string - A URL for the whole series. This should be a web page that represents the whole comic series. Example: `https://www.gocomics.com/calvinandhobbes/about`

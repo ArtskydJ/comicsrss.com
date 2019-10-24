@@ -1,5 +1,5 @@
-var https = require('https')
-var concat = require('simple-concat')
+const https = require('https')
+const concat = require('simple-concat')
 
 module.exports = function getPages() {
 	return Promise.all([
@@ -8,9 +8,6 @@ module.exports = function getPages() {
 		getPage('https://www.gocomics.com/comics/espanol?page=2')
 	])
 	.then(flatten)
-	.then(function (arr) {
-		return arr.sort(sortOnKey('title'))
-	})
 }
 
 function getPage(url) {
@@ -26,16 +23,17 @@ function getPage(url) {
 
 
 function atozAndEspanolParser(url, body) {
-	const bodyParts = body.split('<a class="gc-blended-link')
-	bodyParts.shift() // remove the first item since it is empty
-
-	return bodyParts.map(function (bodyPart, index) {
+	return body
+	.split('<a class="gc-blended-link')
+	.slice(1) // remove the first item since it is empty
+	.reduce(function (memo, bodyPart, index) {
 		const todayHrefMatches = bodyPart.match(/" href=['"](.+?)['"]>/)
-		if (todayHrefMatches === null || !todayHrefMatches[1]) throw new Error(`Unable to parse todayHref in a-to-z, #${ index }\n${ bodyPart }`)
-		if (/^\/(news|comics|profiles)/.test(todayHrefMatches[1])) throw new Error('Unexpected todayHref URL in comics a-to-z: ' + todayHrefMatches[1])
+		if (todayHrefMatches === null || ! todayHrefMatches[1]) throw new Error(`Unable to parse todayHref in a-to-z, #${ index }\n${ bodyPart }`)
+		const todayHref = todayHrefMatches[1]
+		if (/^\/(news|comics|profiles)/.test(todayHref)) throw new Error('Unexpected todayHref URL in comics a-to-z: ' + todayHref)
 
 		const basenameMatches = todayHrefMatches[0].match(/\/([^\/]+)\//)
-		if (basenameMatches === null || !basenameMatches[1]) throw new Error(`Unable to parse basename in a-to-z, #${ index }\n${ bodyPart }`)
+		if (basenameMatches === null || ! basenameMatches[1]) throw new Error(`Unable to parse basename in a-to-z, #${ index }\n${ bodyPart }`)
 		const basename = basenameMatches[1].trim()
 
 		// If I find a place for icon URLs, I can enable this later...
@@ -43,42 +41,32 @@ function atozAndEspanolParser(url, body) {
 		// fan-art and outland are missing icon URLs
 
 		const titleMatches = bodyPart.match(/<h4 class=['"](?:media-heading h4 mb-0|card-title)['"]>(.+?)<\/h4>/i)
-		if (titleMatches === null || !titleMatches[1]) throw new Error('Unable to parse title in a-to-z: ' + basename)
+		if (titleMatches === null || ! titleMatches[1]) throw new Error('Unable to parse title in a-to-z: ' + basename)
+		const title = titleMatches[1]
 
 		var authorMatches = bodyPart.match(/<span class=['"]media-(?:sub)?heading small['"]>By (.+?)<\/span>/i) // atoz
 		if (! authorMatches) {
 			authorMatches = bodyPart.match(/<h5 class=['"]card-subtitle text-muted['"]>(.+?)<\/h5>/i) // espanol
 		}
-
-		const hasAuthor = authorMatches !== null && !!authorMatches[1]
+		const author = authorMatches && authorMatches[1]
+		const isPolitical = ! author // Gocomics' political comics are named after their author
 
 		// https://iso639-3.sil.org/code_tables/639/data
-		const language = url.indexOf('espanol') === -1 ? 'eng' : 'spa'
+		const language = url.includes('espanol') ? 'spa' : 'eng'
 
-		return {
-			author: (hasAuthor ? authorMatches : titleMatches)[1],
-			basename: basename,
-			title: titleMatches[1],
-			todayHref: todayHrefMatches[1],
-			isPolitical: ! hasAuthor,
-			language: language,
-			index: index
+		memo[basename] = {
+			author: author || title,
+			title,
+			url: 'https://www.gocomics.com/' + basename,
+			mostRecentStripUrl: 'https://www.gocomics.com' + todayHref,
+			isPolitical,
+			language
 		}
-	})
+		return memo
+	}, {})
 }
 
 // from https://stackoverflow.com/a/10865042/1509389
 function flatten(arrayOfArrays) {
 	return [].concat.apply([], arrayOfArrays)
-}
-
-// from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-function sortOnKey(key) {
-	return function sort(a, b) {
-		var valA = a[key].toUpperCase()
-		var valB = b[key].toUpperCase()
-		if (valA < valB) return -1
-		if (valA > valB) return 1
-		return 0
-	}
 }

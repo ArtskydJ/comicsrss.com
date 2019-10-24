@@ -1,50 +1,39 @@
 const pEach = require('p-map-series')
-const getPageList = require('./get-page-list.js')
-const getSeriesObject = require('./get-comic-object.js')
+const getSeriesObjects = require('./get-page-list.js')
+const getStrips = require('./get-comic-object.js')
 
-module.exports = function main(seriesObjects) {
-	return getPageList()
-	.then(function (pageList) {
-		if (!pageList.length) {
+module.exports = function main(cachedSeriesObjects) {
+	return getSeriesObjects()
+	.then(function (newSeriesObjects) {
+		var seriesObjectsKeys = Object.keys(newSeriesObjects)
+		if (! seriesObjectsKeys.length) {
 			throw new Error('No comics found')
 		}
 		if (global.DEBUG) {
-			pageList = pageList.slice(0, 10)
+			seriesObjectsKeys = seriesObjectsKeys.slice(0, 10)
 		}
-		return pEach(pageList, function (page) {
-			const seriesObjectIndex = seriesObjects.findIndex(function (seriesObject) {
-				return (seriesObject && seriesObject.basename.trim() === page.basename)
+		return pEach(seriesObjectsKeys, function (basename) {
+			var newSeriesObject = newSeriesObjects[basename]
+			var cachedSeriesObject = cachedSeriesObjects[basename]
+			const cachedStrips = cachedSeriesObject && cachedSeriesObject.strips || []
+			if (global.VERBOSE) console.log((cachedSeriesObject ? '' : 'New: ') + basename)
+
+			return getStrips(newSeriesObject, cachedStrips)
+			.then(function (finalSeriesObject) {
+				if (finalSeriesObject) {
+					// insert the series into into the cache, or overwrite the cached series
+					cachedSeriesObjects[basename] = finalSeriesObject
+				}
 			})
-			const seriesObject = seriesObjects[seriesObjectIndex] // might be undefined
-			if (global.VERBOSE) console.log((seriesObject ? seriesObject.basename : 'New: '))
+			.catch(function (err) {
+				if (global.VERBOSE) console.log(err)
+				if (err.message === 'Comic no longer exists') return null
 
-			return getSeriesObject(page, seriesObject)
-				.then(function (newSeriesObject) {
-					if (newSeriesObject) {
-						if (seriesObject) {
-							if (global.DEBUG) {
-								const oldStrip = seriesObject.strips[0]
-								const oldDate = oldStrip && oldStrip.date
-								const newDate = newSeriesObject.strips[0].date
-								if (oldDate !== newDate) {
-									console.log(`  Replacing ${oldDate} with ${newDate}`)
-								}
-							}
-							seriesObjects[seriesObjectIndex] = newSeriesObject
-						} else {
-							seriesObjects.push(newSeriesObject)
-						}
-					}
-				})
-				.catch(function (err) {
-					if (global.VERBOSE) console.log(err)
-					if (err.message === 'Comic no longer exists') return null
-
-					console.error(page.basename + ' ' + err.message)
-				})
+				console.error(newSeriesObjects.basename + ' ' + err.message)
+			})
 		})
 	})
 	.then(function (_) {
-		return seriesObjects
+		return cachedSeriesObjects
 	})
 }

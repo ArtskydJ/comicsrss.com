@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "art-template": "^4.13.2",
-    "feed": "^4.0.0",
+    "json-stable-stringify": "^1.0.1",
     "p-map-series": "^1.0.0",
     "simple-concat": "^1.0.0"
   }

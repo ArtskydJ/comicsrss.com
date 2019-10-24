@@ -1,7 +1,7 @@
 const httpGet = require('./http-get.js')
 const mergeStrips = require('./merge.js')
 
-module.exports = function main(seriesObjects) {
+module.exports = function main(cachedSeriesObjects) {
 	return httpGet('https://dilbert.com').then(function (html) {
 		const newStrips = html
 			.split('\n')
@@ -32,15 +32,16 @@ module.exports = function main(seriesObjects) {
 			// data-creator="Scott Adams"
 			// data-title="Boss Email Password"
 
-		return [{
-			basename: 'dilbert',
-			title: 'Dilbert',
-			author: 'Scott Adams',
-			url: 'https://dilbert.com/',
-			imageUrl: 'https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg',
-			isPolitical: false,
-			language: 'eng',
-			strips: mergeStrips(seriesObjects[0].strips, newStrips)
-		}]
+		return {
+			dilbert: {
+				title: 'Dilbert',
+				author: 'Scott Adams',
+				url: 'https://dilbert.com/',
+				imageUrl: 'https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dc/large_rec-201701251557.jpg',
+				isPolitical: false,
+				language: 'eng',
+				strips: mergeStrips(cachedSeriesObjects.dilbert.strips, newStrips)
+			}
+		}
 	})
 }

@@ -3,14 +3,19 @@ const writeFile = require('./write-file.js')
 const generateRssFeedFromComicObject = require('./generate-rss-feed-from-comic-object.js')
 
 module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters) {
+	var seriesObjectsArr = Object.keys(seriesObjects).map(key => Object.assign({ basename: key }, seriesObjects[key]))
 	
-	const renderedOutput = renderTemplate('master', generateIndexData(seriesObjects, supporters, 'eng'))
+	const renderedOutput = renderTemplate('master', generateIndexData(seriesObjectsArr, supporters, 'eng'))
 	writeFile('../../index.html', renderedOutput)
 
-	const renderedOutputSpa = renderTemplate('master', generateIndexData(seriesObjects, supporters, 'spa'))
+	const renderedOutputSpa = renderTemplate('master', generateIndexData(seriesObjectsArr, supporters, 'spa'))
 	writeFile('../../espanol.html', renderedOutputSpa)
 
-	seriesObjects.forEach(function (comicObject) {
+	if (global.DEBUG) {
+		seriesObjectsArr = seriesObjectsArr.slice(0, 10)
+	}
+
+	seriesObjectsArr.forEach(function (comicObject) {
 		if (!comicObject) return null
 
 		const rssFeed = generateRssFeedFromComicObject(comicObject)
@@ -18,10 +23,10 @@ module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters)
 	})
 }
 
-function generateIndexData(seriesObjects, supporters, language) {
+function generateIndexData(seriesObjectsArr, supporters, language) {
 	return {
 		subtemplate: 'index',
-		seriesObjects: seriesObjects.sort(sortCO),
+		seriesObjects: seriesObjectsArr.sort(sortCO),
 		supporters: supporters,
 		language: language,
 		generatedDate: new Date().toDateString()

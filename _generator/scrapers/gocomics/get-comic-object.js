@@ -1,51 +1,37 @@
 const httpGet = require('./http-get.js')
 const { resolve } = require('url')
 
-module.exports = function getComicSeriesObject(page, cachedSeriesObject) {
+module.exports = function getStrips(newSeriesObject, cachedStrips) {
 	var strips = []
-	var previousUrls = []
-	if (cachedSeriesObject) {
-		previousUrls = cachedSeriesObject.strips.map(strip => strip.url)
-	}
-	const seriesUrl = 'https://www.gocomics.com' + page.todayHref
+	var previousUrls = cachedStrips.map(strip => strip.url)
 
-	return Promise.resolve(seriesUrl)
+	return Promise.resolve(newSeriesObject.mostRecentStripUrl)
 		.then(getStripPage)
 		.then(getStripPage)
 		.then(getStripPage)
 		.then(getStripPage)
 		.then(getStripPage)
 		.then(function () {
-			if (cachedSeriesObject && ! strips.length) {
+			if (! strips.length) {
 				// If no new info was gathered, then avoid changing the cached copy
-				return cachedSeriesObject
+				return null
 			}
-			if (cachedSeriesObject) {
-				strips = strips.concat(cachedSeriesObject.strips)
-			}
-
-			return {
-				basename: page.basename,
-				author: page.author,
-				title: page.title,
-				url: seriesUrl,
-				imageUrl: strips[0].headerImageUrl,
-				isPolitical: page.isPolitical,
-				language: page.language,
-				strips
-			}
+			return Object.assign(newSeriesObject, {
+				strips: strips.concat(cachedStrips),
+				imageUrl: strips[0].headerImageUrl
+			})
 		})
 
 	function getStripPage(stripPageUrl) {
-		if (! stripPageUrl || previousUrls.indexOf(stripPageUrl) !== -1) {
+		if (! stripPageUrl || previousUrls.includes(stripPageUrl)) {
 			return null
 		}
 
 		return httpGet(stripPageUrl)
 		.then(function (html) {
 			var strip = parseStripPage(html)
-			if (previousUrls.indexOf(strip.url) !== -1) {
-				console.log(`Previous day does not match (${ page.basename })`)
+			if (previousUrls.includes(strip.url)) {
+				console.log(`Previous day does not match (${ newSeriesObject.title })`)
 				return null
 			}
 			strips.push(strip)
