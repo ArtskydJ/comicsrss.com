@@ -49,7 +49,7 @@ if (! scrape && ! generate) {
 	process.exit(help ? 0 : 1)
 }
 
-const scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
+const scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers')).filter(scraperName => scraperName.slice(0, 4) !== 'wip-')
 
 var promise = Promise.resolve()
 if (scrape)   promise = promise.then(() => pMapSeries(scraperNames, runScraper))

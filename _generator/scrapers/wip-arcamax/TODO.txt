@@ -1,0 +1,27 @@
+TODO.txt
+
+https://www.arcamax.com/comics
+
+https://www.arcamax.com/thefunnies/garfield/
+
+parse /newspics/176/17640/1764030.gif
+
+https://www.arcamax.com/newspics/176/17640/1764030.gif is the comic strip url
+
+
+
+
+```
+
+<a class="prev" href="/thefunnies/brilliantmindofedisonlee/s-2160999" title="Brilliant Mind of Edison Lee 1/3/2019"><span class="entypo-left-open"></span></a>
+  <span class="cur">January  4</span>
+<a class="next-off" href="#"><span class="entypo-right-open"></span></a>
+
+<!-- ... -->
+
+<figure class="comic">
+  <img id="comic-zoom" data-zoom-image="/newspics/168/16885/1688589.gif" src="/newspics/168/16885/1688589.gif"  data-width="600" data-height="187" alt="" class="img-responsive the-comic" title="click or tap to zoom" />
+  <cite class="comic-copyright">(c) 2019 John Hambrock.  Dist. by King Features Syndicate, Inc.</cite>
+</figure>
+
+```
