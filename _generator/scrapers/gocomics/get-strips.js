@@ -23,7 +23,7 @@ module.exports = function getStrips(newSeriesObject, cachedStrips) {
 		})
 
 	function getStripPage(stripPageUrl) {
-		if (! stripPageUrl || previousUrls.includes(stripPageUrl)) {
+		if (! stripPageUrl || previousUrls.includes(stripPageUrl) || previousUrls.includes(decodeURI(stripPageUrl))) {
 			return null
 		}
 
@@ -31,7 +31,8 @@ module.exports = function getStrips(newSeriesObject, cachedStrips) {
 		.then(function (html) {
 			var strip = parseStripPage(html)
 			if (previousUrls.includes(strip.url)) {
-				console.log(`Previous day does not match (${ newSeriesObject.title })`)
+				// 2019-10-29 This is happening every day for three spanish comics that have spaces in the URL.
+				console.log(`Parsed URL (${ strip.url }) does not match requested URL (${ stripPageUrl })`)
 				return null
 			}
 			strips.push(strip)
