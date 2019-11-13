@@ -67,7 +67,7 @@ promise.then(()=>{
 
 function parseCliOptions(args) {
 	return args.reduce((memo, arg) => {
-		memo[arg.replace(/^--/, '')] = true
+		memo[ arg.replace(/^--/, '').toLowerCase() ] = true
 		return memo
 	}, {})
 }

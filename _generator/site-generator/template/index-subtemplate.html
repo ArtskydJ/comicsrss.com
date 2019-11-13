@@ -17,7 +17,8 @@
 <section id="browse">
 	<div class="container">
 		<div class="main-page-header large-margin">Browse</div>
-		<input type="text" class="search" placeholder="Search">
+		<label for="search">Search</label>
+		<input type="text" id="search" class="search">
 
 		<script>
 			var searchCss = document.createElement('style')
@@ -54,7 +55,7 @@
 			}
 		</script>
 
-		<ul id="comics-list">
+		<ul id="comics-list" tabindex="-1">
 			{{each seriesObjects seriesObject}}{{if language === (seriesObject.language || 'eng')}}
 				<li data-search="{{@ seriesObject.title.toLowerCase() }} by {{@ seriesObject.author.toLowerCase() }}">
 					<div class="ellipsis" title="{{@ seriesObject.title }} by {{@ seriesObject.author }}">
@@ -62,11 +63,11 @@
 					</div>
 					<div class="actions">
 						<a href="./rss/{{ encodeURI(seriesObject.basename) }}.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon">
+							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
 							<span class="status">Copy RSS URL</span>
 						</a>
 						<a href="{{ seriesObject.url }}" target="_blank">
-							<img src="./static/external_sm.png" class="icon">
+							<img src="./static/external_sm.png" class="icon" alt="">
 							View
 						</a>
 					</div>

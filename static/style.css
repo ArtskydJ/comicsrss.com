@@ -163,11 +163,11 @@ img.preview-comic {
 }
 
 a {
-	color: #0366d6;
+	color: #06c;
 	text-decoration: none;
 }
 a:hover {
-	color: #00336a;
+	color: #036;
 }
 .main-page-header {
 	font-size: 1.5em;
@@ -184,7 +184,7 @@ a:hover {
 	width: 220px;
 	margin: 5px;
 	text-align: left;
-	border: 1px solid #0366d6;
+	border: 1px solid #06c;
 	background-color: #fff;
 }
 .suggested-item:hover {
