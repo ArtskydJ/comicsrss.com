@@ -146,7 +146,7 @@ A corresponding temp file is parsed to an array of `seriesObject`s, and the arra
 
 This is an object that holds a bunch of `seriesObject`s based on an ID. The ID will be used as a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) in the rss page. Example: `calvinandhobbes`
 
-```json
+```jsonc
 {
   "calvinandhobbes": { /* seriesObject */ },
   "dilbert": { /* seriesObject */ },
