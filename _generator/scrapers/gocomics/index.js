@@ -29,7 +29,10 @@ module.exports = function main(cachedSeriesObjects) {
 				if (global.VERBOSE) console.log(err)
 				if (err.message === 'Comic no longer exists') return null
 
-				console.error(newSeriesObjects.basename + ' ' + err.message)
+				console.error(basename + ' ' + err.message)
+				if (newSeriesObject.mostRecentStripUrl) {
+					console.error(newSeriesObject.mostRecentStripUrl)
+				}
 			})
 		})
 	})
