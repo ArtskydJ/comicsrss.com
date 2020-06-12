@@ -65,6 +65,11 @@ You can see that for yourself [here](https://github.com/ArtskydJ/comicsrss.com/b
 
 ## Scraper API
 
+The scraper API changed recently, and I haven't updated the documentation. However, it is simpler than before. Unfortunately, there are fewer docs than before.
+
+See the code for [arcamax](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax) to see that it's not very difficult to make a scraper for a large website, with just a little bit of string manipulation.
+
+<!--
 ### Example
 
 To add a scraper for a website that hosts one comic strip, and shows multiple strips one one page.
@@ -171,7 +176,7 @@ Properties of `seriesObject`:
 - `url` string - Permalink to the specific comic strip. 
 - `date` string - The date that the comic strip was published. (Not the date it was scraped.) Formatted as `yyyy-mm-dd`
 - `imageUrl` string - The URL of the image of the actual comic strip. Example: `https://assets.amuniversal.com/00e343804e6d013797bd005056a9545d`
-
+-->
 
 
 ## License
