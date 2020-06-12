@@ -71,7 +71,7 @@ async function getStrips(getStrip, newSeriesObject, cachedStrips) {
 			return Object.assign(newSeriesObject, {
 				strips: strips.concat(cachedStrips),
 				imageUrl: strips[0].headerImageUrl,
-				author: strips[0].author
+				author: strips[0].author,
 			})
 		})
 
@@ -87,7 +87,9 @@ async function getStrips(getStrip, newSeriesObject, cachedStrips) {
 		// 	console.log(`Parsed URL (${ strip.url }) does not match requested URL (${ stripPageUrl })`)
 		// 	return null
 		// }
-		strips.push(strip)
+		if (! previousUrls.includes(strip.url)) {
+			strips.push(strip)
+		}
 		if (! strip.isOldestStrip) {
 			return resolve(stripPageUrl, strip.olderRelUrl)
 		}

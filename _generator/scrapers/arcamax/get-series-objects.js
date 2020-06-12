@@ -13,7 +13,7 @@ module.exports = async function getPages() {
 		.map(line => {
 			const href = between(line, '<li><a href="', '"')
 			const basename = between(line, 'data-code="', '"')
-			const title = between(line, /<a.+>/, '</a>')
+			const title = between(line, '" >', '</a>')
 			// const author = between(html, '<cite>', '</cite>')
 
 			return [ basename, {
