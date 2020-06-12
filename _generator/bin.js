@@ -38,6 +38,7 @@ async function main() {
 
 	scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
 		.filter(scraperName => ! scraperName.startsWith('wip-'))
+		.filter(scraperName => scraperName !== 'arcamax') // TODO enable arcamax
 		.filter(scraperName => ! scraperName.endsWith('.js'))
 	if (typeof scrape === 'string') {
 		scraperNames = [ scrape ]
