@@ -15,7 +15,7 @@ async function simpleScraper(scraperName, cachedSeriesObjects) {
 async function multipageScraper(scraperName, cachedSeriesObjects) {
 	// console.log(`multipage ${scraperName}`)
 	const getSeriesObjects = require(`./${scraperName}/get-series-objects.js`)
-	const getStrip = require(`./${scraperName}/get-strips.js`)
+	const getStrip = require(`./${scraperName}/get-strip.js`)
 
 	const newSeriesObjects = await getSeriesObjects()
 
