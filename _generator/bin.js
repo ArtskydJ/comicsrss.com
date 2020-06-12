@@ -36,7 +36,9 @@ async function main() {
 		process.exit(help ? 0 : 1)
 	}
 
-	scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers')).filter(scraperName => ! scraperName.startsWith('wip-'))
+	scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
+		.filter(scraperName => ! scraperName.startsWith('wip-'))
+		.filter(scraperName => ! scraperName.endsWith('.js'))
 	if (typeof scrape === 'string') {
 		scraperNames = [ scrape ]
 	}
