@@ -2,16 +2,16 @@ const httpGet = require('./http-get.js')
 const mergeStrips = require('./merge.js')
 
 module.exports = function main(cachedSeriesObjects) {
-	return httpGet('https://dilbert.com').then(function (html) {
+	return httpGet('https://dilbert.com').then(html => {
 		const newStrips = html
 			.split('\n')
 			.map(l => l.trim())
 			.filter(l => l.startsWith('<div class="comic-item-container'))
-			.map(function (line) {
+			.map(line => {
 				const data = line
 					.split('" ')
 					.filter(a => a.startsWith('data-'))
-					.reduce(function (memo, attr) {
+					.reduce((memo, attr) => {
 						const parts = attr.split('=')
 						const attrName = parts[0].replace(/^data-/, '')
 						const attrValue = parts[1].replace(/.*?"(.*)/, '$1').replace(/(.*)".*/, '$1')
