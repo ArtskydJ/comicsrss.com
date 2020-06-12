@@ -1,13 +1,12 @@
-const httpGet = require('./http-get.js')
+const fetch = require('../fetch.js')
 
 function between(str, begin, end) {
 	return (str.split(begin, 2)[1] || '').split(end, 1)[0]
 }
 
 module.exports = async function getPages() {
-	const html = await httpGet('https://www.arcamax.com/comics')
-	return Object.fromEntries(
-		between(html, 'Comics A-Z', 'Editorial Cartoons')
+	const html = await fetch('https://www.arcamax.com/comics')
+	const seriesEntries = between(html, 'Comics A-Z', 'Editorial Cartoons')
 		.split('\n')
 		.filter(l => l.startsWith('<li><a href="/thefunnies/'))
 		.map(line => {
@@ -25,6 +24,6 @@ module.exports = async function getPages() {
 				language: 'eng'
 			}]
 		})
-	)
+	return Object.fromEntries(seriesEntries)
 }
 

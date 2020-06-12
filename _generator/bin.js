@@ -47,14 +47,13 @@ async function main() {
 	if (migrate) {
 		// CHANGE THE CODE BELOW TO CREATE A MIGRATION
 		const transform = function([ id, seriesObject ]) {
-			return id, seriesObject
+			return [ id, seriesObject ]
 		}
 		// CHANGE THE CODE ABOVE TO CREATE A MIGRATION
 
 		scraperNames.forEach(function migrate(scraperName) {
 			const seriesObjects = readSeriesObjectsFile(scraperName)
-			const seriesObjects2 = Object.fromEntries(Object.entries(seriesObjects).map(transform))
-			writeSeriesObjectsFile(scraperName, seriesObjects2)
+			writeSeriesObjectsFile(scraperName, objMap(seriesObjects, transform))
 			console.log(`Updated ${scraperName} tmp file`)
 		})
 
@@ -74,11 +73,9 @@ async function main() {
 
 
 function parseCliOptions(args) {
-	return args.reduce((memo, arg) => {
-		const [ key, value ] = arg.replace(/^--/, '').toLowerCase().split('=', 2)
-		memo[ key ] = value || true
-		return memo
-	}, {})
+	return Object.fromEntries(args
+		.map(arg => arg.replace(/^--/, '').toLowerCase().split('=', 2))
+		.map(([ key, value = true ]) => [ key, value ]))
 }
 
 function readSeriesObjectsFile(scraperName) {
@@ -111,7 +108,7 @@ async function runScraper(scraperName) {
 			.map(({ url, date, imageUrl }) => ({ url, date, imageUrl }))
 			.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
 			.slice(0, 25)
-		return Object.assign({}, newSeriesObject, { strips })
+		return { ...newSeriesObject, strips }
 	})
 
 	writeSeriesObjectsFile(scraperName, verifiedSeriesObjects)
@@ -122,12 +119,9 @@ function runGenerator() {
 	const siteGenerator = require('./site-generator/index.js')
 	const supporters = require('./tmp/supporters.json')
 
-	const seriesObjects = scraperNames.reduce((memo, scraperName) => {
-		const moreSeriesObjects = readSeriesObjectsFile(scraperName)
-		return Object.assign(memo, moreSeriesObjects)
-	}, {})
-
-	siteGenerator(seriesObjects, supporters)
+	const seriesObjectsArray = scraperNames.map(readSeriesObjectsFile)
+	const mergedSeriesObjects = Object.assign({}, ...seriesObjectsArray)
+	siteGenerator(mergedSeriesObjects, supporters)
 
 	if (global.VERBOSE) {
 		const seconds = (new Date() - startTime) / 1000
@@ -135,6 +129,9 @@ function runGenerator() {
 	}
 }
 
+function objMap(obj, fn) {
+	return Object.fromEntries(Object.entries(obj).map(([ key, val ]) => fn([ key, val ])))
+}
 function objMapValue(obj, fn) {
 	return Object.fromEntries(Object.entries(obj).map(([ key, val ]) => [ key, fn(val) ]))
 }

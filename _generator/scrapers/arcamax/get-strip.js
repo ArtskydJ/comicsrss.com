@@ -1,7 +1,7 @@
-const httpGet = require('./http-get.js')
+const fetch = require('../fetch.js')
 
 module.exports = async function getStrip(stripPageUrl) {
-	const html = await httpGet(stripPageUrl)
+	const html = await fetch(stripPageUrl)
 	const imageUrlMatches = html.match(/<img id="comic-zoom".+src="([^">]+)"/)
 	const dateMatches = html.match(/<span class="cur">(\w{3}).*?([\d/]+)<\/span>/)
 	const authorMatches = html.match(/<cite>by (.+?)<\/cite>/)

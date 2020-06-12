@@ -1,12 +1,11 @@
 const https = require('https')
-const concat = require('simple-concat')
 
 module.exports = function httpGet(url) {
-	return new Promise(function (resolve, reject) {
+	return new Promise((resolve, reject) => {
 		if (global.VERBOSE) {
 			console.log('GET ' + url)
 		}
-		setTimeout(function () { // Rate limiting, haha
+		setTimeout(() => { // Rate limiting, haha
 			https.get(url, handleResponse.bind(null, resolve, reject))
 		}, global.DEBUG ? 0 : 900) // 800 might work, 700 doesn't
 	})
@@ -17,10 +16,10 @@ function handleResponse(resolve, reject, response) {
 	const location = response.headers.location
 
 	if (statusCode === 200) {
-		concat(response, function (err, buffer) {
-			if (err) { reject(err) }
-			else { resolve(buffer.toString()) }
-		})
+		const chunks = []
+		response.on('data', chunk => chunks.push(chunk))
+		response.once('end', () => resolve(Buffer.concat(chunks).toString()))
+		response.once('error', reject)
 	} else if (statusCode >= 300 && statusCode < 400 && location === 'https://www.gocomics.com/') {
 		reject(new Error('Comic no longer exists'))
 	} else {
