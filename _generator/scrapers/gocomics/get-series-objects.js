@@ -34,7 +34,7 @@ function atozAndEspanolParser(url, body) {
 		const todayHref = todayHrefMatches[1]
 		if (/^\/(news|comics|profiles)/.test(todayHref)) throw new Error('Unexpected todayHref URL in comics a-to-z: ' + todayHref)
 
-		const basenameMatches = todayHrefMatches[0].match(/\/([^\/]+)\//)
+		const basenameMatches = todayHrefMatches[0].match(/\/([^/]+)\//)
 		if (basenameMatches === null || ! basenameMatches[1]) throw new Error(`Unable to parse basename in a-to-z, #${ index }\n${ bodyPart }`)
 		const basename = basenameMatches[1].trim()
 

@@ -15,41 +15,46 @@ global.VERBOSE = cliOpts.verbose || global.DEBUG
 const help = cliOpts.help
 const scrape = cliOpts.scrape
 const generate = cliOpts.generate
-
-if (cliOpts.transform) {
-	var transform = function (scraperName) {
-		// var seriesObjects = readSeriesObjectsFile(scraperName)
-		// var seriesObjects2 = Object.keys(seriesObjects).reduce(function (memo, id) {
-		// 	memo[id] = seriesObjects[id]
-
-		// 	return memo
-		// }, {})
-		// writeSeriesObjectsFile(scraperName, seriesObjects)
-		// console.log(`Updated ${scraperName} tmp file`)
-	}
-
-	scraperNames.forEach(transform)
-
-	process.exit(0)
-}
+const migrate = cliOpts.migrate
 
 
-if (! scrape && ! generate) {
+if (help || (! scrape && ! generate)) {
 	if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
-	console.log('Comics RSS usage:')
-	console.log('node bin [ debug | verbose ] { scrape | generate | scrape generate }')
-	console.log('debug     When enabled, this will cause the scrapers and generator to work on')
-	console.log('          fewer files, so everything runs more quickly, but the site is only')
-	console.log('          partially generated. Defaults to processing all files.')
-	console.log('verbose   When enabled, more information will be logged to the console.')
-	console.log('scrape    Whether or not to scrape the websites. Scraping updates the cached')
-	console.log('          comic information. Defaults to false.')
-	console.log('generate  Generate the static site from the cached comic information.')
+	console.log('node bin OPTIONS')
+	console.log('--help             Show this help text.')
+	console.log('--debug            When enabled, this will cause the scrapers and generator to work on fewer files, so everything runs more quickly, but the site is only partially generated. Defaults to processing all files.')
+	console.log('--verbose          When enabled, more information will be logged to the console. --debug implies --verbose.')
+	console.log('--scrape           When enabled, it will scrape the websites, which updates the cached comic information.')
+	console.log('--scrape=<scraper> Only scrape the specified site.')
+	console.log('--generate         Generate the static site from the cached comic information. --scrape or --generate must be enabled.')
+	console.log('--migrate          Transform the cached comic objects from an old format to a new format.')
+	console.log('')
+	console.log('The leading hyphens are optional.')
 	console.log('Example: node bin debug scrape')
 	process.exit(help ? 0 : 1)
 }
 
-const scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers')).filter(scraperName => scraperName.slice(0, 4) !== 'wip-')
+let scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers')).filter(scraperName => scraperName.slice(0, 4) !== 'wip-')
+if (typeof scrape === 'string') {
+	scraperNames = [ scrape ]
+}
+
+if (migrate) {
+	// CHANGE THE CODE BELOW TO CREATE A MIGRATION
+	const transform = function([ id, seriesObject ]) {
+		return id, seriesObject
+	}
+	// CHANGE THE CODE ABOVE TO CREATE A MIGRATION
+
+	scraperNames.forEach(function migrate(scraperName) {
+		var seriesObjects = readSeriesObjectsFile(scraperName)
+		var seriesObjects2 = Object.fromEntries(Object.entries(seriesObjects).map(transform))
+		writeSeriesObjectsFile(scraperName, seriesObjects2)
+		console.log(`Updated ${scraperName} tmp file`)
+	})
+
+	process.exit(0)
+}
 
 var promise = Promise.resolve()
 if (scrape)   promise = promise.then(() => pMapSeries(scraperNames, runScraper))
@@ -67,7 +72,8 @@ promise.then(()=>{
 
 function parseCliOptions(args) {
 	return args.reduce((memo, arg) => {
-		memo[ arg.replace(/^--/, '').toLowerCase() ] = true
+		const [ key, value ] = arg.replace(/^--/, '').toLowerCase().split('=', 2)
+		memo[ key ] = value || true
 		return memo
 	}, {})
 }
