@@ -37,9 +37,9 @@ async function main() {
 	}
 
 	scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
-		.filter(scraperName => ! scraperName.startsWith('wip-'))
+		.filter(scraperName => scraperName.endsWith('.js'))
+		.map(scraperName => scraperName.replace(/\.js$/, ''))
 		.filter(scraperName => scraperName !== 'arcamax') // TODO enable arcamax
-		.filter(scraperName => ! scraperName.endsWith('.js'))
 	if (typeof scrape === 'string') {
 		scraperNames = [ scrape ]
 	}
@@ -97,8 +97,8 @@ function getSeriesObjectsPath(scraperName) {
 async function runScraper(scraperName) {
 	if (global.VERBOSE) console.log('Scraping ' + scraperName)
 	const cachedSeriesObjects = readSeriesObjectsFile(scraperName)
-	const masterScraper = require('./scrapers/master-scraper.js')
-	const newSeriesObjects = await masterScraper(scraperName, cachedSeriesObjects)
+	const scraper = require(`./scrapers/${scraperName}.js`)
+	const newSeriesObjects = await scraper(cachedSeriesObjects)
 	if (Array.isArray(newSeriesObjects)) {
 		throw new Error('Did not expect resulting seriesObjects variable to be an array.')
 	}

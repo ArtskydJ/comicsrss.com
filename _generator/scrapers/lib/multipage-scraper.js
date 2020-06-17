@@ -1,22 +1,6 @@
-const { existsSync } = require('fs')
 const { resolve } = require('url')
 
-module.exports = async function masterScraper(scraperName, cachedSeriesObjects) {
-	const scraper = (existsSync(`${__dirname}/${scraperName}/index.js`)) ? simpleScraper : multipageScraper
-	return await scraper(scraperName, cachedSeriesObjects)
-}
-
-async function simpleScraper(scraperName, cachedSeriesObjects) {
-	// console.log(`simple ${scraperName}`)
-	const simpleScraper = require(`./${scraperName}/index.js`)
-	return await simpleScraper(cachedSeriesObjects)
-}
-
-async function multipageScraper(scraperName, cachedSeriesObjects) {
-	// console.log(`multipage ${scraperName}`)
-	const getSeriesObjects = require(`./${scraperName}/get-series-objects.js`)
-	const getStrip = require(`./${scraperName}/get-strip.js`)
-
+module.exports = async function multipageScraper(getSeriesObjects, getStrip, cachedSeriesObjects) {
 	const newSeriesObjects = await getSeriesObjects()
 
 	let seriesObjectsKeys = Object.keys(newSeriesObjects)

@@ -67,7 +67,7 @@ You can see that for yourself [here](https://github.com/ArtskydJ/comicsrss.com/b
 
 The scraper API changed recently, and I haven't updated the documentation. However, it is simpler than before. Unfortunately, there are fewer docs than before.
 
-See the code for [arcamax](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax) to see that it's not very difficult to make a scraper for a large website, with just a little bit of string manipulation.
+See the code for [arcamax](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax.js) to see that it's not very difficult to make a scraper for a large website, with just a little bit of string manipulation.
 
 <!--
 ### Example

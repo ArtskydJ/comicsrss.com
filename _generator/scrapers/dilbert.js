@@ -1,4 +1,4 @@
-const fetch = require('../fetch.js')
+const fetch = require('./lib/fetch.js')
 
 module.exports = async function main(cachedSeriesObjects) {
 	const html = await fetch('https://dilbert.com')
