@@ -14118,8 +14118,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dsh/large_rec-201701251717.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/darksideofthehorse/2020/06/17",
+		"mostRecentStripUrl": "https://www.gocomics.com/darksideofthehorse/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/ff239af0939001380b1a005056a9545d",
+				"url": "https://www.gocomics.com/darksideofthehorse/2020/06/18"
+			},
 			{
 				"date": "2020-06-17",
 				"imageUrl": "https://assets.amuniversal.com/dec46a10928601380aa4005056a9545d",
@@ -14239,11 +14244,6 @@
 				"date": "2020-05-24",
 				"imageUrl": "https://assets.amuniversal.com/cdc849707fd401380425005056a9545d",
 				"url": "https://www.gocomics.com/darksideofthehorse/2020/05/24"
-			},
-			{
-				"date": "2020-05-23",
-				"imageUrl": "https://assets.amuniversal.com/1eca3ed07eea01380403005056a9545d",
-				"url": "https://www.gocomics.com/darksideofthehorse/2020/05/23"
 			}
 		],
 		"title": "Dark Side of the Horse",
@@ -16532,8 +16532,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/litt/large_rec-201701251556.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/drewlitton/2020/06/15",
+		"mostRecentStripUrl": "https://www.gocomics.com/drewlitton/2020/06/17",
 		"strips": [
+			{
+				"date": "2020-06-17",
+				"imageUrl": "https://assets.amuniversal.com/ec709ab093ae01380b2a005056a9545d",
+				"url": "https://www.gocomics.com/drewlitton/2020/06/17"
+			},
 			{
 				"date": "2020-06-15",
 				"imageUrl": "https://assets.amuniversal.com/966e6d10921c01380a62005056a9545d",
@@ -16653,11 +16658,6 @@
 				"date": "2020-03-25",
 				"imageUrl": "https://assets.amuniversal.com/69e43b2051a00138f3b0005056a9545d",
 				"url": "https://www.gocomics.com/drewlitton/2020/03/25"
-			},
-			{
-				"date": "2020-03-23",
-				"imageUrl": "https://assets.amuniversal.com/ac2410a0501a0138f302005056a9545d",
-				"url": "https://www.gocomics.com/drewlitton/2020/03/23"
 			}
 		],
 		"title": "Win, Lose, Drew",
@@ -16668,8 +16668,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmdsh/large_rec-201701251555.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/drewsheneman/2020/06/11",
+		"mostRecentStripUrl": "https://www.gocomics.com/drewsheneman/2020/06/17",
 		"strips": [
+			{
+				"date": "2020-06-17",
+				"imageUrl": "https://assets.amuniversal.com/ce581650935301380b10005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2020/06/17"
+			},
 			{
 				"date": "2020-06-11",
 				"imageUrl": "https://assets.amuniversal.com/fc0f6b508f65013809aa005056a9545d",
@@ -16789,11 +16794,6 @@
 				"date": "2020-04-21",
 				"imageUrl": "https://assets.amuniversal.com/5e675fd066890138fb32005056a9545d",
 				"url": "https://www.gocomics.com/drewsheneman/2020/04/21"
-			},
-			{
-				"date": "2020-04-16",
-				"imageUrl": "https://assets.amuniversal.com/8a3335c0629b0138f9ef005056a9545d",
-				"url": "https://www.gocomics.com/drewsheneman/2020/04/16"
 			}
 		],
 		"title": "Drew Sheneman",
@@ -27318,8 +27318,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jd/large_rec-201701251554.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/jeffdanziger/2020/06/17",
+		"mostRecentStripUrl": "https://www.gocomics.com/jeffdanziger/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/8b289460939801380b1f005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2020/06/18"
+			},
 			{
 				"date": "2020-06-17",
 				"imageUrl": "https://assets.amuniversal.com/6708b71092cf01380ab8005056a9545d",
@@ -27439,11 +27444,6 @@
 				"date": "2020-05-12",
 				"imageUrl": "https://assets.amuniversal.com/2ccee8707696013800d0005056a9545d",
 				"url": "https://www.gocomics.com/jeffdanziger/2020/05/12"
-			},
-			{
-				"date": "2020-05-10",
-				"imageUrl": "https://assets.amuniversal.com/e5ef39a0754601380049005056a9545d",
-				"url": "https://www.gocomics.com/jeffdanziger/2020/05/10"
 			}
 		],
 		"title": "Jeff Danziger",
@@ -28959,7 +28959,18 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/cwkal/large_rec-201701251556.jpg",
 		"isPolitical": false,
 		"language": "eng",
+		"mostRecentStripUrl": "https://www.gocomics.com/kal/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/175fd0e093b301380b2c005056a9545d",
+				"url": "https://www.gocomics.com/kal/2020/06/18"
+			},
+			{
+				"date": "2020-06-17",
+				"imageUrl": "https://assets.amuniversal.com/1552bd6093b301380b2c005056a9545d",
+				"url": "https://www.gocomics.com/kal/2020/06/17"
+			},
 			{
 				"date": "2020-06-11",
 				"imageUrl": "https://assets.amuniversal.com/ac22efe08e2c0138092b005056a9545d",
@@ -29074,16 +29085,6 @@
 				"date": "2020-04-23",
 				"imageUrl": "https://assets.amuniversal.com/7d57a4e067c00138fbab005056a9545d",
 				"url": "https://www.gocomics.com/kal/2020/04/23"
-			},
-			{
-				"date": "2020-04-22",
-				"imageUrl": "https://assets.amuniversal.com/5167b3a066f70138fb5c005056a9545d",
-				"url": "https://www.gocomics.com/kal/2020/04/22"
-			},
-			{
-				"date": "2020-04-21",
-				"imageUrl": "https://assets.amuniversal.com/56d59ca066f70138fb5c005056a9545d",
-				"url": "https://www.gocomics.com/kal/2020/04/21"
 			}
 		],
 		"title": "Kevin Kallaugher",
@@ -30473,8 +30474,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/la/large_rec-201701251555.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/laloalcaraz/2020/06/17",
+		"mostRecentStripUrl": "https://www.gocomics.com/laloalcaraz/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/d856b970939701380b1d005056a9545d",
+				"url": "https://www.gocomics.com/laloalcaraz/2020/06/18"
+			},
 			{
 				"date": "2020-06-17",
 				"imageUrl": "https://assets.amuniversal.com/c32024a0922001380a66005056a9545d",
@@ -30594,11 +30600,6 @@
 				"date": "2020-04-13",
 				"imageUrl": "https://assets.amuniversal.com/5baf82e05fc30138f89c005056a9545d",
 				"url": "https://www.gocomics.com/laloalcaraz/2020/04/13"
-			},
-			{
-				"date": "2020-04-09",
-				"imageUrl": "https://assets.amuniversal.com/a3af38505c9e0138f7ab005056a9545d",
-				"url": "https://www.gocomics.com/laloalcaraz/2020/04/09"
 			}
 		],
 		"title": "Lalo Alcaraz",
@@ -35544,8 +35545,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmmda/large_rec-201701251555.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/mattdavies/2020/06/16",
+		"mostRecentStripUrl": "https://www.gocomics.com/mattdavies/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/5419271093a201380b23005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2020/06/18"
+			},
 			{
 				"date": "2020-06-16",
 				"imageUrl": "https://assets.amuniversal.com/ce5a62b0920b01380a58005056a9545d",
@@ -35665,11 +35671,6 @@
 				"date": "2020-05-07",
 				"imageUrl": "https://assets.amuniversal.com/33b47210729d0138ff88005056a9545d",
 				"url": "https://www.gocomics.com/mattdavies/2020/05/07"
-			},
-			{
-				"date": "2020-05-04",
-				"imageUrl": "https://assets.amuniversal.com/d2fbaa2070560138fe97005056a9545d",
-				"url": "https://www.gocomics.com/mattdavies/2020/05/04"
 			}
 		],
 		"title": "Matt Davies",
@@ -47786,8 +47787,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/roge/large_rec-201701251556.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/robrogers/2020/06/17",
+		"mostRecentStripUrl": "https://www.gocomics.com/robrogers/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/e76e920093ae01380b2a005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2020/06/18"
+			},
 			{
 				"date": "2020-06-17",
 				"imageUrl": "https://assets.amuniversal.com/acfc00c0924a01380a88005056a9545d",
@@ -47907,11 +47913,6 @@
 				"date": "2020-04-29",
 				"imageUrl": "https://assets.amuniversal.com/2c297e106bc10138fd00005056a9545d",
 				"url": "https://www.gocomics.com/robrogers/2020/04/29"
-			},
-			{
-				"date": "2020-04-24",
-				"imageUrl": "https://assets.amuniversal.com/209f0d3068680138fbea005056a9545d",
-				"url": "https://www.gocomics.com/robrogers/2020/04/24"
 			}
 		],
 		"title": "Rob Rogers",
@@ -51622,8 +51623,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crsbr/large_rec-201701251555.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/stevebreen/2020/06/14",
+		"mostRecentStripUrl": "https://www.gocomics.com/stevebreen/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/018f5c80935f01380b14005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2020/06/18"
+			},
 			{
 				"date": "2020-06-14",
 				"imageUrl": "https://assets.amuniversal.com/27143a50903a013809cc005056a9545d",
@@ -51743,11 +51749,6 @@
 				"date": "2020-05-08",
 				"imageUrl": "https://assets.amuniversal.com/4548652073270138ffce005056a9545d",
 				"url": "https://www.gocomics.com/stevebreen/2020/05/08"
-			},
-			{
-				"date": "2020-05-07",
-				"imageUrl": "https://assets.amuniversal.com/7b4b2380723c0138ff74005056a9545d",
-				"url": "https://www.gocomics.com/stevebreen/2020/05/07"
 			}
 		],
 		"title": "Steve Breen",
@@ -54146,8 +54147,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ncs/large_rec-201701251557.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/that-new-carl-smell/2020/06/17",
+		"mostRecentStripUrl": "https://www.gocomics.com/that-new-carl-smell/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/57a0caf093ae01380b29005056a9545d",
+				"url": "https://www.gocomics.com/that-new-carl-smell/2020/06/18"
+			},
 			{
 				"date": "2020-06-17",
 				"imageUrl": "https://assets.amuniversal.com/1d198820927601380a9d005056a9545d",
@@ -54267,11 +54273,6 @@
 				"date": "2020-05-25",
 				"imageUrl": "https://assets.amuniversal.com/05028960805d01380440005056a9545d",
 				"url": "https://www.gocomics.com/that-new-carl-smell/2020/05/25"
-			},
-			{
-				"date": "2020-05-24",
-				"imageUrl": "https://assets.amuniversal.com/ce4aaf607e07013803b5005056a9545d",
-				"url": "https://www.gocomics.com/that-new-carl-smell/2020/05/24"
 			}
 		],
 		"title": "That New Carl Smell",
@@ -56881,7 +56882,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/derf/large_rec-201701251554.jpg",
 		"isPolitical": false,
 		"language": "eng",
+		"mostRecentStripUrl": "https://www.gocomics.com/thecity/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/240b4f4093aa01380b28005056a9545d",
+				"url": "https://www.gocomics.com/thecity/2020/06/18"
+			},
 			{
 				"date": "2020-06-11",
 				"imageUrl": "https://assets.amuniversal.com/a2545ae08db401380905005056a9545d",
@@ -62123,8 +62130,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/warped/large_rec-201701251559.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/warped/2020/06/15",
+		"mostRecentStripUrl": "https://www.gocomics.com/warped/2020/06/18",
 		"strips": [
+			{
+				"date": "2020-06-18",
+				"imageUrl": "https://assets.amuniversal.com/437517d0935401380b11005056a9545d",
+				"url": "https://www.gocomics.com/warped/2020/06/18"
+			},
 			{
 				"date": "2020-06-15",
 				"imageUrl": "https://assets.amuniversal.com/338c0b70915301380a0e005056a9545d",
@@ -62244,11 +62256,6 @@
 				"date": "2020-04-05",
 				"imageUrl": "https://assets.amuniversal.com/037f0c70592e0138f677005056a9545d",
 				"url": "https://www.gocomics.com/warped/2020/04/05"
-			},
-			{
-				"date": "2020-03-30",
-				"imageUrl": "https://assets.amuniversal.com/a6b332f0546e0138f49b005056a9545d",
-				"url": "https://www.gocomics.com/warped/2020/03/30"
 			}
 		],
 		"title": "Warped",
