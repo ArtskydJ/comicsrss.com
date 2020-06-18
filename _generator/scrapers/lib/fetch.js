@@ -7,7 +7,9 @@ module.exports = function fetch(url) {
 		}
 		https.get(url, res => {
 			if (res.statusCode !== 200) {
-				return reject(new Error(res.statusCode + ' error'))
+				const err = new Error(res.statusCode + ' error')
+				err.res = res
+				return reject(err)
 			}
 
 			const chunks = []

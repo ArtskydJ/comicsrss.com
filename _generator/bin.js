@@ -1,25 +1,30 @@
 #!/usr/bin/env node
 
+const defaultScrapers = [
+	'dilbert',
+	'gocomics',
+	// 'arcamax', // TODO enable arcamax
+	// 'comicskingdom'
+]
+const expirationDays = 90
+
+function migration([ id, seriesObject ]) {
+	return [ id, seriesObject ]
+}
+
+
 const fs = require('fs')
 const path = require('path')
 const jsonStableStringify = require('json-stable-stringify')
 
+main(parseCliOptions(process.argv.slice(2)))
 
-const startTime = new Date()
-const expirationDays = 90
-const expirationDate = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * expirationDays)
-const cliOpts = parseCliOptions(process.argv.slice(2))
-global.DEBUG = cliOpts.debug || false
-global.VERBOSE = cliOpts.verbose || global.DEBUG
-const help = cliOpts.help
-const scrape = cliOpts.scrape
-const generate = cliOpts.generate
-const migrate = cliOpts.migrate
+async function main(options) {
+	const startTime = new Date()
+	const { debug, verbose, help, scrape, generate, migrate } = options
+	global.DEBUG = debug || false
+	global.VERBOSE = verbose || global.DEBUG
 
-let scraperNames
-main()
-
-async function main() {
 	if (help || (! scrape && ! generate)) {
 		if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
 		console.log('node bin OPTIONS')
@@ -36,26 +41,17 @@ async function main() {
 		process.exit(help ? 0 : 1)
 	}
 
-	scraperNames = fs.readdirSync(path.resolve(__dirname, 'scrapers'))
-		.filter(scraperName => scraperName.endsWith('.js'))
-		.map(scraperName => scraperName.replace(/\.js$/, ''))
-		.filter(scraperName => scraperName !== 'arcamax') // TODO enable arcamax
+	let scraperNames = defaultScrapers
 	if (typeof scrape === 'string') {
 		scraperNames = [ scrape ]
 	}
 
 	if (migrate) {
-		// CHANGE THE CODE BELOW TO CREATE A MIGRATION
-		const transform = function([ id, seriesObject ]) {
-			return [ id, seriesObject ]
-		}
-		// CHANGE THE CODE ABOVE TO CREATE A MIGRATION
-
-		scraperNames.forEach(function migrate(scraperName) {
+		for (const scraperName of scraperNames) {
 			const seriesObjects = readSeriesObjectsFile(scraperName)
-			writeSeriesObjectsFile(scraperName, objMap(seriesObjects, transform))
+			writeSeriesObjectsFile(scraperName, objMap(seriesObjects, migration))
 			console.log(`Updated ${scraperName} tmp file`)
-		})
+		}
 
 		process.exit(0)
 	}
@@ -64,10 +60,13 @@ async function main() {
 		await Promise.all(scraperNames.map(runScraper))
 	}
 	if (generate) {
-		runGenerator()
+		runGenerator(scraperNames)
 	}
 
-	if (global.VERBOSE) console.log('Completed')
+
+	if (global.VERBOSE) {
+		console.log(`Finished in ${(new Date() - startTime) / 1000} seconds`)
+	}
 	process.exit(0)
 }
 
@@ -102,6 +101,7 @@ async function runScraper(scraperName) {
 	if (Array.isArray(newSeriesObjects)) {
 		throw new Error('Did not expect resulting seriesObjects variable to be an array.')
 	}
+	const expirationDate = new Date(new Date().getTime() - 1000 * 60 * 60 * 24 * expirationDays)
 
 	const verifiedSeriesObjects = objMapValue(newSeriesObjects, newSeriesObject => {
 		const strips = newSeriesObject.strips
@@ -115,18 +115,13 @@ async function runScraper(scraperName) {
 }
 
 
-function runGenerator() {
+function runGenerator(scraperNames) {
 	const siteGenerator = require('./site-generator/index.js')
 	const supporters = require('./tmp/supporters.json')
 
 	const seriesObjectsArray = scraperNames.map(readSeriesObjectsFile)
 	const mergedSeriesObjects = Object.assign({}, ...seriesObjectsArray)
 	siteGenerator(mergedSeriesObjects, supporters)
-
-	if (global.VERBOSE) {
-		const seconds = (new Date() - startTime) / 1000
-		console.log(`Finished in ${seconds} seconds`)
-	}
 }
 
 function objMap(obj, fn) {

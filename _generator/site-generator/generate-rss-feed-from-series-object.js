@@ -1,7 +1,7 @@
 const crypto = require('crypto')
 const renderTemplate = require('./render-template.js')
 
-module.exports = function (seriesObject) {
+module.exports = seriesObject => {
 	if (! seriesObject || ! seriesObject.strips || ! seriesObject.strips.length) {
 		console.log(seriesObject)
 		throw new Error('Expected seriesObject.strips to be a non-empty array')
@@ -16,7 +16,7 @@ module.exports = function (seriesObject) {
 		author,
 		language,
 		updatedDate: new Date(strips[0].date),
-		strips: strips.map(function (strip) {
+		strips: strips.map(strip => {
 			strip.guid = strip.url
 			strip.isPermaLink = true
 			if (strip.date >= '2019-10-20') {

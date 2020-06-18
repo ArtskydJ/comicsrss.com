@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 
 module.exports = function writeFile(filename, contents) {
-	const filePath = path.resolve(__dirname, filename)
+	const filePath = path.resolve(__dirname, '..', '..', filename)
 	try {
 		fs.writeFileSync(filePath, contents, 'utf-8')
 	} catch (e) {

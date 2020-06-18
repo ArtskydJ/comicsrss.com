@@ -62,4 +62,4 @@ async function getStrip(stripPageUrl) {
 	}
 }
 
-module.exports = cachedSeriesObjects => multipageScraper(getSeriesObjects, getStrip, cachedSeriesObjects)
+module.exports = cachedSeriesObjects => multipageScraper({ getSeriesObjects, getStrip, cachedSeriesObjects })

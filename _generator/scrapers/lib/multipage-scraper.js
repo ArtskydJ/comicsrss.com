@@ -1,6 +1,6 @@
 const { resolve } = require('url')
 
-module.exports = async function multipageScraper(getSeriesObjects, getStrip, cachedSeriesObjects) {
+module.exports = async function multipageScraper({ getSeriesObjects, getStrip, cachedSeriesObjects }) {
 	const newSeriesObjects = await getSeriesObjects()
 
 	let seriesObjectsKeys = Object.keys(newSeriesObjects)
@@ -14,7 +14,9 @@ module.exports = async function multipageScraper(getSeriesObjects, getStrip, cac
 		const newSeriesObject = newSeriesObjects[basename]
 		const cachedSeriesObject = cachedSeriesObjects[basename]
 		const cachedStrips = cachedSeriesObject && cachedSeriesObject.strips || []
-		if (global.VERBOSE) console.log((cachedSeriesObject ? '' : 'New: ') + basename)
+		if (global.VERBOSE) {
+			console.log((cachedSeriesObject ? '' : 'New: ') + basename)
+		}
 
 		try {
 			const finalSeriesObject = await getStrips(getStrip, newSeriesObject, cachedStrips)
@@ -24,8 +26,16 @@ module.exports = async function multipageScraper(getSeriesObjects, getStrip, cac
 				cachedSeriesObjects[basename] = finalSeriesObject
 			}
 		} catch (err) {
-			if (global.VERBOSE) console.log(err)
-			if (err.message === 'Comic no longer exists') return null
+			if (global.VERBOSE) {
+				console.log(err)
+			}
+
+			if (err.res) {
+				const { statusCode, headers } = err.res
+				if (statusCode >= 300 && statusCode < 400 && headers && headers.location === 'https://www.gocomics.com/') {
+					return null
+				}
+			}
 
 			console.error(basename + ' ' + err.message)
 			if (newSeriesObject.mostRecentStripUrl) {

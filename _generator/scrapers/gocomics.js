@@ -1,4 +1,3 @@
-const https = require('https')
 const fetch = require('./lib/fetch.js')
 const multipageScraper = require('./lib/multipage-scraper.js')
 
@@ -59,36 +58,11 @@ async function getPage(url) {
 	return Object.fromEntries(seriesObjectEntries)
 }
 
-// ideally, we would use fetch here
-function httpGet(url) {
-	return new Promise((resolve, reject) => {
-		if (global.VERBOSE) {
-			console.log('GET ' + url)
-		}
-		setTimeout(() => { // Rate limiting, haha
-			https.get(url, handleResponse.bind(null, resolve, reject))
-		}, global.DEBUG ? 0 : 900) // 800 might work, 700 doesn't
-	})
-}
-
-function handleResponse(resolve, reject, response) {
-	const statusCode = response.statusCode
-	const location = response.headers.location
-
-	if (statusCode === 200) {
-		const chunks = []
-		response.on('data', chunk => chunks.push(chunk))
-		response.once('end', () => resolve(Buffer.concat(chunks).toString()))
-		response.once('error', reject)
-	} else if (statusCode >= 300 && statusCode < 400 && location === 'https://www.gocomics.com/') {
-		reject(new Error('Comic no longer exists'))
-	} else {
-		reject(new Error(statusCode + ' error'))
-	}
-}
+const dumbRateLimit = () => new Promise(resolve => setTimeout(resolve, global.DEBUG ? 0 : 900)) // 800 might work, 700 doesn't
 
 async function getStrip(stripPageUrl) {
-	const html = await httpGet(stripPageUrl)
+	await dumbRateLimit()
+	const html = await fetch(stripPageUrl)
 	const imageUrlMatches = html.match(/<meta property="og:image" content="([^">]+)"/)
 	const dateMatches = html.match(/<meta property="article:published_time" content="([^">]+)"/)
 	const authorMatches = html.match(/<meta property="article:author" content="([^">]+)"/)
@@ -118,4 +92,4 @@ async function getStrip(stripPageUrl) {
 	}
 }
 
-module.exports = cachedSeriesObjects => multipageScraper(getSeriesObjects, getStrip, cachedSeriesObjects)
+module.exports = cachedSeriesObjects => multipageScraper({ getSeriesObjects, getStrip, cachedSeriesObjects })

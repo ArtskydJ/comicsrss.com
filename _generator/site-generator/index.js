@@ -1,40 +1,26 @@
 const renderTemplate = require('./render-template.js')
-const writeFile = require('./write-file.js')
+const writeFileRoot = require('./write-file-root.js')
 const generateRssFeedFromSeriesObject = require('./generate-rss-feed-from-series-object.js')
 
 module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters) {
-	var seriesObjectsArr = Object.keys(seriesObjects).map(key => Object.assign({ basename: key }, seriesObjects[key]))
-	
-	const renderedOutput = renderTemplate('master', generateIndexData(seriesObjectsArr, supporters, 'eng'))
-	writeFile('../../index.html', renderedOutput)
+	const s = seriesObject => seriesObject.title.toLowerCase()
 
-	const renderedOutputSpa = renderTemplate('master', generateIndexData(seriesObjectsArr, supporters, 'spa'))
-	writeFile('../../espanol.html', renderedOutputSpa)
+	const seriesObjectsArr = Object.entries(seriesObjects)
+		.map(([ basename, seriesObject ]) => ({ ...seriesObject, basename }))
+		.sort((a, b) => s(a) > s(b) ? 1 : (s(b) > s(a) ? -1 : 0))
 
-	if (global.DEBUG) {
-		seriesObjectsArr = seriesObjectsArr.slice(0, 10)
-	}
-
-	seriesObjectsArr.forEach(function (comicObject) {
-		if (!comicObject) return null
-
-		const rssFeed = generateRssFeedFromSeriesObject(comicObject)
-		writeFile(`../../rss/${comicObject.basename}.rss`, rssFeed)
-	})
-}
-
-function generateIndexData(seriesObjectsArr, supporters, language) {
-	return {
+	const renderData = {
 		subtemplate: 'index',
-		seriesObjects: seriesObjectsArr.sort(sortCO),
-		supporters: supporters,
-		language: language,
-		generatedDate: new Date().toDateString()
+		seriesObjects: seriesObjectsArr,
+		supporters,
+		generatedDate: new Date().toDateString(),
 	}
 
-	function sortCO(aa, bb) {
-		const a = aa.title.toLowerCase()
-		const b = bb.title.toLowerCase()
-		return a > b ? 1 : (b > a ? -1 : 0)
+	writeFileRoot('index.html', renderTemplate('master', { ...renderData, language: 'eng' }))
+	writeFileRoot('espanol.html', renderTemplate('master', { ...renderData, language: 'spa' }))
+
+	const limit = global.DEBUG ? 10 : Infinity
+	for (const seriesObject of seriesObjectsArr.slice(0, limit)) {
+		writeFileRoot(`rss/${seriesObject.basename}.rss`, generateRssFeedFromSeriesObject(seriesObject))
 	}
 }
