@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": [
+				"_generator/node_modules",
+			],
+			"file_exclude_patterns": [
+				// "_generator/tmp/*-series-objects.json",
+			]
+		}
+	]
+}
