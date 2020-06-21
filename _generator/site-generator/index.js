@@ -2,13 +2,7 @@ const renderTemplate = require('./render-template.js')
 const writeFileRoot = require('./write-file-root.js')
 const generateRssFeedFromSeriesObject = require('./generate-rss-feed-from-series-object.js')
 
-module.exports = function writeFilesFromSeriesObjects(seriesObjects, supporters) {
-	const s = seriesObject => seriesObject.title.toLowerCase()
-
-	const seriesObjectsArr = Object.entries(seriesObjects)
-		.map(([ basename, seriesObject ]) => ({ ...seriesObject, basename }))
-		.sort((a, b) => s(a) > s(b) ? 1 : (s(b) > s(a) ? -1 : 0))
-
+module.exports = function writeFilesFromSeriesObjects(seriesObjectsArr, supporters) {
 	const renderData = {
 		subtemplate: 'index',
 		seriesObjects: seriesObjectsArr,

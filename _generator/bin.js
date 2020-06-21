@@ -3,7 +3,7 @@
 const defaultScrapers = [
 	'dilbert',
 	'gocomics',
-	// 'arcamax', // TODO enable arcamax
+	'arcamax', // TODO enable arcamax
 	// 'comicskingdom'
 ]
 const expirationDays = 90
@@ -25,7 +25,7 @@ async function main(options) {
 	global.DEBUG = debug || false
 	global.VERBOSE = verbose || global.DEBUG
 
-	if (help || (! scrape && ! generate)) {
+	if (help || (! scrape && ! generate && ! migrate)) {
 		if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
 		console.log('node bin OPTIONS')
 		console.log('--help             Show this help text.')
@@ -118,10 +118,16 @@ async function runScraper(scraperName) {
 function runGenerator(scraperNames) {
 	const siteGenerator = require('./site-generator/index.js')
 	const supporters = require('./tmp/supporters.json')
+	const s = seriesObject => seriesObject.title.toLowerCase()
+	const sortSeriesObjects = (a, b) => s(a) > s(b) ? 1 : (s(b) > s(a) ? -1 : 0)
+	const normalizeBasename = basename => basename.replace(/\W+/g, '')
+	const normalizeSeriesObject = ([ basename, seriesObject ]) => [ normalizeBasename(basename), { ...seriesObject, basename }]
 
-	const seriesObjectsArray = scraperNames.map(readSeriesObjectsFile)
-	const mergedSeriesObjects = Object.assign({}, ...seriesObjectsArray)
-	siteGenerator(mergedSeriesObjects, supporters)
+	const flatSeriesCollection = Object.assign({}, ...(scraperNames.map(readSeriesObjectsFile).reverse()))
+	const mergedNormalizedSeriesObjects = objMap(flatSeriesCollection, normalizeSeriesObject)
+	const seriesObjectsArr = Object.values(mergedNormalizedSeriesObjects).sort(sortSeriesObjects)
+
+	siteGenerator(seriesObjectsArr, supporters)
 }
 
 function objMap(obj, fn) {
