@@ -9,6 +9,8 @@ const defaultScrapers = [
 const expirationDays = 90
 
 function migration([ id, seriesObject ]) {
+	// const strips = seriesObject.strips.map(strip => ({ ...strip, imageUrl: 'https://www.arcamax.com' + strip.imageUrl }))
+	// return [ id, { ...seriesObject, strips }]
 	return [ id, seriesObject ]
 }
 
