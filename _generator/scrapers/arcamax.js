@@ -51,7 +51,7 @@ async function getStrip(stripPageUrl) {
 	const date = new Date(`${year} ${dateMatches[1]} ${dateMatches[2]}`).toISOString().slice(0, 10)
 
 	return {
-		imageUrl: imageUrlMatches[1],
+		imageUrl: 'https://www.arcamax.com' + imageUrlMatches[1],
 		date,
 		author: authorMatches[1],
 		url,
