@@ -31,25 +31,24 @@ async function getSeriesObjects() {
 
 async function getStrip(stripPageUrl) {
 	const html = await fetch(stripPageUrl)
+	const urlMatches = html.match(/<a href="https:\/\/www\.facebook\.com\/sharer\.php\?(.+?)" class="facebook" target="_blank">/)
+	if (urlMatches === null || ! urlMatches[1]) throw new Error('Unable to parse url')
+	const url = between(decodeURIComponent(urlMatches[1]), 'u=', '&amp;') // u=https%3A%2F%2Fwww.arcamax.com%2Fthefunnies%2Fmutts%2Fs-2375148&amp;h=Mutts+for+6%2F23%2F2020
+	const mdyyyyDate = decodeURIComponent(urlMatches[1]).split('+').pop() // [ '6', '23', '2020' ] would be 2020-06-23
+
 	const imageUrlMatches = html.match(/<img id="comic-zoom".+src="([^">]+)"/)
-	const dateMatches = html.match(/<span class="cur">(\w{3}).*?([\d/]+)<\/span>/)
 	const authorMatches = html.match(/<cite>by (.+?)<\/cite>/)
-	const urlMatches = html.match(/var disqus_url = '(.+?)';/)
 	const isOldestStrip = /class="prev-off"/.test(html)
 	const olderRelUrlMatches = html.match(/<a.+class=["']prev["'].+href=["'](.*?)["']/)
 	// const newerRelUrlMatches = html.match(/<a.+class=["']next["'].+href=["'](.*?)["']/)
 	const headerImageUrlMatches = html.match(/<meta property="og:image" content=["'](.+?)["']/)
 
-	if (urlMatches === null || ! urlMatches[1]) throw new Error('Unable to parse url')
-	const url = urlMatches[1]
 	if (imageUrlMatches === null || ! imageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + url)
-	if (dateMatches === null || ! dateMatches[1] || ! dateMatches[2]) throw new Error('Unable to parse date in ' + url)
 	if (authorMatches === null || ! authorMatches[1]) throw new Error('Unable to parse author in ' + url)
 	if ((olderRelUrlMatches === null || ! olderRelUrlMatches[1]) && ! isOldestStrip) throw new Error('Unable to parse olderRelUrl in ' + url)
 	// if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl in ' + url)
 
-	const year = new Date().toISOString().slice(0, 4)
-	const date = new Date(`${year} ${dateMatches[1]} ${dateMatches[2]}`).toISOString().slice(0, 10)
+	const date = new Date(mdyyyyDate).toISOString().slice(0, 10)
 
 	return {
 		imageUrl: 'https://www.arcamax.com' + imageUrlMatches[1],
