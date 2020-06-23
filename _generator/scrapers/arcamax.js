@@ -39,12 +39,12 @@ async function getStrip(stripPageUrl) {
 	// const newerRelUrlMatches = html.match(/<a.+class=["']next["'].+href=["'](.*?)["']/)
 	const headerImageUrlMatches = html.match(/<meta property="og:image" content=["'](.+?)["']/)
 
-	if (urlMatches === null || ! urlMatches[1]) throw new Error('Unable to parse url')
+	if (urlMatches === null || ! urlMatches[1] && stripPageUrl !== 'https://www.arcamax.com/thefunnies/thepajamadiaries/') throw new Error('Unable to parse url')
 	const url = urlMatches[1]
 	if (imageUrlMatches === null || ! imageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + url)
 	if (dateMatches === null || ! dateMatches[1] || ! dateMatches[2]) throw new Error('Unable to parse date in ' + url)
 	if (authorMatches === null || ! authorMatches[1]) throw new Error('Unable to parse author in ' + url)
-	if (olderRelUrlMatches === null || (! olderRelUrlMatches[1] && ! isOldestStrip)) throw new Error('Unable to parse olderRelUrl in ' + url)
+	if ((olderRelUrlMatches === null || ! olderRelUrlMatches[1]) && ! isOldestStrip) throw new Error('Unable to parse olderRelUrl in ' + url)
 	// if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl in ' + url)
 
 	const year = new Date().toISOString().slice(0, 4)
