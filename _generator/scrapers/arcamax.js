@@ -25,6 +25,7 @@ async function getSeriesObjects() {
 				language: 'eng'
 			}]
 		})
+		.filter(kv => kv[0] !== 'thepajamadiaries')
 	return Object.fromEntries(seriesEntries)
 }
 
@@ -39,7 +40,7 @@ async function getStrip(stripPageUrl) {
 	// const newerRelUrlMatches = html.match(/<a.+class=["']next["'].+href=["'](.*?)["']/)
 	const headerImageUrlMatches = html.match(/<meta property="og:image" content=["'](.+?)["']/)
 
-	if (urlMatches === null || ! urlMatches[1] && stripPageUrl !== 'https://www.arcamax.com/thefunnies/thepajamadiaries/') throw new Error('Unable to parse url')
+	if (urlMatches === null || ! urlMatches[1]) throw new Error('Unable to parse url')
 	const url = urlMatches[1]
 	if (imageUrlMatches === null || ! imageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + url)
 	if (dateMatches === null || ! dateMatches[1] || ! dateMatches[2]) throw new Error('Unable to parse date in ' + url)
