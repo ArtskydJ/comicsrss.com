@@ -1,5 +1,8 @@
 const fetch = require('./lib/fetch.js')
 const multipageScraper = require('./lib/multipage-scraper.js')
+const parse = require('date-fns/parse')
+const isFuture = require('date-fns/isFuture')
+const subYears = require('date-fns/subYears')
 
 function between(str, begin, end) {
 	return (str.split(begin, 2)[1] || '').split(end, 1)[0]
@@ -34,7 +37,13 @@ async function getStrip(stripPageUrl) {
 	const urlMatches = html.match(/<a href="https:\/\/www\.facebook\.com\/sharer\.php\?(.+?)" class="facebook" target="_blank">/)
 	if (urlMatches === null || ! urlMatches[1]) throw new Error('Unable to parse url')
 	const url = between(decodeURIComponent(urlMatches[1]), 'u=', '&amp;') // u=https%3A%2F%2Fwww.arcamax.com%2Fthefunnies%2Fmutts%2Fs-2375148&amp;h=Mutts+for+6%2F23%2F2020
-	const mdyyyyDate = decodeURIComponent(urlMatches[1]).split('+').pop() // [ '6', '23', '2020' ] would be 2020-06-23
+	// const mdyyyyDate = decodeURIComponent(urlMatches[1]).split('+').pop() // [ '6', '23', '2020' ] would be 2020-06-23
+	// const date = new Date(mdyyyyDate).toISOString().slice(0, 10)
+	const mmmmdDate = between(html, '<span class="cur">', '</span>')
+	let date = parse(mmmmdDate, 'MMMM d', new Date())
+	if (isFuture(date)) {
+		date = subYears(date, 1)
+	}
 
 	const imageUrlMatches = html.match(/<img id="comic-zoom".+src="([^">]+)"/)
 	const authorMatches = html.match(/<cite>by (.+?)<\/cite>/)
@@ -46,9 +55,9 @@ async function getStrip(stripPageUrl) {
 	if (imageUrlMatches === null || ! imageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + url)
 	if (authorMatches === null || ! authorMatches[1]) throw new Error('Unable to parse author in ' + url)
 	if ((olderRelUrlMatches === null || ! olderRelUrlMatches[1]) && ! isOldestStrip) throw new Error('Unable to parse olderRelUrl in ' + url)
+	if (headerImageUrlMatches === null || ! headerImageUrlMatches[1]) throw new Error('Unable to parse headerImageUrlMatches in ' + url)
 	// if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl in ' + url)
 
-	const date = new Date(mdyyyyDate).toISOString().slice(0, 10)
 
 	return {
 		imageUrl: 'https://www.arcamax.com' + imageUrlMatches[1],
@@ -56,7 +65,7 @@ async function getStrip(stripPageUrl) {
 		author: authorMatches[1],
 		url,
 		isOldestStrip,
-		olderRelUrl: olderRelUrlMatches[1],
+		olderRelUrl: isOldestStrip || olderRelUrlMatches[1],
 		// newerRelUrl: newerRelUrlMatches[1],
 		headerImageUrl: headerImageUrlMatches[1]
 	}
