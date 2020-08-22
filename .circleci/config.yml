@@ -26,17 +26,6 @@ git_save_cache: &git_save_cache
 #       - node_modules
 
 
-
-nightly:
-  triggers:
-    - schedule:
-        cron: "15 * * * *"
-        filters:
-          branches:
-            only:
-              - gh-pages
-
-
 jobs:
   build:
     docker:
@@ -61,3 +50,17 @@ jobs:
       - *git_save_cache
 
 
+workflows:
+  version: 2
+  nightly:
+    triggers:
+      - schedule:
+          cron: "15 * * * *"
+          filters:
+            branches:
+              only:
+                - gh-pages
+    jobs:
+      - build
+
+# To validate w/o committing, run `circleci config validate` on the command line
