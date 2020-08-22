@@ -49,7 +49,7 @@ jobs:
       - *npm_save_cache
       - run: node _generator/bin scrape generate
       - run: git add .
-      - run: git commit -q -m "Build" > /dev/null
+      - run: git commit -q -m "CI Build" > /dev/null
       - run: git push origin gh-pages -q
 
 
