@@ -48,14 +48,15 @@ jobs:
       - run: npm install --prefix _generator
       # - *npm_save_cache
       - run: node _generator/bin scrape generate
-      - run: git add .
-      - run: git commit -q -m "CI Build" > /dev/null
 
       - add_ssh_keys:
           fingerprints:
             - "c8:ab:69:e7:55:1b:ab:bc:c5:13:f1:48:61:66:20:ef"
       - run: git config user.email "josephdykstra@gmail.com"
       - run: git config user.name "ArtskydJ"
+
+      - run: git add .
+      - run: git commit -m "CI Build"
       - run: git push origin gh-pages -q
       - *git_save_cache
 
