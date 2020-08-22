@@ -1,29 +1,29 @@
 version: 2.1
 
-git_restore_cache: &git_restore_cache
-  restore_cache:
-    keys:
-      - source-v1-{{ .Branch }}-{{ .Revision }}
-      - source-v1-{{ .Branch }}-
-      - source-v1-
+# git_restore_cache: &git_restore_cache
+#   restore_cache:
+#     keys:
+#       - source-v1-{{ .Branch }}-{{ .Revision }}
+#       - source-v1-{{ .Branch }}-
+#       - source-v1-
 
-git_save_cache: &git_save_cache
-  save_cache:
-    key: source-v1-{{ .Branch }}-{{ .Revision }}
-    paths:
-      - ".git"
+# git_save_cache: &git_save_cache
+#   save_cache:
+#     key: source-v1-{{ .Branch }}-{{ .Revision }}
+#     paths:
+#       - ".git"
 
-npm_restore_cache: &npm_restore_cache
-  restore_cache:
-    keys:
-      - npm-v1-{{ checksum "_generator/package-lock.json" }}
-      - npm-v1-
+# npm_restore_cache: &npm_restore_cache
+#   restore_cache:
+#     keys:
+#       - npm-v1-{{ checksum "_generator/package-lock.json" }}
+#       - npm-v1-
 
-npm_save_cache: &npm_save_cache
-  save_cache:
-    key: npm-v1-{{ checksum "_generator/package-lock.json" }}
-    paths:
-      - node_modules
+# npm_save_cache: &npm_save_cache
+#   save_cache:
+#     key: npm-v1-{{ checksum "_generator/package-lock.json" }}
+#     paths:
+#       - node_modules
 
 
 
@@ -42,11 +42,11 @@ jobs:
     docker:
       - image: 'circleci/node:14'
     steps:
-      - *git_restore_cache
+      # - *git_restore_cache
       - checkout
-      - *git_save_cache
+      # - *git_save_cache
       - run: cd 
-      - run: npm ci --prefix _generator
+      - run: npm install --prefix _generator
       # - *npm_save_cache
       - run: node _generator/bin scrape generate
       - run: git add .
