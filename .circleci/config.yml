@@ -52,7 +52,7 @@ jobs:
 
 workflows:
   version: 2
-  nightly:
+  hourly:
     triggers:
       - schedule:
           cron: "15 * * * *"
@@ -62,5 +62,13 @@ workflows:
                 - gh-pages
     jobs:
       - build
+
+  onpush:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - gh-pages
 
 # To validate w/o committing, run `circleci config validate` on the command line
