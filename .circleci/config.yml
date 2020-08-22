@@ -45,11 +45,10 @@ jobs:
       - *git_restore_cache
       - checkout
       - *git_save_cache
-      - run: cd _generator
-      - run: npm ci
+      - run: cd 
+      - run: npm ci --prefix _generator
       # - *npm_save_cache
-      - run: node bin scrape generate
-      - run: cd ..
+      - run: node _generator/bin scrape generate
       - run: git add .
       - run: git commit -q -m "CI Build" > /dev/null
       - run: git push origin gh-pages -q
