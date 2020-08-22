@@ -1,17 +1,17 @@
 version: 2.1
 
-# git_restore_cache: &git_restore_cache
-#   restore_cache:
-#     keys:
-#       - source-v1-{{ .Branch }}-{{ .Revision }}
-#       - source-v1-{{ .Branch }}-
-#       - source-v1-
+git_restore_cache: &git_restore_cache
+  restore_cache:
+    keys:
+      - source-v1-{{ .Branch }}-{{ .Revision }}
+      - source-v1-{{ .Branch }}-
+      - source-v1-
 
-# git_save_cache: &git_save_cache
-#   save_cache:
-#     key: source-v1-{{ .Branch }}-{{ .Revision }}
-#     paths:
-#       - ".git"
+git_save_cache: &git_save_cache
+  save_cache:
+    key: source-v1-{{ .Branch }}-{{ .Revision }}
+    paths:
+      - ".git"
 
 # npm_restore_cache: &npm_restore_cache
 #   restore_cache:
@@ -42,15 +42,21 @@ jobs:
     docker:
       - image: 'circleci/node:14'
     steps:
-      # - *git_restore_cache
+      - *git_restore_cache
       - checkout
-      # - *git_save_cache
       - run: cd 
       - run: npm install --prefix _generator
       # - *npm_save_cache
       - run: node _generator/bin scrape generate
       - run: git add .
       - run: git commit -q -m "CI Build" > /dev/null
+
+      - add_ssh_keys:
+        fingerprints:
+          - "c8:ab:69:e7:55:1b:ab:bc:c5:13:f1:48:61:66:20:ef"
+      - run: git config user.email "josephdykstra@gmail.com"
+      - run: git config user.name "ArtskydJ"
       - run: git push origin gh-pages -q
+      - *git_save_cache
 
 
