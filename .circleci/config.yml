@@ -56,7 +56,7 @@ jobs:
       - run: git config user.name "ArtskydJ"
 
       - run: git add .
-      - run: git commit -m "CI Build"
+      - run: git commit -m "Build [skip ci]" || echo "No changes detected"
       - run: git push origin gh-pages -q
       - *git_save_cache
 
