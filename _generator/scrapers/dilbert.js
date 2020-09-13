@@ -4,12 +4,13 @@ module.exports = async function main(cachedSeriesObjects) {
 	const html = await fetch('https://dilbert.com')
 
 	const newStrips = html
-		.split('\n')
+		.split('>')
 		.map(l => l.trim())
 		.filter(l => l.startsWith('<div class="comic-item-container'))
 		.map(line => {
 			const dataEntries = line
-				.split('" ')
+				.split('\n')
+				.map(a=> a.trim())
 				.filter(a => a.startsWith('data-'))
 				.map(attr => {
 					let [ name, value ] = attr.split('=')
@@ -17,7 +18,7 @@ module.exports = async function main(cachedSeriesObjects) {
 					value = value.replace(/.*?"(.*)/, '$1').replace(/(.*)".*/, '$1')
 					return [ name, value ]
 				})
-			const { url, id, image } = Object.fromEntries(dataEntries)
+			const { itemtype, id, url, image } = Object.fromEntries(dataEntries)
 			const imageUrl = image.replace(/^\/\//, 'https://')
 
 			return { url, date: id, imageUrl }
