@@ -9,6 +9,7 @@ const defaultScrapers = [
 const expirationDays = 90
 
 function migration([ id, seriesObject ]) {
+	// seriesObject.strips = seriesObject.strips.filter(s => s.date !== null && s.date.slice(7) !== '2020-09') // bye bye all this month
 	return [ id, seriesObject ]
 }
 
@@ -28,13 +29,14 @@ async function main(options) {
 	if (help || (! scrape && ! generate && ! migrate)) {
 		if (! help) console.error('ERROR: You must enable scrape and/or generate.\r\n')
 		console.log('node bin OPTIONS')
-		console.log('--help             Show this help text.')
-		console.log('--debug            When enabled, this will cause the scrapers and generator to work on fewer files, so everything runs more quickly, but the site is only partially generated. Defaults to processing all files.')
-		console.log('--verbose          When enabled, more information will be logged to the console. --debug implies --verbose.')
-		console.log('--scrape           When enabled, it will scrape the websites, which updates the cached comic information.')
-		console.log('--scrape=<scraper> Only scrape the specified site.')
-		console.log('--generate         Generate the static site from the cached comic information. --scrape or --generate must be enabled.')
-		console.log('--migrate          Transform the cached comic objects from an old format to a new format.')
+		console.log('--help               Show this help text.')
+		console.log('--debug              When enabled, this will cause the scrapers and generator to work on fewer files, so everything runs more quickly, but the site is only partially generated. Defaults to processing all files.')
+		console.log('--verbose            When enabled, more information will be logged to the console. --debug implies --verbose.')
+		console.log('--scrape             When enabled, it will scrape the websites, which updates the cached comic information.')
+		console.log('--scrape=<scraper>   Only scrape the specified site.')
+		console.log('--generate           Generate the static site from the cached comic information. --scrape or --generate must be enabled.')
+		console.log('--migrate            Transform the cached comic objects from an old format to a new format.')
+		console.log('--migrate=<scraper>  Only transform the specified temp file.')
 		console.log('')
 		console.log('The leading hyphens are optional.')
 		console.log('Example: node bin debug scrape')
@@ -42,11 +44,11 @@ async function main(options) {
 	}
 
 	let scraperNames = defaultScrapers
-	if (typeof scrape === 'string') {
-		scraperNames = [ scrape ]
-	}
 
 	if (migrate) {
+		if (typeof migrate === 'string') {
+			scraperNames = [ migrate ]
+		}
 		for (const scraperName of scraperNames) {
 			const seriesObjects = readSeriesObjectsFile(scraperName)
 			writeSeriesObjectsFile(scraperName, objMap(seriesObjects, migration))
@@ -56,6 +58,9 @@ async function main(options) {
 		process.exit(0)
 	}
 
+	if (typeof scrape === 'string') {
+		scraperNames = [ scrape ]
+	}
 	if (scrape) {
 		await Promise.all(scraperNames.map(runScraper))
 	}
