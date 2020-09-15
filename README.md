@@ -1,6 +1,6 @@
 # comicsrss.com
 
-[![ComicsRSS](https://circleci.com/gh/ArtskydJ/comicsrss.com.svg?style=svg)](https://circleci.com/gh/artskydj/comicsrss.com)
+[![ComicsRSS](https://circleci.com/gh/ArtskydJ/comicsrss.com.svg?style=svg)](https://app.circleci.com/pipelines/github/ArtskydJ/comicsrss.com)
 
 Source code for the site generator and rss feed generator for [comicsrss.com](https://www.comicsrss.com).
 
