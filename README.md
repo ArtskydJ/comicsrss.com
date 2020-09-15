@@ -48,6 +48,19 @@ When these updated/new files are committed and pushed to this repository, they g
 
 
 
+### Run locally
+
+1. Fork the repository
+2. Run these commands on your command line:
+```sh
+cd comicsrss.com/_generator
+node bin --help
+node bin --scrape --generate
+git diff
+```
+
+
+
 ### Install for yourself
 
 1. Fork the repository
