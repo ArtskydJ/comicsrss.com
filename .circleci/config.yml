@@ -33,7 +33,6 @@ jobs:
     steps:
       - *git_restore_cache
       - checkout
-      - run: cd 
       - run: npm install --prefix _generator
       # - *npm_save_cache
       - run: node _generator/bin scrape generate
@@ -46,7 +45,7 @@ jobs:
 
       - run: git add .
       - run: git commit -m "Build [skip ci]" || echo "No changes detected"
-      - run: git push origin gh-pages -q
+      - run: git push origin gh-pages
       - *git_save_cache
 
 

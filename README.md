@@ -55,20 +55,6 @@ When these updated/new files are committed and pushed to this repository, they g
 3. Change `.circleci/config.yml` from my username, email, and key fingerprint to your username, email, and key fingerprint
 4. I think that's it? Make a PR if you attempt the above steps and I missed something!
 
-<!--
-I have a linux server with a cron job that runs `sh _generator/generate-and-push.sh` each hour.
-
-To do the same, run this on linux or macOS:
-
-```sh
-curl https://www.comicsrss.com/install.sh | sh
-```
-
-Note that this will put all the files in `/root/comicsrss.com`.
-
-It will ask you for your email. This is to send you an email when the script fails.
-You can see that for yourself [here](https://github.com/ArtskydJ/comicsrss.com/blob/gh-pages/install.sh).
--->
 
 
 ## Scraper API
