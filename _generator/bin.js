@@ -7,6 +7,7 @@ const defaultScrapers = [
 	// 'comicskingdom',
 ]
 const expirationDays = 90
+const expirationCount = 25
 
 function migration([ id, seriesObject ]) {
 	// seriesObject.strips = seriesObject.strips.filter(s => s.date !== null && s.date.slice(7) !== '2020-09') // bye bye all this month
@@ -112,7 +113,7 @@ async function runScraper(scraperName) {
 		const strips = newSeriesObject.strips
 			.map(({ url, date, imageUrl }) => ({ url, date, imageUrl }))
 			.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
-			.slice(0, 25)
+			.slice(0, expirationCount)
 		return { ...newSeriesObject, strips }
 	})
 
