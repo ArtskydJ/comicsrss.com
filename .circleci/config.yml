@@ -29,7 +29,7 @@ git_save_cache: &git_save_cache
 jobs:
   build:
     docker:
-      - image: 'circleci/node:16'
+      - image: 'circleci/node:14'
     steps:
       - *git_restore_cache
       - checkout
