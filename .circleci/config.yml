@@ -54,7 +54,8 @@ workflows:
   hourly:
     triggers:
       - schedule:
-          cron: "15 * * * *"
+          cron: "15 0,2,4,6,8,10,12,14,16,18,20,22 * * *"
+          # https://cron.help/#15_*/2_*_*_*
           filters:
             branches:
               only:
