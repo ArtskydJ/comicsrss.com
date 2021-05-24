@@ -26,7 +26,7 @@ async function getSeriesObjects() {
 				// author, // The author info is not in the sidebar
 				title,
 				url: 'https://www.arcamax.com/thefunnies/' + basename, // these should be the same as each other in arcamax
-				mostRecentStripUrl: 'https://www.arcamax.com' + href, // these should be the same as each other in arcamax
+				mostRecentStripUrl: new URL(href, 'https://www.arcamax.com').toString(), // these should be the same as each other in arcamax
 				isPolitical: false,
 				language: 'eng'
 			}]
@@ -60,7 +60,7 @@ async function getStrip(stripPageUrl) {
 
 
 	return {
-		imageUrl: 'https://www.arcamax.com' + imageUrlMatches[1],
+		imageUrl: new URL(imageUrlMatches[1], 'https://www.arcamax.com').toString(),
 		date,
 		author: authorMatches[1],
 		url,
