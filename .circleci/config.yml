@@ -33,7 +33,7 @@ jobs:
     steps:
       - *git_restore_cache
       - checkout
-      - run: npm install --prefix _generator
+      - run: npm ci --prefix _generator
       # - *npm_save_cache
       - run: node _generator/bin --scrape --generate --verbose
 
