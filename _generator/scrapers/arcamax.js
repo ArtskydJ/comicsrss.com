@@ -2,6 +2,11 @@ const { decode } = require('querystring')
 const fetch = require('./lib/fetch.js')
 const multipageScraper = require('./lib/multipage-scraper.js')
 
+const unavailableComics = [
+	'thepajamadiaries',
+	'nestheads',
+]
+
 function between(str, begin, end) {
 	return (str.split(begin, 2)[1] || '').split(end, 1)[0]
 }
@@ -26,7 +31,7 @@ async function getSeriesObjects() {
 				language: 'eng'
 			}]
 		})
-		.filter(kv => kv[0] !== 'thepajamadiaries')
+		.filter(kv => !unavailableComics.includes(kv[0]))
 	return Object.fromEntries(seriesEntries)
 }
 
