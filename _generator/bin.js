@@ -114,7 +114,7 @@ async function runScraper(scraperName) {
 			.map(({ url, date, imageUrl }) => ({ url, date, imageUrl }))
 			.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
 			.slice(0, expirationCount)
-		return { ...newSeriesObject, strips }
+		return strips ? { ...newSeriesObject, strips } : null
 	})
 
 	writeSeriesObjectsFile(scraperName, verifiedSeriesObjects)
@@ -127,11 +127,20 @@ function runGenerator(scraperNames) {
 	const s = seriesObject => seriesObject.title.toLowerCase()
 	const sortSeriesObjects = (a, b) => s(a) > s(b) ? 1 : (s(b) > s(a) ? -1 : 0)
 	const normalizeBasename = basename => basename.replace(/\W+/g, '')
-	const normalizeSeriesObject = ([ basename, seriesObject ]) => [ normalizeBasename(basename), { ...seriesObject, basename }]
 
-	const flatSeriesCollection = Object.assign({}, ...(scraperNames.map(readSeriesObjectsFile).reverse()))
-	const mergedNormalizedSeriesObjects = objMap(flatSeriesCollection, normalizeSeriesObject)
-	const seriesObjectsArr = Object.values(mergedNormalizedSeriesObjects).sort(sortSeriesObjects)
+	const seriesObjectsFileArr = scraperNames.slice().reverse().map(scraperName => {
+		const seriesObjectFile = readSeriesObjectsFile(scraperName)
+
+		return objMap(seriesObjectFile, ([ basename, seriesObject ]) => [
+			normalizeBasename(basename),
+			{ ...seriesObject, basename, scraper: scraperName },
+		])
+	}) // reversed so dilbert comes from dilbert scraper, not arcamax scraper?
+
+	// If gocomics and arcamax have the same comic (e.g. "agnes", or "1-and-done" aka "1anddone") then this clobbers one
+	const flatSeriesCollection = Object.assign({}, ...seriesObjectsFileArr)
+	// flatSeriesCollection = { "1anddone": {...}, "dilbert": {...}, etc }
+	const seriesObjectsArr = Object.values(flatSeriesCollection).sort(sortSeriesObjects)
 
 	siteGenerator(seriesObjectsArr, supporters)
 }
