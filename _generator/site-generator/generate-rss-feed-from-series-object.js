@@ -7,7 +7,7 @@ module.exports = seriesObject => {
 		throw new Error('Expected seriesObject.strips to be a non-empty array')
 	}
 
-	const { basename, title, imageUrl, author, language, strips } = seriesObject
+	const { scraper, basename, title, imageUrl, author, language, strips } = seriesObject
 
 	const templateOpts = {
 		basename: encodeURI(basename),
@@ -17,16 +17,9 @@ module.exports = seriesObject => {
 		language,
 		updatedDate: new Date(strips[0].date),
 		strips: strips.map(strip => {
-			strip.guid = strip.url
-			strip.isPermaLink = true
-			if (strip.date >= '2019-10-20') {
-				strip.guid = basename + strip.date
-				strip.isPermaLink = false
-			} else if (strip.date >= '2019-10-17') {
-				strip.guid = makeId(strip.basename + strip.date) // strip.basename is undefined. I'm a doofus. Issue #116
-				strip.isPermaLink = false
-			}
-			strip.includePreviewLink = strip.date <= '2019-10-19'
+			strip.guid = basename + strip.date + cacheBuster(scraper, basename, strip.date)
+			strip.isPermaLink = false
+			strip.includePreviewLink = false
 			strip.date = new Date(strip.date)
 			return strip
 		})
@@ -35,9 +28,14 @@ module.exports = seriesObject => {
 	return renderTemplate('rss-feed', templateOpts)
 }
 
-function makeId(str) {
-	const hasher = crypto.createHash('md5')
-	hasher.update(str)
-	const hash = hasher.digest('hex')
-	return hash.replace(/(.{8})(.{4})(.{4})(.{4})(.{12})/, '$1-$2-$3-$4-$5')
+function betweenDate(testDate, minDate, maxDate) {
+	testDate = testDate.slice(0, 10) // Fix arcamax dates prior to 2021-05-26 // remove after 2021-08-25
+	return minDate <= testDate && testDate >= maxDate
+}
+
+function cacheBuster(scraper, basename, date) {
+	if (scraper === 'arcamax' && betweenDate(date, '2021-05-19', '2021-05-25')) { // remove after 2021-08-25
+		return 'fix_bad_img_url'
+	}
+	return ''
 }
