@@ -43,7 +43,10 @@ async function getStrip(stripPageUrl) {
 	const shareParams = decode(urlMatches[1].replace(/&amp;/g, '&'))
 	const url = shareParams.u
 	const m_d_yyyyDate = shareParams.h.trim().split(' ').pop()
-	const date = new Date(m_d_yyyyDate)
+	const mmm_d_dateMatches = html.match(/<span class="cur">(.+?)<\/span>/)
+	const date = m_d_yyyyDate.includes('/')
+		? usDateToIsoDate(m_d_yyyyDate)
+		: mmm_d_dateMatches && humanReadableDateToIsoDate(mmm_d_dateMatches[1])
 
 	const imageUrlMatches = html.match(/<img id="comic-zoom".+src="([^">]+)"/)
 	const authorMatches = html.match(/<cite>by (.+?)<\/cite>/)
@@ -69,6 +72,42 @@ async function getStrip(stripPageUrl) {
 		// newerRelUrl: newerRelUrlMatches[1],
 		headerImageUrl: headerImageUrlMatches[1]
 	}
+}
+
+function pad2(n) { return n.padStart(2, '0') }
+
+function usDateToIsoDate(monthDayYear) {
+	const [ month, day, year ] = monthDayYear.split('/')
+	return `${year}-${pad2(month)}-${pad2(day)}`
+}
+
+function humanReadableDateToIsoDate(mmmDay) {
+	const currentYear = new Date().toISOString().slice(0, 4)
+	const currentMonth = new Date().toISOString().slice(5, 7)
+
+	const [ monthName, day ] = mmmDay.split(/\s+/)
+
+	const month = {
+		January: '01',
+		February: '02',
+		March: '03',
+		April: '04',
+		May: '05',
+		June: '06',
+		July: '07',
+		August: '08',
+		September: '09',
+		October: '10',
+		November: '11',
+		December: '12',
+	}[monthName]
+
+	let year = currentYear
+	if (currentMonth < month) {
+		year = (parseInt(year, 10) - 1).toString()
+	}
+	const yyyymmdd = `${currentYear}-${month}-${pad2(day)}`
+	return yyyymmdd
 }
 
 module.exports = cachedSeriesObjects => multipageScraper({ getSeriesObjects, getStrip, cachedSeriesObjects })
