@@ -1,34 +1,19 @@
 const fetch = require('./lib/fetch.js')
+const { query_html, element_to_text } = require('./lib/query-html.js')
 
 module.exports = async function main(cachedSeriesObjects) {
 	const html = await fetch('https://dilbert.com')
+	const $ = query_html(html)
 
-	const newStrips = html
-		.split('>')
-		.map(l => l.trim())
-		.filter(l => l.startsWith('<div class="comic-item-container'))
-		.map(line => {
-			const dataEntries = line
-				.split('\n')
-				.map(a=> a.trim())
-				.filter(a => a.startsWith('data-'))
-				.map(attr => {
-					let [ name, value ] = attr.split('=')
-					name = name.replace(/^data-/, ''),
-					value = value.replace(/.*?"(.*)/, '$1').replace(/(.*)".*/, '$1')
-					return [ name, value ]
-				})
-			const { itemtype, id, url, image } = Object.fromEntries(dataEntries)
-			const imageUrl = image.replace(/^\/\//, 'https://')
-
-			return { url, date: id, imageUrl }
+	const newStrips = $('div.comic-item-container')
+		.map(container_element => {
+			const attr = container_element.attribs
+			return {
+				url: attr['data-url'].replace(/=Dilbert_Daily$/, ''),
+				date: attr['data-id'],
+				imageUrl: attr['data-image'].replace(/^\/\//, 'https://')
+			}
 		})
-		// data-id="2018-11-20"
-		// data-url="https://dilbert.com/strip/2018-11-20"
-		// data-image="//assets.amuniversal.com/6a95e580..."
-		// data-date="November 20, 2018"
-		// data-creator="Scott Adams"
-		// data-title="Boss Email Password"
 
 	return {
 		dilbert: {
