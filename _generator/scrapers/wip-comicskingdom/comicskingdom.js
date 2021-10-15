@@ -30,31 +30,24 @@ async function getStrip(stripPageUrl) {
 	await dumbRateLimit()
 	const html = await fetch(stripPageUrl)
 	const $ = query_html(html)
-	const imageUrlMatches = $('meta[property="og:image"]')[0].attribs.content
-	const dateMatches = element_to_text($('title')[0]).trim().slice(-10)
-	const authorMatches = element_to_text($('#comic-hero .author p')[0])
-	const urlMatches = $('.breadcrumbs .active')[0].attribs.href
-	const isOldestStrip = /<a.+class=["'][^"']*fa-caret-left[^"']*disabled/.test(html)
-	const olderRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
-	const newerRelUrlMatches = html.match(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
-	const headerImageUrlMatches = html.match(/src="(https:\/\/avatar\.amuniversal\.com\/.+?)"/) || []
-
-	if (urlMatches === null || ! urlMatches[1]) throw new Error('Unable to parse url')
-	const url = urlMatches[1]
-	if (imageUrlMatches === null || ! imageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + url)
-	if (dateMatches === null || ! dateMatches[1]) throw new Error('Unable to parse date in ' + url)
-	if (authorMatches === null || ! authorMatches[1]) throw new Error('Unable to parse author in ' + url)
-	if (olderRelUrlMatches === null || (! olderRelUrlMatches[1] && ! isOldestStrip)) throw new Error('Unable to parse olderRelUrl in ' + url)
-	if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl in ' + url)
+	const imageUrl = $('meta[property="og:image"]')[0].attribs.content
+	const date = element_to_text($('title')[0]).trim().slice(-10)
+	const author = element_to_text($('#comic-hero .author p')[0])
+	const url = $('.breadcrumbs .active')[0].attribs.href
+	const headerImageUrlMatches = $('#comic-hero .background')[0].attribs.style.match(/(https:\/\/[^'"); ]+)/) || []
+	// const isOldestStrip = /<a.+class=["'][^"']*fa-caret-left[^"']*disabled/.test(html)
+	// const olderRelUrl = $(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-left/)
+	// const newerRelUrl = $(/<a.+href=["'](.*?)["'] class=["'][^"']*fa-caret-right/)
+	// const headerImageUrlMatches =
 
 	return {
-		imageUrl: imageUrlMatches[1],
-		date: dateMatches[1],
-		author: authorMatches[1],
+		imageUrl,
+		date,
+		author,
 		url,
 		isOldestStrip,
-		olderRelUrl: olderRelUrlMatches[1],
-		// newerRelUrl: newerRelUrlMatches[1],
+		olderRelUrl,
+		// newerRelUrl,
 		headerImageUrl: headerImageUrlMatches[1]
 	}
 }
