@@ -46,16 +46,15 @@ jobs:
       - run: git add .
       - run: git commit -m "Build [skip ci]" || echo "No changes detected"
       - run: git push origin gh-pages
-      - *git_save_cache
 
 
 workflows:
   version: 2
-  hourly:
+  every_six_hours:
     triggers:
       - schedule:
-          cron: "15 0,2,4,6,8,10,12,14,16,18,20,22 * * *"
-          # https://cron.help/#15_*/2_*_*_*
+          cron: "15 0,6,12,18 * * *"
+          # https://cron.help/#15_*/6_*_*_*
           filters:
             branches:
               only:
