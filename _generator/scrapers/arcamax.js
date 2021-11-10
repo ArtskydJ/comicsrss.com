@@ -34,7 +34,7 @@ async function getStrip(stripPageUrl) {
 	const html = await fetch(stripPageUrl)
 	const $ = query_html(html)
 
-	const facebook_url = $('.facebook')[0].href.replace(/&amp;/g, '&')
+	const facebook_url = $('.facebook')[0].attribs.href.replace(/&amp;/g, '&')
 	const facebook_url_params = new URL(facebook_url).searchParams
 	// https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.arcamax.com%2Fthefunnies%2Fmutts%2Fs-2375148&amp;h=Mutts+for+6%2F23%2F2020
 	const url = facebook_url_params.u

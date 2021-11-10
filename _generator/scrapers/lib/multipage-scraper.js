@@ -62,6 +62,11 @@ async function getStrips(getStrip, newSeriesObject, cachedStrips) {
 		.then(getStripPage)
 		.then(getStripPage)
 		.then(getStripPage)
+		.then(getStripPage)
+		.then(getStripPage)
+		.then(getStripPage)
+		.then(getStripPage)
+		.then(getStripPage)
 		.then(() => {
 			if (! strips.length) {
 				// If no new info was gathered, then avoid changing the cached copy
