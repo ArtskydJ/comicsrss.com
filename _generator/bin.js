@@ -62,8 +62,13 @@ async function main(options) {
 	if (typeof scrape === 'string') {
 		scraperNames = [ scrape ]
 	}
+	let errors = []
 	if (scrape) {
-		await Promise.allSettled(scraperNames.map(runScraper))
+		const scrapeResults = await Promise.allSettled(scraperNames.map(runScraper))
+		errors = scrapeResults
+			.filter(({ status }) => status === 'rejected')
+			.map(({ reason }) => reason)
+
 	}
 	if (generate) {
 		runGenerator(scraperNames)
@@ -73,7 +78,9 @@ async function main(options) {
 	if (global.VERBOSE) {
 		console.log(`Finished in ${(new Date() - startTime) / 1000} seconds`)
 	}
-	process.exit(0)
+
+	errors.forEach(e => console.log(e))
+	process.exit(errors.length)
 }
 
 
