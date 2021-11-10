@@ -37,8 +37,8 @@ async function getStrip(stripPageUrl) {
 	const facebook_url = $('.facebook')[0].attribs.href.replace(/&amp;/g, '&')
 	const facebook_url_params = new URL(facebook_url).searchParams
 	// https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.arcamax.com%2Fthefunnies%2Fmutts%2Fs-2375148&amp;h=Mutts+for+6%2F23%2F2020
-	const url = facebook_url_params.u
-	const m_d_yyyyDate = facebook_url_params.h.trim().split(' ').pop()
+	const url = facebook_url_params.get('u')
+	const m_d_yyyyDate = facebook_url_params.get('h').trim().split(' ').pop()
 	const mmm_d_date = element_to_text($('span.cur')[0])
 	const date = m_d_yyyyDate.includes('/')
 		? usDateToIsoDate(m_d_yyyyDate)
@@ -48,14 +48,8 @@ async function getStrip(stripPageUrl) {
 	const author = element_to_text($('cite')[0]).replace(/^by /, '')
 	const isOldestStrip = /class="prev-off"/.test(html)
 	const olderRelUrl = isOldestStrip || $('a.prev')[0].attribs.href
-	// const newerRelUrlMatches = $('a.next')[0].attribs.href
+	// const newerRelUrl = $('a.next')[0].attribs.href
 	const headerImageUrl = $('meta[property="og:image"]')[0].attribs.content
-
-	if (imageUrlMatches === null || ! imageUrlMatches[1]) throw new Error('Unable to parse comicImageUrl in ' + url)
-	if (authorMatches === null || ! authorMatches[1]) throw new Error('Unable to parse author in ' + url)
-	if ((olderRelUrlMatches === null || ! olderRelUrlMatches[1]) && ! isOldestStrip) throw new Error('Unable to parse olderRelUrl in ' + url)
-	// if (newerRelUrlMatches === null) throw new Error('Unable to parse newerRelUrl in ' + url)
-
 
 	return {
 		imageUrl,
