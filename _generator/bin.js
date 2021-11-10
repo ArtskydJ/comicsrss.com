@@ -63,7 +63,7 @@ async function main(options) {
 		scraperNames = [ scrape ]
 	}
 	if (scrape) {
-		await Promise.all(scraperNames.map(runScraper))
+		await Promise.allSettled(scraperNames.map(runScraper))
 	}
 	if (generate) {
 		runGenerator(scraperNames)
