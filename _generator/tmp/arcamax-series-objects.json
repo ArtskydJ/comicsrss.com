@@ -2047,6 +2047,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/breakingcatnews/",
 		"strips": [
 			{
+				"date": "2022-01-25",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22233/2223382.gif",
+				"url": "https://www.arcamax.com/thefunnies/breakingcatnews/s-2624047"
+			},
+			{
 				"date": "2022-01-24",
 				"imageUrl": "https://resources.arcamax.com/newspics/222/22233/2223313.gif",
 				"url": "https://www.arcamax.com/thefunnies/breakingcatnews/s-2623958"
@@ -2165,11 +2170,6 @@
 				"date": "2022-01-01",
 				"imageUrl": "https://resources.arcamax.com/newspics/221/22118/2211815.gif",
 				"url": "https://www.arcamax.com/thefunnies/breakingcatnews/s-2612791"
-			},
-			{
-				"date": "2021-12-31",
-				"imageUrl": "https://resources.arcamax.com/newspics/221/22115/2211578.gif",
-				"url": "https://www.arcamax.com/thefunnies/breakingcatnews/s-2612549"
 			}
 		],
 		"title": "Breaking Cat News",
@@ -8014,6 +8014,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/ninechickweedlane/",
 		"strips": [
 			{
+				"date": "2022-01-25",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22233/2223377.gif",
+				"url": "https://www.arcamax.com/thefunnies/ninechickweedlane/s-2624042"
+			},
+			{
 				"date": "2022-01-24",
 				"imageUrl": "https://resources.arcamax.com/newspics/222/22232/2223253.gif",
 				"url": "https://www.arcamax.com/thefunnies/ninechickweedlane/s-2623901"
@@ -8132,11 +8137,6 @@
 				"date": "2022-01-01",
 				"imageUrl": "https://resources.arcamax.com/newspics/221/22117/2211760.gif",
 				"url": "https://www.arcamax.com/thefunnies/ninechickweedlane/s-2612736"
-			},
-			{
-				"date": "2021-12-31",
-				"imageUrl": "https://resources.arcamax.com/newspics/221/22115/2211525.gif",
-				"url": "https://www.arcamax.com/thefunnies/ninechickweedlane/s-2612495"
 			}
 		],
 		"title": "9 Chickweed Lane",
@@ -8558,6 +8558,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/",
 		"strips": [
 			{
+				"date": "2022-01-25",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22233/2223387.gif",
+				"url": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/s-2624052"
+			},
+			{
 				"date": "2022-01-24",
 				"imageUrl": "https://resources.arcamax.com/newspics/222/22232/2223257.gif",
 				"url": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/s-2623905"
@@ -8676,11 +8681,6 @@
 				"date": "2022-01-01",
 				"imageUrl": "https://resources.arcamax.com/newspics/221/22117/2211763.gif",
 				"url": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/s-2612739"
-			},
-			{
-				"date": "2021-12-31",
-				"imageUrl": "https://resources.arcamax.com/newspics/221/22115/2211528.gif",
-				"url": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/s-2612498"
 			}
 		],
 		"title": "Pearls Before Swine",
@@ -11212,15 +11212,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139025.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-01-25",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138965.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547490"
+				"date": "2021-01-24",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139025.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547550"
 			},
 			{
 				"date": "2021-12-31",
