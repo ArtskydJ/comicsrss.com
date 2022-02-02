@@ -8893,6 +8893,47 @@
 		"title": "Poorly Drawn Lines",
 		"url": "https://www.arcamax.com/thefunnies/poorlydrawnlines"
 	},
+	"popeye": {
+		"author": "Bud Sagendorf (Mon-Sat) & Hy Eisman (Sun)",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/popeye.png",
+		"isPolitical": false,
+		"language": "eng",
+		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/popeye/",
+		"strips": [
+			{
+				"date": "2022-02-02",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22249/2224921.gif",
+				"url": "https://www.arcamax.com/thefunnies/popeye/s-2625589"
+			},
+			{
+				"date": "2022-02-01",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22249/2224920.gif",
+				"url": "https://www.arcamax.com/thefunnies/popeye/s-2625588"
+			},
+			{
+				"date": "2022-01-31",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22249/2224919.gif",
+				"url": "https://www.arcamax.com/thefunnies/popeye/s-2625587"
+			},
+			{
+				"date": "2022-01-29",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22249/2224918.gif",
+				"url": "https://www.arcamax.com/thefunnies/popeye/s-2625586"
+			},
+			{
+				"date": "2022-01-28",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22249/2224917.gif",
+				"url": "https://www.arcamax.com/thefunnies/popeye/s-2625585"
+			},
+			{
+				"date": "2022-01-27",
+				"imageUrl": "https://resources.arcamax.com/newspics/222/22243/2224397.gif",
+				"url": "https://www.arcamax.com/thefunnies/popeye/s-2625068"
+			}
+		],
+		"title": "Popeye",
+		"url": "https://www.arcamax.com/thefunnies/popeye"
+	},
 	"redandrover": {
 		"author": "Brian Basset",
 		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/redandrover.png",
@@ -11207,15 +11248,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://resources.arcamax.com/newspics/213/21388/2138832.jpg",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-02-01",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21388/2138832.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547357"
+				"date": "2021-02-02",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21388/2138886.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547411"
 			},
 			{
 				"date": "2021-12-31",
