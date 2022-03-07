@@ -1608,11 +1608,16 @@
 	},
 	"bizarro": {
 		"author": "Dan Piraro",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/bizarro.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/224/22425/2242569.gif",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/bizarro/",
 		"strips": [
+			{
+				"date": "2022-03-06",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/224/22425/2242569.jpg",
+				"url": "https://www.arcamax.com/thefunnies/bizarro/s-2643913"
+			},
 			{
 				"date": "2022-03-07",
 				"imageUrl": "https://resources.arcamax.com/newspics/224/22401/2240135.gif",
@@ -1732,11 +1737,6 @@
 				"date": "2022-02-11",
 				"imageUrl": "https://resources.arcamax.com/newspics/222/22281/2228177.gif",
 				"url": "https://www.arcamax.com/thefunnies/bizarro/s-2628998"
-			},
-			{
-				"date": "2022-02-10",
-				"imageUrl": "https://resources.arcamax.com/newspics/222/22279/2227945.gif",
-				"url": "https://www.arcamax.com/thefunnies/bizarro/s-2628736"
 			}
 		],
 		"title": "Bizarro",
@@ -11338,15 +11338,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139038.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-03-07",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138930.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547455"
+				"date": "2021-03-06",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139038.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547563"
 			},
 			{
 				"date": "2021-12-31",
