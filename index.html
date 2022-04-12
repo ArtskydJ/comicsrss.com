@@ -71,7 +71,6 @@
 					var cssShowSelector = searchPhrase.split(' ').map(wordToSelectorHits).join(',')
 
 					var resultCount = document.querySelectorAll(cssShowSelector).length
-					_paq.push(['trackSiteSearch', searchPhrase, false, resultCount])
 				}
 				searchCss.innerHTML = cssHideRule
 
