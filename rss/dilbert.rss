@@ -4,7 +4,7 @@
         <title>Dilbert</title>
         <link>https://www.comicsrss.com/preview/dilbert</link>
         <description>Dilbert by Scott Adams</description>
-        <lastBuildDate>Tue, 19 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
         <language>en</language>
@@ -16,6 +16,20 @@
         <copyright>Copyright Scott Adams</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dilbert.rss" rel="self" type="application/rss+xml"/>
 
+        <item>
+            <title><![CDATA[Dilbert by Scott Adams for Wed, 20 Apr 2022]]></title>
+            <link>https://dilbert.com/strip/2022-04-20?creator</link>
+            <guid isPermaLink="false">dilbert2022-04-20</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>
+	<img src="https://assets.amuniversal.com/8c469ae09977013aa30e005056a9545d" alt="Dilbert by Scott Adams on Wed, 20 Apr 2022" title="Dilbert by Scott Adams on Wed, 20 Apr 2022">
+</p>
+<p>
+	<a href="https://dilbert.com/strip/2022-04-20?creator">Source</a> -
+	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
+</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[Dilbert by Scott Adams for Tue, 19 Apr 2022]]></title>
             <link>https://dilbert.com/strip/2022-04-19?creator</link>
@@ -348,20 +362,6 @@
 </p>
 <p>
 	<a href="https://dilbert.com/strip/2022-03-27?creator">Source</a> -
-	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
-</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dilbert by Scott Adams for Sat, 26 Mar 2022]]></title>
-            <link>https://dilbert.com/strip/2022-03-26?creator</link>
-            <guid isPermaLink="false">dilbert2022-03-26</guid>
-            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
-	<img src="https://assets.amuniversal.com/a0fa6a0083a6013a9d83005056a9545d" alt="Dilbert by Scott Adams on Sat, 26 Mar 2022" title="Dilbert by Scott Adams on Sat, 26 Mar 2022">
-</p>
-<p>
-	<a href="https://dilbert.com/strip/2022-03-26?creator">Source</a> -
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
