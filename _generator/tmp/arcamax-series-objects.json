@@ -2795,6 +2795,22 @@
 		"title": "Cathy",
 		"url": "https://www.arcamax.com/thefunnies/cathy"
 	},
+	"crabgrass": {
+		"author": "Tauhid Bondia",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/crabgrass.png",
+		"isPolitical": false,
+		"language": "eng",
+		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/crabgrass/",
+		"strips": [
+			{
+				"date": "2022-06-27",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313003.gif",
+				"url": "https://www.arcamax.com/thefunnies/crabgrass/s-2693460"
+			}
+		],
+		"title": "Crabgrass",
+		"url": "https://www.arcamax.com/thefunnies/crabgrass"
+	},
 	"crankshaft": {
 		"author": "Tom Batiuk",
 		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/crankshaft.png",
@@ -11059,6 +11075,52 @@
 		"title": "Take It From The Tinkersons",
 		"url": "https://www.arcamax.com/thefunnies/takeitfromthetinkersons"
 	},
+	"theargylesweater": {
+		"author": "Scott Hilburn",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/theargylesweater.png",
+		"isPolitical": false,
+		"language": "eng",
+		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/theargylesweater/",
+		"strips": [
+			{
+				"date": "2022-06-27",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313002.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693459"
+			},
+			{
+				"date": "2022-06-25",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313020.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693479"
+			},
+			{
+				"date": "2022-06-24",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313019.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693478"
+			},
+			{
+				"date": "2022-06-23",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313018.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693477"
+			},
+			{
+				"date": "2022-06-22",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313017.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693476"
+			},
+			{
+				"date": "2022-06-21",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313016.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693475"
+			},
+			{
+				"date": "2022-06-20",
+				"imageUrl": "https://resources.arcamax.com/newspics/231/23130/2313015.gif",
+				"url": "https://www.arcamax.com/thefunnies/theargylesweater/s-2693474"
+			}
+		],
+		"title": "The Argyle Sweater",
+		"url": "https://www.arcamax.com/thefunnies/theargylesweater"
+	},
 	"thebarn": {
 		"author": "Ralph Hagen",
 		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thebarn.png",
@@ -11333,15 +11395,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21389/2138903.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-06-27",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139000.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547525"
+				"date": "2021-06-26",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138903.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547428"
 			}
 		],
 		"title": "The Fortune Teller",
