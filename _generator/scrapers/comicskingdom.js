@@ -36,26 +36,18 @@ async function getStrip(stripPageUrl) {
 	const html = await fetch(stripPageUrl)
 	const $ = query_html(html)
 
-	const imageUrl = $('img#theComicImage')[0].attribs.src
 	const permalink = new URLSearchParams($('a[aria-label="FaceBook Share icon"]')[0].attribs.href.split('?')[1]).get('href')
-	const date = permalink.slice(-10)
-	const author = element_to_text($('title')[0]).replace(/^.+? by /, '')
-	const url = permalink
 	const older_a_element = $('.cv-nav:first-child a')[0]
-	const isOldestStrip = !older_a_element
-	const olderRelUrl = older_a_element?.attribs?.href
-	const newerRelUrl = $('.cv-nav:last-child a')[0].attribs.href
-	const headerImageUrl = $('.feature-logo')[0]?.attribs?.src
 
 	return {
-		imageUrl,
-		date,
-		author,
-		url,
-		isOldestStrip,
-		olderRelUrl,
-		newerRelUrl,
-		headerImageUrl,
+		imageUrl: $('img#theComicImage')[0].attribs.src,
+		date: permalink.slice(-10),
+		author: element_to_text($('title')[0]).replace(/^.+? by /, ''),
+		url: permalink,
+		isOldestStrip: !older_a_element,
+		olderRelUrl: older_a_element?.attribs?.href,
+		newerRelUrl: $('.cv-nav:last-child a')[0].attribs.href,
+		headerImageUrl: $('.feature-logo')[0]?.attribs?.src,
 	}
 }
 
