@@ -65,7 +65,7 @@ ul#comics-list > li {
 	justify-content: space-between;
 }
 .actions a + a {
-	margin-left: 8px;
+	margin-left: 12px;
 }
 nav {
 	border-bottom: 1px solid #aaa;

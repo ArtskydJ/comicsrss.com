@@ -61,13 +61,17 @@
 						{{@ seriesObject.title }} by {{@ seriesObject.author }}
 					</div>
 					<div class="actions">
+						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src={{ encodeURIComponent('https://www.comicsrss.com/rss/' + seriesObject.basename + '.rss') }}" target="_blank">
+							<img src="./static/external_sm.png" class="icon" alt="">
+							Preview
+						</a>
 						<a href="./rss/{{ encodeURI(seriesObject.basename) }}.rss" onclick="copy(this, event)">
 							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
 							<span class="status">Copy RSS URL</span>
 						</a>
 						<a href="{{ seriesObject.url }}" target="_blank">
 							<img src="./static/external_sm.png" class="icon" alt="">
-							View
+							Source
 						</a>
 					</div>
 				</li>
