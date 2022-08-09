@@ -24,17 +24,17 @@ I have received [many requests](https://github.com/ArtskydJ/comicsrss.com/issues
 
 To be able to add comic series to Comics RSS, it is helpful to understand the basics of what is going on.
 
-Comics RSS has two types of parts: scrapers, and the site generator. Each scraper parses a different comic website, and writes a temporary file to the disk. The site generator reads the temporary JSON files, generates and writes static HTML and RSS files to the disk.
+Comics RSS has scrapers, and the site generator. Each scraper parses a different comic website, and writes a temporary file to the disk. The site generator reads the temporary JSON files, and writes static HTML/RSS files to the disk.
 
 
 
 ### How scrapers work
 
-The scrapers make https requests to a website (for example, `gocomics.com`), parse the responses, and write temporary JSON files to the disk.
+The scrapers make https requests to a website (for example, https://www.gocomics.com), parse the responses, and write temporary JSON files to the disk.
 
-On a site like gocomics.com, a scraper has to first make a request to get the list of comic series. (For example, `gocomics.com/comics/a-to-z`)
+On a multi-comic site like https://www.gocomics.com, a scraper has to get the list of comic series (e.g. Agnes, Baby Blues, Calvin and Hobbes, etc). For example, the scraper might request and parse https://www.gocomics.com/comics/a-to-z.
 
-Then, for each comic series it finds, it needs to look up the latest day's comic strip. If it has not seen that day's comic strip, then it saves that comic strip, and looks up the previous day's comic strip. When it finds a comic strip that it has seen before, it will continue to the next comic series, until it finishes the website.
+Then, for each comic series, it gets the most recent comic strip. Then it looks up the previous day's comic strip. When it finds a comic strip that it has seen before, it will continue to the next comic series, until it finishes the website.
 
 Finally, it writes the lists of comic series with their list of strips to a temporary JSON file on the hard drive.
 
@@ -42,7 +42,7 @@ Finally, it writes the lists of comic series with their list of strips to a temp
 
 ### How the site generator works
 
-The site generator finds the temporary JSON files made by the scrapers. Each file has an array of `seriesObject`s. These arrays are concatenated into one big list of comic series, each with their list of comic strips. The generator uses templates to generate an `index.html` file, and `rss/{comic}.rss` files.
+The site generator reads the temporary JSON files made by the scrapers. Those files are read into one big list of comic series, each with their list of comic strips. The generator uses templates to generate an `index.html` file, and `rss/{comic}.rss` files.
 
 When these updated/new files are committed and pushed to this repository, they get hosted on gh-pages, which is how you view the site today.
 
@@ -53,15 +53,19 @@ When these updated/new files are committed and pushed to this repository, they g
 1. Fork the repository
 2. Run these commands on your command line:
 ```sh
+cd comicsrss.com
+npm install
+
 cd comicsrss.com/_generator
 node bin --help
 node bin --scrape --generate
+
 git diff
 ```
 
 
 
-### Install for yourself
+### Run it yourself
 
 1. Fork the repository
 2. [Create a GitHub Deploy Key](https://circleci.com/docs/2.0/gh-bb-integration/#creating-a-github-deploy-key), add it to GitHub, and CircleCI
@@ -72,9 +76,11 @@ git diff
 
 ## Scraper API
 
-The scraper API changed recently, and I haven't updated the documentation. However, it is simpler than before. Unfortunately, there are fewer docs than before.
+To create a scraper for a single-series website that shows multiple days' comic strips per web page, copy the code from [dilbert.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/dilbert.js) and change it as needed.
 
-See the code for [arcamax](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax.js) to see that it's not very difficult to make a scraper for a large website, with just a little bit of string manipulation.
+To create a scraper for a multi-series website, copy the code from [arcamax.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax.js) and change it as needed.
+
+If you're not sure which to use, probaby start from arcamax.js, or feel free to open a GitHub issue to discuss it with me.
 
 <!--
 ### Example
