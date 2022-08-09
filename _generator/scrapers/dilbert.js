@@ -1,5 +1,5 @@
 const fetch = require('./lib/fetch.js')
-const { query_html, element_to_text } = require('./lib/query-html.js')
+const { query_html } = require('./lib/query-html.js')
 
 module.exports = async function main(cachedSeriesObjects) {
 	const html = await fetch('https://dilbert.com')

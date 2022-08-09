@@ -19,7 +19,7 @@ async function getPage(url) {
 	const $ = query_html(html)
 
 	const seriesObjectEntries = $('.gc-blended-link')
-		.map((link_element, index) => {
+		.map(link_element => {
 			const today_href = link_element.attribs.href
 			const { pathname } = new URL(today_href, 'https://www.gocomics.com')
 			const basename = pathname.split('/')[1]
