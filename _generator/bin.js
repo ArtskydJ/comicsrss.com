@@ -5,7 +5,7 @@ const defaultScrapers = [
 	'dilbert',
 	'gocomics',
 	'arcamax',
-	// 'comicskingdom',
+	'comicskingdom',
 ]
 const expirationDays = 90
 const expirationCount = 25
