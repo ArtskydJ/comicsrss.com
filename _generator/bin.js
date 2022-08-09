@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const defaultScrapers = [
+	// When two scrapers have the same comic, the higher scraper in this list will take priority
 	'dilbert',
 	'gocomics',
 	'arcamax',
@@ -69,9 +70,14 @@ async function main(options) {
 			.filter(({ status }) => status === 'rejected')
 			.map(({ reason }) => reason)
 
+
 	}
 	if (generate) {
-		runGenerator(scraperNames)
+		const siteGenerator = require('./site-generator/index.js')
+		const supporters = require('./tmp/supporters.json')
+		const seriesObjectsArr = mergeSeriesObjects(scraperNames)
+
+		siteGenerator(seriesObjectsArr, supporters)
 	}
 
 
@@ -128,28 +134,27 @@ async function runScraper(scraperName) {
 }
 
 
-function runGenerator(scraperNames) {
-	const siteGenerator = require('./site-generator/index.js')
-	const supporters = require('./tmp/supporters.json')
+function mergeSeriesObjects(scraperNames) {
 	const s = seriesObject => seriesObject.title.toLowerCase()
 	const sortSeriesObjects = (a, b) => s(a) > s(b) ? 1 : (s(b) > s(a) ? -1 : 0)
-	const normalizeBasename = basename => basename.replace(/\W+/g, '')
+	const normalizeBasename = basename => basename.toLowerCase().replace(/\W+/g, '')
 
-	const seriesObjectsFileArr = scraperNames.slice().reverse().map(scraperName => {
+	const seriesObjectsFileArr = scraperNames.map(scraperName => {
 		const seriesObjectFile = readSeriesObjectsFile(scraperName)
 
 		return objMap(seriesObjectFile, ([ basename, seriesObject ]) => [
 			normalizeBasename(basename),
 			{ ...seriesObject, basename, scraper: scraperName },
 		])
-	}) // reversed so dilbert comes from dilbert scraper, not arcamax scraper?
+	})
 
 	// If gocomics and arcamax have the same comic (e.g. "agnes", or "1-and-done" aka "1anddone") then this clobbers one
-	const flatSeriesCollection = Object.assign({}, ...seriesObjectsFileArr)
-	// flatSeriesCollection = { "1anddone": {...}, "dilbert": {...}, etc }
+	// seriesObjectsFileArr is reversed so earlier scraperNames take priority over later
+	const flatSeriesCollection = Object.assign({}, ...seriesObjectsFileArr.reverse())
+	// -> { "1anddone": {...}, "dilbert": {...}, etc }
 	const seriesObjectsArr = Object.values(flatSeriesCollection).sort(sortSeriesObjects)
 
-	siteGenerator(seriesObjectsArr, supporters)
+	return seriesObjectsArr
 }
 
 function objMap(obj, fn) {
