@@ -265,8 +265,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/3662/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Intelligent/2022-08-29",
+		"mostRecentStripUrl": "https://comicskingdom.com/Intelligent/2022-08-30",
 		"strips": [
+			{
+				"date": "2022-08-26",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SW50ZWxsaWdlbnRMaWZlLzIwMjIvMDgvSW50ZWxsaWdlbnQuMjAyMjA4MjZfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/Intelligent/2022-08-26"
+			},
 			{
 				"date": "2022-08-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SW50ZWxsaWdlbnRMaWZlLzIwMjIvMDgvSW50ZWxsaWdlbnQuMjAyMjA4MjlfMTUzNi5naWY=",
@@ -787,12 +792,57 @@
 		"title": "Mark Trail Vintage",
 		"url": "https://comicskingdom.com/Mark-Trail-Vintage"
 	},
+	"Olive-Popeye": {
+		"author": "Shadia Amin & Randy Milholland",
+		"isPolitical": false,
+		"language": "eng",
+		"mostRecentStripUrl": "https://comicskingdom.com/Olive-Popeye/2022-08-30",
+		"strips": [
+			{
+				"date": "2022-08-30",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T2xpdmVQb3BleWUvMjAyMi8wOC9PbGlwb3AuMjAyMjA4MzBfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/Olive-Popeye/2022-08-30"
+			}
+		],
+		"title": "Olive & Popeye",
+		"url": "https://comicskingdom.com/Olive-Popeye"
+	},
 	"Show-Me-The-Funny": {
 		"author": "Bob Mankoff & CartoonStock",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-24",
+		"mostRecentStripUrl": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-30",
 		"strips": [
+			{
+				"date": "2022-08-30",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODMwXzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-30"
+			},
+			{
+				"date": "2022-08-29",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODI5XzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-29"
+			},
+			{
+				"date": "2022-08-28",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODI4XzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-28"
+			},
+			{
+				"date": "2022-08-27",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODI3XzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-27"
+			},
+			{
+				"date": "2022-08-26",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODI2XzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-26"
+			},
+			{
+				"date": "2022-08-25",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODI1XzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2022-08-25"
+			},
 			{
 				"date": "2022-08-24",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMi8wOC9TTVRGLjIwMjIwODI0XzY1Ny5naWY=",
@@ -4884,9 +4934,9 @@
 		"mostRecentStripUrl": "https://comicskingdom.com/flash-forward/2022-08-30",
 		"strips": [
 			{
-				"date": "2021-08-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Rmxhc2hGb3J3YXJkLzIwMjEvMDgvRmxhc2hfRm9yd2FyZF9xcy4yMDIxMDgxNV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/flash-forward/2021-08-15"
+				"date": "2021-08-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Rmxhc2hGb3J3YXJkLzIwMjEvMDgvRmxhc2hfRm9yd2FyZF9xcy4yMDIxMDgyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/flash-forward/2021-08-22"
 			}
 		],
 		"title": "Flash Forward",
@@ -8929,9 +8979,9 @@
 		"mostRecentStripUrl": "https://comicskingdom.com/mike-shelton/2022-08-30",
 		"strips": [
 			{
-				"date": "2022-05-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWlrZVNoZWx0b24vMjAyMi8wNS9TaGVsdG9uLjIwMjIwNTE4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/mike-shelton/2022-05-18"
+				"date": "2022-05-21",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWlrZVNoZWx0b24vMjAyMi8wNS9TaGVsdG9uLjIwMjIwNTIxXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/mike-shelton/2022-05-21"
 			}
 		],
 		"title": "Mike Shelton",
@@ -10515,9 +10565,9 @@
 		"mostRecentStripUrl": "https://comicskingdom.com/popeyes-cartoon-club/2022-08-30",
 		"strips": [
 			{
-				"date": "2020-07-05",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllc0NhcnRvb25DbHViLzIwMjAvMDcvUG9wZXllX0NhcnRvb24uMjAyMDA3MDVfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/popeyes-cartoon-club/2020-07-05"
+				"date": "2020-07-06",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllc0NhcnRvb25DbHViLzIwMjAvMDcvUG9wZXllX0NhcnRvb24uMjAyMDA3MDZfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/popeyes-cartoon-club/2020-07-06"
 			}
 		],
 		"title": "Popeye's Cartoon Club",
