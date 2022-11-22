@@ -63,10 +63,10 @@ async function main(options) {
 	if (typeof scrape === 'string') {
 		scraperNames = [ scrape ]
 	}
-	let errors = []
+	let scrapeErrors = []
 	if (scrape) {
 		const scrapeResults = await Promise.allSettled(scraperNames.map(runScraper))
-		errors = scrapeResults
+		scrapeErrors = scrapeResults
 			.filter(({ status }) => status === 'rejected')
 			.map(({ reason }) => reason)
 
@@ -83,10 +83,13 @@ async function main(options) {
 
 	if (global.VERBOSE) {
 		console.log(`Finished in ${(new Date() - startTime) / 1000} seconds`)
+		console.log(`Scrape errors: ${scrapeErrors.length}`)
 	}
 
-	errors.forEach(e => console.log(e))
-	process.exit(errors.length)
+	scrapeErrors.forEach(e => console.log(e))
+
+	const exitCode = scrapeErrors.length === scraperNames.length ? 1 : 0 // this will exit non-zero if some scrapers worked
+	process.exit(exitCode)
 }
 
 
