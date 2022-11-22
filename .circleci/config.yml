@@ -15,7 +15,7 @@ git_save_cache: &git_save_cache
 jobs:
   build:
     docker:
-      - image: 'circleci/node:18'
+      - image: 'cimg/node:18'
     steps:
       - *git_restore_cache
       - checkout
