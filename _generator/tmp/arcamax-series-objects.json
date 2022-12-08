@@ -5720,6 +5720,16 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/gingermeggs/",
 		"strips": [
 			{
+				"date": "2022-12-08",
+				"imageUrl": "https://resources.arcamax.com/newspics/238/23835/2383577.gif",
+				"url": "https://www.arcamax.com/thefunnies/gingermeggs/s-2759080"
+			},
+			{
+				"date": "2022-12-07",
+				"imageUrl": "https://resources.arcamax.com/newspics/238/23835/2383576.gif",
+				"url": "https://www.arcamax.com/thefunnies/gingermeggs/s-2759079"
+			},
+			{
 				"date": "2022-12-04",
 				"imageUrl": "https://resources.arcamax.com/newspics/237/23792/2379219.jpg",
 				"url": "https://www.arcamax.com/thefunnies/gingermeggs/s-2755278"
@@ -5833,16 +5843,6 @@
 				"date": "2022-11-12",
 				"imageUrl": "https://resources.arcamax.com/newspics/236/23697/2369753.gif",
 				"url": "https://www.arcamax.com/thefunnies/gingermeggs/s-2746858"
-			},
-			{
-				"date": "2022-11-11",
-				"imageUrl": "https://resources.arcamax.com/newspics/236/23694/2369437.gif",
-				"url": "https://www.arcamax.com/thefunnies/gingermeggs/s-2746556"
-			},
-			{
-				"date": "2022-11-10",
-				"imageUrl": "https://resources.arcamax.com/newspics/236/23691/2369169.gif",
-				"url": "https://www.arcamax.com/thefunnies/gingermeggs/s-2746272"
 			}
 		],
 		"title": "Ginger Meggs",
@@ -11525,15 +11525,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139001.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-12-08",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139036.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547561"
+				"date": "2021-12-07",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139001.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547526"
 			}
 		],
 		"title": "The Fortune Teller",
