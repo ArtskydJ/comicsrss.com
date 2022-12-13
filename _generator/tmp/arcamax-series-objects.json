@@ -3891,6 +3891,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/dilbert/",
 		"strips": [
 			{
+				"date": "2022-12-18",
+				"imageUrl": "https://resources.arcamax.com/newspics/238/23854/2385463.jpg",
+				"url": "https://www.arcamax.com/thefunnies/dilbert/s-2760826"
+			},
+			{
 				"date": "2022-12-17",
 				"imageUrl": "https://resources.arcamax.com/newspics/238/23849/2384977.gif",
 				"url": "https://www.arcamax.com/thefunnies/dilbert/s-2760404"
@@ -4009,11 +4014,6 @@
 				"date": "2022-11-24",
 				"imageUrl": "https://resources.arcamax.com/newspics/237/23770/2377062.gif",
 				"url": "https://www.arcamax.com/thefunnies/dilbert/s-2753216"
-			},
-			{
-				"date": "2022-11-23",
-				"imageUrl": "https://resources.arcamax.com/newspics/237/23751/2375148.gif",
-				"url": "https://www.arcamax.com/thefunnies/dilbert/s-2751473"
 			}
 		],
 		"title": "Dilbert",
@@ -4978,6 +4978,11 @@
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/forheavenssake/",
 		"strips": [
+			{
+				"date": "2022-12-12",
+				"imageUrl": "https://resources.arcamax.com/newspics/238/23854/2385478.gif",
+				"url": "https://www.arcamax.com/thefunnies/forheavenssake/s-2760841"
+			},
 			{
 				"date": "2022-12-05",
 				"imageUrl": "https://resources.arcamax.com/newspics/238/23825/2382572.gif",
@@ -11525,15 +11530,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21389/2138945.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-12-13",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138781.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547306"
+				"date": "2021-12-12",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138945.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547470"
 			}
 		],
 		"title": "The Fortune Teller",
