@@ -5459,6 +5459,16 @@
 		"strips": [
 			{
 				"date": "2022-12-13",
+				"imageUrl": "https://resources.arcamax.com/newspics/238/23856/2385696.gif",
+				"url": "https://www.arcamax.com/thefunnies/garfield/s-2761021"
+			},
+			{
+				"date": "2022-12-13",
+				"imageUrl": "https://resources.arcamax.com/newspics/238/23856/2385695.gif",
+				"url": "https://www.arcamax.com/thefunnies/garfield/s-2761020"
+			},
+			{
+				"date": "2022-12-13",
 				"imageUrl": "https://resources.arcamax.com/newspics/238/23835/2383506.gif",
 				"url": "https://www.arcamax.com/thefunnies/garfield/s-2759006"
 			},
@@ -5571,16 +5581,6 @@
 				"date": "2022-11-21",
 				"imageUrl": "https://resources.arcamax.com/newspics/237/23739/2373919.gif",
 				"url": "https://www.arcamax.com/thefunnies/garfield/s-2750487"
-			},
-			{
-				"date": "2022-11-20",
-				"imageUrl": "https://resources.arcamax.com/newspics/237/23733/2373313.jpg",
-				"url": "https://www.arcamax.com/thefunnies/garfield/s-2749986"
-			},
-			{
-				"date": "2022-11-19",
-				"imageUrl": "https://resources.arcamax.com/newspics/237/23727/2372755.gif",
-				"url": "https://www.arcamax.com/thefunnies/garfield/s-2749553"
 			}
 		],
 		"title": "Garfield",
@@ -11530,15 +11530,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21389/2138945.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-12-13",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138781.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547306"
+				"date": "2021-12-12",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138945.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547470"
 			}
 		],
 		"title": "The Fortune Teller",
