@@ -2939,6 +2939,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/crankshaft/",
 		"strips": [
 			{
+				"date": "2023-01-04",
+				"imageUrl": "https://resources.arcamax.com/newspics/239/23948/2394801.gif",
+				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2768841"
+			},
+			{
 				"date": "2023-01-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/239/23941/2394161.gif",
 				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2768357"
@@ -3057,11 +3062,6 @@
 				"date": "2022-12-10",
 				"imageUrl": "https://resources.arcamax.com/newspics/238/23820/2382075.gif",
 				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2757682"
-			},
-			{
-				"date": "2022-12-09",
-				"imageUrl": "https://resources.arcamax.com/newspics/238/23818/2381802.gif",
-				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2757401"
 			}
 		],
 		"title": "Crankshaft",
@@ -7787,6 +7787,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/",
 		"strips": [
 			{
+				"date": "2023-01-04",
+				"imageUrl": "https://resources.arcamax.com/newspics/239/23947/2394763.gif",
+				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2768803"
+			},
+			{
 				"date": "2023-01-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/239/23941/2394160.gif",
 				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2768356"
@@ -7905,11 +7910,6 @@
 				"date": "2022-12-10",
 				"imageUrl": "https://resources.arcamax.com/newspics/238/23820/2382038.gif",
 				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2757646"
-			},
-			{
-				"date": "2022-12-09",
-				"imageUrl": "https://resources.arcamax.com/newspics/238/23817/2381762.gif",
-				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2757357"
 			}
 		],
 		"title": "Mother Goose & Grimm",
@@ -11535,15 +11535,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21388/2138894.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-01-04",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138922.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547447"
+				"date": "2021-01-03",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21388/2138894.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547419"
 			}
 		],
 		"title": "The Fortune Teller",
