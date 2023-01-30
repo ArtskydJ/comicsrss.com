@@ -2933,11 +2933,16 @@
 	},
 	"crankshaft": {
 		"author": "Tom Batiuk",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/crankshaft.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/240/24066/2406686.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/crankshaft/",
 		"strips": [
+			{
+				"date": "2023-01-29",
+				"imageUrl": "https://resources.arcamax.com/newspics/240/24066/2406686.jpg",
+				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2779057"
+			},
 			{
 				"date": "2023-01-30",
 				"imageUrl": "https://resources.arcamax.com/newspics/240/24046/2404647.gif",
@@ -3057,11 +3062,6 @@
 				"date": "2023-01-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/239/23941/2394161.gif",
 				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2768357"
-			},
-			{
-				"date": "2023-01-01",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/239/23913/2391336.jpg",
-				"url": "https://www.arcamax.com/thefunnies/crankshaft/s-2766003"
 			}
 		],
 		"title": "Crankshaft",
@@ -7786,11 +7786,16 @@
 	},
 	"mothergooseandgrimm": {
 		"author": "Mike Peters",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/mothergooseandgrimm.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/240/24066/2406687.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/",
 		"strips": [
+			{
+				"date": "2023-01-29",
+				"imageUrl": "https://resources.arcamax.com/newspics/240/24066/2406687.jpg",
+				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2779058"
+			},
 			{
 				"date": "2023-01-30",
 				"imageUrl": "https://resources.arcamax.com/newspics/240/24046/2404612.gif",
@@ -7910,11 +7915,6 @@
 				"date": "2023-01-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/239/23941/2394160.gif",
 				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2768356"
-			},
-			{
-				"date": "2023-01-01",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/239/23912/2391299.jpg",
-				"url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/s-2765966"
 			}
 		],
 		"title": "Mother Goose & Grimm",
@@ -11535,15 +11535,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139039.jpg",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-01-29",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139039.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547564"
+				"date": "2021-01-30",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138928.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547453"
 			}
 		],
 		"title": "The Fortune Teller",
