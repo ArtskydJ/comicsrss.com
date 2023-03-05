@@ -5237,8 +5237,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1112/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/family-circus/2023-03-04",
+		"mostRecentStripUrl": "https://comicskingdom.com/family-circus/2023-03-05",
 		"strips": [
+			{
+				"date": "2023-03-05",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDMvRmFtaWx5X0NpcmN1c19odC4yMDIzMDMwNV8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/family-circus/2023-03-05"
+			},
 			{
 				"date": "2023-03-04",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDMvRmFtaWx5X0NpcmN1cy4yMDIzMDMwNF82NTcucG5n",
@@ -5358,11 +5363,6 @@
 				"date": "2023-02-09",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDIvRmFtaWx5X0NpcmN1cy4yMDIzMDIwOV82NTcucG5n",
 				"url": "https://comicskingdom.com/family-circus/2023-02-09"
-			},
-			{
-				"date": "2023-02-08",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDIvRmFtaWx5X0NpcmN1cy4yMDIzMDIwOF82NTcucG5n",
-				"url": "https://comicskingdom.com/family-circus/2023-02-08"
 			}
 		],
 		"title": "The Family Circus",
@@ -5388,8 +5388,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1132/fg_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon/2023-02-26",
+		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon/2023-03-05",
 		"strips": [
+			{
+				"date": "2023-03-05",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Rmxhc2hHb3Jkb24vMjAyMy8wMy9GbGFzaF9ocy4yMDIzMDMwNV8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/flash-gordon/2023-03-05"
+			},
 			{
 				"date": "2023-02-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Rmxhc2hHb3Jkb24vMjAyMy8wMi9GbGFzaF9ocy4yMDIzMDIyNl8xNTM2LmdpZg==",
