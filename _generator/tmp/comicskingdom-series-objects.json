@@ -9093,8 +9093,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/352/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mary-worth/2023-03-14",
+		"mostRecentStripUrl": "https://comicskingdom.com/mary-worth/2023-03-15",
 		"strips": [
+			{
+				"date": "2023-03-15",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFyeVdvcnRoLzIwMjMvMDMvTWFyeV9Xb3J0aC4yMDIzMDMxNV8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/mary-worth/2023-03-15"
+			},
 			{
 				"date": "2023-03-14",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFyeVdvcnRoLzIwMjMvMDMvTWFyeV9Xb3J0aC4yMDIzMDMxNF8xNTM2LmdpZg==",
@@ -9214,11 +9219,6 @@
 				"date": "2023-02-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFyeVdvcnRoLzIwMjMvMDIvTWFyeV9Xb3J0aF9ocy4yMDIzMDIxOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/mary-worth/2023-02-19"
-			},
-			{
-				"date": "2023-02-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFyeVdvcnRoLzIwMjMvMDIvTWFyeV9Xb3J0aC4yMDIzMDIxOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/mary-worth/2023-02-18"
 			}
 		],
 		"title": "Mary Worth",
