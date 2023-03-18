@@ -2148,8 +2148,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/42/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey-1/2023-03-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey-1/2023-03-18",
 		"strips": [
+			{
+				"date": "2023-03-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDMvQmVldGxlX0JhaWxleS4yMDIzMDMxOF8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/beetle-bailey-1/2023-03-18"
+			},
 			{
 				"date": "2023-03-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDMvQmVldGxlX0JhaWxleS4yMDIzMDMxN18xNTM2LmdpZg==",
@@ -2269,11 +2274,6 @@
 				"date": "2023-02-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDIvQmVldGxlX0JhaWxleS4yMDIzMDIyMl8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/beetle-bailey-1/2023-02-22"
-			},
-			{
-				"date": "2023-02-21",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDIvQmVldGxlX0JhaWxleS4yMDIzMDIyMV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/beetle-bailey-1/2023-02-21"
 			}
 		],
 		"title": "Beetle Bailey",
@@ -4154,8 +4154,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/132/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-03-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-03-18",
 		"strips": [
+			{
+				"date": "2023-03-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDMvQ3VydGlzLjIwMjMwMzE4XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/curtis/2023-03-18"
+			},
 			{
 				"date": "2023-03-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDMvQ3VydGlzLjIwMjMwMzE3XzE1MzYuZ2lm",
@@ -4275,11 +4280,6 @@
 				"date": "2023-02-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDIvQ3VydGlzLjIwMjMwMjIyXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/curtis/2023-02-22"
-			},
-			{
-				"date": "2023-02-21",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDIvQ3VydGlzLjIwMjMwMjIxXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/curtis/2023-02-21"
 			}
 		],
 		"title": "Curtis",
