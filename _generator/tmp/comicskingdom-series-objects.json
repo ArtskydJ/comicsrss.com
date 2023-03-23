@@ -2782,8 +2782,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-03-22",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-03-23",
 		"strips": [
+			{
+				"date": "2023-03-23",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzAzL0Jsb25kaWUuMjAyMzAzMjNfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-03-23"
+			},
 			{
 				"date": "2023-03-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzAzL0Jsb25kaWUuMjAyMzAzMjJfMTUzNi5naWY=",
@@ -2903,11 +2908,6 @@
 				"date": "2023-02-27",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzAyL0Jsb25kaWUuMjAyMzAyMjdfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-02-27"
-			},
-			{
-				"date": "2023-02-26",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzAyL0Jsb25kaWVfZnQuMjAyMzAyMjZfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-02-26"
 			}
 		],
 		"title": "Blondie",
@@ -9755,8 +9755,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1212/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/on-the-fastrack/2023-03-22",
+		"mostRecentStripUrl": "https://comicskingdom.com/on-the-fastrack/2023-03-23",
 		"strips": [
+			{
+				"date": "2023-03-23",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzAzL0Zhc3RfVHJhY2suMjAyMzAzMjNfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/on-the-fastrack/2023-03-23"
+			},
 			{
 				"date": "2023-03-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzAzL0Zhc3RfVHJhY2suMjAyMzAzMjJfMTUzNi5naWY=",
@@ -9876,11 +9881,6 @@
 				"date": "2023-02-27",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzAyL0Zhc3RfVHJhY2suMjAyMzAyMjdfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/on-the-fastrack/2023-02-27"
-			},
-			{
-				"date": "2023-02-26",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzAyL0Zhc3RfVHJhY2tfaHMuMjAyMzAyMjZfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/on-the-fastrack/2023-02-26"
 			}
 		],
 		"title": "On The Fastrack",
