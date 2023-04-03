@@ -5041,8 +5041,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4316/Edge_City_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/edge-city/2023-04-02",
+		"mostRecentStripUrl": "https://comicskingdom.com/edge-city/2023-04-03",
 		"strips": [
+			{
+				"date": "2023-04-03",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wNC9FZGdlX0NpdHkuMjAyMzA0MDNfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/edge-city/2023-04-03"
+			},
 			{
 				"date": "2023-04-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wNC9FZGdlX0NpdHlfcXMuMjAyMzA0MDJfMTUzNi5naWY=",
@@ -5162,11 +5167,6 @@
 				"date": "2023-03-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wMy9FZGdlX0NpdHkuMjAyMzAzMTBfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/edge-city/2023-03-10"
-			},
-			{
-				"date": "2023-03-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wMy9FZGdlX0NpdHkuMjAyMzAzMDlfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/edge-city/2023-03-09"
 			}
 		],
 		"title": "Edge City",
@@ -7981,8 +7981,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/292/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-04-02",
+		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-04-03",
 		"strips": [
+			{
+				"date": "2023-04-03",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDQvTG9ja2hvcm5zLjIwMjMwNDAzXzY1Ny5wbmc=",
+				"url": "https://comicskingdom.com/lockhorns/2023-04-03"
+			},
 			{
 				"date": "2023-04-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDQvTG9ja2hvcm5zX212LjIwMjMwNDAyXzY1Ny5naWY=",
@@ -8102,11 +8107,6 @@
 				"date": "2023-03-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDMvTG9ja2hvcm5zLjIwMjMwMzEwXzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/lockhorns/2023-03-10"
-			},
-			{
-				"date": "2023-03-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDMvTG9ja2hvcm5zLjIwMjMwMzA5XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/lockhorns/2023-03-09"
 			}
 		],
 		"title": "The Lockhorns",
