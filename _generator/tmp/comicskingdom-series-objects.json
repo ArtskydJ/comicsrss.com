@@ -5657,8 +5657,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1302/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/hagar-the-horrible/2023-04-03",
+		"mostRecentStripUrl": "https://comicskingdom.com/hagar-the-horrible/2023-04-04",
 		"strips": [
+			{
+				"date": "2023-04-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA0L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDQwNF8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/hagar-the-horrible/2023-04-04"
+			},
 			{
 				"date": "2023-04-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA0L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDQwM18xNTM2LmdpZg==",
@@ -5778,11 +5783,6 @@
 				"date": "2023-03-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzAzL0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDMxMV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/hagar-the-horrible/2023-03-11"
-			},
-			{
-				"date": "2023-03-10",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzAzL0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDMxMF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/hagar-the-horrible/2023-03-10"
 			}
 		],
 		"title": "Hagar The Horrible",
@@ -9196,8 +9196,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1942/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-04-03",
+		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-04-04",
 		"strips": [
+			{
+				"date": "2023-04-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDA0XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/moose-and-molly/2023-04-04"
+			},
 			{
 				"date": "2023-04-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDAzXzE1MzYuZ2lm",
@@ -9317,11 +9322,6 @@
 				"date": "2023-03-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzAzL01vb3NlLjIwMjMwMzExXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/moose-and-molly/2023-03-11"
-			},
-			{
-				"date": "2023-03-10",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzAzL01vb3NlLjIwMjMwMzEwXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/moose-and-molly/2023-03-10"
 			}
 		],
 		"title": "Moose And Molly",
