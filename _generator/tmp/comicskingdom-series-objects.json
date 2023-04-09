@@ -3690,8 +3690,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/902/logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/candorville/2023-04-08",
+		"mostRecentStripUrl": "https://comicskingdom.com/candorville/2023-04-09",
 		"strips": [
+			{
+				"date": "2023-04-09",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wNC9DYW5kb3J2aWxsZV9xcy4yMDIzMDQwOV8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/candorville/2023-04-09"
+			},
 			{
 				"date": "2023-04-08",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wNC9DYW5kb3J2aWxsZS4yMDIzMDQwOF8xNTM2LmdpZg==",
@@ -3811,11 +3816,6 @@
 				"date": "2023-03-16",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wMy9DYW5kb3J2aWxsZS4yMDIzMDMxNl8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/candorville/2023-03-16"
-			},
-			{
-				"date": "2023-03-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wMy9DYW5kb3J2aWxsZS4yMDIzMDMxNV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/candorville/2023-03-15"
 			}
 		],
 		"title": "Candorville",
@@ -4608,8 +4608,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1032/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-04-08",
+		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-04-09",
 		"strips": [
+			{
+				"date": "2023-04-09",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2VfZnQuMjAyMzA0MDlfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-09"
+			},
 			{
 				"date": "2023-04-08",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MDhfNjU3LnBuZw==",
@@ -4729,11 +4734,6 @@
 				"date": "2023-03-16",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDMvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzAzMTZfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/dennis-the-menace/2023-03-16"
-			},
-			{
-				"date": "2023-03-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDMvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzAzMTVfNjU3LnBuZw==",
-				"url": "https://comicskingdom.com/dennis-the-menace/2023-03-15"
 			}
 		],
 		"title": "Dennis The Menace",
