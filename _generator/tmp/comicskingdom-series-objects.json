@@ -10139,8 +10139,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/992/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-04-08",
+		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-04-10",
 		"strips": [
+			{
+				"date": "2023-04-10",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzAxLmdpZg==",
+				"url": "https://comicskingdom.com/phantom-1/2023-04-10"
+			},
 			{
 				"date": "2023-04-08",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjI5LmdpZg==",
@@ -10260,11 +10265,6 @@
 				"date": "2023-03-13",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjAyLmdpZg==",
 				"url": "https://comicskingdom.com/phantom-1/2023-03-13"
-			},
-			{
-				"date": "2023-03-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjAxLmdpZg==",
-				"url": "https://comicskingdom.com/phantom-1/2023-03-11"
 			}
 		],
 		"title": "The Phantom",
@@ -11817,8 +11817,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/482/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/sally-forth/2023-04-09",
+		"mostRecentStripUrl": "https://comicskingdom.com/sally-forth/2023-04-10",
 		"strips": [
+			{
+				"date": "2023-04-10",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzA0L1NhbGx5X0ZvcnRoLjIwMjMwNDEwXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/sally-forth/2023-04-10"
+			},
 			{
 				"date": "2023-04-09",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzA0L1NhbGx5X0ZvcnRoX250Yi4yMDIzMDQwOV8xNTM2LmdpZg==",
@@ -11938,11 +11943,6 @@
 				"date": "2023-03-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzAzL1NhbGx5X0ZvcnRoLjIwMjMwMzE3XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/sally-forth/2023-03-17"
-			},
-			{
-				"date": "2023-03-16",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzAzL1NhbGx5X0ZvcnRoLjIwMjMwMzE2XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/sally-forth/2023-03-16"
 			}
 		],
 		"title": "Sally Forth",
