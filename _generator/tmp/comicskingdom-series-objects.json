@@ -5006,8 +5006,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4316/Edge_City_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/edge-city/2023-04-10",
+		"mostRecentStripUrl": "https://comicskingdom.com/edge-city/2023-04-11",
 		"strips": [
+			{
+				"date": "2023-04-11",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wNC9FZGdlX0NpdHkuMjAyMzA0MTFfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/edge-city/2023-04-11"
+			},
 			{
 				"date": "2023-04-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wNC9FZGdlX0NpdHkuMjAyMzA0MTBfMTUzNi5naWY=",
@@ -5127,11 +5132,6 @@
 				"date": "2023-03-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wMy9FZGdlX0NpdHkuMjAyMzAzMThfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/edge-city/2023-03-18"
-			},
-			{
-				"date": "2023-03-17",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wMy9FZGdlX0NpdHkuMjAyMzAzMTdfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/edge-city/2023-03-17"
 			}
 		],
 		"title": "Edge City",
