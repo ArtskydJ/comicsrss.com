@@ -1377,8 +1377,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/522/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/amazing-spider-man/2023-04-12",
+		"mostRecentStripUrl": "https://comicskingdom.com/amazing-spider-man/2023-04-13",
 		"strips": [
+			{
+				"date": "2023-04-13",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA0L1NwaWRlcm1hbi4yMDIzMDQxM18xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/amazing-spider-man/2023-04-13"
+			},
 			{
 				"date": "2023-04-12",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA0L1NwaWRlcm1hbi4yMDIzMDQxMl8xNTM2LmdpZg==",
@@ -1498,11 +1503,6 @@
 				"date": "2023-03-20",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzAzL1NwaWRlcm1hbi4yMDIzMDMyMF8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/amazing-spider-man/2023-03-20"
-			},
-			{
-				"date": "2023-03-19",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzAzL1NwaWRlcm1hbl9ocy4yMDIzMDMxOV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/amazing-spider-man/2023-03-19"
 			}
 		],
 		"title": "Amazing Spider-man",
