@@ -10124,8 +10124,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/992/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-04-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-04-17",
 		"strips": [
+			{
+				"date": "2023-04-17",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzA4LmdpZg==",
+				"url": "https://comicskingdom.com/phantom-1/2023-04-17"
+			},
 			{
 				"date": "2023-04-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzA3LmdpZg==",
@@ -10245,11 +10250,6 @@
 				"date": "2023-03-20",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjA5LmdpZg==",
 				"url": "https://comicskingdom.com/phantom-1/2023-03-20"
-			},
-			{
-				"date": "2023-03-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjA4LmdpZg==",
-				"url": "https://comicskingdom.com/phantom-1/2023-03-18"
 			}
 		],
 		"title": "The Phantom",
