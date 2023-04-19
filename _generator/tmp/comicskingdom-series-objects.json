@@ -1559,8 +1559,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2/AC-logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-04-18",
+		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-04-19",
 		"strips": [
+			{
+				"date": "2023-04-19",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDQvQXJjdGljLjIwMjMwNDE5XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/arctic-circle/2023-04-19"
+			},
 			{
 				"date": "2023-04-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDQvQXJjdGljLjIwMjMwNDE4XzE1MzYuZ2lm",
@@ -1680,11 +1685,6 @@
 				"date": "2023-03-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDMvQXJjdGljX250Yi4yMDIzMDMyNl8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/arctic-circle/2023-03-26"
-			},
-			{
-				"date": "2023-03-25",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDMvQXJjdGljLjIwMjMwMzI1XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/arctic-circle/2023-03-25"
 			}
 		],
 		"title": "Arctic Circle",
