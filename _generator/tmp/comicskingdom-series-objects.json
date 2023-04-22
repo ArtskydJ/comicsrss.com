@@ -548,8 +548,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4262/featured-image.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Macanudo/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/Macanudo/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wNC9NYWNhbnVkby4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/Macanudo/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wNC9NYWNhbnVkby4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -669,11 +674,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wMy9NYWNhbnVkby4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/Macanudo/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wMy9NYWNhbnVkby4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/Macanudo/2023-03-28"
 			}
 		],
 		"title": "Macanudo",
@@ -683,8 +683,13 @@
 		"author": "Ed Dodd",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Mark-Trail-Vintage/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/Mark-Trail-Vintage/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hcmtUcmFpbC8xOTczLzA0L01hcmtfVHJhaWxfYncuMTk3MzA0MjcuZ2lm",
+				"url": "https://comicskingdom.com/Mark-Trail-Vintage/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hcmtUcmFpbC8xOTczLzA0L01hcmtfVHJhaWxfYncuMTk3MzA0MjYuZ2lm",
@@ -804,11 +809,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hcmtUcmFpbC8xOTczLzA0L01hcmtfVHJhaWxfYncuMTk3MzA0MDMuZ2lm",
 				"url": "https://comicskingdom.com/Mark-Trail-Vintage/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hcmtUcmFpbC8xOTczLzA0L01hcmtfVHJhaWxfYncuMTk3MzA0MDIuZ2lm",
-				"url": "https://comicskingdom.com/Mark-Trail-Vintage/2023-03-28"
 			}
 		],
 		"title": "Mark Trail Vintage",
@@ -957,6 +957,11 @@
 		"mostRecentStripUrl": "https://comicskingdom.com/Show-Me-The-Funny/2023-04-22",
 		"strips": [
 			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMy8wNC9TTVRGLjIwMjMwNDIyXzY1Ny5wbmc=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny/2023-04-22"
+			},
+			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMy8wNC9TTVRGLjIwMjMwNDIxXzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/Show-Me-The-Funny/2023-04-21"
@@ -1075,11 +1080,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMy8wMy9TTVRGLjIwMjMwMzI5XzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/Show-Me-The-Funny/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnkvMjAyMy8wMy9TTVRGLjIwMjMwMzI4XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/Show-Me-The-Funny/2023-03-28"
 			}
 		],
 		"title": "Bob Mankoff Presents: Show Me The Funny",
@@ -1092,6 +1092,11 @@
 		"language": "eng",
 		"mostRecentStripUrl": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMDQvU01URi1QLjIwMjMwNDIyXzY1Ny5wbmc=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMDQvU01URi1QLjIwMjMwNDIxXzY1Ny5wbmc=",
@@ -1211,11 +1216,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMDMvU01URi1QLjIwMjMwMzI5XzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMDMvU01URi1QLjIwMjMwMzI4XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-03-28"
 			}
 		],
 		"title": "Bob Mankoff Presents: Show Me The Funny (Animal Edition)",
@@ -1362,8 +1362,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/522/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/amazing-spider-man/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/amazing-spider-man/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA0L1NwaWRlcm1hbi4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/amazing-spider-man/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA0L1NwaWRlcm1hbi4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -1483,11 +1488,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzAzL1NwaWRlcm1hbi4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/amazing-spider-man/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzAzL1NwaWRlcm1hbi4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/amazing-spider-man/2023-03-28"
 			}
 		],
 		"title": "Amazing Spider-man",
@@ -1549,8 +1549,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2/AC-logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDQvQXJjdGljLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/arctic-circle/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDQvQXJjdGljLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -1670,11 +1675,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDMvQXJjdGljLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/arctic-circle/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMDMvQXJjdGljLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/arctic-circle/2023-03-28"
 			}
 		],
 		"title": "Arctic Circle",
@@ -1685,8 +1685,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/32/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/barney-google-and-snuffy-smith/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/barney-google-and-snuffy-smith/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmFybmV5R29vZ2xlYW5kU251ZmZ5U21pdGgvMjAyMy8wNC9CYXJuZXlfR29vZ2xlLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/barney-google-and-snuffy-smith/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmFybmV5R29vZ2xlYW5kU251ZmZ5U21pdGgvMjAyMy8wNC9CYXJuZXlfR29vZ2xlLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -1806,11 +1811,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmFybmV5R29vZ2xlYW5kU251ZmZ5U21pdGgvMjAyMy8wMy9CYXJuZXlfR29vZ2xlLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/barney-google-and-snuffy-smith/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmFybmV5R29vZ2xlYW5kU251ZmZ5U21pdGgvMjAyMy8wMy9CYXJuZXlfR29vZ2xlLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/barney-google-and-snuffy-smith/2023-03-28"
 			}
 		],
 		"title": "Barney Google And Snuffy Smith",
@@ -1821,8 +1821,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/902/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/barney-google-and-snuffy-smith-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/barney-google-and-snuffy-smith-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0Jhcm5leUdvb2dsZWFuZFNudWZmeVNtaXRoLzE5NDgvMTEvQmFybmV5X0dvb2dsZV9idy4xOTQ4MTExMS5naWY=",
+				"url": "https://comicskingdom.com/barney-google-and-snuffy-smith-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0Jhcm5leUdvb2dsZWFuZFNudWZmeVNtaXRoLzE5NDgvMTEvQmFybmV5X0dvb2dsZV9idy4xOTQ4MTExMC5naWY=",
@@ -1942,11 +1947,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0Jhcm5leUdvb2dsZWFuZFNudWZmeVNtaXRoLzE5NDgvMTAvQmFybmV5X0dvb2dsZV9idy4xOTQ4MTAxOC5naWY=",
 				"url": "https://comicskingdom.com/barney-google-and-snuffy-smith-1/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0Jhcm5leUdvb2dsZWFuZFNudWZmeVNtaXRoLzE5NDgvMTAvQmFybmV5X0dvb2dsZV9idy4xOTQ4MTAxNi5naWY=",
-				"url": "https://comicskingdom.com/barney-google-and-snuffy-smith-1/2023-03-28"
 			}
 		],
 		"title": "Barney Google And Snuffy Smith",
@@ -2093,8 +2093,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/42/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDQvQmVldGxlX0JhaWxleS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/beetle-bailey-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDQvQmVldGxlX0JhaWxleS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -2214,11 +2219,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDMvQmVldGxlX0JhaWxleS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/beetle-bailey-1/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDMvQmVldGxlX0JhaWxleS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/beetle-bailey-1/2023-03-28"
 			}
 		],
 		"title": "Beetle Bailey",
@@ -2229,8 +2229,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/52/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/between-friends/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/between-friends/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wNC9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/between-friends/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wNC9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -2350,11 +2355,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wMy9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/between-friends/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wMy9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/between-friends/2023-03-28"
 			}
 		],
 		"title": "Between Friends",
@@ -2365,8 +2365,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/892/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/big-ben-bolt/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/big-ben-bolt/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2My8wMS9CaWdfQmVuX2J3LjE5NjMwMTAxLmdpZg==",
+				"url": "https://comicskingdom.com/big-ben-bolt/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2Mi8xMi9CaWdfQmVuX2J3LjE5NjIxMjMxLmdpZg==",
@@ -2486,11 +2491,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2Mi8xMi9CaWdfQmVuX2J3LjE5NjIxMjA0LmdpZg==",
 				"url": "https://comicskingdom.com/big-ben-bolt/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2Mi8xMi9CaWdfQmVuX2J3LjE5NjIxMjAzLmdpZg==",
-				"url": "https://comicskingdom.com/big-ben-bolt/2023-03-24"
 			}
 		],
 		"title": "Big Ben Bolt",
@@ -2571,8 +2571,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/72/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/bizarro/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/bizarro/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzA0L0JpemFycm9fcC4yMDIzMDQyMl82NTcucG5n",
+				"url": "https://comicskingdom.com/bizarro/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzA0L0JpemFycm9fcC4yMDIzMDQyMV82NTcucG5n",
@@ -2692,11 +2697,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzAzL0JpemFycm9fcC4yMDIzMDMyOV82NTcucG5n",
 				"url": "https://comicskingdom.com/bizarro/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzAzL0JpemFycm9fcC4yMDIzMDMyOF82NTcucG5n",
-				"url": "https://comicskingdom.com/bizarro/2023-03-28"
 			}
 		],
 		"title": "Bizarro",
@@ -2707,8 +2707,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA0L0Jsb25kaWUuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA0L0Jsb25kaWUuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -2828,11 +2833,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzAzL0Jsb25kaWUuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzAzL0Jsb25kaWUuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-03-28"
 			}
 		],
 		"title": "Blondie",
@@ -2843,8 +2843,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1142/logos/website.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/boners-ark/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/boners-ark/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JvbmVyc0Fyay8xOTc3LzA2L0JvbmVyc19BcmtfYncuMTk3NzA2MDIuZ2lm",
+				"url": "https://comicskingdom.com/boners-ark/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JvbmVyc0Fyay8xOTc3LzA2L0JvbmVyc19BcmtfYncuMTk3NzA2MDEuZ2lm",
@@ -2964,11 +2969,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JvbmVyc0Fyay8xOTc3LzA1L0JvbmVyc19BcmtfYncuMTk3NzA1MDUuZ2lm",
 				"url": "https://comicskingdom.com/boners-ark/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JvbmVyc0Fyay8xOTc3LzA1L0JvbmVyc19BcmtfYncuMTk3NzA1MDQuZ2lm",
-				"url": "https://comicskingdom.com/boners-ark/2023-03-24"
 			}
 		],
 		"title": "Boner's Ark",
@@ -3066,8 +3066,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/882/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/brick-bradford/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/brick-bradford/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaWNrQnJhZGZvcmQvMTk1MS8wNC9Ccmlja19idy4xOTUxMDQyNy5naWY=",
+				"url": "https://comicskingdom.com/brick-bradford/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaWNrQnJhZGZvcmQvMTk1MS8wNC9Ccmlja19idy4xOTUxMDQyNi5naWY=",
@@ -3187,11 +3192,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaWNrQnJhZGZvcmQvMTk1MS8wMy9Ccmlja19idy4xOTUxMDMzMC5naWY=",
 				"url": "https://comicskingdom.com/brick-bradford/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaWNrQnJhZGZvcmQvMTk1MS8wMy9Ccmlja19idy4xOTUxMDMyOS5naWY=",
-				"url": "https://comicskingdom.com/brick-bradford/2023-03-24"
 			}
 		],
 		"title": "Brick Bradford",
@@ -3202,8 +3202,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/162/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/brilliant-mind-of-edison-lee/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/brilliant-mind-of-edison-lee/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQnJpbGxpYW50TWluZE9mRWRpc29uTGVlLzIwMjMvMDQvRWRpc29uLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/brilliant-mind-of-edison-lee/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQnJpbGxpYW50TWluZE9mRWRpc29uTGVlLzIwMjMvMDQvRWRpc29uLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -3323,11 +3328,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQnJpbGxpYW50TWluZE9mRWRpc29uTGVlLzIwMjMvMDMvRWRpc29uLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/brilliant-mind-of-edison-lee/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQnJpbGxpYW50TWluZE9mRWRpc29uTGVlLzIwMjMvMDMvRWRpc29uLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/brilliant-mind-of-edison-lee/2023-03-28"
 			}
 		],
 		"title": "The Brilliant Mind Of Edison Lee",
@@ -3338,8 +3338,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/922/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/bringing-up-father/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/bringing-up-father/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaW5naW5nVXBGYXRoZXIvMTk0OS8wMi9CcmluZ2luZ19VcF9GYXRoZXJfYncuMTk0OTAyMTUuZ2lm",
+				"url": "https://comicskingdom.com/bringing-up-father/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaW5naW5nVXBGYXRoZXIvMTk0OS8wMi9CcmluZ2luZ19VcF9GYXRoZXJfYncuMTk0OTAyMTQuZ2lm",
@@ -3459,11 +3464,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaW5naW5nVXBGYXRoZXIvMTk0OS8wMS9CcmluZ2luZ19VcF9GYXRoZXJfYncuMTk0OTAxMTguZ2lm",
 				"url": "https://comicskingdom.com/bringing-up-father/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JyaW5naW5nVXBGYXRoZXIvMTk0OS8wMS9CcmluZ2luZ19VcF9GYXRoZXJfYncuMTk0OTAxMTcuZ2lm",
-				"url": "https://comicskingdom.com/bringing-up-father/2023-03-24"
 			}
 		],
 		"title": "Bringing Up Father",
@@ -3474,8 +3474,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/932/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/buz-sawyer/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/buz-sawyer/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0J1elNhd3llci8xOTYwLzAxL0J1el9TYXd5ZXJfYncuMTk2MDAxMDUuZ2lm",
+				"url": "https://comicskingdom.com/buz-sawyer/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0J1elNhd3llci8xOTYwLzAxL0J1el9TYXd5ZXJfYncuMTk2MDAxMDQuZ2lm",
@@ -3595,11 +3600,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0J1elNhd3llci8xOTU5LzEyL0J1el9TYXd5ZXJfYncuMTk1OTEyMDguZ2lm",
 				"url": "https://comicskingdom.com/buz-sawyer/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0J1elNhd3llci8xOTU5LzEyL0J1el9TYXd5ZXJfYncuMTk1OTEyMDcuZ2lm",
-				"url": "https://comicskingdom.com/buz-sawyer/2023-03-24"
 			}
 		],
 		"title": "Buz Sawyer",
@@ -3610,8 +3610,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/902/logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/candorville/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/candorville/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wNC9DYW5kb3J2aWxsZS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/candorville/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wNC9DYW5kb3J2aWxsZS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -3731,11 +3736,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wMy9DYW5kb3J2aWxsZS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/candorville/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FuZG9ydmlsbGUvMjAyMy8wMy9DYW5kb3J2aWxsZS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/candorville/2023-03-28"
 			}
 		],
 		"title": "Candorville",
@@ -3746,8 +3746,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/3922/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/carpe-diem/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/carpe-diem/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDQvQ2FycGUuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/carpe-diem/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDQvQ2FycGUuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -3867,11 +3872,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDMvQ2FycGUuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/carpe-diem/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDMvQ2FycGUuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/carpe-diem/2023-03-28"
 			}
 		],
 		"title": "Carpe Diem",
@@ -3898,8 +3898,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/952/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/crock/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/crock/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNC9Dcm9jay4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/crock/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNC9Dcm9jay4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -4019,11 +4024,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wMy9Dcm9jay4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/crock/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wMy9Dcm9jay4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/crock/2023-03-28"
 			}
 		],
 		"title": "Crock",
@@ -4034,8 +4034,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/132/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDQvQ3VydGlzLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/curtis/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDQvQ3VydGlzLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -4155,11 +4160,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDMvQ3VydGlzLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/curtis/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDMvQ3VydGlzLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/curtis/2023-03-28"
 			}
 		],
 		"title": "Curtis",
@@ -4170,8 +4170,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4232/ddaze-logo_kfs.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/daddy-daze/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/daddy-daze/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFkZHlEYXplLzIwMjMvMDQvRGFkZHlfRGF6ZS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/daddy-daze/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFkZHlEYXplLzIwMjMvMDQvRGFkZHlfRGF6ZS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -4291,11 +4296,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFkZHlEYXplLzIwMjMvMDMvRGFkZHlfRGF6ZS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/daddy-daze/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFkZHlEYXplLzIwMjMvMDMvRGFkZHlfRGF6ZS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/daddy-daze/2023-03-28"
 			}
 		],
 		"title": "Daddy Daze",
@@ -4402,8 +4402,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2302/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/david-m-hitch/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/david-m-hitch/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzA0L0hpdGNoLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/david-m-hitch/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzA0L0hpdGNoLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -4523,11 +4528,6 @@
 				"date": "2023-03-16",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzAzL0hpdGNoLjIwMjMwMzE2XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/david-m-hitch/2023-03-16"
-			},
-			{
-				"date": "2023-03-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzAzL0hpdGNoLjIwMjMwMzE1XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/david-m-hitch/2023-03-15"
 			}
 		],
 		"title": "David M. Hitch",
@@ -4538,8 +4538,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1032/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MjJfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MjFfNjU3LnBuZw==",
@@ -4659,11 +4664,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDMvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzAzMjlfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/dennis-the-menace/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDMvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzAzMjhfNjU3LnBuZw==",
-				"url": "https://comicskingdom.com/dennis-the-menace/2023-03-28"
 			}
 		],
 		"title": "Dennis The Menace",
@@ -4674,8 +4674,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2162/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dustin/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/dustin/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDQvRHVzdGluLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/dustin/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDQvRHVzdGluLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -4795,11 +4800,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDMvRHVzdGluLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/dustin/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDMvRHVzdGluLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/dustin/2023-03-28"
 			}
 		],
 		"title": "Dustin",
@@ -4946,8 +4946,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4316/Edge_City_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/edge-city/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/edge-city/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wNC9FZGdlX0NpdHkuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/edge-city/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wNC9FZGdlX0NpdHkuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -5067,11 +5072,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wMy9FZGdlX0NpdHkuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/edge-city/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RWRnZUNpdHkvMjAyMy8wMy9FZGdlX0NpdHkuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/edge-city/2023-03-28"
 			}
 		],
 		"title": "Edge City",
@@ -5082,8 +5082,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1112/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/family-circus/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/family-circus/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDQvRmFtaWx5X0NpcmN1cy4yMDIzMDQyMl82NTcucG5n",
+				"url": "https://comicskingdom.com/family-circus/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDQvRmFtaWx5X0NpcmN1cy4yMDIzMDQyMV82NTcucG5n",
@@ -5203,11 +5208,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDMvRmFtaWx5X0NpcmN1cy4yMDIzMDMyOV82NTcucG5n",
 				"url": "https://comicskingdom.com/family-circus/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMDMvRmFtaWx5X0NpcmN1cy4yMDIzMDMyOF82NTcucG5n",
-				"url": "https://comicskingdom.com/family-circus/2023-03-28"
 			}
 		],
 		"title": "The Family Circus",
@@ -5304,8 +5304,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/942/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDYvRmxhc2hfYncuMTk2ODA2MDUuZ2lm",
+				"url": "https://comicskingdom.com/flash-gordon-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDYvRmxhc2hfYncuMTk2ODA2MDQuZ2lm",
@@ -5425,11 +5430,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDUvRmxhc2hfYncuMTk2ODA1MDguZ2lm",
 				"url": "https://comicskingdom.com/flash-gordon-1/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDUvRmxhc2hfYncuMTk2ODA1MDcuZ2lm",
-				"url": "https://comicskingdom.com/flash-gordon-1/2023-03-24"
 			}
 		],
 		"title": "Flash Gordon",
@@ -5557,8 +5557,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1302/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/hagar-the-horrible/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/hagar-the-horrible/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA0L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/hagar-the-horrible/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA0L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -5678,11 +5683,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzAzL0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/hagar-the-horrible/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzAzL0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/hagar-the-horrible/2023-03-28"
 			}
 		],
 		"title": "Hagar The Horrible",
@@ -5693,8 +5693,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/952/hjj_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/heart-of-juliet-jones/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/heart-of-juliet-jones/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hlYXJ0b2ZKdWxpZXRKb25lcy8xOTY2LzAyL0p1bGlldF9Kb25lc19idy4xOTY2MDIwMi5naWY=",
+				"url": "https://comicskingdom.com/heart-of-juliet-jones/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hlYXJ0b2ZKdWxpZXRKb25lcy8xOTY2LzAyL0p1bGlldF9Kb25lc19idy4xOTY2MDIwMS5naWY=",
@@ -5814,11 +5819,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hlYXJ0b2ZKdWxpZXRKb25lcy8xOTY2LzAxL0p1bGlldF9Kb25lc19idy4xOTY2MDEwNS5naWY=",
 				"url": "https://comicskingdom.com/heart-of-juliet-jones/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hlYXJ0b2ZKdWxpZXRKb25lcy8xOTY2LzAxL0p1bGlldF9Kb25lc19idy4xOTY2MDEwNC5naWY=",
-				"url": "https://comicskingdom.com/heart-of-juliet-jones/2023-03-24"
 			}
 		],
 		"title": "Heart Of Juliet Jones",
@@ -5900,8 +5900,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/242/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/hi-and-lois/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/hi-and-lois/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDQvSGlfYW5kX0xvaXMuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/hi-and-lois/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDQvSGlfYW5kX0xvaXMuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -6021,11 +6026,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDMvSGlfYW5kX0xvaXMuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/hi-and-lois/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDMvSGlfYW5kX0xvaXMuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/hi-and-lois/2023-03-28"
 			}
 		],
 		"title": "Hi and Lois",
@@ -6036,8 +6036,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1122/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/hi-and-lois-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/hi-and-lois-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hpQW5kTG9pcy8xOTY1LzEwL0hpX2FuZF9Mb2lzX2J3LjE5NjUxMDI1LmdpZg==",
+				"url": "https://comicskingdom.com/hi-and-lois-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hpQW5kTG9pcy8xOTY1LzEwL0hpX2FuZF9Mb2lzX2J3LjE5NjUxMDIzLmdpZg==",
@@ -6157,11 +6162,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hpQW5kTG9pcy8xOTY1LzA5L0hpX2FuZF9Mb2lzX2J3LjE5NjUwOTI3LmdpZg==",
 				"url": "https://comicskingdom.com/hi-and-lois-1/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0hpQW5kTG9pcy8xOTY1LzA5L0hpX2FuZF9Mb2lzX2J3LjE5NjUwOTI1LmdpZg==",
-				"url": "https://comicskingdom.com/hi-and-lois-1/2023-03-24"
 			}
 		],
 		"title": "Hi And Lois",
@@ -6172,8 +6172,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2332/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/jimmy-margulies/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/jimmy-margulies/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SmltbXlNYXJndWxpZXMvMjAyMy8wNC9NYXJndWxpZXMuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/jimmy-margulies/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SmltbXlNYXJndWxpZXMvMjAyMy8wNC9NYXJndWxpZXMuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -6293,11 +6298,6 @@
 				"date": "2023-03-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SmltbXlNYXJndWxpZXMvMjAyMy8wMy9NYXJndWxpZXMuMjAyMzAzMjFfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/jimmy-margulies/2023-03-21"
-			},
-			{
-				"date": "2023-03-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SmltbXlNYXJndWxpZXMvMjAyMy8wMy9NYXJndWxpZXMuMjAyMzAzMThfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/jimmy-margulies/2023-03-18"
 			}
 		],
 		"title": "Jimmy Margulies",
@@ -6424,8 +6424,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1162/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/johnny-hazard/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/johnny-hazard/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0pvaG5ueUhhemFyZC8xOTUzLzA5L0pvaG5ueV9IYXphcmRfYncuMTk1MzA5MTcuZ2lm",
+				"url": "https://comicskingdom.com/johnny-hazard/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0pvaG5ueUhhemFyZC8xOTUzLzA5L0pvaG5ueV9IYXphcmRfYncuMTk1MzA5MTYuZ2lm",
@@ -6545,11 +6550,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0pvaG5ueUhhemFyZC8xOTUzLzA4L0pvaG5ueV9IYXphcmRfYncuMTk1MzA4MjAuZ2lm",
 				"url": "https://comicskingdom.com/johnny-hazard/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0pvaG5ueUhhemFyZC8xOTUzLzA4L0pvaG5ueV9IYXphcmRfYncuMTk1MzA4MTkuZ2lm",
-				"url": "https://comicskingdom.com/johnny-hazard/2023-03-24"
 			}
 		],
 		"title": "Johnny Hazard",
@@ -6560,8 +6560,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/282/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/judge-parker/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/judge-parker/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SnVkZ2VQYXJrZXIvMjAyMy8wNC9KdWRnZV9QYXJrZXIuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/judge-parker/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SnVkZ2VQYXJrZXIvMjAyMy8wNC9KdWRnZV9QYXJrZXIuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -6681,11 +6686,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SnVkZ2VQYXJrZXIvMjAyMy8wMy9KdWRnZV9QYXJrZXIuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/judge-parker/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SnVkZ2VQYXJrZXIvMjAyMy8wMy9KdWRnZV9QYXJrZXIuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/judge-parker/2023-03-28"
 			}
 		],
 		"title": "Judge Parker",
@@ -6696,8 +6696,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1112/jp_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/judge-parker-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/judge-parker-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODAvMDkvSnVkZ2VfUGFya2VyX2J3LjE5ODAwOTEzLmdpZg==",
+				"url": "https://comicskingdom.com/judge-parker-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODAvMDkvSnVkZ2VfUGFya2VyX2J3LjE5ODAwOTEyLmdpZg==",
@@ -6817,11 +6822,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODAvMDQvSnVkZ2VfUGFya2VyX2J3LjE5ODAwNDI5LmdpZg==",
 				"url": "https://comicskingdom.com/judge-parker-1/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODAvMDQvSnVkZ2VfUGFya2VyX2J3LjE5ODAwNDI4LmdpZg==",
-				"url": "https://comicskingdom.com/judge-parker-1/2023-03-24"
 			}
 		],
 		"title": "Judge Parker",
@@ -7044,8 +7044,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/3892/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/kevin-and-kell/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/kevin-and-kell/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDQvS2V2aW5fYW5kX0tlbGwuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/kevin-and-kell/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDQvS2V2aW5fYW5kX0tlbGwuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -7165,11 +7170,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDMvS2V2aW5fYW5kX0tlbGwuMjAyMzAzMjVfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/kevin-and-kell/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDMvS2V2aW5fYW5kX0tlbGwuMjAyMzAzMjRfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/kevin-and-kell/2023-03-24"
 			}
 		],
 		"title": "Kevin and Kell",
@@ -7180,8 +7180,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1062/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/king-of-the-royal-mounted/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/king-of-the-royal-mounted/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tpbmdvZnRoZVJveWFsTW91bnRlZC8xOTUwLzA3L0tpbmdfTW91bnRlZF9idy4xOTUwMDcxOC5naWY=",
+				"url": "https://comicskingdom.com/king-of-the-royal-mounted/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tpbmdvZnRoZVJveWFsTW91bnRlZC8xOTUwLzA3L0tpbmdfTW91bnRlZF9idy4xOTUwMDcxNy5naWY=",
@@ -7301,11 +7306,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tpbmdvZnRoZVJveWFsTW91bnRlZC8xOTUwLzA2L0tpbmdfTW91bnRlZF9idy4xOTUwMDYyMC5naWY=",
 				"url": "https://comicskingdom.com/king-of-the-royal-mounted/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tpbmdvZnRoZVJveWFsTW91bnRlZC8xOTUwLzA2L0tpbmdfTW91bnRlZF9idy4xOTUwMDYxOS5naWY=",
-				"url": "https://comicskingdom.com/king-of-the-royal-mounted/2023-03-24"
 			}
 		],
 		"title": "King of the Royal Mounted",
@@ -7316,8 +7316,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2362/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/kirk-walters/2023-04-19",
+		"mostRecentStripUrl": "https://comicskingdom.com/kirk-walters/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wNC9XYWx0ZXJzLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/kirk-walters/2023-04-22"
+			},
 			{
 				"date": "2023-04-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wNC9XYWx0ZXJzLjIwMjMwNDE5XzE1MzYuZ2lm",
@@ -7432,8 +7437,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/962/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/krazy-kat/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/krazy-kat/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tyYXp5S2F0LzE5MzcvMDQvS3JhenlfYncuMTkzNzA0MTQuZ2lm",
+				"url": "https://comicskingdom.com/krazy-kat/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tyYXp5S2F0LzE5MzcvMDQvS3JhenlfYncuMTkzNzA0MTMuZ2lm",
@@ -7553,11 +7563,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tyYXp5S2F0LzE5MzcvMDMvS3JhenlfYncuMTkzNzAzMTcuZ2lm",
 				"url": "https://comicskingdom.com/krazy-kat/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0tyYXp5S2F0LzE5MzcvMDMvS3JhenlfYncuMTkzNzAzMTYuZ2lm",
-				"url": "https://comicskingdom.com/krazy-kat/2023-03-24"
 			}
 		],
 		"title": "Krazy Kat",
@@ -7568,8 +7573,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2312/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/lee-judge/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/lee-judge/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8wNC9KdWRnZS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/lee-judge/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8wNC9KdWRnZS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -7689,11 +7699,6 @@
 				"date": "2023-03-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8wMy9KdWRnZS4yMDIzMDMyMV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/lee-judge/2023-03-21"
-			},
-			{
-				"date": "2023-03-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8wMy9KdWRnZS4yMDIzMDMxOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/lee-judge/2023-03-18"
 			}
 		],
 		"title": "Lee Judge",
@@ -7846,8 +7851,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/292/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDQvTG9ja2hvcm5zLjIwMjMwNDIyXzY1Ny5wbmc=",
+				"url": "https://comicskingdom.com/lockhorns/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDQvTG9ja2hvcm5zLjIwMjMwNDIxXzY1Ny5wbmc=",
@@ -7967,11 +7977,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDMvTG9ja2hvcm5zLjIwMjMwMzI5XzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/lockhorns/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDMvTG9ja2hvcm5zLjIwMjMwMzI4XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/lockhorns/2023-03-28"
 			}
 		],
 		"title": "The Lockhorns",
@@ -7982,8 +7987,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/312/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mallard-fillmore/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/mallard-fillmore/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFsbGFyZEZpbGxtb3JlLzIwMjMvMDQvTWFsbGFyZF9GaWxsbW9yZS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/mallard-fillmore/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFsbGFyZEZpbGxtb3JlLzIwMjMvMDQvTWFsbGFyZF9GaWxsbW9yZS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -8103,11 +8113,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFsbGFyZEZpbGxtb3JlLzIwMjMvMDMvTWFsbGFyZF9GaWxsbW9yZS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/mallard-fillmore/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFsbGFyZEZpbGxtb3JlLzIwMjMvMDMvTWFsbGFyZF9GaWxsbW9yZS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/mallard-fillmore/2023-03-28"
 			}
 		],
 		"title": "Mallard Fillmore",
@@ -8118,8 +8123,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/972/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mandrake-the-magician/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/mandrake-the-magician/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hbmRyYWtlVGhlTWFnaWNpYW4vMTk1MS8wMS9NYW5kcmFrZV9idy4xOTUxMDExMy5naWY=",
+				"url": "https://comicskingdom.com/mandrake-the-magician/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hbmRyYWtlVGhlTWFnaWNpYW4vMTk1MS8wMS9NYW5kcmFrZV9idy4xOTUxMDExMi5naWY=",
@@ -8239,11 +8249,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hbmRyYWtlVGhlTWFnaWNpYW4vMTk1MC8xMi9NYW5kcmFrZV9idy4xOTUwMTIxNi5naWY=",
 				"url": "https://comicskingdom.com/mandrake-the-magician/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L01hbmRyYWtlVGhlTWFnaWNpYW4vMTk1MC8xMi9NYW5kcmFrZV9idy4xOTUwMTIxNS5naWY=",
-				"url": "https://comicskingdom.com/mandrake-the-magician/2023-03-24"
 			}
 		],
 		"title": "Mandrake The Magician",
@@ -8254,8 +8259,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/322/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mandrake-the-magician-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/mandrake-the-magician-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzA0L01hbmRyYWtlLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/mandrake-the-magician-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzA0L01hbmRyYWtlLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -8375,11 +8385,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzAzL01hbmRyYWtlLjIwMjMwMzI1XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/mandrake-the-magician-1/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzAzL01hbmRyYWtlLjIwMjMwMzI0XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/mandrake-the-magician-1/2023-03-24"
 			}
 		],
 		"title": "Mandrake The Magician",
@@ -8491,8 +8496,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/332/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mark-trail/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/mark-trail/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFya1RyYWlsLzIwMjMvMDQvTWFya19UcmFpbC4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/mark-trail/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFya1RyYWlsLzIwMjMvMDQvTWFya19UcmFpbC4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -8612,11 +8622,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFya1RyYWlsLzIwMjMvMDMvTWFya19UcmFpbC4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/mark-trail/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFya1RyYWlsLzIwMjMvMDMvTWFya19UcmFpbC4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/mark-trail/2023-03-28"
 			}
 		],
 		"title": "Mark Trail",
@@ -8627,8 +8632,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/342/logos/website.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/marvin/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/marvin/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFydmluLzIwMjMvMDQvTWFydmluLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/marvin/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFydmluLzIwMjMvMDQvTWFydmluLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -8748,11 +8758,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFydmluLzIwMjMvMDMvTWFydmluLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/marvin/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFydmluLzIwMjMvMDMvTWFydmluLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/marvin/2023-03-28"
 			}
 		],
 		"title": "Marvin",
@@ -8930,8 +8935,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2252/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mike-smith/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/mike-smith/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWlrZVNtaXRoLzIwMjMvMDQvTWlrZV9TbWl0aC4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/mike-smith/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWlrZVNtaXRoLzIwMjMvMDQvTWlrZV9TbWl0aC4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -9051,11 +9061,6 @@
 				"date": "2023-03-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWlrZVNtaXRoLzIwMjMvMDMvTWlrZV9TbWl0aC4yMDIzMDMxOF8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/mike-smith/2023-03-18"
-			},
-			{
-				"date": "2023-03-17",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWlrZVNtaXRoLzIwMjMvMDMvTWlrZV9TbWl0aC4yMDIzMDMxN18xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/mike-smith/2023-03-17"
 			}
 		],
 		"title": "Mike Smith",
@@ -9066,8 +9071,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1942/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/moose-and-molly/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -9187,11 +9197,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzAzL01vb3NlLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/moose-and-molly/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzAzL01vb3NlLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/moose-and-molly/2023-03-28"
 			}
 		],
 		"title": "Moose And Molly",
@@ -9218,8 +9223,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1572/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mutts/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/mutts/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TXV0dHMvMjAyMy8wNC9NdXR0cy4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/mutts/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TXV0dHMvMjAyMy8wNC9NdXR0cy4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -9339,11 +9349,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TXV0dHMvMjAyMy8wMy9NdXR0cy4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/mutts/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TXV0dHMvMjAyMy8wMy9NdXR0cy4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/mutts/2023-03-28"
 			}
 		],
 		"title": "Mutts",
@@ -9354,8 +9359,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/982/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/office-hours/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/office-hours/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L09mZmljZUhvdXJzLzE5NjIvMDYvT2ZmaWNlX0hvdXJzX2J3LjE5NjIwNjE2LmdpZg==",
+				"url": "https://comicskingdom.com/office-hours/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L09mZmljZUhvdXJzLzE5NjIvMDYvT2ZmaWNlX0hvdXJzX2J3LjE5NjIwNjE1LmdpZg==",
@@ -9475,11 +9485,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L09mZmljZUhvdXJzLzE5NjIvMDUvT2ZmaWNlX0hvdXJzX2J3LjE5NjIwNTE5LmdpZg==",
 				"url": "https://comicskingdom.com/office-hours/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L09mZmljZUhvdXJzLzE5NjIvMDUvT2ZmaWNlX0hvdXJzX2J3LjE5NjIwNTE4LmdpZg==",
-				"url": "https://comicskingdom.com/office-hours/2023-03-24"
 			}
 		],
 		"title": "Office Hours",
@@ -9490,8 +9495,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1212/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/on-the-fastrack/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/on-the-fastrack/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzA0L0Zhc3RfVHJhY2suMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/on-the-fastrack/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzA0L0Zhc3RfVHJhY2suMjAyMzA0MjFfMTUzNi5naWY=",
@@ -9611,11 +9621,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzAzL0Zhc3RfVHJhY2suMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/on-the-fastrack/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzAzL0Zhc3RfVHJhY2suMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/on-the-fastrack/2023-03-28"
 			}
 		],
 		"title": "On The Fastrack",
@@ -9626,8 +9631,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1662/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/pajama-diaries/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/pajama-diaries/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGFqYW1hRGlhcmllcy8yMDIzLzA0L1BhamFtYS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/pajama-diaries/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGFqYW1hRGlhcmllcy8yMDIzLzA0L1BhamFtYS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -9747,11 +9757,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGFqYW1hRGlhcmllcy8yMDIzLzAzL1BhamFtYS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/pajama-diaries/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGFqYW1hRGlhcmllcy8yMDIzLzAzL1BhamFtYS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/pajama-diaries/2023-03-28"
 			}
 		],
 		"title": "The Pajama Diaries",
@@ -9762,8 +9767,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/422/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/pardon-my-planet/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/pardon-my-planet/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wNC9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzA0MjJfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/pardon-my-planet/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wNC9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzA0MjFfNjU3LnBuZw==",
@@ -9883,11 +9893,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wMy9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzAzMjlfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/pardon-my-planet/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wMy9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzAzMjhfNjU3LnBuZw==",
-				"url": "https://comicskingdom.com/pardon-my-planet/2023-03-28"
 			}
 		],
 		"title": "Pardon My Planet",
@@ -9898,8 +9903,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1692/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/phantom/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/phantom/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGhhbnRvbS8yMDIzLzA0L1BoYW50b20uMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/phantom/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGhhbnRvbS8yMDIzLzA0L1BoYW50b20uMjAyMzA0MjFfMTUzNi5naWY=",
@@ -10019,11 +10029,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGhhbnRvbS8yMDIzLzAzL1BoYW50b20uMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/phantom/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlUGhhbnRvbS8yMDIzLzAzL1BoYW50b20uMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/phantom/2023-03-28"
 			}
 		],
 		"title": "The Phantom",
@@ -10034,8 +10039,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/992/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzE0LmdpZg==",
+				"url": "https://comicskingdom.com/phantom-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzEzLmdpZg==",
@@ -10155,11 +10165,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjE1LmdpZg==",
 				"url": "https://comicskingdom.com/phantom-1/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjE0LmdpZg==",
-				"url": "https://comicskingdom.com/phantom-1/2023-03-24"
 			}
 		],
 		"title": "The Phantom",
@@ -10241,8 +10246,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/232/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/popeye/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/popeye/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDQvUG9wZXllLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/popeye/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDQvUG9wZXllLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -10362,11 +10372,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDMvUG9wZXllLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/popeye/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDMvUG9wZXllLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/popeye/2023-03-28"
 			}
 		],
 		"title": "Popeye",
@@ -10533,8 +10538,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/272/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/pros-cons/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/pros-cons/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wNC9Qcm9zX2FuZF9Db25zLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/pros-cons/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wNC9Qcm9zX2FuZF9Db25zLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -10654,11 +10664,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wMy9Qcm9zX2FuZF9Db25zLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/pros-cons/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wMy9Qcm9zX2FuZF9Db25zLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/pros-cons/2023-03-28"
 			}
 		],
 		"title": "Pros & Cons",
@@ -10669,8 +10674,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1002/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/quincy/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/quincy/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1F1aW5jeS8xOTg0LzAyL1F1aW5jeV9idy4xOTg0MDIyNy5naWY=",
+				"url": "https://comicskingdom.com/quincy/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1F1aW5jeS8xOTg0LzAyL1F1aW5jeV9idy4xOTg0MDIyNS5naWY=",
@@ -10790,11 +10800,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1F1aW5jeS8xOTg0LzAxL1F1aW5jeV9idy4xOTg0MDEzMC5naWY=",
 				"url": "https://comicskingdom.com/quincy/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1F1aW5jeS8xOTg0LzAxL1F1aW5jeV9idy4xOTg0MDEyOC5naWY=",
-				"url": "https://comicskingdom.com/quincy/2023-03-24"
 			}
 		],
 		"title": "Quincy",
@@ -10805,8 +10810,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1012/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/radio-patrol/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/radio-patrol/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JhZGlvUGF0cm9sLzE5NDEvMDQvUmFkaW9fUGF0cm9sX2J3LjE5NDEwNDE2LmdpZg==",
+				"url": "https://comicskingdom.com/radio-patrol/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JhZGlvUGF0cm9sLzE5NDEvMDQvUmFkaW9fUGF0cm9sX2J3LjE5NDEwNDE1LmdpZg==",
@@ -10926,11 +10936,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JhZGlvUGF0cm9sLzE5NDEvMDMvUmFkaW9fUGF0cm9sX2J3LjE5NDEwMzE5LmdpZg==",
 				"url": "https://comicskingdom.com/radio-patrol/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JhZGlvUGF0cm9sLzE5NDEvMDMvUmFkaW9fUGF0cm9sX2J3LjE5NDEwMzE4LmdpZg==",
-				"url": "https://comicskingdom.com/radio-patrol/2023-03-24"
 			}
 		],
 		"title": "Radio Patrol",
@@ -10941,8 +10946,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4294/rae_title.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rae-the-doe/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/rae-the-doe/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmFlVGhlRG9lLzIwMjMvMDQvUmFlX3RoZV9Eb2UuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/rae-the-doe/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmFlVGhlRG9lLzIwMjMvMDQvUmFlX3RoZV9Eb2UuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -11062,11 +11072,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmFlVGhlRG9lLzIwMjMvMDMvUmFlX3RoZV9Eb2UuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/rae-the-doe/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmFlVGhlRG9lLzIwMjMvMDMvUmFlX3RoZV9Eb2UuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/rae-the-doe/2023-03-28"
 			}
 		],
 		"title": "Rae The Doe",
@@ -11077,8 +11082,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/62/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rex-morgan-m-d/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/rex-morgan-m-d/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDQvUmV4X01vcmdhbi4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDQvUmV4X01vcmdhbi4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -11198,11 +11208,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDMvUmV4X01vcmdhbi4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDMvUmV4X01vcmdhbi4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-03-28"
 			}
 		],
 		"title": "Rex Morgan M.D.",
@@ -11213,8 +11218,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/462/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rhymes-with-orange/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/rhymes-with-orange/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Umh5bWVzV2l0aE9yYW5nZS8yMDIzLzA0L1JoeW1lc193aXRoX09yYW5nZS4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/rhymes-with-orange/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Umh5bWVzV2l0aE9yYW5nZS8yMDIzLzA0L1JoeW1lc193aXRoX09yYW5nZS4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -11334,11 +11344,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Umh5bWVzV2l0aE9yYW5nZS8yMDIzLzAzL1JoeW1lc193aXRoX09yYW5nZS4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/rhymes-with-orange/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Umh5bWVzV2l0aE9yYW5nZS8yMDIzLzAzL1JoeW1lc193aXRoX09yYW5nZS4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/rhymes-with-orange/2023-03-28"
 			}
 		],
 		"title": "Rhymes with Orange",
@@ -11349,8 +11354,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1022/rk_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rip-kirby/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/rip-kirby/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjMvMTIvUmlwX0tpcmJ5X2J3LjE5NjMxMjA3LmdpZg==",
+				"url": "https://comicskingdom.com/rip-kirby/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjMvMTIvUmlwX0tpcmJ5X2J3LjE5NjMxMjA2LmdpZg==",
@@ -11470,11 +11480,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjMvMTEvUmlwX0tpcmJ5X2J3LjE5NjMxMTA5LmdpZg==",
 				"url": "https://comicskingdom.com/rip-kirby/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjMvMTEvUmlwX0tpcmJ5X2J3LjE5NjMxMTA4LmdpZg==",
-				"url": "https://comicskingdom.com/rip-kirby/2023-03-24"
 			}
 		],
 		"title": "Rip Kirby",
@@ -11485,8 +11490,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/472/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/safe-havens/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/safe-havens/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA0L1NhZmVfSGF2ZW5zLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/safe-havens/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA0L1NhZmVfSGF2ZW5zLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -11606,11 +11616,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzAzL1NhZmVfSGF2ZW5zLjIwMjMwMzI1XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/safe-havens/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzAzL1NhZmVfSGF2ZW5zLjIwMjMwMzI0XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/safe-havens/2023-03-24"
 			}
 		],
 		"title": "Safe Havens",
@@ -11702,8 +11707,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/482/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/sally-forth/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/sally-forth/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzA0L1NhbGx5X0ZvcnRoLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/sally-forth/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzA0L1NhbGx5X0ZvcnRoLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -11823,11 +11833,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzAzL1NhbGx5X0ZvcnRoLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/sally-forth/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzAzL1NhbGx5X0ZvcnRoLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/sally-forth/2023-03-28"
 			}
 		],
 		"title": "Sally Forth",
@@ -11974,8 +11979,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1282/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/secret-agent-x-9/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/secret-agent-x-9/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTAvU2VjcmV0X0FnZW50X2J3LjE5NDMxMDMwLmdpZg==",
+				"url": "https://comicskingdom.com/secret-agent-x-9/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTAvU2VjcmV0X0FnZW50X2J3LjE5NDMxMDI5LmdpZg==",
@@ -12095,11 +12105,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTAvU2VjcmV0X0FnZW50X2J3LjE5NDMxMDAyLmdpZg==",
 				"url": "https://comicskingdom.com/secret-agent-x-9/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTAvU2VjcmV0X0FnZW50X2J3LjE5NDMxMDAxLmdpZg==",
-				"url": "https://comicskingdom.com/secret-agent-x-9/2023-03-24"
 			}
 		],
 		"title": "Secret Agent X-9",
@@ -12110,8 +12115,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1852/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/shoe/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/shoe/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzA0L1Nob2UuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/shoe/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzA0L1Nob2UuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -12231,11 +12241,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzAzL1Nob2UuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/shoe/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzAzL1Nob2UuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/shoe/2023-03-28"
 			}
 		],
 		"title": "Shoe",
@@ -12246,8 +12251,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1862/sixchix_website_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/six-chix/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/six-chix/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=U2l4Q2hpeC8yMDIzLzA0LzZDaGl4X3AuMjAyMzA0MjJfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/six-chix/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=U2l4Q2hpeC8yMDIzLzA0LzZDaGl4X3AuMjAyMzA0MjFfNjU3LnBuZw==",
@@ -12367,11 +12377,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=U2l4Q2hpeC8yMDIzLzAzLzZDaGl4X3AuMjAyMzAzMjlfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/six-chix/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=U2l4Q2hpeC8yMDIzLzAzLzZDaGl4X3AuMjAyMzAzMjhfNjU3LnBuZw==",
-				"url": "https://comicskingdom.com/six-chix/2023-03-28"
 			}
 		],
 		"title": "Six Chix",
@@ -12382,8 +12387,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/112/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/slylock-fox-and-comics-for-kids/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/slylock-fox-and-comics-for-kids/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2x5bG9ja0ZveC1Db21pY3NGb3JLaWRzLzIwMjMvMDQvU2x5bG9jay4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/slylock-fox-and-comics-for-kids/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2x5bG9ja0ZveC1Db21pY3NGb3JLaWRzLzIwMjMvMDQvU2x5bG9jay4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -12503,11 +12513,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2x5bG9ja0ZveC1Db21pY3NGb3JLaWRzLzIwMjMvMDMvU2x5bG9jay4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/slylock-fox-and-comics-for-kids/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2x5bG9ja0ZveC1Db21pY3NGb3JLaWRzLzIwMjMvMDMvU2x5bG9jay4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/slylock-fox-and-comics-for-kids/2023-03-28"
 			}
 		],
 		"title": "Slylock Fox",
@@ -12518,8 +12523,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/3142/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/take-it-from-the-tinkersons/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/take-it-from-the-tinkersons/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGFrZWl0ZnJvbXRoZVRpbmtlcnNvbnMvMjAyMy8wNC9UaW5rZXJzb25zLjIwMjMwNDIyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/take-it-from-the-tinkersons/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGFrZWl0ZnJvbXRoZVRpbmtlcnNvbnMvMjAyMy8wNC9UaW5rZXJzb25zLjIwMjMwNDIxXzE1MzYuZ2lm",
@@ -12639,11 +12649,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGFrZWl0ZnJvbXRoZVRpbmtlcnNvbnMvMjAyMy8wMy9UaW5rZXJzb25zLjIwMjMwMzI5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/take-it-from-the-tinkersons/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGFrZWl0ZnJvbXRoZVRpbmtlcnNvbnMvMjAyMy8wMy9UaW5rZXJzb25zLjIwMjMwMzI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/take-it-from-the-tinkersons/2023-03-28"
 			}
 		],
 		"title": "Take it from the Tinkersons",
@@ -12751,8 +12756,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1312/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/thimble-theater/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/thimble-theater/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1BvcGV5ZS8xOTM5LzExL1BvcGV5ZV9idy4xOTM5MTEyMi5naWY=",
+				"url": "https://comicskingdom.com/thimble-theater/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1BvcGV5ZS8xOTM5LzExL1BvcGV5ZV9idy4xOTM5MTEyMS5naWY=",
@@ -12872,11 +12882,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1BvcGV5ZS8xOTM5LzEwL1BvcGV5ZV9idy4xOTM5MTAyOC5naWY=",
 				"url": "https://comicskingdom.com/thimble-theater/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1BvcGV5ZS8xOTM5LzEwL1BvcGV5ZV9idy4xOTM5MTAyNy5naWY=",
-				"url": "https://comicskingdom.com/thimble-theater/2023-03-28"
 			}
 		],
 		"title": "Thimble Theater",
@@ -12887,8 +12892,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/562/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/tiger/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/tiger/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wNC9UaWdlci4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/tiger/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wNC9UaWdlci4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -13008,11 +13018,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wMy9UaWdlci4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/tiger/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wMy9UaWdlci4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/tiger/2023-03-28"
 			}
 		],
 		"title": "Tiger",
@@ -13022,8 +13027,13 @@
 		"author": "Bud Blake",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/tiger-1/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/tiger-1/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RpZ2VyLzE5NzAvMDcvVGlnZXJfYncuMTk3MDA3MDcuZ2lm",
+				"url": "https://comicskingdom.com/tiger-1/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RpZ2VyLzE5NzAvMDcvVGlnZXJfYncuMTk3MDA3MDYuZ2lm",
@@ -13143,11 +13153,6 @@
 				"date": "2023-03-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RpZ2VyLzE5NzAvMDYvVGlnZXJfYncuMTk3MDA2MDkuZ2lm",
 				"url": "https://comicskingdom.com/tiger-1/2023-03-25"
-			},
-			{
-				"date": "2023-03-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RpZ2VyLzE5NzAvMDYvVGlnZXJfYncuMTk3MDA2MDguZ2lm",
-				"url": "https://comicskingdom.com/tiger-1/2023-03-24"
 			}
 		],
 		"title": "Tiger Vintage",
@@ -13228,8 +13233,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4315/Tinas_Groove_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/tina-s-groove/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/tina-s-groove/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wNC9UaW5hc19Hcm9vdmUuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/tina-s-groove/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wNC9UaW5hc19Hcm9vdmUuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -13349,11 +13359,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wMy9UaW5hc19Hcm9vdmUuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/tina-s-groove/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wMy9UaW5hc19Hcm9vdmUuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/tina-s-groove/2023-03-28"
 			}
 		],
 		"title": "Tina's Groove",
@@ -13364,8 +13369,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/582/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/todd-the-dinosaur/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/todd-the-dinosaur/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VG9kZFRoZURpbm9zYXVyLzIwMjMvMDQvVG9kZC4yMDIzMDQyMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/todd-the-dinosaur/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VG9kZFRoZURpbm9zYXVyLzIwMjMvMDQvVG9kZC4yMDIzMDQyMV8xNTM2LmdpZg==",
@@ -13485,11 +13495,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VG9kZFRoZURpbm9zYXVyLzIwMjMvMDMvVG9kZC4yMDIzMDMyOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/todd-the-dinosaur/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VG9kZFRoZURpbm9zYXVyLzIwMjMvMDMvVG9kZC4yMDIzMDMyOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/todd-the-dinosaur/2023-03-28"
 			}
 		],
 		"title": "Todd The Dinosaur",
@@ -13536,8 +13541,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/632/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zippy-the-pinhead/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/zippy-the-pinhead/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDQvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/zippy-the-pinhead/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDQvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -13657,11 +13667,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDMvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/zippy-the-pinhead/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDMvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/zippy-the-pinhead/2023-03-28"
 			}
 		],
 		"title": "Zippy The Pinhead",
@@ -13672,8 +13677,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/642/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-04-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-04-22",
 		"strips": [
+			{
+				"date": "2023-04-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA0L1ppdHMuMjAyMzA0MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/zits/2023-04-22"
+			},
 			{
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA0L1ppdHMuMjAyMzA0MjFfMTUzNi5naWY=",
@@ -13793,11 +13803,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzAzL1ppdHMuMjAyMzAzMjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/zits/2023-03-29"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzAzL1ppdHMuMjAyMzAzMjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/zits/2023-03-28"
 			}
 		],
 		"title": "Zits",
