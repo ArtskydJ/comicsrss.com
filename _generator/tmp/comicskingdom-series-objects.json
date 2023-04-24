@@ -5915,8 +5915,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/242/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/hi-and-lois/2023-04-23",
+		"mostRecentStripUrl": "https://comicskingdom.com/hi-and-lois/2023-04-24",
 		"strips": [
+			{
+				"date": "2023-04-24",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDQvSGlfYW5kX0xvaXMuMjAyMzA0MjRfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/hi-and-lois/2023-04-24"
+			},
 			{
 				"date": "2023-04-23",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDQvSGlfYW5kX0xvaXNfZnQuMjAyMzA0MjNfMTUzNi5naWY=",
@@ -6036,11 +6041,6 @@
 				"date": "2023-03-31",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDMvSGlfYW5kX0xvaXMuMjAyMzAzMzFfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/hi-and-lois/2023-03-31"
-			},
-			{
-				"date": "2023-03-30",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMjMvMDMvSGlfYW5kX0xvaXMuMjAyMzAzMzBfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/hi-and-lois/2023-03-30"
 			}
 		],
 		"title": "Hi and Lois",
