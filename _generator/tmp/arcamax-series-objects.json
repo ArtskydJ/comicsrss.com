@@ -2319,6 +2319,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/candorville/",
 		"strips": [
 			{
+				"date": "2023-04-26",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/245/24502/2450235.jpg",
+				"url": "https://www.arcamax.com/thefunnies/candorville/s-2815338"
+			},
+			{
 				"date": "2023-04-25",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/244/24498/2449863.jpg",
 				"url": "https://www.arcamax.com/thefunnies/candorville/s-2815091"
@@ -2437,11 +2442,6 @@
 				"date": "2023-03-29",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/243/24315/2431586.jpg",
 				"url": "https://www.arcamax.com/thefunnies/candorville/s-2799951"
-			},
-			{
-				"date": "2023-03-28",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/243/24315/2431585.jpg",
-				"url": "https://www.arcamax.com/thefunnies/candorville/s-2799950"
 			}
 		],
 		"title": "Candorville",
@@ -11500,15 +11500,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21387/2138748.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-04-26",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138960.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547485"
+				"date": "2021-04-25",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138748.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547273"
 			}
 		],
 		"title": "The Fortune Teller",
