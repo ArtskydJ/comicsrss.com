@@ -9091,8 +9091,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1942/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-04-26",
+		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-04-27",
 		"strips": [
+			{
+				"date": "2023-04-27",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDI3XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/moose-and-molly/2023-04-27"
+			},
 			{
 				"date": "2023-04-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDI2XzE1MzYuZ2lm",
@@ -9212,11 +9217,6 @@
 				"date": "2023-04-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlLjIwMjMwNDAzXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/moose-and-molly/2023-04-03"
-			},
-			{
-				"date": "2023-04-02",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA0L01vb3NlX3RzLjIwMjMwNDAyXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/moose-and-molly/2023-04-02"
 			}
 		],
 		"title": "Moose And Molly",
