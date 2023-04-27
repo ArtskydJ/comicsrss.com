@@ -4523,8 +4523,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1032/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-04-26",
+		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-04-27",
 		"strips": [
+			{
+				"date": "2023-04-27",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MjdfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-27"
+			},
 			{
 				"date": "2023-04-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MjZfNjU3LnBuZw==",
@@ -4644,11 +4649,6 @@
 				"date": "2023-04-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MDNfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-03"
-			},
-			{
-				"date": "2023-04-02",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2VfZnQuMjAyMzA0MDJfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-02"
 			}
 		],
 		"title": "Dennis The Menace",
@@ -11525,8 +11525,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/472/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/safe-havens/2023-04-26",
+		"mostRecentStripUrl": "https://comicskingdom.com/safe-havens/2023-04-27",
 		"strips": [
+			{
+				"date": "2023-04-27",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA0L1NhZmVfSGF2ZW5zLjIwMjMwNDI3XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/safe-havens/2023-04-27"
+			},
 			{
 				"date": "2023-04-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA0L1NhZmVfSGF2ZW5zLjIwMjMwNDI2XzE1MzYuZ2lm",
@@ -11646,11 +11651,6 @@
 				"date": "2023-03-30",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzAzL1NhZmVfSGF2ZW5zLjIwMjMwMzMwXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/safe-havens/2023-03-30"
-			},
-			{
-				"date": "2023-03-29",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzAzL1NhZmVfSGF2ZW5zLjIwMjMwMzI5XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/safe-havens/2023-03-29"
 			}
 		],
 		"title": "Safe Havens",
