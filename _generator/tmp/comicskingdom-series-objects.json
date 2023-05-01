@@ -3010,6 +3010,22 @@
 		"title": "Boner's Ark Sundays",
 		"url": "https://comicskingdom.com/boners-ark-sundays"
 	},
+	"break-of-day": {
+		"author": "Nate Fakes",
+		"imageUrl": "https://api.kingdigital.com/img/features/4333/BreakofDayLogo.png",
+		"isPolitical": false,
+		"language": "eng",
+		"mostRecentStripUrl": "https://comicskingdom.com/break-of-day/2023-05-01",
+		"strips": [
+			{
+				"date": "2023-05-01",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QnJlYWtPZkRheS8yMDIzLzA1L0JyZWFrb2ZEYXkuMjAyMzA1MDFfNjU3LmdpZg==",
+				"url": "https://comicskingdom.com/break-of-day/2023-05-01"
+			}
+		],
+		"title": "Break of Day",
+		"url": "https://comicskingdom.com/break-of-day"
+	},
 	"brian-duffy": {
 		"author": "Brian Duffy",
 		"imageUrl": "https://api.kingdigital.com/img/features/2292/logos/website.png",
@@ -4670,8 +4686,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2162/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dustin/2023-04-30",
+		"mostRecentStripUrl": "https://comicskingdom.com/dustin/2023-05-01",
 		"strips": [
+			{
+				"date": "2023-05-01",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDUvRHVzdGluLjIwMjMwNTAxXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/dustin/2023-05-01"
+			},
 			{
 				"date": "2023-04-30",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDQvRHVzdGluX250Yi4yMDIzMDQzMF8xNTM2LmdpZg==",
@@ -4791,11 +4812,6 @@
 				"date": "2023-04-07",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDQvRHVzdGluLjIwMjMwNDA3XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/dustin/2023-04-07"
-			},
-			{
-				"date": "2023-04-06",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RHVzdGluLzIwMjMvMDQvRHVzdGluLjIwMjMwNDA2XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/dustin/2023-04-06"
 			}
 		],
 		"title": "Dustin",
