@@ -10096,8 +10096,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/992/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-05-02",
+		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-05-03",
 		"strips": [
+			{
+				"date": "2023-05-03",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzI0LmdpZg==",
+				"url": "https://comicskingdom.com/phantom-1/2023-05-03"
+			},
 			{
 				"date": "2023-05-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzIzLmdpZg==",
@@ -10217,11 +10222,6 @@
 				"date": "2023-04-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjI1LmdpZg==",
 				"url": "https://comicskingdom.com/phantom-1/2023-04-05"
-			},
-			{
-				"date": "2023-04-04",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMi9QaGFudG9tX2J3LjE5NTYwMjI0LmdpZg==",
-				"url": "https://comicskingdom.com/phantom-1/2023-04-04"
 			}
 		],
 		"title": "The Phantom",
@@ -11562,8 +11562,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/472/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/safe-havens/2023-05-02",
+		"mostRecentStripUrl": "https://comicskingdom.com/safe-havens/2023-05-03",
 		"strips": [
+			{
+				"date": "2023-05-03",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA1L1NhZmVfSGF2ZW5zLjIwMjMwNTAzXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/safe-havens/2023-05-03"
+			},
 			{
 				"date": "2023-05-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA1L1NhZmVfSGF2ZW5zLjIwMjMwNTAyXzE1MzYuZ2lm",
@@ -11683,11 +11688,6 @@
 				"date": "2023-04-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA0L1NhZmVfSGF2ZW5zLjIwMjMwNDA1XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/safe-havens/2023-04-05"
-			},
-			{
-				"date": "2023-04-04",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FmZUhhdmVucy8yMDIzLzA0L1NhZmVfSGF2ZW5zLjIwMjMwNDA0XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/safe-havens/2023-04-04"
 			}
 		],
 		"title": "Safe Havens",
