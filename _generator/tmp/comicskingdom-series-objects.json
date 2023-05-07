@@ -2596,8 +2596,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/72/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/bizarro/2023-05-06",
+		"mostRecentStripUrl": "https://comicskingdom.com/bizarro/2023-05-07",
 		"strips": [
+			{
+				"date": "2023-05-07",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Qml6YXJyby8yMDIzLzA1L0JpemFycm9faHQuMjAyMzA1MDdfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/bizarro/2023-05-07"
+			},
 			{
 				"date": "2023-05-06",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzA1L0JpemFycm9fcC4yMDIzMDUwNl82NTcucG5n",
@@ -2717,11 +2722,6 @@
 				"date": "2023-04-13",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzA0L0JpemFycm9fcC4yMDIzMDQxM182NTcucG5n",
 				"url": "https://comicskingdom.com/bizarro/2023-04-13"
-			},
-			{
-				"date": "2023-04-12",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDIzLzA0L0JpemFycm9fcC4yMDIzMDQxMl82NTcucG5n",
-				"url": "https://comicskingdom.com/bizarro/2023-04-12"
 			}
 		],
 		"title": "Bizarro",
