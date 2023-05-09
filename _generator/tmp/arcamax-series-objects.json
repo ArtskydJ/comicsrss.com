@@ -3619,6 +3619,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/dennisthemenace/",
 		"strips": [
 			{
+				"date": "2023-05-08",
+				"imageUrl": "https://resources.arcamax.com/newspics/245/24569/2456993.gif",
+				"url": "https://www.arcamax.com/thefunnies/dennisthemenace/s-2820919"
+			},
+			{
 				"date": "2023-05-07",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/245/24535/2453569.jpg",
 				"url": "https://www.arcamax.com/thefunnies/dennisthemenace/s-2818082"
@@ -3737,11 +3742,6 @@
 				"date": "2023-04-16",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/244/24424/2442455.jpg",
 				"url": "https://www.arcamax.com/thefunnies/dennisthemenace/s-2808959"
-			},
-			{
-				"date": "2023-04-15",
-				"imageUrl": "https://resources.arcamax.com/newspics/244/24419/2441961.gif",
-				"url": "https://www.arcamax.com/thefunnies/dennisthemenace/s-2808559"
 			}
 		],
 		"title": "Dennis the Menace",
@@ -3979,11 +3979,6 @@
 				"date": "2023-02-09",
 				"imageUrl": "https://resources.arcamax.com/newspics/240/24092/2409281.gif",
 				"url": "https://www.arcamax.com/thefunnies/dilbert/s-2781031"
-			},
-			{
-				"date": "2023-02-08",
-				"imageUrl": "https://resources.arcamax.com/newspics/240/24088/2408847.gif",
-				"url": "https://www.arcamax.com/thefunnies/dilbert/s-2780669"
 			}
 		],
 		"title": "Dilbert",
@@ -4541,6 +4536,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/familycircus/",
 		"strips": [
 			{
+				"date": "2023-05-08",
+				"imageUrl": "https://resources.arcamax.com/newspics/245/24569/2456994.gif",
+				"url": "https://www.arcamax.com/thefunnies/familycircus/s-2820920"
+			},
+			{
 				"date": "2023-05-07",
 				"imageUrl": "https://resources.arcamax.com/newspics/245/24535/2453571.gif",
 				"url": "https://www.arcamax.com/thefunnies/familycircus/s-2818084"
@@ -4659,11 +4659,6 @@
 				"date": "2023-04-16",
 				"imageUrl": "https://resources.arcamax.com/newspics/244/24423/2442388.gif",
 				"url": "https://www.arcamax.com/thefunnies/familycircus/s-2808889"
-			},
-			{
-				"date": "2023-04-15",
-				"imageUrl": "https://resources.arcamax.com/newspics/244/24419/2441902.gif",
-				"url": "https://www.arcamax.com/thefunnies/familycircus/s-2808499"
 			}
 		],
 		"title": "Family Circus",
@@ -11460,15 +11455,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21389/2138970.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-05-08",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138904.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547429"
+				"date": "2021-05-07",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138970.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547495"
 			}
 		],
 		"title": "The Fortune Teller",
@@ -11481,6 +11476,11 @@
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thelockhorns/",
 		"strips": [
+			{
+				"date": "2023-05-08",
+				"imageUrl": "https://resources.arcamax.com/newspics/245/24569/2456996.gif",
+				"url": "https://www.arcamax.com/thefunnies/thelockhorns/s-2820922"
+			},
 			{
 				"date": "2023-05-07",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/245/24535/2453574.jpg",
@@ -11600,11 +11600,6 @@
 				"date": "2023-04-16",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/244/24424/2442453.jpg",
 				"url": "https://www.arcamax.com/thefunnies/thelockhorns/s-2808957"
-			},
-			{
-				"date": "2023-04-15",
-				"imageUrl": "https://resources.arcamax.com/newspics/244/24419/2441959.gif",
-				"url": "https://www.arcamax.com/thefunnies/thelockhorns/s-2808557"
 			}
 		],
 		"title": "The Lockhorns",
