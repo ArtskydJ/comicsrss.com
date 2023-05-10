@@ -2249,8 +2249,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/52/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/between-friends/2023-05-09",
+		"mostRecentStripUrl": "https://comicskingdom.com/between-friends/2023-05-10",
 		"strips": [
+			{
+				"date": "2023-05-10",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wNS9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzA1MTBfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/between-friends/2023-05-10"
+			},
 			{
 				"date": "2023-05-09",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wNS9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzA1MDlfMTUzNi5naWY=",
@@ -2370,11 +2375,6 @@
 				"date": "2023-04-16",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wNC9CZXR3ZWVuX0ZyaWVuZHNfbnRiLjIwMjMwNDE2XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/between-friends/2023-04-16"
-			},
-			{
-				"date": "2023-04-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmV0d2VlbkZyaWVuZHMvMjAyMy8wNC9CZXR3ZWVuX0ZyaWVuZHMuMjAyMzA0MTVfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/between-friends/2023-04-15"
 			}
 		],
 		"title": "Between Friends",
