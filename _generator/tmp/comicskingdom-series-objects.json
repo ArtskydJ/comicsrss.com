@@ -10655,8 +10655,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/232/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/popeye/2023-05-10",
+		"mostRecentStripUrl": "https://comicskingdom.com/popeye/2023-05-11",
 		"strips": [
+			{
+				"date": "2023-05-11",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDUvUG9wZXllLjIwMjMwNTExXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/popeye/2023-05-11"
+			},
 			{
 				"date": "2023-05-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDUvUG9wZXllLjIwMjMwNTEwXzE1MzYuZ2lm",
@@ -10776,11 +10781,6 @@
 				"date": "2023-04-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDQvUG9wZXllLjIwMjMwNDE3XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/popeye/2023-04-17"
-			},
-			{
-				"date": "2023-04-16",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UG9wZXllLzIwMjMvMDQvUG9wZXllX2hzLjIwMjMwNDE2XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/popeye/2023-04-16"
 			}
 		],
 		"title": "Popeye",
