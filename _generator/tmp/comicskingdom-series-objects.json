@@ -523,8 +523,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4262/featured-image.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Macanudo/2023-05-11",
+		"mostRecentStripUrl": "https://comicskingdom.com/Macanudo/2023-05-12",
 		"strips": [
+			{
+				"date": "2023-05-12",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wNS9NYWNhbnVkby4yMDIzMDUxMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/Macanudo/2023-05-12"
+			},
 			{
 				"date": "2023-05-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wNS9NYWNhbnVkby4yMDIzMDUxMV8xNTM2LmdpZg==",
@@ -644,11 +649,6 @@
 				"date": "2023-04-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wNC9NYWNhbnVkby4yMDIzMDQxOF8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/Macanudo/2023-04-18"
-			},
-			{
-				"date": "2023-04-17",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFjYW51ZG8vMjAyMy8wNC9NYWNhbnVkby4yMDIzMDQxN18xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/Macanudo/2023-04-17"
 			}
 		],
 		"title": "Macanudo",
@@ -8576,8 +8576,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/322/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mandrake-the-magician-1/2023-05-11",
+		"mostRecentStripUrl": "https://comicskingdom.com/mandrake-the-magician-1/2023-05-12",
 		"strips": [
+			{
+				"date": "2023-05-12",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzA1L01hbmRyYWtlLjIwMjMwNTEyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/mandrake-the-magician-1/2023-05-12"
+			},
 			{
 				"date": "2023-05-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzA1L01hbmRyYWtlLjIwMjMwNTExXzE1MzYuZ2lm",
@@ -8697,11 +8702,6 @@
 				"date": "2023-04-14",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzA0L01hbmRyYWtlLjIwMjMwNDE0XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/mandrake-the-magician-1/2023-04-14"
-			},
-			{
-				"date": "2023-04-13",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFuZHJha2VUaGVNYWdpY2lhbi8yMDIzLzA0L01hbmRyYWtlLjIwMjMwNDEzXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/mandrake-the-magician-1/2023-04-13"
 			}
 		],
 		"title": "Mandrake The Magician",
