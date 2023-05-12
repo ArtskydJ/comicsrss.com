@@ -4458,8 +4458,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4242/bell-logo.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/darrin-bell/2023-05-05",
+		"mostRecentStripUrl": "https://comicskingdom.com/darrin-bell/2023-05-12",
 		"strips": [
+			{
+				"date": "2023-05-11",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFycmluQmVsbC8yMDIzLzA1L0RhcnJpbl9CZWxsLjIwMjMwNTExXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/darrin-bell/2023-05-11"
+			},
 			{
 				"date": "2023-05-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFycmluQmVsbC8yMDIzLzA1L0RhcnJpbl9CZWxsLjIwMjMwNTA1XzE1MzYuZ2lm",
@@ -4539,11 +4544,6 @@
 				"date": "2023-02-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFycmluQmVsbC8yMDIzLzAyL0RhcnJpbl9CZWxsLjIwMjMwMjE1XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/darrin-bell/2023-02-15"
-			},
-			{
-				"date": "2023-02-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGFycmluQmVsbC8yMDIzLzAyL0RhcnJpbl9CZWxsLjIwMjMwMjExXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/darrin-bell/2023-02-11"
 			}
 		],
 		"title": "Darrin Bell",
@@ -6681,11 +6681,6 @@
 				"date": "2023-02-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzAyL0JyYW5jaC4yMDIzMDIxNV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/john-branch/2023-02-15"
-			},
-			{
-				"date": "2023-02-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzAyL0JyYW5jaC4yMDIzMDIxMV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/john-branch/2023-02-11"
 			}
 		],
 		"title": "John Branch",
@@ -7714,11 +7709,6 @@
 				"date": "2023-02-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wMi9XYWx0ZXJzLjIwMjMwMjE1XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/kirk-walters/2023-02-15"
-			},
-			{
-				"date": "2023-02-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wMi9XYWx0ZXJzLjIwMjMwMjExXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/kirk-walters/2023-02-11"
 			}
 		],
 		"title": "Kirk Walters",
