@@ -4060,8 +4060,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/952/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/crock/2023-05-12",
+		"mostRecentStripUrl": "https://comicskingdom.com/crock/2023-05-13",
 		"strips": [
+			{
+				"date": "2023-05-13",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNS9Dcm9jay4yMDIzMDUxM18xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/crock/2023-05-13"
+			},
 			{
 				"date": "2023-05-12",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNS9Dcm9jay4yMDIzMDUxMl8xNTM2LmdpZg==",
@@ -4181,11 +4186,6 @@
 				"date": "2023-04-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNC9Dcm9jay4yMDIzMDQxOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/crock/2023-04-19"
-			},
-			{
-				"date": "2023-04-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNC9Dcm9jay4yMDIzMDQxOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/crock/2023-04-18"
 			}
 		],
 		"title": "Crock",
