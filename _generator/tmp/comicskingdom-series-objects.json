@@ -4256,8 +4256,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/132/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-05-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-05-18",
 		"strips": [
+			{
+				"date": "2023-05-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDUvQ3VydGlzLjIwMjMwNTE4XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/curtis/2023-05-18"
+			},
 			{
 				"date": "2023-05-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDUvQ3VydGlzLjIwMjMwNTE3XzE1MzYuZ2lm",
@@ -4377,11 +4382,6 @@
 				"date": "2023-04-24",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDQvQ3VydGlzLjIwMjMwNDI0XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/curtis/2023-04-24"
-			},
-			{
-				"date": "2023-04-23",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDQvQ3VydGlzX2hzLjIwMjMwNDIzXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/curtis/2023-04-23"
 			}
 		],
 		"title": "Curtis",
@@ -14296,8 +14296,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/642/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-05-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-05-18",
 		"strips": [
+			{
+				"date": "2023-05-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA1L1ppdHMuMjAyMzA1MThfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/zits/2023-05-18"
+			},
 			{
 				"date": "2023-05-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA1L1ppdHMuMjAyMzA1MTdfMTUzNi5naWY=",
@@ -14417,11 +14422,6 @@
 				"date": "2023-04-24",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA0L1ppdHMuMjAyMzA0MjRfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/zits/2023-04-24"
-			},
-			{
-				"date": "2023-04-23",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA0L1ppdHNfbnRiLjIwMjMwNDIzXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/zits/2023-04-23"
 			}
 		],
 		"title": "Zits",
