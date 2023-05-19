@@ -4760,8 +4760,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1032/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-05-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-05-19",
 		"strips": [
+			{
+				"date": "2023-05-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDUvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA1MThfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/dennis-the-menace/2023-05-18"
+			},
 			{
 				"date": "2023-05-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDUvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA1MTdfNjU3LnBuZw==",
@@ -4881,11 +4886,6 @@
 				"date": "2023-04-24",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA0MjRfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-24"
-			},
-			{
-				"date": "2023-04-23",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDQvRGVubmlzX1RoZV9NZW5hY2VfZnQuMjAyMzA0MjNfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/dennis-the-menace/2023-04-23"
 			}
 		],
 		"title": "Dennis The Menace",
@@ -7804,11 +7804,6 @@
 				"date": "2023-02-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wMi9XYWx0ZXJzLjIwMjMwMjIyXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/kirk-walters/2023-02-22"
-			},
-			{
-				"date": "2023-02-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wMi9XYWx0ZXJzLjIwMjMwMjE4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/kirk-walters/2023-02-18"
 			}
 		],
 		"title": "Kirk Walters",
