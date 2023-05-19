@@ -10019,8 +10019,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1212/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/on-the-fastrack/2023-05-18",
+		"mostRecentStripUrl": "https://comicskingdom.com/on-the-fastrack/2023-05-19",
 		"strips": [
+			{
+				"date": "2023-05-19",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzA1L0Zhc3RfVHJhY2suMjAyMzA1MTlfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/on-the-fastrack/2023-05-19"
+			},
 			{
 				"date": "2023-05-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzA1L0Zhc3RfVHJhY2suMjAyMzA1MThfMTUzNi5naWY=",
@@ -10140,11 +10145,6 @@
 				"date": "2023-04-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzA0L0Zhc3RfVHJhY2suMjAyMzA0MjVfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/on-the-fastrack/2023-04-25"
-			},
-			{
-				"date": "2023-04-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=T25UaGVGYXN0cmFjay8yMDIzLzA0L0Zhc3RfVHJhY2suMjAyMzA0MjRfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/on-the-fastrack/2023-04-24"
 			}
 		],
 		"title": "On The Fastrack",
@@ -11893,8 +11893,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1022/rk_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rip-kirby/2023-05-18",
+		"mostRecentStripUrl": "https://comicskingdom.com/rip-kirby/2023-05-19",
 		"strips": [
+			{
+				"date": "2023-05-19",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjQvMDEvUmlwX0tpcmJ5X2J3LjE5NjQwMTAzLmdpZg==",
+				"url": "https://comicskingdom.com/rip-kirby/2023-05-19"
+			},
 			{
 				"date": "2023-05-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjQvMDEvUmlwX0tpcmJ5X2J3LjE5NjQwMTAyLmdpZg==",
@@ -12014,11 +12019,6 @@
 				"date": "2023-04-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjMvMTIvUmlwX0tpcmJ5X2J3LjE5NjMxMjA2LmdpZg==",
 				"url": "https://comicskingdom.com/rip-kirby/2023-04-21"
-			},
-			{
-				"date": "2023-04-20",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjMvMTIvUmlwX0tpcmJ5X2J3LjE5NjMxMjA1LmdpZg==",
-				"url": "https://comicskingdom.com/rip-kirby/2023-04-20"
 			}
 		],
 		"title": "Rip Kirby",
