@@ -8263,8 +8263,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/292/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-05-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-05-22",
 		"strips": [
+			{
+				"date": "2023-05-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDUvTG9ja2hvcm5zLjIwMjMwNTIyXzY1Ny5wbmc=",
+				"url": "https://comicskingdom.com/lockhorns/2023-05-22"
+			},
 			{
 				"date": "2023-05-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDUvTG9ja2hvcm5zX250Yi4yMDIzMDUyMV8xNTM2LmdpZg==",
@@ -8384,11 +8389,6 @@
 				"date": "2023-04-28",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDQvTG9ja2hvcm5zLjIwMjMwNDI4XzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/lockhorns/2023-04-28"
-			},
-			{
-				"date": "2023-04-27",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMDQvTG9ja2hvcm5zLjIwMjMwNDI3XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/lockhorns/2023-04-27"
 			}
 		],
 		"title": "The Lockhorns",
