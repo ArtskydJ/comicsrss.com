@@ -10578,8 +10578,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/992/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-05-20",
+		"mostRecentStripUrl": "https://comicskingdom.com/phantom-1/2023-05-22",
 		"strips": [
+			{
+				"date": "2023-05-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wNC9QaGFudG9tX2J3LjE5NTYwNDEyLmdpZg==",
+				"url": "https://comicskingdom.com/phantom-1/2023-05-22"
+			},
 			{
 				"date": "2023-05-20",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wNC9QaGFudG9tX2J3LjE5NTYwNDExLmdpZg==",
@@ -10699,11 +10704,6 @@
 				"date": "2023-04-24",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzE1LmdpZg==",
 				"url": "https://comicskingdom.com/phantom-1/2023-04-24"
-			},
-			{
-				"date": "2023-04-22",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1RoZVBoYW50b20vMTk1Ni8wMy9QaGFudG9tX2J3LjE5NTYwMzE0LmdpZg==",
-				"url": "https://comicskingdom.com/phantom-1/2023-04-22"
 			}
 		],
 		"title": "The Phantom",
@@ -13862,8 +13862,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4315/Tinas_Groove_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/tina-s-groove/2023-05-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/tina-s-groove/2023-05-22",
 		"strips": [
+			{
+				"date": "2023-05-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wNS9UaW5hc19Hcm9vdmUuMjAyMzA1MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/tina-s-groove/2023-05-22"
+			},
 			{
 				"date": "2023-05-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wNS9UaW5hc19Hcm9vdmVfbnRiLjIwMjMwNTIxXzE1MzYuZ2lm",
@@ -13983,11 +13988,6 @@
 				"date": "2023-04-28",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wNC9UaW5hc19Hcm9vdmUuMjAyMzA0MjhfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/tina-s-groove/2023-04-28"
-			},
-			{
-				"date": "2023-04-27",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGluYXNHcm9vdmUvMjAyMy8wNC9UaW5hc19Hcm9vdmUuMjAyMzA0MjdfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/tina-s-groove/2023-04-27"
 			}
 		],
 		"title": "Tina's Groove",
