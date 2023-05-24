@@ -4325,6 +4325,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/dustin/",
 		"strips": [
 			{
+				"date": "2023-05-24",
+				"imageUrl": "https://resources.arcamax.com/newspics/246/24647/2464763.gif",
+				"url": "https://www.arcamax.com/thefunnies/dustin/s-2827701"
+			},
+			{
 				"date": "2023-05-23",
 				"imageUrl": "https://resources.arcamax.com/newspics/246/24641/2464197.gif",
 				"url": "https://www.arcamax.com/thefunnies/dustin/s-2827261"
@@ -4443,11 +4448,6 @@
 				"date": "2023-05-02",
 				"imageUrl": "https://resources.arcamax.com/newspics/245/24510/2451024.gif",
 				"url": "https://www.arcamax.com/thefunnies/dustin/s-2815921"
-			},
-			{
-				"date": "2023-05-01",
-				"imageUrl": "https://resources.arcamax.com/newspics/245/24510/2451023.gif",
-				"url": "https://www.arcamax.com/thefunnies/dustin/s-2815920"
 			}
 		],
 		"title": "Dustin",
@@ -11370,15 +11370,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21389/2138951.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-05-24",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138747.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547272"
+				"date": "2021-05-23",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138951.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547476"
 			}
 		],
 		"title": "The Fortune Teller",
