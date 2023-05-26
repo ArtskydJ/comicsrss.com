@@ -1317,8 +1317,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/522/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/amazing-spider-man/2023-05-25",
+		"mostRecentStripUrl": "https://comicskingdom.com/amazing-spider-man/2023-05-26",
 		"strips": [
+			{
+				"date": "2023-05-26",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA1L1NwaWRlcm1hbi4yMDIzMDUyNl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/amazing-spider-man/2023-05-26"
+			},
 			{
 				"date": "2023-05-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA1L1NwaWRlcm1hbi4yMDIzMDUyNV8xNTM2LmdpZg==",
@@ -1438,11 +1443,6 @@
 				"date": "2023-05-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA1L1NwaWRlcm1hbi4yMDIzMDUwMl8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/amazing-spider-man/2023-05-02"
-			},
-			{
-				"date": "2023-05-01",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlQW1hemluZ1NwaWRlcm1hbi8yMDIzLzA1L1NwaWRlcm1hbi4yMDIzMDUwMV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/amazing-spider-man/2023-05-01"
 			}
 		],
 		"title": "Amazing Spider-man",
@@ -2752,8 +2752,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-05-25",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-05-26",
 		"strips": [
+			{
+				"date": "2023-05-26",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA1L0Jsb25kaWUuMjAyMzA1MjZfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-05-26"
+			},
 			{
 				"date": "2023-05-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA1L0Jsb25kaWUuMjAyMzA1MjVfMTUzNi5naWY=",
@@ -2873,11 +2878,6 @@
 				"date": "2023-05-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA1L0Jsb25kaWUuMjAyMzA1MDJfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-05-02"
-			},
-			{
-				"date": "2023-05-01",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA1L0Jsb25kaWUuMjAyMzA1MDFfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-05-01"
 			}
 		],
 		"title": "Blondie",
