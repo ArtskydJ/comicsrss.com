@@ -4058,8 +4058,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4332/Logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/comiclicious/2023-05-26",
+		"mostRecentStripUrl": "https://comicskingdom.com/comiclicious/2023-05-30",
 		"strips": [
+			{
+				"date": "2023-05-28",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q29taWNsaWNpb3VzLzIwMjMvMDUvQ29taWNsaWNpb3VzLjIwMjMwNTI4XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/comiclicious/2023-05-28"
+			},
 			{
 				"date": "2023-05-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q29taWNsaWNpb3VzLzIwMjMvMDUvQ29taWNsaWNpb3VzLjIwMjMwNTI2XzE1MzYuZ2lm",
@@ -11661,8 +11666,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/62/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rex-morgan-m-d/2023-05-29",
+		"mostRecentStripUrl": "https://comicskingdom.com/rex-morgan-m-d/2023-05-30",
 		"strips": [
+			{
+				"date": "2023-05-30",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDUvUmV4X01vcmdhbi4yMDIzMDUzMF8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-05-30"
+			},
 			{
 				"date": "2023-05-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDUvUmV4X01vcmdhbi4yMDIzMDUyOV8xNTM2LmdpZg==",
@@ -11782,11 +11792,6 @@
 				"date": "2023-05-06",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDUvUmV4X01vcmdhbi4yMDIzMDUwNl8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-05-06"
-			},
-			{
-				"date": "2023-05-05",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMDUvUmV4X01vcmdhbi4yMDIzMDUwNV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-05-05"
 			}
 		],
 		"title": "Rex Morgan M.D.",
