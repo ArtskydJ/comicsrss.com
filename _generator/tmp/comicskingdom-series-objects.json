@@ -13556,8 +13556,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/562/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/tiger/2023-05-30",
+		"mostRecentStripUrl": "https://comicskingdom.com/tiger/2023-05-31",
 		"strips": [
+			{
+				"date": "2023-05-31",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wNS9UaWdlci4yMDIzMDUzMV8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/tiger/2023-05-31"
+			},
 			{
 				"date": "2023-05-30",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wNS9UaWdlci4yMDIzMDUzMF8xNTM2LmdpZg==",
@@ -13677,11 +13682,6 @@
 				"date": "2023-05-07",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wNS9UaWdlcl9odC4yMDIzMDUwN18xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/tiger/2023-05-07"
-			},
-			{
-				"date": "2023-05-06",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGlnZXIvMjAyMy8wNS9UaWdlci4yMDIzMDUwNl8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/tiger/2023-05-06"
 			}
 		],
 		"title": "Tiger",
