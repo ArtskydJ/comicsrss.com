@@ -5571,8 +5571,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/942/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon-1/2023-05-31",
+		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon-1/2023-06-01",
 		"strips": [
+			{
+				"date": "2023-06-01",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDcvRmxhc2hfYncuMTk2ODA3MTUuZ2lm",
+				"url": "https://comicskingdom.com/flash-gordon-1/2023-06-01"
+			},
 			{
 				"date": "2023-05-31",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDcvRmxhc2hfYncuMTk2ODA3MTMuZ2lm",
@@ -5692,11 +5697,6 @@
 				"date": "2023-05-04",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDYvRmxhc2hfYncuMTk2ODA2MTcuZ2lm",
 				"url": "https://comicskingdom.com/flash-gordon-1/2023-05-04"
-			},
-			{
-				"date": "2023-05-03",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMDYvRmxhc2hfYncuMTk2ODA2MTUuZ2lm",
-				"url": "https://comicskingdom.com/flash-gordon-1/2023-05-03"
 			}
 		],
 		"title": "Flash Gordon",
