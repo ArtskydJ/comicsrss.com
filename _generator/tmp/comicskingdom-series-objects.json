@@ -3917,8 +3917,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/3922/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/carpe-diem/2023-06-03",
+		"mostRecentStripUrl": "https://comicskingdom.com/carpe-diem/2023-06-04",
 		"strips": [
+			{
+				"date": "2023-06-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDYvQ2FycGVfbnRiLjIwMjMwNjA0XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/carpe-diem/2023-06-04"
+			},
 			{
 				"date": "2023-06-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDYvQ2FycGUuMjAyMzA2MDNfMTUzNi5naWY=",
@@ -4038,11 +4043,6 @@
 				"date": "2023-05-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDUvQ2FycGUuMjAyMzA1MTFfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/carpe-diem/2023-05-11"
-			},
-			{
-				"date": "2023-05-10",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q2FycGVEaWVtLzIwMjMvMDUvQ2FycGUuMjAyMzA1MTBfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/carpe-diem/2023-05-10"
 			}
 		],
 		"title": "Carpe Diem",
@@ -9655,8 +9655,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1942/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-06-03",
+		"mostRecentStripUrl": "https://comicskingdom.com/moose-and-molly/2023-06-04",
 		"strips": [
+			{
+				"date": "2023-06-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA2L01vb3NlX3RzLjIwMjMwNjA0XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/moose-and-molly/2023-06-04"
+			},
 			{
 				"date": "2023-06-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA2L01vb3NlLjIwMjMwNjAzXzE1MzYuZ2lm",
@@ -9776,11 +9781,6 @@
 				"date": "2023-05-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA1L01vb3NlLjIwMjMwNTExXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/moose-and-molly/2023-05-11"
-			},
-			{
-				"date": "2023-05-10",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TW9vc2VBbmRNb2xseS8yMDIzLzA1L01vb3NlLjIwMjMwNTEwXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/moose-and-molly/2023-05-10"
 			}
 		],
 		"title": "Moose And Molly",
