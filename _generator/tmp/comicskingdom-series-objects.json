@@ -332,8 +332,13 @@
 		"author": "David Reddick",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Legend-of-Bill/2023-06-06",
+		"mostRecentStripUrl": "https://comicskingdom.com/Legend-of-Bill/2023-06-07",
 		"strips": [
+			{
+				"date": "2023-06-05",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTGVnZW5kT2ZCaWxsLzIwMjMvMDYvTGVnZW5kX29mX0JpbGwuMjAyMzA2MDVfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/Legend-of-Bill/2023-06-05"
+			},
 			{
 				"date": "2023-06-06",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTGVnZW5kT2ZCaWxsLzIwMjMvMDYvTGVnZW5kX29mX0JpbGwuMjAyMzA2MDZfMTUzNi5naWY=",
@@ -453,11 +458,6 @@
 				"date": "2023-04-12",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTGVnZW5kT2ZCaWxsLzIwMjMvMDQvTGVnZW5kX29mX0JpbGwuMjAyMzA0MTJfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/Legend-of-Bill/2023-04-12"
-			},
-			{
-				"date": "2023-04-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTGVnZW5kT2ZCaWxsLzIwMjMvMDQvTGVnZW5kX29mX0JpbGwuMjAyMzA0MTFfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/Legend-of-Bill/2023-04-11"
 			}
 		],
 		"title": "Legend of Bill",
