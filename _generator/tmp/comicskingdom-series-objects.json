@@ -2375,8 +2375,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/892/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/big-ben-bolt/2023-06-08",
+		"mostRecentStripUrl": "https://comicskingdom.com/big-ben-bolt/2023-06-09",
 		"strips": [
+			{
+				"date": "2023-06-09",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2My8wMi9CaWdfQmVuX2J3LjE5NjMwMjE4LmdpZg==",
+				"url": "https://comicskingdom.com/big-ben-bolt/2023-06-09"
+			},
 			{
 				"date": "2023-06-08",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2My8wMi9CaWdfQmVuX2J3LjE5NjMwMjE2LmdpZg==",
@@ -2496,11 +2501,6 @@
 				"date": "2023-05-12",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2My8wMS9CaWdfQmVuX2J3LjE5NjMwMTIxLmdpZg==",
 				"url": "https://comicskingdom.com/big-ben-bolt/2023-05-12"
-			},
-			{
-				"date": "2023-05-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JpZ0JlbkJvbHQvMTk2My8wMS9CaWdfQmVuX2J3LjE5NjMwMTE5LmdpZg==",
-				"url": "https://comicskingdom.com/big-ben-bolt/2023-05-11"
 			}
 		],
 		"title": "Big Ben Bolt",
@@ -12563,8 +12563,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1282/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/secret-agent-x-9/2023-06-08",
+		"mostRecentStripUrl": "https://comicskingdom.com/secret-agent-x-9/2023-06-09",
 		"strips": [
+			{
+				"date": "2023-06-09",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTIvU2VjcmV0X0FnZW50X2J3LjE5NDMxMjE3LmdpZg==",
+				"url": "https://comicskingdom.com/secret-agent-x-9/2023-06-09"
+			},
 			{
 				"date": "2023-06-08",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTIvU2VjcmV0X0FnZW50X2J3LjE5NDMxMjE2LmdpZg==",
@@ -12684,11 +12689,6 @@
 				"date": "2023-05-12",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTEvU2VjcmV0X0FnZW50X2J3LjE5NDMxMTE5LmdpZg==",
 				"url": "https://comicskingdom.com/secret-agent-x-9/2023-05-12"
-			},
-			{
-				"date": "2023-05-11",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1NlY3JldEFnZW50WC05LzE5NDMvMTEvU2VjcmV0X0FnZW50X2J3LjE5NDMxMTE4LmdpZg==",
-				"url": "https://comicskingdom.com/secret-agent-x-9/2023-05-11"
 			}
 		],
 		"title": "Secret Agent X-9",
