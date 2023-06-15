@@ -10316,8 +10316,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/422/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/pardon-my-planet/2023-06-14",
+		"mostRecentStripUrl": "https://comicskingdom.com/pardon-my-planet/2023-06-15",
 		"strips": [
+			{
+				"date": "2023-06-15",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wNi9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzA2MTVfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/pardon-my-planet/2023-06-15"
+			},
 			{
 				"date": "2023-06-14",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wNi9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzA2MTRfNjU3LnBuZw==",
@@ -10437,11 +10442,6 @@
 				"date": "2023-05-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wNS9QYXJkb25fTXlfUGxhbmV0X3AuMjAyMzA1MjJfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/pardon-my-planet/2023-05-22"
-			},
-			{
-				"date": "2023-05-21",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UGFyZG9uTXlQbGFuZXQvMjAyMy8wNS9QYXJkb25fTXlfUGxhbmV0X250Yi4yMDIzMDUyMV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/pardon-my-planet/2023-05-21"
 			}
 		],
 		"title": "Pardon My Planet",
@@ -14265,8 +14265,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/632/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zippy-the-pinhead/2023-06-14",
+		"mostRecentStripUrl": "https://comicskingdom.com/zippy-the-pinhead/2023-06-15",
 		"strips": [
+			{
+				"date": "2023-06-15",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDYvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzA2MTVfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/zippy-the-pinhead/2023-06-15"
+			},
 			{
 				"date": "2023-06-14",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDYvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzA2MTRfMTUzNi5naWY=",
@@ -14386,11 +14391,6 @@
 				"date": "2023-05-22",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDUvWmlwcHlfdGhlX1BpbmhlYWQuMjAyMzA1MjJfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/zippy-the-pinhead/2023-05-22"
-			},
-			{
-				"date": "2023-05-21",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=WmlwcHl0aGVQaW5oZWFkLzIwMjMvMDUvWmlwcHlfdGhlX1BpbmhlYWRfc3MuMjAyMzA1MjFfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/zippy-the-pinhead/2023-05-21"
 			}
 		],
 		"title": "Zippy The Pinhead",
