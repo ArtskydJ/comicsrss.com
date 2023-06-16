@@ -2088,8 +2088,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/42/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey-1/2023-06-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey-1/2023-06-16",
 		"strips": [
+			{
+				"date": "2023-06-16",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDYvQmVldGxlX0JhaWxleS4yMDIzMDYxNl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/beetle-bailey-1/2023-06-16"
+			},
 			{
 				"date": "2023-06-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDYvQmVldGxlX0JhaWxleS4yMDIzMDYxNV8xNTM2LmdpZg==",
@@ -2209,11 +2214,6 @@
 				"date": "2023-05-23",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDUvQmVldGxlX0JhaWxleS4yMDIzMDUyM18xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/beetle-bailey-1/2023-05-23"
-			},
-			{
-				"date": "2023-05-22",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMjMvMDUvQmVldGxlX0JhaWxleS4yMDIzMDUyMl8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/beetle-bailey-1/2023-05-22"
 			}
 		],
 		"title": "Beetle Bailey",
@@ -4165,8 +4165,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/952/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/crock/2023-06-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/crock/2023-06-16",
 		"strips": [
+			{
+				"date": "2023-06-16",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNi9Dcm9jay4yMDIzMDYxNl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/crock/2023-06-16"
+			},
 			{
 				"date": "2023-06-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNi9Dcm9jay4yMDIzMDYxNV8xNTM2LmdpZg==",
@@ -4286,11 +4291,6 @@
 				"date": "2023-05-23",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNS9Dcm9jay4yMDIzMDUyM18xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/crock/2023-05-23"
-			},
-			{
-				"date": "2023-05-22",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3JvY2svMjAyMy8wNS9Dcm9jay4yMDIzMDUyMl8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/crock/2023-05-22"
 			}
 		],
 		"title": "Crock",
