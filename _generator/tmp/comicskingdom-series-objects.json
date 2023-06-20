@@ -4800,8 +4800,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1032/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-06-19",
+		"mostRecentStripUrl": "https://comicskingdom.com/dennis-the-menace/2023-06-20",
 		"strips": [
+			{
+				"date": "2023-06-20",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDYvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA2MjBfNjU3LnBuZw==",
+				"url": "https://comicskingdom.com/dennis-the-menace/2023-06-20"
+			},
 			{
 				"date": "2023-06-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDYvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA2MTlfNjU3LnBuZw==",
@@ -4921,11 +4926,6 @@
 				"date": "2023-05-27",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDUvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA1MjdfNjU3LnBuZw==",
 				"url": "https://comicskingdom.com/dennis-the-menace/2023-05-27"
-			},
-			{
-				"date": "2023-05-26",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=RGVubmlzVGhlTWVuYWNlLzIwMjMvMDUvRGVubmlzX1RoZV9NZW5hY2UuMjAyMzA1MjZfNjU3LnBuZw==",
-				"url": "https://comicskingdom.com/dennis-the-menace/2023-05-26"
 			}
 		],
 		"title": "Dennis The Menace",
