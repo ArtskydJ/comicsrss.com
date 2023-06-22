@@ -2697,8 +2697,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-06-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-06-22",
 		"strips": [
+			{
+				"date": "2023-06-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA2L0Jsb25kaWUuMjAyMzA2MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-06-22"
+			},
 			{
 				"date": "2023-06-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA2L0Jsb25kaWUuMjAyMzA2MjFfMTUzNi5naWY=",
@@ -2818,11 +2823,6 @@
 				"date": "2023-05-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA1L0Jsb25kaWUuMjAyMzA1MjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-05-29"
-			},
-			{
-				"date": "2023-05-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzA1L0Jsb25kaWVfZnQuMjAyMzA1MjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-05-28"
 			}
 		],
 		"title": "Blondie",
@@ -12674,8 +12674,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1852/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/shoe/2023-06-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/shoe/2023-06-22",
 		"strips": [
+			{
+				"date": "2023-06-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzA2L1Nob2UuMjAyMzA2MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/shoe/2023-06-22"
+			},
 			{
 				"date": "2023-06-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzA2L1Nob2UuMjAyMzA2MjFfMTUzNi5naWY=",
@@ -12795,11 +12800,6 @@
 				"date": "2023-05-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzA1L1Nob2UuMjAyMzA1MjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/shoe/2023-05-29"
-			},
-			{
-				"date": "2023-05-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2hvZS8yMDIzLzA1L1Nob2VfaHMuMjAyMzA1MjhfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/shoe/2023-05-28"
 			}
 		],
 		"title": "Shoe",
@@ -14401,8 +14401,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/642/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-06-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-06-22",
 		"strips": [
+			{
+				"date": "2023-06-22",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA2L1ppdHMuMjAyMzA2MjJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/zits/2023-06-22"
+			},
 			{
 				"date": "2023-06-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA2L1ppdHMuMjAyMzA2MjFfMTUzNi5naWY=",
@@ -14522,11 +14527,6 @@
 				"date": "2023-05-29",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA1L1ppdHMuMjAyMzA1MjlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/zits/2023-05-29"
-			},
-			{
-				"date": "2023-05-28",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzA1L1ppdHNfbnRiLjIwMjMwNTI4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/zits/2023-05-28"
 			}
 		],
 		"title": "Zits",
