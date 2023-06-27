@@ -6816,11 +6816,6 @@
 				"date": "2023-04-01",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzA0L0JyYW5jaC4yMDIzMDQwMV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/john-branch/2023-04-01"
-			},
-			{
-				"date": "2023-03-29",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzAzL0JyYW5jaC4yMDIzMDMyOV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/john-branch/2023-03-29"
 			}
 		],
 		"title": "John Branch",
@@ -8121,8 +8116,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4320/Logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/legalization-nation/2023-06-21",
+		"mostRecentStripUrl": "https://comicskingdom.com/legalization-nation/2023-06-27",
 		"strips": [
+			{
+				"date": "2023-06-14",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVnYWxpemF0aW9uTmF0aW9uLzIwMjMvMDYvTGVnYWxfTmF0aW9uX2hzLjIwMjMwNjE0XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/legalization-nation/2023-06-14"
+			},
 			{
 				"date": "2023-06-21",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVnYWxpemF0aW9uTmF0aW9uLzIwMjMvMDYvTGVnYWxfTmF0aW9uX2hzLjIwMjMwNjIxXzE1MzYuZ2lm",
@@ -8172,11 +8172,6 @@
 				"date": "2023-04-12",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVnYWxpemF0aW9uTmF0aW9uLzIwMjMvMDQvTGVnYWxfTmF0aW9uX2hzLjIwMjMwNDEyXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/legalization-nation/2023-04-12"
-			},
-			{
-				"date": "2023-03-29",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVnYWxpemF0aW9uTmF0aW9uLzIwMjMvMDMvTGVnYWxfTmF0aW9uX2hzLjIwMjMwMzI5XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/legalization-nation/2023-03-29"
 			}
 		],
 		"title": "Legalization Nation",
@@ -12246,11 +12241,6 @@
 				"date": "2023-04-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsZXMvMjAyMy8wNC9TYWxlcy4yMDIzMDQwNV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/sales/2023-04-05"
-			},
-			{
-				"date": "2023-03-29",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsZXMvMjAyMy8wMy9TYWxlcy4yMDIzMDMyOV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/sales/2023-03-29"
 			}
 		],
 		"title": "Sales",
