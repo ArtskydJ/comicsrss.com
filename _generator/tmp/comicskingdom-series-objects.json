@@ -4296,8 +4296,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/132/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-07-01",
+		"mostRecentStripUrl": "https://comicskingdom.com/curtis/2023-07-02",
 		"strips": [
+			{
+				"date": "2023-07-02",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDcvQ3VydGlzX2hzLjIwMjMwNzAyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/curtis/2023-07-02"
+			},
 			{
 				"date": "2023-07-01",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDcvQ3VydGlzLjIwMjMwNzAxXzE1MzYuZ2lm",
@@ -4417,11 +4422,6 @@
 				"date": "2023-06-08",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDYvQ3VydGlzLjIwMjMwNjA4XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/curtis/2023-06-08"
-			},
-			{
-				"date": "2023-06-07",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Q3VydGlzLzIwMjMvMDYvQ3VydGlzLjIwMjMwNjA3XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/curtis/2023-06-07"
 			}
 		],
 		"title": "Curtis",
