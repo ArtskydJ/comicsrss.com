@@ -7461,8 +7461,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/3892/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/kevin-and-kell/2023-07-01",
+		"mostRecentStripUrl": "https://comicskingdom.com/kevin-and-kell/2023-07-03",
 		"strips": [
+			{
+				"date": "2023-07-03",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDcvS2V2aW5fYW5kX0tlbGwuMjAyMzA3MDNfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/kevin-and-kell/2023-07-03"
+			},
 			{
 				"date": "2023-07-01",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDcvS2V2aW5fYW5kX0tlbGwuMjAyMzA3MDFfMTUzNi5naWY=",
@@ -7582,11 +7587,6 @@
 				"date": "2023-06-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDYvS2V2aW5fYW5kX0tlbGwuMjAyMzA2MDVfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/kevin-and-kell/2023-06-05"
-			},
-			{
-				"date": "2023-06-03",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2V2aW5hbmRLZWxsLzIwMjMvMDYvS2V2aW5fYW5kX0tlbGwuMjAyMzA2MDNfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/kevin-and-kell/2023-06-03"
 			}
 		],
 		"title": "Kevin and Kell",
@@ -11097,8 +11097,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/272/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/pros-cons/2023-07-02",
+		"mostRecentStripUrl": "https://comicskingdom.com/pros-cons/2023-07-03",
 		"strips": [
+			{
+				"date": "2023-07-03",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wNy9Qcm9zX2FuZF9Db25zLjIwMjMwNzAzXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/pros-cons/2023-07-03"
+			},
 			{
 				"date": "2023-07-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wNy9Qcm9zX2FuZF9Db25zX250Yi4yMDIzMDcwMl8xNTM2LmdpZg==",
@@ -11218,11 +11223,6 @@
 				"date": "2023-06-09",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wNi9Qcm9zX2FuZF9Db25zLjIwMjMwNjA5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/pros-cons/2023-06-09"
-			},
-			{
-				"date": "2023-06-08",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UHJvc0NvbnMvMjAyMy8wNi9Qcm9zX2FuZF9Db25zLjIwMjMwNjA4XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/pros-cons/2023-06-08"
 			}
 		],
 		"title": "Pros & Cons",
