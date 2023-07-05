@@ -5954,8 +5954,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1302/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/hagar-the-horrible/2023-07-04",
+		"mostRecentStripUrl": "https://comicskingdom.com/hagar-the-horrible/2023-07-05",
 		"strips": [
+			{
+				"date": "2023-07-05",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA3L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDcwNV8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/hagar-the-horrible/2023-07-05"
+			},
 			{
 				"date": "2023-07-04",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA3L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDcwNF8xNTM2LmdpZg==",
@@ -6075,11 +6080,6 @@
 				"date": "2023-06-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA2L0hhZ2FyX1RoZV9Ib3JyaWJsZV9mdC4yMDIzMDYxMV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/hagar-the-horrible/2023-06-11"
-			},
-			{
-				"date": "2023-06-10",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGFnYXJUaGVIb3JyaWJsZS8yMDIzLzA2L0hhZ2FyX1RoZV9Ib3JyaWJsZS4yMDIzMDYxMF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/hagar-the-horrible/2023-06-10"
 			}
 		],
 		"title": "Hagar The Horrible",
