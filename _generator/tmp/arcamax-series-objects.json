@@ -687,6 +687,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/auntyacid/",
 		"strips": [
 			{
+				"date": "2023-09-28",
+				"imageUrl": "https://resources.arcamax.com/newspics/247/24771/2477164.gif",
+				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-2837703"
+			},
+			{
 				"date": "2023-09-25",
 				"imageUrl": "https://resources.arcamax.com/newspics/248/24825/2482531.gif",
 				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-2843040"
@@ -805,11 +810,6 @@
 				"date": "2023-08-29",
 				"imageUrl": "https://resources.arcamax.com/newspics/251/25128/2512807.gif",
 				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-2869650"
-			},
-			{
-				"date": "2023-08-28",
-				"imageUrl": "https://resources.arcamax.com/newspics/251/25121/2512115.gif",
-				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-2869047"
 			}
 		],
 		"title": "Aunty Acid",
@@ -11370,15 +11370,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139077.jpg",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-09-27",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139077.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547602"
+				"date": "2021-09-28",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138746.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547271"
 			}
 		],
 		"title": "The Fortune Teller",
