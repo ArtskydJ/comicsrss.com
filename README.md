@@ -50,27 +50,39 @@ When these updated/new files are committed and pushed to this repository, they g
 
 ### Run locally
 
-1. Fork the repository
+1. Fork and clone the repository
 2. Run these commands on your command line:
 ```sh
-cd comicsrss.com
+# in /comicsrss.com
 npm install
 
-cd comicsrss.com/_generator
-node bin --help
-node bin --scrape --generate
+cd _generator
 
-git diff
+# If you want to see all the options:
+# node bin --help
+
+# Re-generate the site with the cached scraped site data:
+node bin --generate
+
+# If you want to run the scrapers (takes a while) then run this:
+# node bin --scrape --generate
+
+# I have nginx serving up my whole code directory, so I can go to http://localhost:80/comicsrss.com/
+# If you don't have anything similar set up, you can try:
+cd ..
+npx serve
+# Then open http://localhost:3000 in your browser
 ```
 
 
 
-### Run it yourself
+### Run your own auto-updating scraper and website using CircleCI
 
 1. Fork the repository
 2. [Create a GitHub Deploy Key](https://circleci.com/docs/2.0/gh-bb-integration/#creating-a-github-deploy-key), add it to GitHub, and CircleCI
 3. Change `.circleci/config.yml` from my username, email, and key fingerprint to your username, email, and key fingerprint
-4. I think that's it? Make a PR if you attempt the above steps and I missed something!
+4. Enable the repo in CircleCI
+5. I think that's it? Make a PR if you attempt the above steps and I missed something!
 
 
 
@@ -80,7 +92,7 @@ To create a scraper for a single-series website that shows multiple days' comic 
 
 To create a scraper for a multi-series website, copy the code from [arcamax.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax.js) and change it as needed.
 
-If you're not sure which to use, probaby start from arcamax.js, or feel free to open a GitHub issue to discuss it with me.
+If you're not sure which to use, probaby start from `arcamax.js`, or feel free to open a GitHub issue to discuss it with me.
 
 <!--
 ### Example
