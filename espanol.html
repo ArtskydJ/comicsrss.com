@@ -1,890 +1,1141 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, user-scalable=no">
-	
-	<meta name="google-site-verification" content="Tk31ash1naJq9LaQiLemTrYorcKAfUrJ2xHCW745vVM">
-	
-	
-	<title>Comics RSS</title>
-	<link rel="stylesheet" type="text/css" href="./static/style.css">
-	<link rel="icon" href="./static/favicon.ico" type="image/x-icon">
-</head>
-<body>
-	<div class="container">
-		<nav>
-			<a href="./">
-				<img src="./static/comicsrss-logo.png" class="logo" alt="">
-				<span class="nav-header">Comics RSS</span>
-			</a>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
 
-			<a href="#contact">Contact</a>
-		</nav>
-	</div>
+    <meta
+      name="google-site-verification"
+      content="Tk31ash1naJq9LaQiLemTrYorcKAfUrJ2xHCW745vVM"
+    />
 
-	<section id="intro">
-	<div class="container">
-		<p>
-			If you use an <a href="https://www.digitaltrends.com/computing/what-is-an-rss-feed/">RSS</a>
-			reader, and like reading comics, then this is the site for you!
-			Preview comic strips, and if you like them, then add the RSS feed to your reader.
-		</p>
+    <title>Comics RSS</title>
+    <link rel="stylesheet" type="text/css" href="./static/style.css" />
+    <link rel="icon" href="./static/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <div class="container">
+      <nav>
+        <a href="./">
+          <img src="./static/comicsrss-logo.png" class="logo" alt="" />
+          <span class="nav-header">Comics RSS</span>
+        </a>
+      </nav>
+    </div>
 
-		<p>
-			If you enjoy this site, consider supporting it through
-			<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a> or
-			<a href="https://paypal.me/artskydj">PayPal</a>.
-		</p>
-	</div>
-</section>
+    <section id="intro">
+      <div class="container">
+        <p>
+          If you use an
+          <a href="https://www.digitaltrends.com/computing/what-is-an-rss-feed/"
+            >RSS</a
+          >
+          reader, and like reading comics, then this is the site for you!
+          Preview comic strips, and if you like them, then add the RSS feed to
+          your reader.
+        </p>
 
-<section id="browse">
-	<div class="container">
-		<div class="main-page-header large-margin">Browse</div>
-		<label for="search">Search</label>
-		<input type="text" id="search" class="search">
+        <p>
+          If you enjoy this site, consider supporting it through
+          <a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a> or
+          <a href="https://paypal.me/artskydj">PayPal</a>.
+        </p>
+      </div>
+    </section>
 
-		<script>
-			var searchCss = document.createElement('style')
-			document.head.appendChild(searchCss)
+    <section id="browse">
+      <div class="container">
+        <div class="main-page-header large-margin">Browse</div>
+        <input
+          type="text"
+          id="search"
+          class="search"
+          placeholder="Filter Comics"
+        />
 
-			var inputSearch = document.querySelector('input.search')
+        <script>
+          var searchCss = document.createElement("style");
+          document.head.appendChild(searchCss);
 
-			inputSearch.addEventListener('input', updateFilter)
-			updateFilter()
+          var inputSearch = document.querySelector("input.search");
 
-			function normalizeSearchString(titleOrAuthor) {
-				return titleOrAuthor
-					.trim()
-					.replace(/&/g, 'and')
-					.toLowerCase()
-					.replace(/\s\s+/g, ' ')
-					.replace(/"/g, '')
-			}
+          inputSearch.addEventListener("input", updateFilter);
+          updateFilter();
 
-			function updateFilter() {
-				var searchPhrase = normalizeSearchString(inputSearch.value)
-				var cssHideRule = ''
-				if (searchPhrase.length) {
-					cssHideRule = searchPhrase.split(' ').map(wordToSelectorNonHits).join(',') + '{display:none;}'
-					var cssShowSelector = searchPhrase.split(' ').map(wordToSelectorHits).join(',')
+          function normalizeSearchString(titleOrAuthor) {
+            return titleOrAuthor
+              .trim()
+              .replace(/&/g, "and")
+              .toLowerCase()
+              .replace(/\s\s+/g, " ")
+              .replace(/"/g, "");
+          }
 
-					var resultCount = document.querySelectorAll(cssShowSelector).length
-				}
-				searchCss.innerHTML = cssHideRule
+          function updateFilter() {
+            var searchPhrase = normalizeSearchString(inputSearch.value);
+            var cssHideRule = "";
+            if (searchPhrase.length) {
+              cssHideRule =
+                searchPhrase.split(" ").map(wordToSelectorNonHits).join(",") +
+                "{display:none;}";
+              var cssShowSelector = searchPhrase
+                .split(" ")
+                .map(wordToSelectorHits)
+                .join(",");
 
-				function wordToSelectorNonHits(word) { return 'ul#comics-list>li:not([data-search*="' + word + '"])' }
-				function wordToSelectorHits(word) {    return 'ul#comics-list>li[data-search*="' + word + '"]' }
-			}
-		</script>
+              var resultCount =
+                document.querySelectorAll(cssShowSelector).length;
+            }
+            searchCss.innerHTML = cssHideRule;
 
-		<ul id="comics-list" tabindex="-1">
-			
-				<li data-search="aaggghhh by ham">
-					<div class="ellipsis" title="Aaggghhh by Ham">
-						Aaggghhh by Ham
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2FAaggghhh.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/Aaggghhh.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/Aaggghhh" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="baldo en español by hector d. cantú and carlos castellanos">
-					<div class="ellipsis" title="Baldo en Español by Hector D. Cantú and Carlos Castellanos">
-						Baldo en Español by Hector D. Cantú and Carlos Castellanos
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fbaldoespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/baldoespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/baldoespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="benitin y eneas by pierre s. de beaumont and bud fisher">
-					<div class="ellipsis" title="Benitin y Eneas by Pierre S. De Beaumont and Bud Fisher">
-						Benitin y Eneas by Pierre S. De Beaumont and Bud Fisher
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fmuttandjeffespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/muttandjeffespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/muttandjeffespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="calvin and hobbes en español by bill watterson">
-					<div class="ellipsis" title="Calvin and Hobbes en Español by Bill Watterson">
-						Calvin and Hobbes en Español by Bill Watterson
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fcalvinandhobbesespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/calvinandhobbesespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/calvinandhobbesespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="cápsulas médicas by bron smith">
-					<div class="ellipsis" title="Cápsulas Médicas by Bron Smith">
-						Cápsulas Médicas by Bron Smith
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fcapsulas-medicas.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/capsulas-medicas.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/capsulas-medicas" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="dilbert en español by scott adams">
-					<div class="ellipsis" title="Dilbert en Español by Scott Adams">
-						Dilbert en Español by Scott Adams
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fdilbert-en-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/dilbert-en-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/dilbert-en-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="don brutus by art and chip sansom">
-					<div class="ellipsis" title="Don Brutus by Art and Chip Sansom">
-						Don Brutus by Art and Chip Sansom
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fdon-brutus.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/don-brutus.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/don-brutus" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="el café de poncho by paul gilligan">
-					<div class="ellipsis" title="El Café de Poncho by Paul Gilligan">
-						El Café de Poncho by Paul Gilligan
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fel-cafe-de-poncho.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/el-cafe-de-poncho.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/el-cafe-de-poncho" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="foxtrot en español by bill amend">
-					<div class="ellipsis" title="FoxTrot en Español by Bill Amend">
-						FoxTrot en Español by Bill Amend
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ffoxtrotespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/foxtrotespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/foxtrotespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="fred basset en español by alex graham">
-					<div class="ellipsis" title="Fred Basset en Español by Alex Graham">
-						Fred Basset en Español by Alex Graham
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ffredbassetespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/fredbassetespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/fredbassetespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="garfield en español by jim davis">
-					<div class="ellipsis" title="Garfield en Español by Jim Davis">
-						Garfield en Español by Jim Davis
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgarfieldespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/garfieldespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/garfieldespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="garfield en español by jim davis">
-					<div class="ellipsis" title="Garfield en Español by Jim Davis">
-						Garfield en Español by Jim Davis
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgarfieldespanol%2520.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/garfieldespanol%2520.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/garfieldespanol%20" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="gaturro by nik">
-					<div class="ellipsis" title="Gaturro by NIK">
-						Gaturro by NIK
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgaturro.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/gaturro.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/gaturro" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="ginger meggs en español by jason chatfield">
-					<div class="ellipsis" title="Ginger Meggs en Español by Jason Chatfield">
-						Ginger Meggs en Español by Jason Chatfield
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgingermeggs-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/gingermeggs-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/gingermeggs-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="ginger meggs en español by jason chatfield">
-					<div class="ellipsis" title="Ginger Meggs en Español by Jason Chatfield">
-						Ginger Meggs en Español by Jason Chatfield
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgingermeggs-espanol%2520.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/gingermeggs-espanol%2520.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/gingermeggs-espanol%20" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="heathcliff en español by peter gallagher">
-					<div class="ellipsis" title="Heathcliff en Español by Peter Gallagher">
-						Heathcliff en Español by Peter Gallagher
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fheathcliffespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/heathcliffespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/heathcliffespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="justo y franco by thaves">
-					<div class="ellipsis" title="Justo y Franco by Thaves">
-						Justo y Franco by Thaves
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fjusto-y-franco.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/justo-y-franco.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/justo-y-franco" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="la cucaracha en español by lalo alcaraz">
-					<div class="ellipsis" title="La Cucaracha en Español by Lalo Alcaraz">
-						La Cucaracha en Español by Lalo Alcaraz
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fla-cucaracha-en-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/la-cucaracha-en-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/la-cucaracha-en-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="lalo alcaraz en español by lalo alcaraz">
-					<div class="ellipsis" title="Lalo Alcaraz en Español by Lalo Alcaraz">
-						Lalo Alcaraz en Español by Lalo Alcaraz
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flaloenespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/laloenespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/laloenespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="las hermanas stone by jan eliot">
-					<div class="ellipsis" title="Las Hermanas Stone by Jan Eliot">
-						Las Hermanas Stone by Jan Eliot
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fstonesoup_espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/stonesoup_espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/stonesoup_espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="lio en español by mark tatulli">
-					<div class="ellipsis" title="Lio en Español by Mark Tatulli">
-						Lio en Español by Mark Tatulli
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flioespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/lioespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/lioespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="lola en español by todd clark">
-					<div class="ellipsis" title="Lola en Español by Todd Clark">
-						Lola en Español by Todd Clark
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flola-en-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/lola-en-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/lola-en-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="los osorios by bill schorr">
-					<div class="ellipsis" title="Los Osorios by Bill Schorr">
-						Los Osorios by Bill Schorr
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flos-osorios.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/los-osorios.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/los-osorios" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="luann en español by greg evans">
-					<div class="ellipsis" title="Luann en Español by Greg Evans">
-						Luann en Español by Greg Evans
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fluannspanish.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/luannspanish.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/luannspanish" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="monty diaros by jim meddick">
-					<div class="ellipsis" title="Monty Diaros by Jim Meddick">
-						Monty Diaros by Jim Meddick
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fmonty-diaros.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/monty-diaros.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/monty-diaros" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="nate el grande by lincoln peirce">
-					<div class="ellipsis" title="Nate el Grande by Lincoln Peirce">
-						Nate el Grande by Lincoln Peirce
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fnate-el-grande.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/nate-el-grande.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/nate-el-grande" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="overboard en español by chip dunham">
-					<div class="ellipsis" title="Overboard en Español by Chip Dunham">
-						Overboard en Español by Chip Dunham
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Foverboardespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/overboardespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/overboardespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="periquita by olivia jaimes">
-					<div class="ellipsis" title="Periquita by Olivia Jaimes">
-						Periquita by Olivia Jaimes
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fperiquita.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/periquita.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/periquita" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="perlas para los cerdos by stephan pastis">
-					<div class="ellipsis" title="Perlas para los Cerdos by Stephan Pastis">
-						Perlas para los Cerdos by Stephan Pastis
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fperlas-para-los-cerdos.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/perlas-para-los-cerdos.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/perlas-para-los-cerdos" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="ripley’s ¡aunque usted no lo crea! by john graziano">
-					<div class="ellipsis" title="Ripley’s ¡Aunque Usted no lo Crea! by John Graziano">
-						Ripley’s ¡Aunque Usted no lo Crea! by John Graziano
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fripleys-en-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/ripleys-en-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/ripleys-en-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="snoopy en español by charles schulz">
-					<div class="ellipsis" title="Snoopy en Español by Charles Schulz">
-						Snoopy en Español by Charles Schulz
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fpeanuts-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/peanuts-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/peanuts-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="tarzán en español by edgar rice burroughs">
-					<div class="ellipsis" title="Tarzán en Español by Edgar Rice Burroughs">
-						Tarzán en Español by Edgar Rice Burroughs
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ftarzan-en-espanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/tarzan-en-espanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/tarzan-en-espanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="the wizard of id - spanish by parker and hart">
-					<div class="ellipsis" title="The Wizard of Id - Spanish by Parker and Hart">
-						The Wizard of Id - Spanish by Parker and Hart
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fwizardofidespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/wizardofidespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/wizardofidespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="trucutu by jonathan lemon and joey alison sayers">
-					<div class="ellipsis" title="Trucutu by Jonathan Lemon and Joey Alison Sayers">
-						Trucutu by Jonathan Lemon and Joey Alison Sayers
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ftrucutu.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/trucutu.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/trucutu" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="tutelandia by tute">
-					<div class="ellipsis" title="Tutelandia by Tute">
-						Tutelandia by Tute
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ftutelandia.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/tutelandia.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/tutelandia" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="wumo en español by wulff & morgenthaler">
-					<div class="ellipsis" title="Wumo en Español by Wulff & Morgenthaler">
-						Wumo en Español by Wulff & Morgenthaler
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fwumoespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/wumoespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/wumoespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-				<li data-search="ziggy en español by tom wilson & tom ii">
-					<div class="ellipsis" title="Ziggy en Español by Tom Wilson & Tom II">
-						Ziggy en Español by Tom Wilson & Tom II
-					</div>
-					<div class="actions">
-						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fziggyespanol.rss" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Preview
-						</a>
-						<a href="./rss/ziggyespanol.rss" onclick="copy(this, event)">
-							<img src="../static/rss_sm.png" class="icon rss-icon" alt="">
-							<span class="status">Copy RSS URL</span>
-						</a>
-						<a href="https://www.gocomics.com/ziggyespanol" target="_blank">
-							<img src="./static/external_sm.png" class="icon" alt="">
-							Source
-						</a>
-					</div>
-				</li>
-			
-		</ul>
+            function wordToSelectorNonHits(word) {
+              return 'ul#comics-list>li:not([data-search*="' + word + '"])';
+            }
+            function wordToSelectorHits(word) {
+              return 'ul#comics-list>li[data-search*="' + word + '"]';
+            }
+          }
+        </script>
 
-		
-			<a href="./">English</a>
-			&mdash;
-			<b>Spanish</b>
-		
-	</div>
-</section>
+        <ul id="comics-list" tabindex="-1">
+          <li data-search="aaggghhh by ham">
+            <div class="ellipsis" title="Aaggghhh by Ham">Aaggghhh by Ham</div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2FAaggghhh.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/Aaggghhh.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/Aaggghhh" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
+          <li
+            data-search="baldo en español by hector d. cantú and carlos castellanos"
+          >
+            <div
+              class="ellipsis"
+              title="Baldo en Español by Hector D. Cantú and Carlos Castellanos"
+            >
+              Baldo en Español by Hector D. Cantú and Carlos Castellanos
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fbaldoespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/baldoespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/baldoespanol" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
+          <li
+            data-search="benitin y eneas by pierre s. de beaumont and bud fisher"
+          >
+            <div
+              class="ellipsis"
+              title="Benitin y Eneas by Pierre S. De Beaumont and Bud Fisher"
+            >
+              Benitin y Eneas by Pierre S. De Beaumont and Bud Fisher
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fmuttandjeffespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/muttandjeffespanol.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/muttandjeffespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
+          <li data-search="calvin and hobbes en español by bill watterson">
+            <div
+              class="ellipsis"
+              title="Calvin and Hobbes en Español by Bill Watterson"
+            >
+              Calvin and Hobbes en Español by Bill Watterson
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fcalvinandhobbesespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/calvinandhobbesespanol.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/calvinandhobbesespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
-<section id="contact">
-	<div class="container">
-		<h1 class="text-center">Contact</h1>
-		<p>
-			Suggestions? Comments? Questions?
-		</p>
-		<p>
-			I'd love to hear your thoughts about the site! Send an email to
-			<a id="mail"><span>joseph<span>@com</span>icsrss.</span>com</a>
-		</p>
-	</div>
-</section>
+          <li data-search="cápsulas médicas by bron smith">
+            <div class="ellipsis" title="Cápsulas Médicas by Bron Smith">
+              Cápsulas Médicas by Bron Smith
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fcapsulas-medicas.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/capsulas-medicas.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/capsulas-medicas"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
-<script>
-	// Obfuscate email
-	document.getElementById('mail').href = 'mailt' + 'o:joseph' + '@com' + 'icsrss.com'
+          <li data-search="dilbert en español by scott adams">
+            <div class="ellipsis" title="Dilbert en Español by Scott Adams">
+              Dilbert en Español by Scott Adams
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fdilbert-en-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/dilbert-en-espanol.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/dilbert-en-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
+          <li data-search="don brutus by art and chip sansom">
+            <div class="ellipsis" title="Don Brutus by Art and Chip Sansom">
+              Don Brutus by Art and Chip Sansom
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fdon-brutus.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/don-brutus.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/don-brutus" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
-	function copyToClipboard(text) {
-		var textArea = document.createElement('textarea')
-		textArea.className = 'copyable'
-		textArea.value = text
-		document.body.appendChild(textArea)
-		textArea.select()
-		var wasSuccessful = document.execCommand('copy')
-		document.body.removeChild(textArea)
-		return wasSuccessful
-	}
+          <li data-search="el café de poncho by paul gilligan">
+            <div class="ellipsis" title="El Café de Poncho by Paul Gilligan">
+              El Café de Poncho by Paul Gilligan
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fel-cafe-de-poncho.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/el-cafe-de-poncho.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/el-cafe-de-poncho"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
-	function updateStatus(self) {
-		var status = self.querySelector('.status')
-		status.innerHTML = status.innerHTML.replace('Copy', 'Copied')
-		setTimeout(function () {
-			status.innerHTML = status.innerHTML.replace('Copied', 'Copy')
-		}, 1500)
-	}
+          <li data-search="foxtrot en español by bill amend">
+            <div class="ellipsis" title="FoxTrot en Español by Bill Amend">
+              FoxTrot en Español by Bill Amend
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ffoxtrotespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/foxtrotespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/foxtrotespanol" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
-	function copy(self, event) {
-		var text = self.href
-		if (copyToClipboard(text)) {
-			updateStatus(self)
-			event.preventDefault()
-		}
-		return false
-	}
-</script>
+          <li data-search="fred basset en español by alex graham">
+            <div class="ellipsis" title="Fred Basset en Español by Alex Graham">
+              Fred Basset en Español by Alex Graham
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ffredbassetespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/fredbassetespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/fredbassetespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
+          <li data-search="garfield en español by jim davis">
+            <div class="ellipsis" title="Garfield en Español by Jim Davis">
+              Garfield en Español by Jim Davis
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgarfieldespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/garfieldespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/garfieldespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
 
-	<footer class="text-center">
-		<a href="https://github.com/ArtskydJ/comicsrss.com">GitHub</a> -
-		Made by <a href="https://www.josephdykstra.com">Joseph Dykstra</a>
-	</footer>
-</body>
+          <li data-search="garfield en español by jim davis">
+            <div class="ellipsis" title="Garfield en Español by Jim Davis">
+              Garfield en Español by Jim Davis
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgarfieldespanol%2520.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/garfieldespanol%2520.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/garfieldespanol%20"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="gaturro by nik">
+            <div class="ellipsis" title="Gaturro by NIK">Gaturro by NIK</div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgaturro.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/gaturro.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/gaturro" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="ginger meggs en español by jason chatfield">
+            <div
+              class="ellipsis"
+              title="Ginger Meggs en Español by Jason Chatfield"
+            >
+              Ginger Meggs en Español by Jason Chatfield
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgingermeggs-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/gingermeggs-espanol.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/gingermeggs-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="ginger meggs en español by jason chatfield">
+            <div
+              class="ellipsis"
+              title="Ginger Meggs en Español by Jason Chatfield"
+            >
+              Ginger Meggs en Español by Jason Chatfield
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fgingermeggs-espanol%2520.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/gingermeggs-espanol%2520.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/gingermeggs-espanol%20"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="heathcliff en español by peter gallagher">
+            <div
+              class="ellipsis"
+              title="Heathcliff en Español by Peter Gallagher"
+            >
+              Heathcliff en Español by Peter Gallagher
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fheathcliffespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/heathcliffespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/heathcliffespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="justo y franco by thaves">
+            <div class="ellipsis" title="Justo y Franco by Thaves">
+              Justo y Franco by Thaves
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fjusto-y-franco.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/justo-y-franco.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/justo-y-franco" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="la cucaracha en español by lalo alcaraz">
+            <div
+              class="ellipsis"
+              title="La Cucaracha en Español by Lalo Alcaraz"
+            >
+              La Cucaracha en Español by Lalo Alcaraz
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fla-cucaracha-en-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/la-cucaracha-en-espanol.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/la-cucaracha-en-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="lalo alcaraz en español by lalo alcaraz">
+            <div
+              class="ellipsis"
+              title="Lalo Alcaraz en Español by Lalo Alcaraz"
+            >
+              Lalo Alcaraz en Español by Lalo Alcaraz
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flaloenespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/laloenespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/laloenespanol" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="las hermanas stone by jan eliot">
+            <div class="ellipsis" title="Las Hermanas Stone by Jan Eliot">
+              Las Hermanas Stone by Jan Eliot
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fstonesoup_espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/stonesoup_espanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/stonesoup_espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="lio en español by mark tatulli">
+            <div class="ellipsis" title="Lio en Español by Mark Tatulli">
+              Lio en Español by Mark Tatulli
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flioespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/lioespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/lioespanol" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="lola en español by todd clark">
+            <div class="ellipsis" title="Lola en Español by Todd Clark">
+              Lola en Español by Todd Clark
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flola-en-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/lola-en-espanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/lola-en-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="los osorios by bill schorr">
+            <div class="ellipsis" title="Los Osorios by Bill Schorr">
+              Los Osorios by Bill Schorr
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Flos-osorios.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/los-osorios.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/los-osorios" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="luann en español by greg evans">
+            <div class="ellipsis" title="Luann en Español by Greg Evans">
+              Luann en Español by Greg Evans
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fluannspanish.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/luannspanish.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/luannspanish" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="monty diaros by jim meddick">
+            <div class="ellipsis" title="Monty Diaros by Jim Meddick">
+              Monty Diaros by Jim Meddick
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fmonty-diaros.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/monty-diaros.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/monty-diaros" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="nate el grande by lincoln peirce">
+            <div class="ellipsis" title="Nate el Grande by Lincoln Peirce">
+              Nate el Grande by Lincoln Peirce
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fnate-el-grande.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/nate-el-grande.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/nate-el-grande" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="overboard en español by chip dunham">
+            <div class="ellipsis" title="Overboard en Español by Chip Dunham">
+              Overboard en Español by Chip Dunham
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Foverboardespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/overboardespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/overboardespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="periquita by olivia jaimes">
+            <div class="ellipsis" title="Periquita by Olivia Jaimes">
+              Periquita by Olivia Jaimes
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fperiquita.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/periquita.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/periquita" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="perlas para los cerdos by stephan pastis">
+            <div
+              class="ellipsis"
+              title="Perlas para los Cerdos by Stephan Pastis"
+            >
+              Perlas para los Cerdos by Stephan Pastis
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fperlas-para-los-cerdos.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/perlas-para-los-cerdos.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/perlas-para-los-cerdos"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="ripley’s ¡aunque usted no lo crea! by john graziano">
+            <div
+              class="ellipsis"
+              title="Ripley’s ¡Aunque Usted no lo Crea! by John Graziano"
+            >
+              Ripley’s ¡Aunque Usted no lo Crea! by John Graziano
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fripleys-en-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a
+                href="./rss/ripleys-en-espanol.rss"
+                onclick="copy(this, event)"
+              >
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/ripleys-en-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="snoopy en español by charles schulz">
+            <div class="ellipsis" title="Snoopy en Español by Charles Schulz">
+              Snoopy en Español by Charles Schulz
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fpeanuts-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/peanuts-espanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/peanuts-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="tarzán en español by edgar rice burroughs">
+            <div
+              class="ellipsis"
+              title="Tarzán en Español by Edgar Rice Burroughs"
+            >
+              Tarzán en Español by Edgar Rice Burroughs
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ftarzan-en-espanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/tarzan-en-espanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/tarzan-en-espanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="the wizard of id - spanish by parker and hart">
+            <div
+              class="ellipsis"
+              title="The Wizard of Id - Spanish by Parker and Hart"
+            >
+              The Wizard of Id - Spanish by Parker and Hart
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fwizardofidespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/wizardofidespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a
+                href="https://www.gocomics.com/wizardofidespanol"
+                target="_blank"
+              >
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="trucutu by jonathan lemon and joey alison sayers">
+            <div
+              class="ellipsis"
+              title="Trucutu by Jonathan Lemon and Joey Alison Sayers"
+            >
+              Trucutu by Jonathan Lemon and Joey Alison Sayers
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ftrucutu.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/trucutu.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/trucutu" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="tutelandia by tute">
+            <div class="ellipsis" title="Tutelandia by Tute">
+              Tutelandia by Tute
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Ftutelandia.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/tutelandia.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/tutelandia" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="wumo en español by wulff & morgenthaler">
+            <div
+              class="ellipsis"
+              title="Wumo en Español by Wulff & Morgenthaler"
+            >
+              Wumo en Español by Wulff & Morgenthaler
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fwumoespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/wumoespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/wumoespanol" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+
+          <li data-search="ziggy en español by tom wilson & tom ii">
+            <div
+              class="ellipsis"
+              title="Ziggy en Español by Tom Wilson & Tom II"
+            >
+              Ziggy en Español by Tom Wilson & Tom II
+            </div>
+            <div class="actions">
+              <a
+                href="https://www.feedroll.com/rssviewer/preview.php?html=a&src=https%3A%2F%2Fwww.comicsrss.com%2Frss%2Fziggyespanol.rss"
+                target="_blank"
+              >
+                <img src="./static/external_sm.png" class="icon" alt="" />
+                Preview
+              </a>
+              <a href="./rss/ziggyespanol.rss" onclick="copy(this, event)">
+                <img src="../static/rss_sm.png" class="icon rss-icon" alt="" />
+                <span class="status">Copy RSS URL</span>
+              </a>
+              <a href="https://www.gocomics.com/ziggyespanol" target="_blank">
+                <img src="./static/link_sm.png" class="icon" alt="" />
+                Source
+              </a>
+            </div>
+          </li>
+        </ul>
+
+        <a href="./">English</a>
+        &mdash;
+        <b>Spanish</b>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <h1 class="text-center">Contact</h1>
+        <p>Suggestions? Comments? Questions?</p>
+        <p>
+          I'd love to hear your thoughts about the site! Send an email to
+          <a id="mail"><span>joseph<span>@com</span>icsrss.</span>com</a>
+        </p>
+      </div>
+    </section>
+
+    <script>
+      // Obfuscate email
+      document.getElementById("mail").href =
+        "mailt" + "o:joseph" + "@com" + "icsrss.com";
+
+      function copyToClipboard(text) {
+        var textArea = document.createElement("textarea");
+        textArea.className = "copyable";
+        textArea.value = text;
+        document.body.appendChild(textArea);
+        textArea.select();
+        var wasSuccessful = document.execCommand("copy");
+        document.body.removeChild(textArea);
+        return wasSuccessful;
+      }
+
+      function updateStatus(self) {
+        var status = self.querySelector(".status");
+        status.innerHTML = status.innerHTML.replace("Copy", "Copied");
+        setTimeout(function () {
+          status.innerHTML = status.innerHTML.replace("Copied", "Copy");
+        }, 1500);
+      }
+
+      function copy(self, event) {
+        var text = self.href;
+        if (copyToClipboard(text)) {
+          updateStatus(self);
+          event.preventDefault();
+        }
+        return false;
+      }
+    </script>
+
+    <footer class="text-center">
+      <a href="https://github.com/ArtskydJ/comicsrss.com">GitHub</a> - Made by
+      <a href="https://www.josephdykstra.com">Joseph Dykstra</a>
+    </footer>
+  </body>
 </html>
