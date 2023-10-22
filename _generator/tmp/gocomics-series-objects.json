@@ -7541,8 +7541,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bcn/large_bcn_rec_201704041619.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/breaking-cat-news/2023/10/21",
+		"mostRecentStripUrl": "https://www.gocomics.com/breaking-cat-news/2023/10/22",
 		"strips": [
+			{
+				"date": "2023-10-22",
+				"imageUrl": "https://assets.amuniversal.com/400af9303564013c1806005056a9545d",
+				"url": "https://www.gocomics.com/breaking-cat-news/2023/10/22"
+			},
 			{
 				"date": "2023-10-21",
 				"imageUrl": "https://assets.amuniversal.com/74d6a86045e0013c1d6a005056a9545d",
@@ -7662,11 +7667,6 @@
 				"date": "2023-09-28",
 				"imageUrl": "https://assets.amuniversal.com/33cf2c40349e013c17c2005056a9545d",
 				"url": "https://www.gocomics.com/breaking-cat-news/2023/09/28"
-			},
-			{
-				"date": "2023-09-27",
-				"imageUrl": "https://assets.amuniversal.com/30105f30349e013c17c2005056a9545d",
-				"url": "https://www.gocomics.com/breaking-cat-news/2023/09/27"
 			}
 		],
 		"title": "Breaking Cat News",
@@ -31096,8 +31096,13 @@
 		"imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmrm/large_rec-201701251555.jpg",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://www.gocomics.com/michaelramirez/2023/10/20",
+		"mostRecentStripUrl": "https://www.gocomics.com/michaelramirez/2023/10/22",
 		"strips": [
+			{
+				"date": "2023-10-22",
+				"imageUrl": "https://assets.amuniversal.com/0cca192052d6013c2145005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2023/10/22"
+			},
 			{
 				"date": "2023-10-20",
 				"imageUrl": "https://assets.amuniversal.com/ef51f3b05143013c20f1005056a9545d",
@@ -31217,11 +31222,6 @@
 				"date": "2023-09-21",
 				"imageUrl": "https://assets.amuniversal.com/b41589603a88013c199e005056a9545d",
 				"url": "https://www.gocomics.com/michaelramirez/2023/09/21"
-			},
-			{
-				"date": "2023-09-20",
-				"imageUrl": "https://assets.amuniversal.com/60757db0398f013c1933005056a9545d",
-				"url": "https://www.gocomics.com/michaelramirez/2023/09/20"
 			}
 		],
 		"title": "Michael Ramirez",
