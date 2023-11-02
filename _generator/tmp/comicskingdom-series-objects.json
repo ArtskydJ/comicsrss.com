@@ -1530,8 +1530,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2/AC-logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-11-01",
+		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-11-02",
 		"strips": [
+			{
+				"date": "2023-11-02",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTEvQXJjdGljLjIwMjMxMTAyXzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/arctic-circle/2023-11-02"
+			},
 			{
 				"date": "2023-11-01",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTEvQXJjdGljLjIwMjMxMTAxXzE1MzYuZ2lm",
@@ -1651,11 +1656,6 @@
 				"date": "2023-10-09",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTAvQXJjdGljLjIwMjMxMDA5XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/arctic-circle/2023-10-09"
-			},
-			{
-				"date": "2023-10-08",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTAvQXJjdGljX250Yi4yMDIzMTAwOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/arctic-circle/2023-10-08"
 			}
 		],
 		"title": "Arctic Circle",
@@ -1938,8 +1938,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/912/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey/2023-11-01",
+		"mostRecentStripUrl": "https://comicskingdom.com/beetle-bailey/2023-11-02",
 		"strips": [
+			{
+				"date": "2023-11-02",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JlZXRsZUJhaWxleS8xOTY3LzA0L0JlZXRsZV9CYWlsZXlfYncuMTk2NzA0MTcuZ2lm",
+				"url": "https://comicskingdom.com/beetle-bailey/2023-11-02"
+			},
 			{
 				"date": "2023-11-01",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JlZXRsZUJhaWxleS8xOTY3LzA0L0JlZXRsZV9CYWlsZXlfYncuMTk2NzA0MTUuZ2lm",
@@ -2059,11 +2064,6 @@
 				"date": "2023-10-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JlZXRsZUJhaWxleS8xOTY3LzAzL0JlZXRsZV9CYWlsZXlfYncuMTk2NzAzMjAuZ2lm",
 				"url": "https://comicskingdom.com/beetle-bailey/2023-10-05"
-			},
-			{
-				"date": "2023-10-04",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0JlZXRsZUJhaWxleS8xOTY3LzAzL0JlZXRsZV9CYWlsZXlfYncuMTk2NzAzMTguZ2lm",
-				"url": "https://comicskingdom.com/beetle-bailey/2023-10-04"
 			}
 		],
 		"title": "Beetle Bailey",
