@@ -8263,8 +8263,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2312/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/lee-judge/2023-11-03",
+		"mostRecentStripUrl": "https://comicskingdom.com/lee-judge/2023-11-04",
 		"strips": [
+			{
+				"date": "2023-11-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8xMS9KdWRnZS4yMDIzMTEwNF8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/lee-judge/2023-11-04"
+			},
 			{
 				"date": "2023-11-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8xMS9KdWRnZS4yMDIzMTEwM18xNTM2LmdpZg==",
@@ -8384,11 +8389,6 @@
 				"date": "2023-10-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8xMC9KdWRnZS4yMDIzMTAwM18xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/lee-judge/2023-10-03"
-			},
-			{
-				"date": "2023-09-30",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVlSnVkZ2UvMjAyMy8wOS9KdWRnZS4yMDIzMDkzMF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/lee-judge/2023-09-30"
 			}
 		],
 		"title": "Lee Judge",
@@ -11915,8 +11915,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/62/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rex-morgan-m-d/2023-11-03",
+		"mostRecentStripUrl": "https://comicskingdom.com/rex-morgan-m-d/2023-11-04",
 		"strips": [
+			{
+				"date": "2023-11-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMTEvUmV4X01vcmdhbi4yMDIzMTEwNF8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-11-04"
+			},
 			{
 				"date": "2023-11-03",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMTEvUmV4X01vcmdhbi4yMDIzMTEwM18xNTM2LmdpZg==",
@@ -12036,11 +12041,6 @@
 				"date": "2023-10-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMTAvUmV4X01vcmdhbi4yMDIzMTAxMV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-10-11"
-			},
-			{
-				"date": "2023-10-10",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=UmV4TW9yZ2FuTS5ELzIwMjMvMTAvUmV4X01vcmdhbi4yMDIzMTAxMF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/rex-morgan-m-d/2023-10-10"
 			}
 		],
 		"title": "Rex Morgan M.D.",
