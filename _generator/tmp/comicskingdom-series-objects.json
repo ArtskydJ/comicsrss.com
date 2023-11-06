@@ -12741,8 +12741,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/492/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/sam-and-silo/2023-11-04",
+		"mostRecentStripUrl": "https://comicskingdom.com/sam-and-silo/2023-11-06",
 		"strips": [
+			{
+				"date": "2023-11-06",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzExL1NhbS4yMDIzMTEwNl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/sam-and-silo/2023-11-06"
+			},
 			{
 				"date": "2023-11-04",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzExL1NhbS4yMDIzMTEwNF8xNTM2LmdpZg==",
@@ -12862,11 +12867,6 @@
 				"date": "2023-10-09",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzEwL1NhbS4yMDIzMTAwOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/sam-and-silo/2023-10-09"
-			},
-			{
-				"date": "2023-10-07",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzEwL1NhbS4yMDIzMTAwN18xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/sam-and-silo/2023-10-07"
 			}
 		],
 		"title": "Sam And Silo",
