@@ -2698,8 +2698,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-06",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-07",
 		"strips": [
+			{
+				"date": "2023-11-07",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMDdfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-11-07"
+			},
 			{
 				"date": "2023-11-06",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMDZfMTUzNi5naWY=",
@@ -2819,11 +2824,6 @@
 				"date": "2023-10-14",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMTRfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-10-14"
-			},
-			{
-				"date": "2023-10-13",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMTNfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-10-13"
 			}
 		],
 		"title": "Blondie",
@@ -7441,8 +7441,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1112/jp_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/judge-parker-1/2023-11-06",
+		"mostRecentStripUrl": "https://comicskingdom.com/judge-parker-1/2023-11-07",
 		"strips": [
+			{
+				"date": "2023-11-07",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODEvMDQvSnVkZ2VfUGFya2VyX2J3LjE5ODEwNDI0LmdpZg==",
+				"url": "https://comicskingdom.com/judge-parker-1/2023-11-07"
+			},
 			{
 				"date": "2023-11-06",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODEvMDQvSnVkZ2VfUGFya2VyX2J3LjE5ODEwNDIzLmdpZg==",
@@ -7562,11 +7567,6 @@
 				"date": "2023-10-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODEvMDMvSnVkZ2VfUGFya2VyX2J3LjE5ODEwMzA5LmdpZg==",
 				"url": "https://comicskingdom.com/judge-parker-1/2023-10-10"
-			},
-			{
-				"date": "2023-10-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0p1ZGdlUGFya2VyLzE5ODEvMDMvSnVkZ2VfUGFya2VyX2J3LjE5ODEwMzA3LmdpZg==",
-				"url": "https://comicskingdom.com/judge-parker-1/2023-10-09"
 			}
 		],
 		"title": "Judge Parker",
