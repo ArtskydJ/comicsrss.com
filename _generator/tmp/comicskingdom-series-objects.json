@@ -986,8 +986,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/4322/logoanimal.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-11-02",
+		"mostRecentStripUrl": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-11-07",
 		"strips": [
+			{
+				"date": "2023-11-04",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMTEvU01URi1QLjIwMjMxMTA0XzY1Ny5wbmc=",
+				"url": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-11-04"
+			},
 			{
 				"date": "2023-11-02",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMTEvU01URi1QLjIwMjMxMTAyXzY1Ny5wbmc=",
@@ -1107,11 +1112,6 @@
 				"date": "2023-10-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMTAvU01URi1QLjIwMjMxMDEwXzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-10-10"
-			},
-			{
-				"date": "2023-10-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qm9iTWFua29mZlByZXNlbnRzU2hvd01lVGhlRnVubnlBbmltYWxFZGl0aW9uLzIwMjMvMTAvU01URi1QLjIwMjMxMDA5XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/Show-Me-The-Funny-Pets/2023-10-09"
 			}
 		],
 		"title": "Bob Mankoff Presents: Show Me The Funny (Animal Edition)",
@@ -7154,11 +7154,6 @@
 				"date": "2023-08-10",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzA4L0JyYW5jaC4yMDIzMDgxMF8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/john-branch/2023-08-10"
-			},
-			{
-				"date": "2023-08-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzA4L0JyYW5jaC4yMDIzMDgwOV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/john-branch/2023-08-09"
 			}
 		],
 		"title": "John Branch",
@@ -8157,11 +8152,6 @@
 				"date": "2023-08-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wOC9XYWx0ZXJzLjIwMjMwODE4XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/kirk-walters/2023-08-18"
-			},
-			{
-				"date": "2023-08-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=S2lya1dhbHRlcnMvMjAyMy8wOC9XYWx0ZXJzLjIwMjMwODA5XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/kirk-walters/2023-08-09"
 			}
 		],
 		"title": "Kirk Walters",
@@ -8505,11 +8495,6 @@
 				"date": "2023-08-16",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVnYWxpemF0aW9uTmF0aW9uLzIwMjMvMDgvTGVnYWxfTmF0aW9uX2hzLjIwMjMwODE2XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/legalization-nation/2023-08-16"
-			},
-			{
-				"date": "2023-08-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TGVnYWxpemF0aW9uTmF0aW9uLzIwMjMvMDgvTGVnYWxfTmF0aW9uX2hzLjIwMjMwODA5XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/legalization-nation/2023-08-09"
 			}
 		],
 		"title": "Legalization Nation",
@@ -12590,11 +12575,6 @@
 				"date": "2023-08-16",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsZXMvMjAyMy8wOC9TYWxlcy4yMDIzMDgxNl8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/sales/2023-08-16"
-			},
-			{
-				"date": "2023-08-09",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsZXMvMjAyMy8wOC9TYWxlcy4yMDIzMDgwOV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/sales/2023-08-09"
 			}
 		],
 		"title": "Sales",
