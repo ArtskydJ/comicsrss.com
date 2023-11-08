@@ -12600,8 +12600,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/482/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/sally-forth/2023-11-07",
+		"mostRecentStripUrl": "https://comicskingdom.com/sally-forth/2023-11-08",
 		"strips": [
+			{
+				"date": "2023-11-08",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzExL1NhbGx5X0ZvcnRoLjIwMjMxMTA4XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/sally-forth/2023-11-08"
+			},
 			{
 				"date": "2023-11-07",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzExL1NhbGx5X0ZvcnRoLjIwMjMxMTA3XzE1MzYuZ2lm",
@@ -12721,11 +12726,6 @@
 				"date": "2023-10-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzEwL1NhbGx5X0ZvcnRoX250Yi4yMDIzMTAxNV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/sally-forth/2023-10-15"
-			},
-			{
-				"date": "2023-10-14",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FsbHlGb3J0aC8yMDIzLzEwL1NhbGx5X0ZvcnRoLjIwMjMxMDE0XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/sally-forth/2023-10-14"
 			}
 		],
 		"title": "Sally Forth",
@@ -14775,8 +14775,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/642/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-11-07",
+		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-11-08",
 		"strips": [
+			{
+				"date": "2023-11-08",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzExL1ppdHMuMjAyMzExMDhfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/zits/2023-11-08"
+			},
 			{
 				"date": "2023-11-07",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzExL1ppdHMuMjAyMzExMDdfMTUzNi5naWY=",
@@ -14896,11 +14901,6 @@
 				"date": "2023-10-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzEwL1ppdHNfbnRiLjIwMjMxMDE1XzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/zits/2023-10-15"
-			},
-			{
-				"date": "2023-10-14",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzEwL1ppdHMuMjAyMzEwMTRfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/zits/2023-10-14"
 			}
 		],
 		"title": "Zits",
