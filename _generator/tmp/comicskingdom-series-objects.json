@@ -2698,8 +2698,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-11",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-12",
 		"strips": [
+			{
+				"date": "2023-11-12",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWVfZnQuMjAyMzExMTJfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-11-12"
+			},
 			{
 				"date": "2023-11-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMTFfMTUzNi5naWY=",
@@ -2819,11 +2824,6 @@
 				"date": "2023-10-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMTlfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-10-19"
-			},
-			{
-				"date": "2023-10-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMThfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-10-18"
 			}
 		],
 		"title": "Blondie",
@@ -5476,8 +5476,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1112/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/family-circus/2023-11-11",
+		"mostRecentStripUrl": "https://comicskingdom.com/family-circus/2023-11-12",
 		"strips": [
+			{
+				"date": "2023-11-12",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMTEvRmFtaWx5X0NpcmN1c19odC4yMDIzMTExMl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/family-circus/2023-11-12"
+			},
 			{
 				"date": "2023-11-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMTEvRmFtaWx5X0NpcmN1cy4yMDIzMTExMV82NTcucG5n",
@@ -5597,11 +5602,6 @@
 				"date": "2023-10-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMTAvRmFtaWx5X0NpcmN1cy4yMDIzMTAxOV82NTcucG5n",
 				"url": "https://comicskingdom.com/family-circus/2023-10-19"
-			},
-			{
-				"date": "2023-10-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlRmFtaWx5Q2lyY3VzLzIwMjMvMTAvRmFtaWx5X0NpcmN1cy4yMDIzMTAxOF82NTcucG5n",
-				"url": "https://comicskingdom.com/family-circus/2023-10-18"
 			}
 		],
 		"title": "The Family Circus",
@@ -5899,8 +5899,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1042/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon-sundays/2023-11-05",
+		"mostRecentStripUrl": "https://comicskingdom.com/flash-gordon-sundays/2023-11-12",
 		"strips": [
+			{
+				"date": "2023-11-12",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMTIvRmxhc2hfcXMuMTk2ODEyMjIuZ2lm",
+				"url": "https://comicskingdom.com/flash-gordon-sundays/2023-11-12"
+			},
 			{
 				"date": "2023-11-05",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L0ZsYXNoR29yZG9uLzE5NjgvMTIvRmxhc2hfcXMuMTk2ODEyMTUuZ2lm",
