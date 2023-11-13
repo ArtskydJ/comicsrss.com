@@ -7159,11 +7159,6 @@
 				"date": "2023-08-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzA4L0JyYW5jaC4yMDIzMDgxOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/john-branch/2023-08-19"
-			},
-			{
-				"date": "2023-08-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Sm9obkJyYW5jaC8yMDIzLzA4L0JyYW5jaC4yMDIzMDgxNV8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/john-branch/2023-08-15"
 			}
 		],
 		"title": "John Branch",
@@ -8601,8 +8596,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/292/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-11-11",
+		"mostRecentStripUrl": "https://comicskingdom.com/lockhorns/2023-11-13",
 		"strips": [
+			{
+				"date": "2023-11-12",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMTEvTG9ja2hvcm5zX212LjIwMjMxMTEyXzY1Ny5naWY=",
+				"url": "https://comicskingdom.com/lockhorns/2023-11-12"
+			},
 			{
 				"date": "2023-11-11",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMTEvTG9ja2hvcm5zLjIwMjMxMTExXzY1Ny5wbmc=",
@@ -8722,11 +8722,6 @@
 				"date": "2023-10-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMTAvTG9ja2hvcm5zLjIwMjMxMDE5XzY1Ny5wbmc=",
 				"url": "https://comicskingdom.com/lockhorns/2023-10-19"
-			},
-			{
-				"date": "2023-10-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=VGhlTG9ja2hvcm5zLzIwMjMvMTAvTG9ja2hvcm5zLjIwMjMxMDE4XzY1Ny5wbmc=",
-				"url": "https://comicskingdom.com/lockhorns/2023-10-18"
 			}
 		],
 		"title": "The Lockhorns",
