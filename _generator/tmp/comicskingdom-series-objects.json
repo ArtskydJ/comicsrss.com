@@ -1535,8 +1535,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2/AC-logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-11-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/arctic-circle/2023-11-16",
 		"strips": [
+			{
+				"date": "2023-11-16",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTEvQXJjdGljLjIwMjMxMTE2XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/arctic-circle/2023-11-16"
+			},
 			{
 				"date": "2023-11-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTEvQXJjdGljLjIwMjMxMTE1XzE1MzYuZ2lm",
@@ -1656,11 +1661,6 @@
 				"date": "2023-10-23",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTAvQXJjdGljLjIwMjMxMDIzXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/arctic-circle/2023-10-23"
-			},
-			{
-				"date": "2023-10-22",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QXJjdGljQ2lyY2xlLzIwMjMvMTAvQXJjdGljX250Yi4yMDIzMTAyMl8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/arctic-circle/2023-10-22"
 			}
 		],
 		"title": "Arctic Circle",
@@ -2698,8 +2698,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-16",
 		"strips": [
+			{
+				"date": "2023-11-16",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMTZfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-11-16"
+			},
 			{
 				"date": "2023-11-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMTVfMTUzNi5naWY=",
@@ -2819,11 +2824,6 @@
 				"date": "2023-10-23",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMjNfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-10-23"
-			},
-			{
-				"date": "2023-10-22",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWVfZnQuMjAyMzEwMjJfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-10-22"
 			}
 		],
 		"title": "Blondie",
@@ -12277,8 +12277,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/1022/rk_logo.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/rip-kirby/2023-11-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/rip-kirby/2023-11-16",
 		"strips": [
+			{
+				"date": "2023-11-16",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjQvMDcvUmlwX0tpcmJ5X2J3LjE5NjQwNzAyLmdpZg==",
+				"url": "https://comicskingdom.com/rip-kirby/2023-11-16"
+			},
 			{
 				"date": "2023-11-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjQvMDcvUmlwX0tpcmJ5X2J3LjE5NjQwNzAxLmdpZg==",
@@ -12398,11 +12403,6 @@
 				"date": "2023-10-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjQvMDYvUmlwX0tpcmJ5X2J3LjE5NjQwNjA0LmdpZg==",
 				"url": "https://comicskingdom.com/rip-kirby/2023-10-19"
-			},
-			{
-				"date": "2023-10-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=r&file=L1JpcEtpcmJ5LzE5NjQvMDYvUmlwX0tpcmJ5X2J3LjE5NjQwNjAzLmdpZg==",
-				"url": "https://comicskingdom.com/rip-kirby/2023-10-18"
 			}
 		],
 		"title": "Rip Kirby",
@@ -12761,8 +12761,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/492/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/sam-and-silo/2023-11-15",
+		"mostRecentStripUrl": "https://comicskingdom.com/sam-and-silo/2023-11-16",
 		"strips": [
+			{
+				"date": "2023-11-16",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzExL1NhbS4yMDIzMTExNl8xNTM2LmdpZg==",
+				"url": "https://comicskingdom.com/sam-and-silo/2023-11-16"
+			},
 			{
 				"date": "2023-11-15",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzExL1NhbS4yMDIzMTExNV8xNTM2LmdpZg==",
@@ -12882,11 +12887,6 @@
 				"date": "2023-10-19",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzEwL1NhbS4yMDIzMTAxOV8xNTM2LmdpZg==",
 				"url": "https://comicskingdom.com/sam-and-silo/2023-10-19"
-			},
-			{
-				"date": "2023-10-18",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=U2FtQW5kU2lsby8yMDIzLzEwL1NhbS4yMDIzMTAxOF8xNTM2LmdpZg==",
-				"url": "https://comicskingdom.com/sam-and-silo/2023-10-18"
 			}
 		],
 		"title": "Sam And Silo",
