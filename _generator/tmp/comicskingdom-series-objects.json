@@ -4655,8 +4655,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/2302/logos/website.png",
 		"isPolitical": true,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/david-m-hitch/2023-11-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/david-m-hitch/2023-11-18",
 		"strips": [
+			{
+				"date": "2023-11-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzExL0hpdGNoLjIwMjMxMTE4XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/david-m-hitch/2023-11-18"
+			},
 			{
 				"date": "2023-11-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzExL0hpdGNoLjIwMjMxMTE3XzE1MzYuZ2lm",
@@ -4776,11 +4781,6 @@
 				"date": "2023-10-13",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzEwL0hpdGNoLjIwMjMxMDEzXzE1MzYuZ2lm",
 				"url": "https://comicskingdom.com/david-m-hitch/2023-10-13"
-			},
-			{
-				"date": "2023-10-12",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RGF2aWRIaXRjaC8yMDIzLzEwL0hpdGNoLjIwMjMxMDEyXzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/david-m-hitch/2023-10-12"
 			}
 		],
 		"title": "David M. Hitch",
