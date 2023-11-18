@@ -2688,8 +2688,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/82/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-17",
+		"mostRecentStripUrl": "https://comicskingdom.com/blondie/2023-11-18",
 		"strips": [
+			{
+				"date": "2023-11-18",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMThfMTUzNi5naWY=",
+				"url": "https://comicskingdom.com/blondie/2023-11-18"
+			},
 			{
 				"date": "2023-11-17",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzExL0Jsb25kaWUuMjAyMzExMTdfMTUzNi5naWY=",
@@ -2809,11 +2814,6 @@
 				"date": "2023-10-25",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMjVfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/blondie/2023-10-25"
-			},
-			{
-				"date": "2023-10-24",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDIzLzEwL0Jsb25kaWUuMjAyMzEwMjRfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/blondie/2023-10-24"
 			}
 		],
 		"title": "Blondie",
