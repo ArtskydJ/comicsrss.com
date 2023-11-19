@@ -9237,15 +9237,15 @@
 	},
 	"mara-llave-keeper-of-time": {
 		"author": "Alex Segura and Nickolej Villiger",
-		"imageUrl": "https://api.kingdigital.com/img/features/4325/MaraLlaveTitle.png",
+		"imageUrl": "https://api.kingdigital.com/img/features/4325/MLLogo.jpg",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/mara-llave-keeper-of-time/2023-11-01",
+		"mostRecentStripUrl": "https://comicskingdom.com/mara-llave-keeper-of-time/2023-11-19",
 		"strips": [
 			{
-				"date": "2023-06-15",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFyYUxsYXZlS2VlcGVyT2ZUaW1lLzIwMjMvMDYvTWFyYUxsYXZlLjIwMjMwNjE1XzE1MzYuZ2lm",
-				"url": "https://comicskingdom.com/mara-llave-keeper-of-time/2023-06-15"
+				"date": "2023-11-19",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=TWFyYUxsYXZlS2VlcGVyT2ZUaW1lLzIwMjMvMTEvTWFyYUxsYXZlX2hzLjIwMjMxMTE5XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/mara-llave-keeper-of-time/2023-11-19"
 			}
 		],
 		"title": "Mara Llave: Keeper of Time",
@@ -14805,8 +14805,13 @@
 		"imageUrl": "https://api.kingdigital.com/img/features/642/logos/website.png",
 		"isPolitical": false,
 		"language": "eng",
-		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-11-18",
+		"mostRecentStripUrl": "https://comicskingdom.com/zits/2023-11-19",
 		"strips": [
+			{
+				"date": "2023-11-19",
+				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzExL1ppdHNfbnRiLjIwMjMxMTE5XzE1MzYuZ2lm",
+				"url": "https://comicskingdom.com/zits/2023-11-19"
+			},
 			{
 				"date": "2023-11-18",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzExL1ppdHMuMjAyMzExMThfMTUzNi5naWY=",
@@ -14926,11 +14931,6 @@
 				"date": "2023-10-26",
 				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzEwL1ppdHMuMjAyMzEwMjZfMTUzNi5naWY=",
 				"url": "https://comicskingdom.com/zits/2023-10-26"
-			},
-			{
-				"date": "2023-10-25",
-				"imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=Wml0cy8yMDIzLzEwL1ppdHMuMjAyMzEwMjVfMTUzNi5naWY=",
-				"url": "https://comicskingdom.com/zits/2023-10-25"
 			}
 		],
 		"title": "Zits",
