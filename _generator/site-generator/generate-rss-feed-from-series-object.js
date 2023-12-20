@@ -7,7 +7,7 @@ module.exports = seriesObject => {
 		throw new Error('Expected seriesObject.strips to be a non-empty array')
 	}
 
-	const { scraper, basename, title, imageUrl, author, language, strips } = seriesObject
+	const { scraper, basename, title, imageUrl, author, language, strips, url } = seriesObject
 
 	const templateOpts = {
 		basename: encodeURI(basename),
@@ -22,7 +22,8 @@ module.exports = seriesObject => {
 			strip.includePreviewLink = false
 			strip.date = new Date(strip.date)
 			return strip
-		})
+		}),
+		url,
 	}
 
 	return renderTemplate('rss-feed', templateOpts)
