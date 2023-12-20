@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Archie</title>
-        <link></link>
+        <link>https://www.arcamax.com/thefunnies/archie</link>
         <description>Archie by Fernando Ruiz &#38; Craig Boldman</description>
         <lastBuildDate>Wed, 20 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
@@ -11,7 +11,7 @@
         <image>
             <title>Archie</title>
             <url>https://www.arcamax.com/jsnews/images/comics/archie.png</url>
-            <link></link>
+            <link>https://www.arcamax.com/thefunnies/archie</link>
         </image>
         <copyright>Copyright Fernando Ruiz &#38; Craig Boldman</copyright>
         <atom:link href="https://www.comicsrss.com/rss/archie.rss" rel="self" type="application/rss+xml"/>

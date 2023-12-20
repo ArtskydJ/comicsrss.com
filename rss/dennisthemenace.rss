@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dennis the Menace</title>
-        <link></link>
+        <link>https://www.arcamax.com/thefunnies/dennisthemenace</link>
         <description>Dennis the Menace by Hank Ketcham</description>
         <lastBuildDate>Wed, 20 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
@@ -11,7 +11,7 @@
         <image>
             <title>Dennis the Menace</title>
             <url>https://www.arcamax.com/jsnews/images/comics/dennisthemenace.png</url>
-            <link></link>
+            <link>https://www.arcamax.com/thefunnies/dennisthemenace</link>
         </image>
         <copyright>Copyright Hank Ketcham</copyright>
         <atom:link href="https://www.comicsrss.com/rss/dennisthemenace.rss" rel="self" type="application/rss+xml"/>
