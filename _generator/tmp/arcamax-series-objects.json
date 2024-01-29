@@ -1361,11 +1361,16 @@
 	},
 	"beetlebailey": {
 		"author": "Greg Walker, Brian Walker and Neal Walker",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/beetlebailey.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/273/27309/2730971.gif",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/beetlebailey/",
 		"strips": [
+			{
+				"date": "2024-01-28",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/273/27309/2730971.jpg",
+				"url": "https://www.arcamax.com/thefunnies/beetlebailey/s-3088265"
+			},
 			{
 				"date": "2024-01-29",
 				"imageUrl": "https://resources.arcamax.com/newspics/272/27216/2721622.gif",
@@ -1485,11 +1490,6 @@
 				"date": "2024-01-04",
 				"imageUrl": "https://resources.arcamax.com/newspics/268/26828/2682875.gif",
 				"url": "https://www.arcamax.com/thefunnies/beetlebailey/s-3039881"
-			},
-			{
-				"date": "2024-01-03",
-				"imageUrl": "https://resources.arcamax.com/newspics/268/26815/2681549.gif",
-				"url": "https://www.arcamax.com/thefunnies/beetlebailey/s-3038643"
 			}
 		],
 		"title": "Beetle Bailey",
@@ -11471,15 +11471,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://resources.arcamax.com/newspics/213/21388/2138899.jpg",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-01-28",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21388/2138899.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547424"
+				"date": "2021-01-29",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139039.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547564"
 			}
 		],
 		"title": "The Fortune Teller",
