@@ -8756,6 +8756,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/pickles/",
 		"strips": [
 			{
+				"date": "2024-02-04",
+				"imageUrl": "https://resources.arcamax.com/newspics/274/27411/2741159.jpg",
+				"url": "https://www.arcamax.com/thefunnies/pickles/s-3098052"
+			},
+			{
 				"date": "2024-02-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/271/27149/2714932.gif",
 				"url": "https://www.arcamax.com/thefunnies/pickles/s-3072175"
@@ -8874,11 +8879,6 @@
 				"date": "2024-01-11",
 				"imageUrl": "https://resources.arcamax.com/newspics/268/26815/2681588.gif",
 				"url": "https://www.arcamax.com/thefunnies/pickles/s-3038679"
-			},
-			{
-				"date": "2024-01-10",
-				"imageUrl": "https://resources.arcamax.com/newspics/268/26815/2681587.gif",
-				"url": "https://www.arcamax.com/thefunnies/pickles/s-3038678"
 			}
 		],
 		"title": "Pickles",
@@ -11486,15 +11486,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139005.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-02-04",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138733.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547258"
+				"date": "2021-02-03",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139005.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547530"
 			}
 		],
 		"title": "The Fortune Teller",
