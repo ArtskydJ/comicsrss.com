@@ -4,9 +4,9 @@ input {
 		sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	font-size: 18px;
 	color: #24292e;
-	background-color: #fce6cf;
 }
 body {
+	background-color: #fce6cf;
 	line-height: 1.5;
 	margin: 0;
 	padding: 0;
