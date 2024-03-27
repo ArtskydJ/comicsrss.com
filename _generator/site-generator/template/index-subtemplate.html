@@ -55,9 +55,9 @@
 
 		<ul id="comics-list" tabindex="-1">
 			{{each seriesObjects seriesObject}}{{if language === (seriesObject.language || 'eng')}}
-				<li data-search="{{@ seriesObject.title.toLowerCase() }} by {{@ seriesObject.author.toLowerCase() }}">
-					<div class="ellipsis" title="{{@ seriesObject.title }} by {{@ seriesObject.author }}">
-						{{@ seriesObject.title }} by {{@ seriesObject.author }}
+				<li data-search="{{@ seriesObject.title.toLowerCase() }} {{@ (seriesObject.author || '').toLowerCase() }}">
+					<div class="ellipsis" title="{{@ seriesObject.title }}{{@ seriesObject.author ? ' by ' + seriesObject.author : '' }}">
+						{{@ seriesObject.title }} <small>{{@ seriesObject.author ? 'by ' + seriesObject.author : '' }}</small>
 					</div>
 					<div class="actions">
 						<a href="https://www.feedroll.com/rssviewer/preview.php?html=a&src={{ encodeURIComponent('https://www.comicsrss.com/rss/' + seriesObject.basename + '.rss') }}" target="_blank">
