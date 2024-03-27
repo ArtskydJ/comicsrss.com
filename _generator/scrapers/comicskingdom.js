@@ -21,12 +21,16 @@ module.exports = async function main(cachedSeriesObjects) {
 			}]
 		})
 		.slice(0, global.DEBUG ? 10 : Infinity)
-	console.log(`found ${ seriesObjectEntries.length } entries`)
+	if (global.VERBOSE) {
+		console.log(`comicskingdom: found ${ seriesObjectEntries.length } entries`)
+	}
 
 	for (const [ slug, seriesObject ] of seriesObjectEntries) {
 		new Promise(resolve => setTimeout(resolve, global.DEBUG ? 0 : 1000)) // rate limit
 
-		console.log(slug)
+		if (global.VERBOSE) {
+			console.log('comicskingdom: ' + slug)
+		}
 		const json = await fetch2(`https://wp.comicskingdom.com/wp-json/wp/v2/ck_comic?ck_feature=${ slug }&before_ymd=${ new Date().toISOString().slice(0, 10) }&per_page=40&date_inclusive=true&order=desc&page=1&_embed=true`)
 		const arr = JSON.parse(json)
 		if (!(Array.isArray(arr) && arr.length)) {
