@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>{{title}}</title>
-        <link>{{url}}</link>
-        <description>{{title}}{{author ? ' by ' + author : ''}}</description>
-        <lastBuildDate>{{updatedDate.toUTCString()}}</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>{{language === 'spa' ? 'es' : 'en'}}</language>
-        <image>
-            <title>{{title}}</title>
-            <url>{{imageUrl}}</url>
-            <link>{{url}}</link>
-        </image>
-        <copyright>Copyright {{author || 'unknown author'}}</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>{{title}}</title>
+		<link>{{url}}</link>
+		<description>{{title}}{{author ? ' by ' + author : ''}}</description>
+		<lastBuildDate>{{updatedDate.toUTCString()}}</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>{{language === 'spa' ? 'es' : 'en'}}</language>
+		<image>
+			<title>{{title}}</title>
+			<url>{{imageUrl}}</url>
+			<link>{{url}}</link>
+		</image>
+		<copyright>Copyright {{author || 'unknown author'}}</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
 {{if basename.slice(-3) === '%20'}}
-        <item>
-            <title><![CDATA[{{@ title}} -- Este feed RSS ya no se actualiza.]]></title>
-            <link>https://www.comicsrss.com/espanol</link>
-            <guid isPermaLink="false">{{basename}}2019-10-21nolongerupdated</guid>
-            <pubDate>Mon, 21 Oct 2019 16:00:00 GMT</pubDate>
-            <description><![CDATA[
-                <p>This feed is no longer being updated. Use the following URL.</p>
-                <p>Este feed RSS ya no se actualiza. Use la siguiente URL.</p>
-                <p><a href="https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss">
-                    https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss</a></p>
-            ]]></description>
-        </item>
+		<item>
+			<title><![CDATA[{{@ title}} -- Este feed RSS ya no se actualiza.]]></title>
+			<link>https://www.comicsrss.com/espanol</link>
+			<guid isPermaLink="false">{{basename}}2019-10-21nolongerupdated</guid>
+			<pubDate>Mon, 21 Oct 2019 16:00:00 GMT</pubDate>
+			<description><![CDATA[
+				<p>This feed is no longer being updated. Use the following URL.</p>
+				<p>Este feed RSS ya no se actualiza. Use la siguiente URL.</p>
+				<p><a href="https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss">
+					https://www.comicsrss.com/rss/{{basename.slice(0, -3)}}.rss</a></p>
+			]]></description>
+		</item>
 {{/if}}{{each strips strip}}
-        <item>
-            <title><![CDATA[{{@ title}}{{@ author ? ' by ' + author : ''}} for {{@ strip.date.toUTCString().slice(0, -13)}}]]></title>
-            <link>{{strip.url}}</link>
-            <guid{{if ! strip.isPermaLink}} isPermaLink="false"{{/if}}>{{strip.guid}}</guid>
-            <pubDate>{{strip.date.toUTCString()}}</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[{{@ title}}{{@ author ? ' by ' + author : ''}} for {{@ strip.date.toUTCString().slice(0, -13)}}]]></title>
+			<link>{{strip.url}}</link>
+			<guid{{if ! strip.isPermaLink}} isPermaLink="false"{{/if}}>{{strip.guid}}</guid>
+			<pubDate>{{strip.date.toUTCString()}}</pubDate>
+			<description><![CDATA[<p>
 	<img src="{{strip.imageUrl}}" alt="{{title}}{{author ? ' by ' + author : ''}} on {{strip.date.toUTCString().slice(0, -13)}}" title="{{title}}{{author ? ' by ' + author : ''}} on {{strip.date.toUTCString().slice(0, -13)}}">
 </p>
 <p>
@@ -42,6 +42,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>{{/each}}
-    </channel>
+		</item>{{/each}}
+	</channel>
 </rss>
