@@ -3,7 +3,7 @@
     <channel>
         <title>{{title}}</title>
         <link>{{url}}</link>
-        <description>{{title}} by {{author}}</description>
+        <description>{{title}}{{author ? ' by ' + author : ''}}</description>
         <lastBuildDate>{{updatedDate.toUTCString()}}</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
@@ -13,7 +13,7 @@
             <url>{{imageUrl}}</url>
             <link>{{url}}</link>
         </image>
-        <copyright>Copyright {{author}}</copyright>
+        <copyright>Copyright {{author || 'unknown author'}}</copyright>
         <atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
 {{if basename.slice(-3) === '%20'}}
         <item>
@@ -30,12 +30,12 @@
         </item>
 {{/if}}{{each strips strip}}
         <item>
-            <title><![CDATA[{{@ title}} by {{@ author}} for {{@ strip.date.toUTCString().slice(0, -13)}}]]></title>
+            <title><![CDATA[{{@ title}}{{@ author ? ' by ' + author : ''}} for {{@ strip.date.toUTCString().slice(0, -13)}}]]></title>
             <link>{{strip.url}}</link>
             <guid{{if ! strip.isPermaLink}} isPermaLink="false"{{/if}}>{{strip.guid}}</guid>
             <pubDate>{{strip.date.toUTCString()}}</pubDate>
             <description><![CDATA[<p>
-	<img src="{{strip.imageUrl}}" alt="{{title}} by {{author}} on {{strip.date.toUTCString().slice(0, -13)}}" title="{{title}} by {{author}} on {{strip.date.toUTCString().slice(0, -13)}}">
+	<img src="{{strip.imageUrl}}" alt="{{title}}{{author ? ' by ' + author : ''}} on {{strip.date.toUTCString().slice(0, -13)}}" title="{{title}}{{author ? ' by ' + author : ''}} on {{strip.date.toUTCString().slice(0, -13)}}">
 </p>
 <p>
 	<a href="{{strip.url}}">Source</a> -
