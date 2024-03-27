@@ -27,7 +27,7 @@ module.exports = async function multipageScraper({ getSeriesObjects, getStrip, c
 			}
 		} catch (err) {
 			if (global.VERBOSE) {
-				console.log(err)
+				console.error(err)
 			}
 
 			if (err.res) {
@@ -85,12 +85,7 @@ async function getStrips(getStrip, newSeriesObject, cachedStrips) {
 		}
 
 		const strip = await getStrip(stripPageUrl)
-		// Doesn't really work for arcamax:
-		// if (previousUrls.includes(strip.url)) {
-		// 	// 2019-10-29 This is happening every day for three spanish comics that have spaces in the URL.
-		// 	console.log(`Parsed URL (${ strip.url }) does not match requested URL (${ stripPageUrl })`)
-		// 	return null
-		// }
+
 		if (! previousUrls.includes(strip.url)) {
 			strips.push(strip)
 		}
