@@ -1,4 +1,3 @@
-const crypto = require('crypto')
 const renderTemplate = require('./render-template.js')
 
 module.exports = seriesObject => {
