@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Starling</title>
-        <link>https://www.gocomics.com/starling</link>
-        <description>Starling by Sage Stossel</description>
-        <lastBuildDate>Tue, 18 May 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Starling</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/star/large_rec-201701251559.jpg</url>
-            <link>https://www.gocomics.com/starling</link>
-        </image>
-        <copyright>Copyright Sage Stossel</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/starling.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Starling</title>
+		<link>https://www.gocomics.com/starling</link>
+		<description>Starling by Sage Stossel</description>
+		<lastBuildDate>Tue, 18 May 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Starling</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/star/large_rec-201701251559.jpg</url>
+			<link>https://www.gocomics.com/starling</link>
+		</image>
+		<copyright>Copyright Sage Stossel</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/starling.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Starling by Sage Stossel for Tue, 18 May 2021]]></title>
-            <link>https://www.gocomics.com/starling/2021/05/18</link>
-            <guid isPermaLink="false">starling2021-05-18</guid>
-            <pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Starling by Sage Stossel for Tue, 18 May 2021]]></title>
+			<link>https://www.gocomics.com/starling/2021/05/18</link>
+			<guid isPermaLink="false">starling2021-05-18</guid>
+			<pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7d4d708044ec0135d8b4005056a9545d" alt="Starling by Sage Stossel on Tue, 18 May 2021" title="Starling by Sage Stossel on Tue, 18 May 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Quincy</title>
-        <link>https://comicskingdom.com/quincy</link>
-        <description>Quincy</description>
-        <lastBuildDate>Sat, 04 Jan 1986 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Quincy</title>
-            <url></url>
-            <link>https://comicskingdom.com/quincy</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/quincy.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Quincy</title>
+		<link>https://comicskingdom.com/quincy</link>
+		<description>Quincy</description>
+		<lastBuildDate>Sat, 04 Jan 1986 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Quincy</title>
+			<url></url>
+			<link>https://comicskingdom.com/quincy</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/quincy.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Quincy for Sat, 04 Jan 1986]]></title>
-            <link>https://wp.comicskingdom.com/quincy/1986-01-04</link>
-            <guid isPermaLink="false">quincy1986-01-04</guid>
-            <pubDate>Sat, 04 Jan 1986 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Quincy for Sat, 04 Jan 1986]]></title>
+			<link>https://wp.comicskingdom.com/quincy/1986-01-04</link>
+			<guid isPermaLink="false">quincy1986-01-04</guid>
+			<pubDate>Sat, 04 Jan 1986 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/1986/01/Quincy.ENG_.1986-01-04.jpeg" alt="Quincy on Sat, 04 Jan 1986" title="Quincy on Sat, 04 Jan 1986">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

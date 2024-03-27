@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>KidTown</title>
-        <link>https://www.gocomics.com/kidtown</link>
-        <description>KidTown by Steve McGarry</description>
-        <lastBuildDate>Sun, 16 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>KidTown</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ki/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/kidtown</link>
-        </image>
-        <copyright>Copyright Steve McGarry</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/kidtown.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>KidTown</title>
+		<link>https://www.gocomics.com/kidtown</link>
+		<description>KidTown by Steve McGarry</description>
+		<lastBuildDate>Sun, 16 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>KidTown</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ki/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/kidtown</link>
+		</image>
+		<copyright>Copyright Steve McGarry</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/kidtown.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[KidTown by Steve McGarry for Sun, 16 Aug 2020]]></title>
-            <link>https://www.gocomics.com/kidtown/2020/08/16</link>
-            <guid isPermaLink="false">kidtown2020-08-16</guid>
-            <pubDate>Sun, 16 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[KidTown by Steve McGarry for Sun, 16 Aug 2020]]></title>
+			<link>https://www.gocomics.com/kidtown/2020/08/16</link>
+			<guid isPermaLink="false">kidtown2020-08-16</guid>
+			<pubDate>Sun, 16 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/195c9720a46a01381112005056a9545d" alt="KidTown by Steve McGarry on Sun, 16 Aug 2020" title="KidTown by Steve McGarry on Sun, 16 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Beanie the Brownie</title>
-        <link>https://www.gocomics.com/beanie-the-brownie</link>
-        <description>Beanie the Brownie by Stuart Carlson</description>
-        <lastBuildDate>Tue, 24 Dec 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Beanie the Brownie</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/btb/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/beanie-the-brownie</link>
-        </image>
-        <copyright>Copyright Stuart Carlson</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/beanie-the-brownie.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Beanie the Brownie</title>
+		<link>https://www.gocomics.com/beanie-the-brownie</link>
+		<description>Beanie the Brownie by Stuart Carlson</description>
+		<lastBuildDate>Tue, 24 Dec 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Beanie the Brownie</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/btb/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/beanie-the-brownie</link>
+		</image>
+		<copyright>Copyright Stuart Carlson</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/beanie-the-brownie.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Beanie the Brownie by Stuart Carlson for Tue, 24 Dec 2019]]></title>
-            <link>https://www.gocomics.com/beanie-the-brownie/2019/12/24</link>
-            <guid isPermaLink="false">beanie-the-brownie2019-12-24</guid>
-            <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Beanie the Brownie by Stuart Carlson for Tue, 24 Dec 2019]]></title>
+			<link>https://www.gocomics.com/beanie-the-brownie/2019/12/24</link>
+			<guid isPermaLink="false">beanie-the-brownie2019-12-24</guid>
+			<pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/a5f920e053390132af76005056a9545d" alt="Beanie the Brownie by Stuart Carlson on Tue, 24 Dec 2019" title="Beanie the Brownie by Stuart Carlson on Tue, 24 Dec 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pictures in Boxes</title>
-        <link>https://www.gocomics.com/pictures-in-boxes/2016/09/12</link>
-        <description>Pictures in Boxes by David Cahill</description>
-        <lastBuildDate>Mon, 12 Sep 2016 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Pictures in Boxes</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pbx/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/pictures-in-boxes/2016/09/12</link>
-        </image>
-        <copyright>Copyright David Cahill</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/pictures-in-boxes.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Pictures in Boxes</title>
+		<link>https://www.gocomics.com/pictures-in-boxes/2016/09/12</link>
+		<description>Pictures in Boxes by David Cahill</description>
+		<lastBuildDate>Mon, 12 Sep 2016 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Pictures in Boxes</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pbx/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/pictures-in-boxes/2016/09/12</link>
+		</image>
+		<copyright>Copyright David Cahill</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/pictures-in-boxes.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Pictures in Boxes by David Cahill for Mon, 12 Sep 2016]]></title>
-            <link>https://www.gocomics.com/pictures-in-boxes/2016/09/12</link>
-            <guid isPermaLink="false">pictures-in-boxes2016-09-12</guid>
-            <pubDate>Mon, 12 Sep 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Pictures in Boxes by David Cahill for Mon, 12 Sep 2016]]></title>
+			<link>https://www.gocomics.com/pictures-in-boxes/2016/09/12</link>
+			<guid isPermaLink="false">pictures-in-boxes2016-09-12</guid>
+			<pubDate>Mon, 12 Sep 2016 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/b082c2a05aa20134bc5e005056a9545d" alt="Pictures in Boxes by David Cahill on Mon, 12 Sep 2016" title="Pictures in Boxes by David Cahill on Mon, 12 Sep 2016">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

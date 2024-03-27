@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Marshall Ramsey</title>
-        <link>https://www.gocomics.com/marshallramsey</link>
-        <description>Marshall Ramsey by Marshall Ramsey</description>
-        <lastBuildDate>Wed, 13 Mar 2024 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Marshall Ramsey</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmra/large_rec-201701251555.jpg</url>
-            <link>https://www.gocomics.com/marshallramsey</link>
-        </image>
-        <copyright>Copyright Marshall Ramsey</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/marshallramsey.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Marshall Ramsey</title>
+		<link>https://www.gocomics.com/marshallramsey</link>
+		<description>Marshall Ramsey by Marshall Ramsey</description>
+		<lastBuildDate>Wed, 13 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Marshall Ramsey</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmra/large_rec-201701251555.jpg</url>
+			<link>https://www.gocomics.com/marshallramsey</link>
+		</image>
+		<copyright>Copyright Marshall Ramsey</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/marshallramsey.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Marshall Ramsey by Marshall Ramsey for Wed, 13 Mar 2024]]></title>
-            <link>https://www.gocomics.com/marshallramsey/2024/03/13</link>
-            <guid isPermaLink="false">marshallramsey2024-03-13</guid>
-            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Marshall Ramsey by Marshall Ramsey for Wed, 13 Mar 2024]]></title>
+			<link>https://www.gocomics.com/marshallramsey/2024/03/13</link>
+			<guid isPermaLink="false">marshallramsey2024-03-13</guid>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7f0079c0c3dc013c43a3005056a9545d" alt="Marshall Ramsey by Marshall Ramsey on Wed, 13 Mar 2024" title="Marshall Ramsey by Marshall Ramsey on Wed, 13 Mar 2024">
 </p>
 <p>
@@ -29,13 +29,13 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marshall Ramsey by Marshall Ramsey for Tue, 12 Mar 2024]]></title>
-            <link>https://www.gocomics.com/marshallramsey/2024/03/12</link>
-            <guid isPermaLink="false">marshallramsey2024-03-12</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		</item>
+		<item>
+			<title><![CDATA[Marshall Ramsey by Marshall Ramsey for Tue, 12 Mar 2024]]></title>
+			<link>https://www.gocomics.com/marshallramsey/2024/03/12</link>
+			<guid isPermaLink="false">marshallramsey2024-03-12</guid>
+			<pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7ca07b50c3dc013c43a3005056a9545d" alt="Marshall Ramsey by Marshall Ramsey on Tue, 12 Mar 2024" title="Marshall Ramsey by Marshall Ramsey on Tue, 12 Mar 2024">
 </p>
 <p>
@@ -43,13 +43,13 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marshall Ramsey by Marshall Ramsey for Fri, 09 Feb 2024]]></title>
-            <link>https://www.gocomics.com/marshallramsey/2024/02/09</link>
-            <guid isPermaLink="false">marshallramsey2024-02-09</guid>
-            <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		</item>
+		<item>
+			<title><![CDATA[Marshall Ramsey by Marshall Ramsey for Fri, 09 Feb 2024]]></title>
+			<link>https://www.gocomics.com/marshallramsey/2024/02/09</link>
+			<guid isPermaLink="false">marshallramsey2024-02-09</guid>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/eab6a760a9d4013c3ba6005056a9545d" alt="Marshall Ramsey by Marshall Ramsey on Fri, 09 Feb 2024" title="Marshall Ramsey by Marshall Ramsey on Fri, 09 Feb 2024">
 </p>
 <p>
@@ -57,6 +57,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

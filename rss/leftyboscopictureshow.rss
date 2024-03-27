@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The LeftyBosco Picture Show</title>
-        <link>https://www.gocomics.com/leftyboscopictureshow</link>
-        <description>The LeftyBosco Picture Show by Keith DuQuette</description>
-        <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>The LeftyBosco Picture Show</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lps/large_lps_rec_201702141539.jpg</url>
-            <link>https://www.gocomics.com/leftyboscopictureshow</link>
-        </image>
-        <copyright>Copyright Keith DuQuette</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/leftyboscopictureshow.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>The LeftyBosco Picture Show</title>
+		<link>https://www.gocomics.com/leftyboscopictureshow</link>
+		<description>The LeftyBosco Picture Show by Keith DuQuette</description>
+		<lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>The LeftyBosco Picture Show</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lps/large_lps_rec_201702141539.jpg</url>
+			<link>https://www.gocomics.com/leftyboscopictureshow</link>
+		</image>
+		<copyright>Copyright Keith DuQuette</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/leftyboscopictureshow.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[The LeftyBosco Picture Show by Keith DuQuette for Wed, 31 Mar 2021]]></title>
-            <link>https://www.gocomics.com/leftyboscopictureshow/2021/03/31</link>
-            <guid isPermaLink="false">leftyboscopictureshow2021-03-31</guid>
-            <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[The LeftyBosco Picture Show by Keith DuQuette for Wed, 31 Mar 2021]]></title>
+			<link>https://www.gocomics.com/leftyboscopictureshow/2021/03/31</link>
+			<guid isPermaLink="false">leftyboscopictureshow2021-03-31</guid>
+			<pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/238349b05b6c01394d8e005056a9545d" alt="The LeftyBosco Picture Show by Keith DuQuette on Wed, 31 Mar 2021" title="The LeftyBosco Picture Show by Keith DuQuette on Wed, 31 Mar 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

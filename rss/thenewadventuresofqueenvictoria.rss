@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>New Adventures of Queen Victoria</title>
-        <link>https://www.gocomics.com/thenewadventuresofqueenvictoria</link>
-        <description>New Adventures of Queen Victoria by Pab Sungenis</description>
-        <lastBuildDate>Wed, 01 Feb 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>New Adventures of Queen Victoria</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/naqv/large_rec-201701251554.jpg</url>
-            <link>https://www.gocomics.com/thenewadventuresofqueenvictoria</link>
-        </image>
-        <copyright>Copyright Pab Sungenis</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/thenewadventuresofqueenvictoria.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>New Adventures of Queen Victoria</title>
+		<link>https://www.gocomics.com/thenewadventuresofqueenvictoria</link>
+		<description>New Adventures of Queen Victoria by Pab Sungenis</description>
+		<lastBuildDate>Wed, 01 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>New Adventures of Queen Victoria</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/naqv/large_rec-201701251554.jpg</url>
+			<link>https://www.gocomics.com/thenewadventuresofqueenvictoria</link>
+		</image>
+		<copyright>Copyright Pab Sungenis</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/thenewadventuresofqueenvictoria.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Wed, 01 Feb 2023]]></title>
-            <link>https://www.gocomics.com/thenewadventuresofqueenvictoria/2023/02/01</link>
-            <guid isPermaLink="false">thenewadventuresofqueenvictoria2023-02-01</guid>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[New Adventures of Queen Victoria by Pab Sungenis for Wed, 01 Feb 2023]]></title>
+			<link>https://www.gocomics.com/thenewadventuresofqueenvictoria/2023/02/01</link>
+			<guid isPermaLink="false">thenewadventuresofqueenvictoria2023-02-01</guid>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/e4f4fe008409013be19a005056a9545d" alt="New Adventures of Queen Victoria by Pab Sungenis on Wed, 01 Feb 2023" title="New Adventures of Queen Victoria by Pab Sungenis on Wed, 01 Feb 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

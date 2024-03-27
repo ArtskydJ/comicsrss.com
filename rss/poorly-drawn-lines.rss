@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Poorly Drawn Lines</title>
-        <link>https://www.gocomics.com/poorly-drawn-lines</link>
-        <description>Poorly Drawn Lines by Reza Farazmand</description>
-        <lastBuildDate>Fri, 01 Sep 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Poorly Drawn Lines</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pdl/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/poorly-drawn-lines</link>
-        </image>
-        <copyright>Copyright Reza Farazmand</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/poorly-drawn-lines.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Poorly Drawn Lines</title>
+		<link>https://www.gocomics.com/poorly-drawn-lines</link>
+		<description>Poorly Drawn Lines by Reza Farazmand</description>
+		<lastBuildDate>Fri, 01 Sep 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Poorly Drawn Lines</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pdl/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/poorly-drawn-lines</link>
+		</image>
+		<copyright>Copyright Reza Farazmand</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/poorly-drawn-lines.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Fri, 01 Sep 2023]]></title>
-            <link>https://www.gocomics.com/poorly-drawn-lines/2023/09/01</link>
-            <guid isPermaLink="false">poorly-drawn-lines2023-09-01</guid>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Poorly Drawn Lines by Reza Farazmand for Fri, 01 Sep 2023]]></title>
+			<link>https://www.gocomics.com/poorly-drawn-lines/2023/09/01</link>
+			<guid isPermaLink="false">poorly-drawn-lines2023-09-01</guid>
+			<pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/64197ab01de2013c10ae005056a9545d" alt="Poorly Drawn Lines by Reza Farazmand on Fri, 01 Sep 2023" title="Poorly Drawn Lines by Reza Farazmand on Fri, 01 Sep 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

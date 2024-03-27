@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Get a Life</title>
-        <link>https://www.gocomics.com/getalife</link>
-        <description>Get a Life by Tim Lachowski</description>
-        <lastBuildDate>Thu, 09 Feb 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Get a Life</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gal/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/getalife</link>
-        </image>
-        <copyright>Copyright Tim Lachowski</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/getalife.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Get a Life</title>
+		<link>https://www.gocomics.com/getalife</link>
+		<description>Get a Life by Tim Lachowski</description>
+		<lastBuildDate>Thu, 09 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Get a Life</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gal/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/getalife</link>
+		</image>
+		<copyright>Copyright Tim Lachowski</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/getalife.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Get a Life by Tim Lachowski for Thu, 09 Feb 2023]]></title>
-            <link>https://www.gocomics.com/getalife/2023/02/09</link>
-            <guid isPermaLink="false">getalife2023-02-09</guid>
-            <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Get a Life by Tim Lachowski for Thu, 09 Feb 2023]]></title>
+			<link>https://www.gocomics.com/getalife/2023/02/09</link>
+			<guid isPermaLink="false">getalife2023-02-09</guid>
+			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/a2777ae07095012f2fdd00163e41dd5b" alt="Get a Life by Tim Lachowski on Thu, 09 Feb 2023" title="Get a Life by Tim Lachowski on Thu, 09 Feb 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

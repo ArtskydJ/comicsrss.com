@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The Middle Age</title>
-        <link>https://www.gocomics.com/the-middle-age</link>
-        <description>The Middle Age by Steve Conley</description>
-        <lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>The Middle Age</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tma/large_tma_rec_201706131222.jpg</url>
-            <link>https://www.gocomics.com/the-middle-age</link>
-        </image>
-        <copyright>Copyright Steve Conley</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/the-middle-age.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>The Middle Age</title>
+		<link>https://www.gocomics.com/the-middle-age</link>
+		<description>The Middle Age by Steve Conley</description>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>The Middle Age</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tma/large_tma_rec_201706131222.jpg</url>
+			<link>https://www.gocomics.com/the-middle-age</link>
+		</image>
+		<copyright>Copyright Steve Conley</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/the-middle-age.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[The Middle Age by Steve Conley for Mon, 22 Jan 2024]]></title>
-            <link>https://www.gocomics.com/the-middle-age/2024/01/22</link>
-            <guid isPermaLink="false">the-middle-age2024-01-22</guid>
-            <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[The Middle Age by Steve Conley for Mon, 22 Jan 2024]]></title>
+			<link>https://www.gocomics.com/the-middle-age/2024/01/22</link>
+			<guid isPermaLink="false">the-middle-age2024-01-22</guid>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c5ca53009b14013c36ad005056a9545d" alt="The Middle Age by Steve Conley on Mon, 22 Jan 2024" title="The Middle Age by Steve Conley on Mon, 22 Jan 2024">
 </p>
 <p>
@@ -29,13 +29,13 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Middle Age by Steve Conley for Thu, 04 Jan 2024]]></title>
-            <link>https://www.gocomics.com/the-middle-age/2024/01/04</link>
-            <guid isPermaLink="false">the-middle-age2024-01-04</guid>
-            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		</item>
+		<item>
+			<title><![CDATA[The Middle Age by Steve Conley for Thu, 04 Jan 2024]]></title>
+			<link>https://www.gocomics.com/the-middle-age/2024/01/04</link>
+			<guid isPermaLink="false">the-middle-age2024-01-04</guid>
+			<pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/124f8cb08e15013c32fc005056a9545d" alt="The Middle Age by Steve Conley on Thu, 04 Jan 2024" title="The Middle Age by Steve Conley on Thu, 04 Jan 2024">
 </p>
 <p>
@@ -43,6 +43,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

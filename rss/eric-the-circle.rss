@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Eric the Circle</title>
-        <link>https://www.gocomics.com/eric-the-circle</link>
-        <description>Eric the Circle by .....</description>
-        <lastBuildDate>Wed, 29 Jan 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Eric the Circle</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/eric/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/eric-the-circle</link>
-        </image>
-        <copyright>Copyright .....</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/eric-the-circle.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Eric the Circle</title>
+		<link>https://www.gocomics.com/eric-the-circle</link>
+		<description>Eric the Circle by .....</description>
+		<lastBuildDate>Wed, 29 Jan 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Eric the Circle</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/eric/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/eric-the-circle</link>
+		</image>
+		<copyright>Copyright .....</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/eric-the-circle.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Eric the Circle by ..... for Wed, 29 Jan 2020]]></title>
-            <link>https://www.gocomics.com/eric-the-circle/2020/01/29</link>
-            <guid isPermaLink="false">eric-the-circle2020-01-29</guid>
-            <pubDate>Wed, 29 Jan 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Eric the Circle by ..... for Wed, 29 Jan 2020]]></title>
+			<link>https://www.gocomics.com/eric-the-circle/2020/01/29</link>
+			<guid isPermaLink="false">eric-the-circle2020-01-29</guid>
+			<pubDate>Wed, 29 Jan 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/8eb27bd06d3b0131e7e1005056a9545d" alt="Eric the Circle by ..... on Wed, 29 Jan 2020" title="Eric the Circle by ..... on Wed, 29 Jan 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

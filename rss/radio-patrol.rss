@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Radio Patrol</title>
-        <link>https://comicskingdom.com/radio-patrol</link>
-        <description>Radio Patrol</description>
-        <lastBuildDate>Sat, 16 Dec 1950 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Radio Patrol</title>
-            <url></url>
-            <link>https://comicskingdom.com/radio-patrol</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/radio-patrol.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Radio Patrol</title>
+		<link>https://comicskingdom.com/radio-patrol</link>
+		<description>Radio Patrol</description>
+		<lastBuildDate>Sat, 16 Dec 1950 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Radio Patrol</title>
+			<url></url>
+			<link>https://comicskingdom.com/radio-patrol</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/radio-patrol.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Radio Patrol for Sat, 16 Dec 1950]]></title>
-            <link>https://wp.comicskingdom.com/radio-patrol/1950-12-16</link>
-            <guid isPermaLink="false">radio-patrol1950-12-16</guid>
-            <pubDate>Sat, 16 Dec 1950 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Radio Patrol for Sat, 16 Dec 1950]]></title>
+			<link>https://wp.comicskingdom.com/radio-patrol/1950-12-16</link>
+			<guid isPermaLink="false">radio-patrol1950-12-16</guid>
+			<pubDate>Sat, 16 Dec 1950 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/1950/12/Radio-Patrol.ENG_.1950-12-16.jpeg" alt="Radio Patrol on Sat, 16 Dec 1950" title="Radio Patrol on Sat, 16 Dec 1950">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

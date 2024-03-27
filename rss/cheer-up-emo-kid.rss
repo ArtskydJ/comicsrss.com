@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Cheer Up, Emo Kid</title>
-        <link>https://www.gocomics.com/cheer-up-emo-kid</link>
-        <description>Cheer Up, Emo Kid by Enzo Comics</description>
-        <lastBuildDate>Wed, 22 Mar 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Cheer Up, Emo Kid</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/cuek/large_cuek_rec_201704041613.jpg</url>
-            <link>https://www.gocomics.com/cheer-up-emo-kid</link>
-        </image>
-        <copyright>Copyright Enzo Comics</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/cheer-up-emo-kid.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Cheer Up, Emo Kid</title>
+		<link>https://www.gocomics.com/cheer-up-emo-kid</link>
+		<description>Cheer Up, Emo Kid by Enzo Comics</description>
+		<lastBuildDate>Wed, 22 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Cheer Up, Emo Kid</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/cuek/large_cuek_rec_201704041613.jpg</url>
+			<link>https://www.gocomics.com/cheer-up-emo-kid</link>
+		</image>
+		<copyright>Copyright Enzo Comics</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/cheer-up-emo-kid.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Cheer Up, Emo Kid by Enzo Comics for Wed, 22 Mar 2023]]></title>
-            <link>https://www.gocomics.com/cheer-up-emo-kid/2023/03/22</link>
-            <guid isPermaLink="false">cheer-up-emo-kid2023-03-22</guid>
-            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Cheer Up, Emo Kid by Enzo Comics for Wed, 22 Mar 2023]]></title>
+			<link>https://www.gocomics.com/cheer-up-emo-kid/2023/03/22</link>
+			<guid isPermaLink="false">cheer-up-emo-kid2023-03-22</guid>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/85741810aad6013bee29005056a9545d" alt="Cheer Up, Emo Kid by Enzo Comics on Wed, 22 Mar 2023" title="Cheer Up, Emo Kid by Enzo Comics on Wed, 22 Mar 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

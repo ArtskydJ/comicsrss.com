@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>MazeToons Puzzle</title>
-        <link>https://www.gocomics.com/mazetoons-puzzle</link>
-        <description>MazeToons Puzzle by Joe Wos</description>
-        <lastBuildDate>Fri, 07 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>MazeToons Puzzle</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmaze/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/mazetoons-puzzle</link>
-        </image>
-        <copyright>Copyright Joe Wos</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/mazetoons-puzzle.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>MazeToons Puzzle</title>
+		<link>https://www.gocomics.com/mazetoons-puzzle</link>
+		<description>MazeToons Puzzle by Joe Wos</description>
+		<lastBuildDate>Fri, 07 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>MazeToons Puzzle</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crmaze/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/mazetoons-puzzle</link>
+		</image>
+		<copyright>Copyright Joe Wos</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/mazetoons-puzzle.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[MazeToons Puzzle by Joe Wos for Fri, 07 Aug 2020]]></title>
-            <link>https://www.gocomics.com/mazetoons-puzzle/2020/08/07</link>
-            <guid isPermaLink="false">mazetoons-puzzle2020-08-07</guid>
-            <pubDate>Fri, 07 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[MazeToons Puzzle by Joe Wos for Fri, 07 Aug 2020]]></title>
+			<link>https://www.gocomics.com/mazetoons-puzzle/2020/08/07</link>
+			<guid isPermaLink="false">mazetoons-puzzle2020-08-07</guid>
+			<pubDate>Fri, 07 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/a4232780ad29013813e3005056a9545d" alt="MazeToons Puzzle by Joe Wos on Fri, 07 Aug 2020" title="MazeToons Puzzle by Joe Wos on Fri, 07 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Drive</title>
-        <link>https://www.gocomics.com/drive</link>
-        <description>Drive by Dave Kellett</description>
-        <lastBuildDate>Tue, 24 Nov 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Drive</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/drv/large_drv_rec_201706221601.jpg</url>
-            <link>https://www.gocomics.com/drive</link>
-        </image>
-        <copyright>Copyright Dave Kellett</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/drive.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Drive</title>
+		<link>https://www.gocomics.com/drive</link>
+		<description>Drive by Dave Kellett</description>
+		<lastBuildDate>Tue, 24 Nov 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Drive</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/drv/large_drv_rec_201706221601.jpg</url>
+			<link>https://www.gocomics.com/drive</link>
+		</image>
+		<copyright>Copyright Dave Kellett</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/drive.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Drive by Dave Kellett for Tue, 24 Nov 2020]]></title>
-            <link>https://www.gocomics.com/drive/2020/11/24</link>
-            <guid isPermaLink="false">drive2020-11-24</guid>
-            <pubDate>Tue, 24 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Drive by Dave Kellett for Tue, 24 Nov 2020]]></title>
+			<link>https://www.gocomics.com/drive/2020/11/24</link>
+			<guid isPermaLink="false">drive2020-11-24</guid>
+			<pubDate>Tue, 24 Nov 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/9efbb9f0aee801365d93005056a9545d" alt="Drive by Dave Kellett on Tue, 24 Nov 2020" title="Drive by Dave Kellett on Tue, 24 Nov 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

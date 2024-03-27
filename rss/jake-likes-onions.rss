@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Jake Likes Onions</title>
-        <link>https://www.gocomics.com/jake-likes-onions</link>
-        <description>Jake Likes Onions by Jake Thompson</description>
-        <lastBuildDate>Wed, 20 Nov 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Jake Likes Onions</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jlo/large_jlo_rec_201708171442.jpg</url>
-            <link>https://www.gocomics.com/jake-likes-onions</link>
-        </image>
-        <copyright>Copyright Jake Thompson</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/jake-likes-onions.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Jake Likes Onions</title>
+		<link>https://www.gocomics.com/jake-likes-onions</link>
+		<description>Jake Likes Onions by Jake Thompson</description>
+		<lastBuildDate>Wed, 20 Nov 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Jake Likes Onions</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jlo/large_jlo_rec_201708171442.jpg</url>
+			<link>https://www.gocomics.com/jake-likes-onions</link>
+		</image>
+		<copyright>Copyright Jake Thompson</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/jake-likes-onions.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Jake Likes Onions by Jake Thompson for Wed, 20 Nov 2019]]></title>
-            <link>https://www.gocomics.com/jake-likes-onions/2019/11/20</link>
-            <guid isPermaLink="false">jake-likes-onions2019-11-20</guid>
-            <pubDate>Wed, 20 Nov 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Jake Likes Onions by Jake Thompson for Wed, 20 Nov 2019]]></title>
+			<link>https://www.gocomics.com/jake-likes-onions/2019/11/20</link>
+			<guid isPermaLink="false">jake-likes-onions2019-11-20</guid>
+			<pubDate>Wed, 20 Nov 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/2b8a2ee0ed6d0137d0b2005056a9545d" alt="Jake Likes Onions by Jake Thompson on Wed, 20 Nov 2019" title="Jake Likes Onions by Jake Thompson on Wed, 20 Nov 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

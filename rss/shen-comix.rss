@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Shen Comix</title>
-        <link>https://www.gocomics.com/shen-comix</link>
-        <description>Shen Comix by Shen T</description>
-        <lastBuildDate>Thu, 09 Sep 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Shen Comix</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ot/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/shen-comix</link>
-        </image>
-        <copyright>Copyright Shen T</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/shen-comix.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Shen Comix</title>
+		<link>https://www.gocomics.com/shen-comix</link>
+		<description>Shen Comix by Shen T</description>
+		<lastBuildDate>Thu, 09 Sep 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Shen Comix</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ot/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/shen-comix</link>
+		</image>
+		<copyright>Copyright Shen T</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/shen-comix.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Shen Comix by Shen T for Thu, 09 Sep 2021]]></title>
-            <link>https://www.gocomics.com/shen-comix/2021/09/09</link>
-            <guid isPermaLink="false">shen-comix2021-09-09</guid>
-            <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Shen Comix by Shen T for Thu, 09 Sep 2021]]></title>
+			<link>https://www.gocomics.com/shen-comix/2021/09/09</link>
+			<guid isPermaLink="false">shen-comix2021-09-09</guid>
+			<pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/2bb93b20f3c501397743005056a9545d" alt="Shen Comix by Shen T on Thu, 09 Sep 2021" title="Shen Comix by Shen T on Thu, 09 Sep 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

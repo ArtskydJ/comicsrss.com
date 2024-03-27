@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Bewley</title>
-        <link>https://www.gocomics.com/bewley</link>
-        <description>Bewley by Anthony Blades</description>
-        <lastBuildDate>Mon, 20 Jul 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Bewley</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bew/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/bewley</link>
-        </image>
-        <copyright>Copyright Anthony Blades</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/bewley.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Bewley</title>
+		<link>https://www.gocomics.com/bewley</link>
+		<description>Bewley by Anthony Blades</description>
+		<lastBuildDate>Mon, 20 Jul 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Bewley</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bew/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/bewley</link>
+		</image>
+		<copyright>Copyright Anthony Blades</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/bewley.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Bewley by Anthony Blades for Mon, 20 Jul 2020]]></title>
-            <link>https://www.gocomics.com/bewley/2020/07/20</link>
-            <guid isPermaLink="false">bewley2020-07-20</guid>
-            <pubDate>Mon, 20 Jul 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Bewley by Anthony Blades for Mon, 20 Jul 2020]]></title>
+			<link>https://www.gocomics.com/bewley/2020/07/20</link>
+			<guid isPermaLink="false">bewley2020-07-20</guid>
+			<pubDate>Mon, 20 Jul 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/4907e23011fd0130fdac001dd8b71c47" alt="Bewley by Anthony Blades on Mon, 20 Jul 2020" title="Bewley by Anthony Blades on Mon, 20 Jul 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

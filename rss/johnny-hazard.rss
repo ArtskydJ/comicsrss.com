@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Johnny Hazard</title>
-        <link>https://comicskingdom.com/johnny-hazard</link>
-        <description>Johnny Hazard</description>
-        <lastBuildDate>Fri, 31 Dec 1954 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Johnny Hazard</title>
-            <url></url>
-            <link>https://comicskingdom.com/johnny-hazard</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/johnny-hazard.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Johnny Hazard</title>
+		<link>https://comicskingdom.com/johnny-hazard</link>
+		<description>Johnny Hazard</description>
+		<lastBuildDate>Fri, 31 Dec 1954 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Johnny Hazard</title>
+			<url></url>
+			<link>https://comicskingdom.com/johnny-hazard</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/johnny-hazard.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Johnny Hazard for Fri, 31 Dec 1954]]></title>
-            <link>https://wp.comicskingdom.com/johnny-hazard/1954-12-31</link>
-            <guid isPermaLink="false">johnny-hazard1954-12-31</guid>
-            <pubDate>Fri, 31 Dec 1954 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Johnny Hazard for Fri, 31 Dec 1954]]></title>
+			<link>https://wp.comicskingdom.com/johnny-hazard/1954-12-31</link>
+			<guid isPermaLink="false">johnny-hazard1954-12-31</guid>
+			<pubDate>Fri, 31 Dec 1954 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/1954/12/Johnny-Hazard.ENG_.1954-12-31.jpeg" alt="Johnny Hazard on Fri, 31 Dec 1954" title="Johnny Hazard on Fri, 31 Dec 1954">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Meg Classics</title>
-        <link>https://www.gocomics.com/meg-classics</link>
-        <description>Meg Classics by Greg Curfman</description>
-        <lastBuildDate>Fri, 14 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Meg Classics</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/meg/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/meg-classics</link>
-        </image>
-        <copyright>Copyright Greg Curfman</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/meg-classics.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Meg Classics</title>
+		<link>https://www.gocomics.com/meg-classics</link>
+		<description>Meg Classics by Greg Curfman</description>
+		<lastBuildDate>Fri, 14 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Meg Classics</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/meg/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/meg-classics</link>
+		</image>
+		<copyright>Copyright Greg Curfman</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/meg-classics.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Meg Classics by Greg Curfman for Fri, 14 Aug 2020]]></title>
-            <link>https://www.gocomics.com/meg-classics/2020/08/14</link>
-            <guid isPermaLink="false">meg-classics2020-08-14</guid>
-            <pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Meg Classics by Greg Curfman for Fri, 14 Aug 2020]]></title>
+			<link>https://www.gocomics.com/meg-classics/2020/08/14</link>
+			<guid isPermaLink="false">meg-classics2020-08-14</guid>
+			<pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/5ed16f708c01012ee3c400163e41dd5b" alt="Meg Classics by Greg Curfman on Fri, 14 Aug 2020" title="Meg Classics by Greg Curfman on Fri, 14 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

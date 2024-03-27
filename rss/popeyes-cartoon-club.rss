@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Popeye’s Cartoon Club</title>
-        <link>https://comicskingdom.com/popeyes-cartoon-club</link>
-        <description>Popeye’s Cartoon Club</description>
-        <lastBuildDate>Mon, 06 Jul 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Popeye’s Cartoon Club</title>
-            <url></url>
-            <link>https://comicskingdom.com/popeyes-cartoon-club</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/popeyes-cartoon-club.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Popeye’s Cartoon Club</title>
+		<link>https://comicskingdom.com/popeyes-cartoon-club</link>
+		<description>Popeye’s Cartoon Club</description>
+		<lastBuildDate>Mon, 06 Jul 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Popeye’s Cartoon Club</title>
+			<url></url>
+			<link>https://comicskingdom.com/popeyes-cartoon-club</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/popeyes-cartoon-club.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Popeye’s Cartoon Club for Mon, 06 Jul 2020]]></title>
-            <link>https://wp.comicskingdom.com/popeyes-cartoon-club/2020-07-06</link>
-            <guid isPermaLink="false">popeyes-cartoon-club2020-07-06</guid>
-            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Popeye’s Cartoon Club for Mon, 06 Jul 2020]]></title>
+			<link>https://wp.comicskingdom.com/popeyes-cartoon-club/2020-07-06</link>
+			<guid isPermaLink="false">popeyes-cartoon-club2020-07-06</guid>
+			<pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/2020/07/Popeyes-Cartoon-Club.ENG_.2020-07-06.jpeg" alt="Popeye’s Cartoon Club on Mon, 06 Jul 2020" title="Popeye’s Cartoon Club on Mon, 06 Jul 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

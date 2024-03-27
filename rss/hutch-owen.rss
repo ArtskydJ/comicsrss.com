@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Hutch Owen</title>
-        <link>https://www.gocomics.com/hutch-owen</link>
-        <description>Hutch Owen by Tom Hart</description>
-        <lastBuildDate>Tue, 21 Sep 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Hutch Owen</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hut/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/hutch-owen</link>
-        </image>
-        <copyright>Copyright Tom Hart</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/hutch-owen.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Hutch Owen</title>
+		<link>https://www.gocomics.com/hutch-owen</link>
+		<description>Hutch Owen by Tom Hart</description>
+		<lastBuildDate>Tue, 21 Sep 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Hutch Owen</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hut/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/hutch-owen</link>
+		</image>
+		<copyright>Copyright Tom Hart</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/hutch-owen.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Hutch Owen by Tom Hart for Tue, 21 Sep 2021]]></title>
-            <link>https://www.gocomics.com/hutch-owen/2021/09/21</link>
-            <guid isPermaLink="false">hutch-owen2021-09-21</guid>
-            <pubDate>Tue, 21 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Hutch Owen by Tom Hart for Tue, 21 Sep 2021]]></title>
+			<link>https://www.gocomics.com/hutch-owen/2021/09/21</link>
+			<guid isPermaLink="false">hutch-owen2021-09-21</guid>
+			<pubDate>Tue, 21 Sep 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/b2fd8b604231013308bf005056a9545d" alt="Hutch Owen by Tom Hart on Tue, 21 Sep 2021" title="Hutch Owen by Tom Hart on Tue, 21 Sep 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

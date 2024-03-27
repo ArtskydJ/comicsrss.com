@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Gnome Syndicate</title>
-        <link>https://www.gocomics.com/gnome-syndicate</link>
-        <description>Gnome Syndicate by David Reddick and Kevin Vassey</description>
-        <lastBuildDate>Mon, 12 Apr 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Gnome Syndicate</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gs/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/gnome-syndicate</link>
-        </image>
-        <copyright>Copyright David Reddick and Kevin Vassey</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/gnome-syndicate.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Gnome Syndicate</title>
+		<link>https://www.gocomics.com/gnome-syndicate</link>
+		<description>Gnome Syndicate by David Reddick and Kevin Vassey</description>
+		<lastBuildDate>Mon, 12 Apr 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Gnome Syndicate</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gs/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/gnome-syndicate</link>
+		</image>
+		<copyright>Copyright David Reddick and Kevin Vassey</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/gnome-syndicate.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Gnome Syndicate by David Reddick and Kevin Vassey for Mon, 12 Apr 2021]]></title>
-            <link>https://www.gocomics.com/gnome-syndicate/2021/04/12</link>
-            <guid isPermaLink="false">gnome-syndicate2021-04-12</guid>
-            <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Gnome Syndicate by David Reddick and Kevin Vassey for Mon, 12 Apr 2021]]></title>
+			<link>https://www.gocomics.com/gnome-syndicate/2021/04/12</link>
+			<guid isPermaLink="false">gnome-syndicate2021-04-12</guid>
+			<pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/41da1ae08bfb0138083e005056a9545d" alt="Gnome Syndicate by David Reddick and Kevin Vassey on Mon, 12 Apr 2021" title="Gnome Syndicate by David Reddick and Kevin Vassey on Mon, 12 Apr 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Eyebeam Classic</title>
-        <link>https://www.gocomics.com/eyebeam-classic</link>
-        <description>Eyebeam Classic by Sam Hurt</description>
-        <lastBuildDate>Tue, 12 Dec 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Eyebeam Classic</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/eyec/large_eyec_rec_201705251058.jpg</url>
-            <link>https://www.gocomics.com/eyebeam-classic</link>
-        </image>
-        <copyright>Copyright Sam Hurt</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/eyebeam-classic.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Eyebeam Classic</title>
+		<link>https://www.gocomics.com/eyebeam-classic</link>
+		<description>Eyebeam Classic by Sam Hurt</description>
+		<lastBuildDate>Tue, 12 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Eyebeam Classic</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/eyec/large_eyec_rec_201705251058.jpg</url>
+			<link>https://www.gocomics.com/eyebeam-classic</link>
+		</image>
+		<copyright>Copyright Sam Hurt</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/eyebeam-classic.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Eyebeam Classic by Sam Hurt for Tue, 12 Dec 2023]]></title>
-            <link>https://www.gocomics.com/eyebeam-classic/2023/12/12</link>
-            <guid isPermaLink="false">eyebeam-classic2023-12-12</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Eyebeam Classic by Sam Hurt for Tue, 12 Dec 2023]]></title>
+			<link>https://www.gocomics.com/eyebeam-classic/2023/12/12</link>
+			<guid isPermaLink="false">eyebeam-classic2023-12-12</guid>
+			<pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/68341fe01d7d0135b407005056a9545d" alt="Eyebeam Classic by Sam Hurt on Tue, 12 Dec 2023" title="Eyebeam Classic by Sam Hurt on Tue, 12 Dec 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

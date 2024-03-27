@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The Other End</title>
-        <link>https://www.gocomics.com/the-other-end</link>
-        <description>The Other End by Neil Kohney</description>
-        <lastBuildDate>Mon, 18 Oct 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>The Other End</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/toe/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/the-other-end</link>
-        </image>
-        <copyright>Copyright Neil Kohney</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/the-other-end.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>The Other End</title>
+		<link>https://www.gocomics.com/the-other-end</link>
+		<description>The Other End by Neil Kohney</description>
+		<lastBuildDate>Mon, 18 Oct 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>The Other End</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/toe/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/the-other-end</link>
+		</image>
+		<copyright>Copyright Neil Kohney</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/the-other-end.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[The Other End by Neil Kohney for Mon, 18 Oct 2021]]></title>
-            <link>https://www.gocomics.com/the-other-end/2021/10/18</link>
-            <guid isPermaLink="false">the-other-end2021-10-18</guid>
-            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[The Other End by Neil Kohney for Mon, 18 Oct 2021]]></title>
+			<link>https://www.gocomics.com/the-other-end/2021/10/18</link>
+			<guid isPermaLink="false">the-other-end2021-10-18</guid>
+			<pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/f271b49011ab013a7f66005056a9545d" alt="The Other End by Neil Kohney on Mon, 18 Oct 2021" title="The Other End by Neil Kohney on Mon, 18 Oct 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

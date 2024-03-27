@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Office Hours</title>
-        <link>https://comicskingdom.com/office-hours</link>
-        <description>Office Hours</description>
-        <lastBuildDate>Sat, 03 Aug 1974 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Office Hours</title>
-            <url></url>
-            <link>https://comicskingdom.com/office-hours</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/office-hours.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Office Hours</title>
+		<link>https://comicskingdom.com/office-hours</link>
+		<description>Office Hours</description>
+		<lastBuildDate>Sat, 03 Aug 1974 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Office Hours</title>
+			<url></url>
+			<link>https://comicskingdom.com/office-hours</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/office-hours.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Office Hours for Sat, 03 Aug 1974]]></title>
-            <link>https://wp.comicskingdom.com/office-hours/1974-08-03</link>
-            <guid isPermaLink="false">office-hours1974-08-03</guid>
-            <pubDate>Sat, 03 Aug 1974 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Office Hours for Sat, 03 Aug 1974]]></title>
+			<link>https://wp.comicskingdom.com/office-hours/1974-08-03</link>
+			<guid isPermaLink="false">office-hours1974-08-03</guid>
+			<pubDate>Sat, 03 Aug 1974 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/1974/08/Office-Hours.ENG_.1974-08-03.jpeg" alt="Office Hours on Sat, 03 Aug 1974" title="Office Hours on Sat, 03 Aug 1974">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

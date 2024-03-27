@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Reply All</title>
-        <link>https://www.gocomics.com/replyall</link>
-        <description>Reply All by Donna A. Lewis</description>
-        <lastBuildDate>Fri, 07 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Reply All</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wprep/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/replyall</link>
-        </image>
-        <copyright>Copyright Donna A. Lewis</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/replyall.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Reply All</title>
+		<link>https://www.gocomics.com/replyall</link>
+		<description>Reply All by Donna A. Lewis</description>
+		<lastBuildDate>Fri, 07 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Reply All</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wprep/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/replyall</link>
+		</image>
+		<copyright>Copyright Donna A. Lewis</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/replyall.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Reply All by Donna A. Lewis for Fri, 07 Aug 2020]]></title>
-            <link>https://www.gocomics.com/replyall/2020/08/07</link>
-            <guid isPermaLink="false">replyall2020-08-07</guid>
-            <pubDate>Fri, 07 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Reply All by Donna A. Lewis for Fri, 07 Aug 2020]]></title>
+			<link>https://www.gocomics.com/replyall/2020/08/07</link>
+			<guid isPermaLink="false">replyall2020-08-07</guid>
+			<pubDate>Fri, 07 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/daf11d50b0140138152f005056a9545d" alt="Reply All by Donna A. Lewis on Fri, 07 Aug 2020" title="Reply All by Donna A. Lewis on Fri, 07 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

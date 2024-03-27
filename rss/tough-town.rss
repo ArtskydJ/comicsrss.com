@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tough Town</title>
-        <link>https://www.gocomics.com/tough-town</link>
-        <description>Tough Town by Bob Shannon</description>
-        <lastBuildDate>Thu, 31 Dec 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Tough Town</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tot/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/tough-town</link>
-        </image>
-        <copyright>Copyright Bob Shannon</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/tough-town.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Tough Town</title>
+		<link>https://www.gocomics.com/tough-town</link>
+		<description>Tough Town by Bob Shannon</description>
+		<lastBuildDate>Thu, 31 Dec 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Tough Town</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tot/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/tough-town</link>
+		</image>
+		<copyright>Copyright Bob Shannon</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/tough-town.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Tough Town by Bob Shannon for Thu, 31 Dec 2020]]></title>
-            <link>https://www.gocomics.com/tough-town/2020/12/31</link>
-            <guid isPermaLink="false">tough-town2020-12-31</guid>
-            <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Tough Town by Bob Shannon for Thu, 31 Dec 2020]]></title>
+			<link>https://www.gocomics.com/tough-town/2020/12/31</link>
+			<guid isPermaLink="false">tough-town2020-12-31</guid>
+			<pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/a929bb902b7401393e43005056a9545d" alt="Tough Town by Bob Shannon on Thu, 31 Dec 2020" title="Tough Town by Bob Shannon on Thu, 31 Dec 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

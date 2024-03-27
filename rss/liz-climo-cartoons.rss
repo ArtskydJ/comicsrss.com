@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Liz Climo Cartoons</title>
-        <link>https://www.gocomics.com/liz-climo-cartoons</link>
-        <description>Liz Climo Cartoons by Liz Climo</description>
-        <lastBuildDate>Mon, 25 Sep 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Liz Climo Cartoons</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lcc/large_lcc_rec_201803161008.jpg</url>
-            <link>https://www.gocomics.com/liz-climo-cartoons</link>
-        </image>
-        <copyright>Copyright Liz Climo</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/liz-climo-cartoons.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Liz Climo Cartoons</title>
+		<link>https://www.gocomics.com/liz-climo-cartoons</link>
+		<description>Liz Climo Cartoons by Liz Climo</description>
+		<lastBuildDate>Mon, 25 Sep 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Liz Climo Cartoons</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/lcc/large_lcc_rec_201803161008.jpg</url>
+			<link>https://www.gocomics.com/liz-climo-cartoons</link>
+		</image>
+		<copyright>Copyright Liz Climo</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/liz-climo-cartoons.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Liz Climo Cartoons by Liz Climo for Mon, 25 Sep 2023]]></title>
-            <link>https://www.gocomics.com/liz-climo-cartoons/2023/09/25</link>
-            <guid isPermaLink="false">liz-climo-cartoons2023-09-25</guid>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Liz Climo Cartoons by Liz Climo for Mon, 25 Sep 2023]]></title>
+			<link>https://www.gocomics.com/liz-climo-cartoons/2023/09/25</link>
+			<guid isPermaLink="false">liz-climo-cartoons2023-09-25</guid>
+			<pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/58e03f80b613013bf1d3005056a9545d" alt="Liz Climo Cartoons by Liz Climo on Mon, 25 Sep 2023" title="Liz Climo Cartoons by Liz Climo on Mon, 25 Sep 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

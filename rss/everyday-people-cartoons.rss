@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Everyday People Cartoons</title>
-        <link>https://www.gocomics.com/everyday-people-cartoons</link>
-        <description>Everyday People Cartoons by Cathy Thorne</description>
-        <lastBuildDate>Wed, 15 Feb 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Everyday People Cartoons</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/epc/large_rec-201701251559.jpg</url>
-            <link>https://www.gocomics.com/everyday-people-cartoons</link>
-        </image>
-        <copyright>Copyright Cathy Thorne</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/everyday-people-cartoons.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Everyday People Cartoons</title>
+		<link>https://www.gocomics.com/everyday-people-cartoons</link>
+		<description>Everyday People Cartoons by Cathy Thorne</description>
+		<lastBuildDate>Wed, 15 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Everyday People Cartoons</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/epc/large_rec-201701251559.jpg</url>
+			<link>https://www.gocomics.com/everyday-people-cartoons</link>
+		</image>
+		<copyright>Copyright Cathy Thorne</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/everyday-people-cartoons.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Everyday People Cartoons by Cathy Thorne for Wed, 15 Feb 2023]]></title>
-            <link>https://www.gocomics.com/everyday-people-cartoons/2023/02/15</link>
-            <guid isPermaLink="false">everyday-people-cartoons2023-02-15</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Everyday People Cartoons by Cathy Thorne for Wed, 15 Feb 2023]]></title>
+			<link>https://www.gocomics.com/everyday-people-cartoons/2023/02/15</link>
+			<guid isPermaLink="false">everyday-people-cartoons2023-02-15</guid>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/bb3588608f81013be56b005056a9545d" alt="Everyday People Cartoons by Cathy Thorne on Wed, 15 Feb 2023" title="Everyday People Cartoons by Cathy Thorne on Wed, 15 Feb 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

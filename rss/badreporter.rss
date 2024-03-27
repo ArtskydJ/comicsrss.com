@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Bad Reporter</title>
-        <link>https://www.gocomics.com/badreporter</link>
-        <description>Bad Reporter by Don Asmussen</description>
-        <lastBuildDate>Fri, 30 Apr 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Bad Reporter</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bad/large_rec-201701251555.jpg</url>
-            <link>https://www.gocomics.com/badreporter</link>
-        </image>
-        <copyright>Copyright Don Asmussen</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/badreporter.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Bad Reporter</title>
+		<link>https://www.gocomics.com/badreporter</link>
+		<description>Bad Reporter by Don Asmussen</description>
+		<lastBuildDate>Fri, 30 Apr 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Bad Reporter</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bad/large_rec-201701251555.jpg</url>
+			<link>https://www.gocomics.com/badreporter</link>
+		</image>
+		<copyright>Copyright Don Asmussen</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/badreporter.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Bad Reporter by Don Asmussen for Fri, 30 Apr 2021]]></title>
-            <link>https://www.gocomics.com/badreporter/2021/04/30</link>
-            <guid isPermaLink="false">badreporter2021-04-30</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Bad Reporter by Don Asmussen for Fri, 30 Apr 2021]]></title>
+			<link>https://www.gocomics.com/badreporter/2021/04/30</link>
+			<guid isPermaLink="false">badreporter2021-04-30</guid>
+			<pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/4a9fcee08b6601395b8b005056a9545d" alt="Bad Reporter by Don Asmussen on Fri, 30 Apr 2021" title="Bad Reporter by Don Asmussen on Fri, 30 Apr 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

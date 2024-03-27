@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ali&#39;s House</title>
-        <link>https://www.gocomics.com/alis-house</link>
-        <description>Ali&#39;s House by Marguerite Dabaie and Tom Hart</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Ali&#39;s House</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ah/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/alis-house</link>
-        </image>
-        <copyright>Copyright Marguerite Dabaie and Tom Hart</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/alis-house.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Ali&#39;s House</title>
+		<link>https://www.gocomics.com/alis-house</link>
+		<description>Ali&#39;s House by Marguerite Dabaie and Tom Hart</description>
+		<lastBuildDate>Fri, 25 Mar 2022 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Ali&#39;s House</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ah/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/alis-house</link>
+		</image>
+		<copyright>Copyright Marguerite Dabaie and Tom Hart</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/alis-house.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Ali's House by Marguerite Dabaie and Tom Hart for Fri, 25 Mar 2022]]></title>
-            <link>https://www.gocomics.com/alis-house/2022/03/25</link>
-            <guid isPermaLink="false">alis-house2022-03-25</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Ali's House by Marguerite Dabaie and Tom Hart for Fri, 25 Mar 2022]]></title>
+			<link>https://www.gocomics.com/alis-house/2022/03/25</link>
+			<guid isPermaLink="false">alis-house2022-03-25</guid>
+			<pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c0f7d370215f0135b983005056a9545d" alt="Ali&#39;s House by Marguerite Dabaie and Tom Hart on Fri, 25 Mar 2022" title="Ali&#39;s House by Marguerite Dabaie and Tom Hart on Fri, 25 Mar 2022">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

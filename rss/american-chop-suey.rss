@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>American Chop Suey</title>
-        <link>https://www.gocomics.com/american-chop-suey</link>
-        <description>American Chop Suey by Ed Bickford and Aaron Walther</description>
-        <lastBuildDate>Tue, 30 Mar 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>American Chop Suey</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/acs/large_acs_rec_201801021214.jpg</url>
-            <link>https://www.gocomics.com/american-chop-suey</link>
-        </image>
-        <copyright>Copyright Ed Bickford and Aaron Walther</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/american-chop-suey.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>American Chop Suey</title>
+		<link>https://www.gocomics.com/american-chop-suey</link>
+		<description>American Chop Suey by Ed Bickford and Aaron Walther</description>
+		<lastBuildDate>Tue, 30 Mar 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>American Chop Suey</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/acs/large_acs_rec_201801021214.jpg</url>
+			<link>https://www.gocomics.com/american-chop-suey</link>
+		</image>
+		<copyright>Copyright Ed Bickford and Aaron Walther</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/american-chop-suey.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[American Chop Suey by Ed Bickford and Aaron Walther for Tue, 30 Mar 2021]]></title>
-            <link>https://www.gocomics.com/american-chop-suey/2021/03/30</link>
-            <guid isPermaLink="false">american-chop-suey2021-03-30</guid>
-            <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[American Chop Suey by Ed Bickford and Aaron Walther for Tue, 30 Mar 2021]]></title>
+			<link>https://www.gocomics.com/american-chop-suey/2021/03/30</link>
+			<guid isPermaLink="false">american-chop-suey2021-03-30</guid>
+			<pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/cee8c4505456013799ee005056a9545d" alt="American Chop Suey by Ed Bickford and Aaron Walther on Tue, 30 Mar 2021" title="American Chop Suey by Ed Bickford and Aaron Walther on Tue, 30 Mar 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

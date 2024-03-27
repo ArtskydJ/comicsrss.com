@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ask a Portly Syndicate Person</title>
-        <link>https://www.gocomics.com/ask-a-portly-syndicate-person</link>
-        <description>Ask a Portly Syndicate Person by J. Francis Glynn</description>
-        <lastBuildDate>Wed, 21 Oct 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Ask a Portly Syndicate Person</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jfg/large_jfg_rec_201907011538.jpg</url>
-            <link>https://www.gocomics.com/ask-a-portly-syndicate-person</link>
-        </image>
-        <copyright>Copyright J. Francis Glynn</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/ask-a-portly-syndicate-person.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Ask a Portly Syndicate Person</title>
+		<link>https://www.gocomics.com/ask-a-portly-syndicate-person</link>
+		<description>Ask a Portly Syndicate Person by J. Francis Glynn</description>
+		<lastBuildDate>Wed, 21 Oct 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Ask a Portly Syndicate Person</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jfg/large_jfg_rec_201907011538.jpg</url>
+			<link>https://www.gocomics.com/ask-a-portly-syndicate-person</link>
+		</image>
+		<copyright>Copyright J. Francis Glynn</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/ask-a-portly-syndicate-person.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Ask a Portly Syndicate Person by J. Francis Glynn for Wed, 21 Oct 2020]]></title>
-            <link>https://www.gocomics.com/ask-a-portly-syndicate-person/2020/10/21</link>
-            <guid isPermaLink="false">ask-a-portly-syndicate-person2020-10-21</guid>
-            <pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Ask a Portly Syndicate Person by J. Francis Glynn for Wed, 21 Oct 2020]]></title>
+			<link>https://www.gocomics.com/ask-a-portly-syndicate-person/2020/10/21</link>
+			<guid isPermaLink="false">ask-a-portly-syndicate-person2020-10-21</guid>
+			<pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/0ae3c6a0f53801382ccd005056a9545d" alt="Ask a Portly Syndicate Person by J. Francis Glynn on Wed, 21 Oct 2020" title="Ask a Portly Syndicate Person by J. Francis Glynn on Wed, 21 Oct 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

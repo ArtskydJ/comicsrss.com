@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Cathy Commiserations</title>
-        <link>https://www.gocomics.com/cathy-commiserations</link>
-        <description>Cathy Commiserations by Cathy Guisewite</description>
-        <lastBuildDate>Sat, 26 Nov 2022 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Cathy Commiserations</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ccm/large_ccm_rec_202005201133.jpg</url>
-            <link>https://www.gocomics.com/cathy-commiserations</link>
-        </image>
-        <copyright>Copyright Cathy Guisewite</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/cathy-commiserations.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Cathy Commiserations</title>
+		<link>https://www.gocomics.com/cathy-commiserations</link>
+		<description>Cathy Commiserations by Cathy Guisewite</description>
+		<lastBuildDate>Sat, 26 Nov 2022 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Cathy Commiserations</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ccm/large_ccm_rec_202005201133.jpg</url>
+			<link>https://www.gocomics.com/cathy-commiserations</link>
+		</image>
+		<copyright>Copyright Cathy Guisewite</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/cathy-commiserations.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Cathy Commiserations by Cathy Guisewite for Sat, 26 Nov 2022]]></title>
-            <link>https://www.gocomics.com/cathy-commiserations/2022/11/26</link>
-            <guid isPermaLink="false">cathy-commiserations2022-11-26</guid>
-            <pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Cathy Commiserations by Cathy Guisewite for Sat, 26 Nov 2022]]></title>
+			<link>https://www.gocomics.com/cathy-commiserations/2022/11/26</link>
+			<guid isPermaLink="false">cathy-commiserations2022-11-26</guid>
+			<pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/153a27b04f3c013bd1ed005056a9545d" alt="Cathy Commiserations by Cathy Guisewite on Sat, 26 Nov 2022" title="Cathy Commiserations by Cathy Guisewite on Sat, 26 Nov 2022">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

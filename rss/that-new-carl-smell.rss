@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>That New Carl Smell</title>
-        <link>https://www.gocomics.com/that-new-carl-smell</link>
-        <description>That New Carl Smell by Carl Skanberg</description>
-        <lastBuildDate>Wed, 31 May 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>That New Carl Smell</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ncs/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/that-new-carl-smell</link>
-        </image>
-        <copyright>Copyright Carl Skanberg</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/that-new-carl-smell.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>That New Carl Smell</title>
+		<link>https://www.gocomics.com/that-new-carl-smell</link>
+		<description>That New Carl Smell by Carl Skanberg</description>
+		<lastBuildDate>Wed, 31 May 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>That New Carl Smell</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ncs/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/that-new-carl-smell</link>
+		</image>
+		<copyright>Copyright Carl Skanberg</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/that-new-carl-smell.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[That New Carl Smell by Carl Skanberg for Wed, 31 May 2023]]></title>
-            <link>https://www.gocomics.com/that-new-carl-smell/2023/05/31</link>
-            <guid isPermaLink="false">that-new-carl-smell2023-05-31</guid>
-            <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[That New Carl Smell by Carl Skanberg for Wed, 31 May 2023]]></title>
+			<link>https://www.gocomics.com/that-new-carl-smell/2023/05/31</link>
+			<guid isPermaLink="false">that-new-carl-smell2023-05-31</guid>
+			<pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7c8428c0da6b013bfc75005056a9545d" alt="That New Carl Smell by Carl Skanberg on Wed, 31 May 2023" title="That New Carl Smell by Carl Skanberg on Wed, 31 May 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

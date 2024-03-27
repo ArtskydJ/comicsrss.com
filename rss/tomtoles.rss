@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tom Toles</title>
-        <link>https://www.gocomics.com/tomtoles</link>
-        <description>Tom Toles by Tom Toles</description>
-        <lastBuildDate>Sun, 01 Nov 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Tom Toles</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tt/large_rec-201701251555.jpg</url>
-            <link>https://www.gocomics.com/tomtoles</link>
-        </image>
-        <copyright>Copyright Tom Toles</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/tomtoles.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Tom Toles</title>
+		<link>https://www.gocomics.com/tomtoles</link>
+		<description>Tom Toles by Tom Toles</description>
+		<lastBuildDate>Sun, 01 Nov 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Tom Toles</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tt/large_rec-201701251555.jpg</url>
+			<link>https://www.gocomics.com/tomtoles</link>
+		</image>
+		<copyright>Copyright Tom Toles</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/tomtoles.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Tom Toles by Tom Toles for Sun, 01 Nov 2020]]></title>
-            <link>https://www.gocomics.com/tomtoles/2020/11/01</link>
-            <guid isPermaLink="false">tomtoles2020-11-01</guid>
-            <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Tom Toles by Tom Toles for Sun, 01 Nov 2020]]></title>
+			<link>https://www.gocomics.com/tomtoles/2020/11/01</link>
+			<guid isPermaLink="false">tomtoles2020-11-01</guid>
+			<pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/91ef2ea0fd0501382fad005056a9545d" alt="Tom Toles by Tom Toles on Sun, 01 Nov 2020" title="Tom Toles by Tom Toles on Sun, 01 Nov 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Hot Comics for Cool People</title>
-        <link>https://www.gocomics.com/hot-comics-for-cool-people</link>
-        <description>Hot Comics for Cool People by Brandon Sheffield and Dami Lee</description>
-        <lastBuildDate>Mon, 15 May 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Hot Comics for Cool People</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hccp/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/hot-comics-for-cool-people</link>
-        </image>
-        <copyright>Copyright Brandon Sheffield and Dami Lee</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/hot-comics-for-cool-people.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Hot Comics for Cool People</title>
+		<link>https://www.gocomics.com/hot-comics-for-cool-people</link>
+		<description>Hot Comics for Cool People by Brandon Sheffield and Dami Lee</description>
+		<lastBuildDate>Mon, 15 May 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Hot Comics for Cool People</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hccp/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/hot-comics-for-cool-people</link>
+		</image>
+		<copyright>Copyright Brandon Sheffield and Dami Lee</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/hot-comics-for-cool-people.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Hot Comics for Cool People by Brandon Sheffield and Dami Lee for Mon, 15 May 2023]]></title>
-            <link>https://www.gocomics.com/hot-comics-for-cool-people/2023/05/15</link>
-            <guid isPermaLink="false">hot-comics-for-cool-people2023-05-15</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Hot Comics for Cool People by Brandon Sheffield and Dami Lee for Mon, 15 May 2023]]></title>
+			<link>https://www.gocomics.com/hot-comics-for-cool-people/2023/05/15</link>
+			<guid isPermaLink="false">hot-comics-for-cool-people2023-05-15</guid>
+			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/208bc2a0d11201344b27005056a9545d" alt="Hot Comics for Cool People by Brandon Sheffield and Dami Lee on Mon, 15 May 2023" title="Hot Comics for Cool People by Brandon Sheffield and Dami Lee on Mon, 15 May 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>PC and Pixel</title>
-        <link>https://www.gocomics.com/pcandpixel</link>
-        <description>PC and Pixel by Tak Bui</description>
-        <lastBuildDate>Sat, 17 Jun 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>PC and Pixel</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pcp/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/pcandpixel</link>
-        </image>
-        <copyright>Copyright Tak Bui</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/pcandpixel.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>PC and Pixel</title>
+		<link>https://www.gocomics.com/pcandpixel</link>
+		<description>PC and Pixel by Tak Bui</description>
+		<lastBuildDate>Sat, 17 Jun 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>PC and Pixel</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pcp/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/pcandpixel</link>
+		</image>
+		<copyright>Copyright Tak Bui</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/pcandpixel.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[PC and Pixel by Tak Bui for Sat, 17 Jun 2023]]></title>
-            <link>https://www.gocomics.com/pcandpixel/2023/06/17</link>
-            <guid isPermaLink="false">pcandpixel2023-06-17</guid>
-            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[PC and Pixel by Tak Bui for Sat, 17 Jun 2023]]></title>
+			<link>https://www.gocomics.com/pcandpixel/2023/06/17</link>
+			<guid isPermaLink="false">pcandpixel2023-06-17</guid>
+			<pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c00a31b0e9b3013b0129005056a9545d" alt="PC and Pixel by Tak Bui on Sat, 17 Jun 2023" title="PC and Pixel by Tak Bui on Sat, 17 Jun 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

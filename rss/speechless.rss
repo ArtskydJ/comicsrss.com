@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Speechless</title>
-        <link>https://www.gocomics.com/speechless</link>
-        <description>Speechless by Len Borozinski</description>
-        <lastBuildDate>Wed, 23 Sep 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Speechless</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wor/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/speechless</link>
-        </image>
-        <copyright>Copyright Len Borozinski</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/speechless.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Speechless</title>
+		<link>https://www.gocomics.com/speechless</link>
+		<description>Speechless by Len Borozinski</description>
+		<lastBuildDate>Wed, 23 Sep 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Speechless</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wor/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/speechless</link>
+		</image>
+		<copyright>Copyright Len Borozinski</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/speechless.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Speechless by Len Borozinski for Wed, 23 Sep 2020]]></title>
-            <link>https://www.gocomics.com/speechless/2020/09/23</link>
-            <guid isPermaLink="false">speechless2020-09-23</guid>
-            <pubDate>Wed, 23 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Speechless by Len Borozinski for Wed, 23 Sep 2020]]></title>
+			<link>https://www.gocomics.com/speechless/2020/09/23</link>
+			<guid isPermaLink="false">speechless2020-09-23</guid>
+			<pubDate>Wed, 23 Sep 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/e678fd10df4901382526005056a9545d" alt="Speechless by Len Borozinski on Wed, 23 Sep 2020" title="Speechless by Len Borozinski on Wed, 23 Sep 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

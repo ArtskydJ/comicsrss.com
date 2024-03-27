@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Bent Objects</title>
-        <link>https://www.gocomics.com/bent-objects/2019/08/30</link>
-        <description>Bent Objects by Terry Border</description>
-        <lastBuildDate>Fri, 30 Aug 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Bent Objects</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/beo/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/bent-objects/2019/08/30</link>
-        </image>
-        <copyright>Copyright Terry Border</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/bent-objects.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Bent Objects</title>
+		<link>https://www.gocomics.com/bent-objects/2019/08/30</link>
+		<description>Bent Objects by Terry Border</description>
+		<lastBuildDate>Fri, 30 Aug 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Bent Objects</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/beo/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/bent-objects/2019/08/30</link>
+		</image>
+		<copyright>Copyright Terry Border</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/bent-objects.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Bent Objects by Terry Border for Fri, 30 Aug 2019]]></title>
-            <link>https://www.gocomics.com/bent-objects/2019/08/30</link>
-            <guid isPermaLink="false">bent-objects2019-08-30</guid>
-            <pubDate>Fri, 30 Aug 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Bent Objects by Terry Border for Fri, 30 Aug 2019]]></title>
+			<link>https://www.gocomics.com/bent-objects/2019/08/30</link>
+			<guid isPermaLink="false">bent-objects2019-08-30</guid>
+			<pubDate>Fri, 30 Aug 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/5acf5eb0abc50137b8c5005056a9545d" alt="Bent Objects by Terry Border on Fri, 30 Aug 2019" title="Bent Objects by Terry Border on Fri, 30 Aug 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Now Recharging</title>
-        <link>https://www.gocomics.com/now-recharging</link>
-        <description>Now Recharging by Maiji/Mary Huang</description>
-        <lastBuildDate>Mon, 17 Apr 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Now Recharging</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/recharge/large_recharge_rec_201702011734.jpg</url>
-            <link>https://www.gocomics.com/now-recharging</link>
-        </image>
-        <copyright>Copyright Maiji/Mary Huang</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/now-recharging.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Now Recharging</title>
+		<link>https://www.gocomics.com/now-recharging</link>
+		<description>Now Recharging by Maiji/Mary Huang</description>
+		<lastBuildDate>Mon, 17 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Now Recharging</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/recharge/large_recharge_rec_201702011734.jpg</url>
+			<link>https://www.gocomics.com/now-recharging</link>
+		</image>
+		<copyright>Copyright Maiji/Mary Huang</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/now-recharging.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Now Recharging by Maiji/Mary Huang for Mon, 17 Apr 2023]]></title>
-            <link>https://www.gocomics.com/now-recharging/2023/04/17</link>
-            <guid isPermaLink="false">now-recharging2023-04-17</guid>
-            <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Now Recharging by Maiji/Mary Huang for Mon, 17 Apr 2023]]></title>
+			<link>https://www.gocomics.com/now-recharging/2023/04/17</link>
+			<guid isPermaLink="false">now-recharging2023-04-17</guid>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/56abe010d7a9013ab399005056a9545d" alt="Now Recharging by Maiji/Mary Huang on Mon, 17 Apr 2023" title="Now Recharging by Maiji/Mary Huang on Mon, 17 Apr 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

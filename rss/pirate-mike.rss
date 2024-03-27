@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pirate Mike</title>
-        <link>https://www.gocomics.com/pirate-mike</link>
-        <description>Pirate Mike by Brad Perri</description>
-        <lastBuildDate>Fri, 30 Jul 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Pirate Mike</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pm/large_pm_rec_201811021047.jpg</url>
-            <link>https://www.gocomics.com/pirate-mike</link>
-        </image>
-        <copyright>Copyright Brad Perri</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/pirate-mike.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Pirate Mike</title>
+		<link>https://www.gocomics.com/pirate-mike</link>
+		<description>Pirate Mike by Brad Perri</description>
+		<lastBuildDate>Fri, 30 Jul 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Pirate Mike</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/pm/large_pm_rec_201811021047.jpg</url>
+			<link>https://www.gocomics.com/pirate-mike</link>
+		</image>
+		<copyright>Copyright Brad Perri</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/pirate-mike.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Pirate Mike by Brad Perri for Fri, 30 Jul 2021]]></title>
-            <link>https://www.gocomics.com/pirate-mike/2021/07/30</link>
-            <guid isPermaLink="false">pirate-mike2021-07-30</guid>
-            <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Pirate Mike by Brad Perri for Fri, 30 Jul 2021]]></title>
+			<link>https://www.gocomics.com/pirate-mike/2021/07/30</link>
+			<guid isPermaLink="false">pirate-mike2021-07-30</guid>
+			<pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/03f5be70d31801396e82005056a9545d" alt="Pirate Mike by Brad Perri on Fri, 30 Jul 2021" title="Pirate Mike by Brad Perri on Fri, 30 Jul 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

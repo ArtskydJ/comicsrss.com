@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Fort Knox</title>
-        <link>https://www.gocomics.com/fortknox</link>
-        <description>Fort Knox by Paul Jon</description>
-        <lastBuildDate>Fri, 07 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Fort Knox</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wpfk/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/fortknox</link>
-        </image>
-        <copyright>Copyright Paul Jon</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/fortknox.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Fort Knox</title>
+		<link>https://www.gocomics.com/fortknox</link>
+		<description>Fort Knox by Paul Jon</description>
+		<lastBuildDate>Fri, 07 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Fort Knox</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wpfk/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/fortknox</link>
+		</image>
+		<copyright>Copyright Paul Jon</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/fortknox.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Fort Knox by Paul Jon for Fri, 07 Aug 2020]]></title>
-            <link>https://www.gocomics.com/fortknox/2020/08/07</link>
-            <guid isPermaLink="false">fortknox2020-08-07</guid>
-            <pubDate>Fri, 07 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Fort Knox by Paul Jon for Fri, 07 Aug 2020]]></title>
+			<link>https://www.gocomics.com/fortknox/2020/08/07</link>
+			<guid isPermaLink="false">fortknox2020-08-07</guid>
+			<pubDate>Fri, 07 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/38550c50acf0013813cf005056a9545d" alt="Fort Knox by Paul Jon on Fri, 07 Aug 2020" title="Fort Knox by Paul Jon on Fri, 07 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

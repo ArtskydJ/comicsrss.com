@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Lalo Alcaraz en Español</title>
-        <link>https://www.gocomics.com/laloenespanol</link>
-        <description>Lalo Alcaraz en Español by Lalo Alcaraz</description>
-        <lastBuildDate>Sat, 30 May 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>es</language>
-        <image>
-            <title>Lalo Alcaraz en Español</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/spla/large_rec-201701251555.jpg</url>
-            <link>https://www.gocomics.com/laloenespanol</link>
-        </image>
-        <copyright>Copyright Lalo Alcaraz</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/laloenespanol.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Lalo Alcaraz en Español</title>
+		<link>https://www.gocomics.com/laloenespanol</link>
+		<description>Lalo Alcaraz en Español by Lalo Alcaraz</description>
+		<lastBuildDate>Sat, 30 May 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>es</language>
+		<image>
+			<title>Lalo Alcaraz en Español</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/spla/large_rec-201701251555.jpg</url>
+			<link>https://www.gocomics.com/laloenespanol</link>
+		</image>
+		<copyright>Copyright Lalo Alcaraz</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/laloenespanol.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Lalo Alcaraz en Español by Lalo Alcaraz for Sat, 30 May 2020]]></title>
-            <link>https://www.gocomics.com/laloenespanol/2020/05/30</link>
-            <guid isPermaLink="false">laloenespanol2020-05-30</guid>
-            <pubDate>Sat, 30 May 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Lalo Alcaraz en Español by Lalo Alcaraz for Sat, 30 May 2020]]></title>
+			<link>https://www.gocomics.com/laloenespanol/2020/05/30</link>
+			<guid isPermaLink="false">laloenespanol2020-05-30</guid>
+			<pubDate>Sat, 30 May 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7ce54930841d013805ba005056a9545d" alt="Lalo Alcaraz en Español by Lalo Alcaraz on Sat, 30 May 2020" title="Lalo Alcaraz en Español by Lalo Alcaraz on Sat, 30 May 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Paul Szep</title>
-        <link>https://www.gocomics.com/paulszep</link>
-        <description>Paul Szep by Paul Szep</description>
-        <lastBuildDate>Sun, 26 Apr 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Paul Szep</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crpsz/large_rec-201701251555.jpg</url>
-            <link>https://www.gocomics.com/paulszep</link>
-        </image>
-        <copyright>Copyright Paul Szep</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/paulszep.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Paul Szep</title>
+		<link>https://www.gocomics.com/paulszep</link>
+		<description>Paul Szep by Paul Szep</description>
+		<lastBuildDate>Sun, 26 Apr 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Paul Szep</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/crpsz/large_rec-201701251555.jpg</url>
+			<link>https://www.gocomics.com/paulszep</link>
+		</image>
+		<copyright>Copyright Paul Szep</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/paulszep.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Paul Szep by Paul Szep for Sun, 26 Apr 2020]]></title>
-            <link>https://www.gocomics.com/paulszep/2020/04/26</link>
-            <guid isPermaLink="false">paulszep2020-04-26</guid>
-            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Paul Szep by Paul Szep for Sun, 26 Apr 2020]]></title>
+			<link>https://www.gocomics.com/paulszep/2020/04/26</link>
+			<guid isPermaLink="false">paulszep2020-04-26</guid>
+			<pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/025702f069b90138fc4a005056a9545d" alt="Paul Szep by Paul Szep on Sun, 26 Apr 2020" title="Paul Szep by Paul Szep on Sun, 26 Apr 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

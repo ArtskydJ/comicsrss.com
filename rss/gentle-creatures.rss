@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Gentle Creatures</title>
-        <link>https://www.gocomics.com/gentle-creatures/2019/05/24</link>
-        <description>Gentle Creatures by Mel Henze</description>
-        <lastBuildDate>Fri, 24 May 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Gentle Creatures</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gen/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/gentle-creatures/2019/05/24</link>
-        </image>
-        <copyright>Copyright Mel Henze</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/gentle-creatures.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Gentle Creatures</title>
+		<link>https://www.gocomics.com/gentle-creatures/2019/05/24</link>
+		<description>Gentle Creatures by Mel Henze</description>
+		<lastBuildDate>Fri, 24 May 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Gentle Creatures</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/gen/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/gentle-creatures/2019/05/24</link>
+		</image>
+		<copyright>Copyright Mel Henze</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/gentle-creatures.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Gentle Creatures by Mel Henze for Fri, 24 May 2019]]></title>
-            <link>https://www.gocomics.com/gentle-creatures/2019/05/24</link>
-            <guid isPermaLink="false">gentle-creatures2019-05-24</guid>
-            <pubDate>Fri, 24 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Gentle Creatures by Mel Henze for Fri, 24 May 2019]]></title>
+			<link>https://www.gocomics.com/gentle-creatures/2019/05/24</link>
+			<guid isPermaLink="false">gentle-creatures2019-05-24</guid>
+			<pubDate>Fri, 24 May 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/328e4e802c0b0132a280005056a9545d" alt="Gentle Creatures by Mel Henze on Fri, 24 May 2019" title="Gentle Creatures by Mel Henze on Fri, 24 May 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

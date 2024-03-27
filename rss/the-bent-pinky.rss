@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The Bent Pinky</title>
-        <link>https://www.gocomics.com/the-bent-pinky</link>
-        <description>The Bent Pinky by Scott Metzger</description>
-        <lastBuildDate>Mon, 09 Nov 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>The Bent Pinky</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tbp/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/the-bent-pinky</link>
-        </image>
-        <copyright>Copyright Scott Metzger</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/the-bent-pinky.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>The Bent Pinky</title>
+		<link>https://www.gocomics.com/the-bent-pinky</link>
+		<description>The Bent Pinky by Scott Metzger</description>
+		<lastBuildDate>Mon, 09 Nov 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>The Bent Pinky</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tbp/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/the-bent-pinky</link>
+		</image>
+		<copyright>Copyright Scott Metzger</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/the-bent-pinky.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[The Bent Pinky by Scott Metzger for Mon, 09 Nov 2020]]></title>
-            <link>https://www.gocomics.com/the-bent-pinky/2020/11/09</link>
-            <guid isPermaLink="false">the-bent-pinky2020-11-09</guid>
-            <pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[The Bent Pinky by Scott Metzger for Mon, 09 Nov 2020]]></title>
+			<link>https://www.gocomics.com/the-bent-pinky/2020/11/09</link>
+			<guid isPermaLink="false">the-bent-pinky2020-11-09</guid>
+			<pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/e896e70004cf01393216005056a9545d" alt="The Bent Pinky by Scott Metzger on Mon, 09 Nov 2020" title="The Bent Pinky by Scott Metzger on Mon, 09 Nov 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

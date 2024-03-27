@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ice Cream Sandwich Comics</title>
-        <link>https://www.gocomics.com/ice-cream-sandwich-comics/2018/11/10</link>
-        <description>Ice Cream Sandwich Comics by Andy P.</description>
-        <lastBuildDate>Sat, 10 Nov 2018 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Ice Cream Sandwich Comics</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/icsc/large_icsc_rec_201707210923.jpg</url>
-            <link>https://www.gocomics.com/ice-cream-sandwich-comics/2018/11/10</link>
-        </image>
-        <copyright>Copyright Andy P.</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/ice-cream-sandwich-comics.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Ice Cream Sandwich Comics</title>
+		<link>https://www.gocomics.com/ice-cream-sandwich-comics/2018/11/10</link>
+		<description>Ice Cream Sandwich Comics by Andy P.</description>
+		<lastBuildDate>Sat, 10 Nov 2018 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Ice Cream Sandwich Comics</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/icsc/large_icsc_rec_201707210923.jpg</url>
+			<link>https://www.gocomics.com/ice-cream-sandwich-comics/2018/11/10</link>
+		</image>
+		<copyright>Copyright Andy P.</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/ice-cream-sandwich-comics.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Ice Cream Sandwich Comics by Andy P. for Sat, 10 Nov 2018]]></title>
-            <link>https://www.gocomics.com/ice-cream-sandwich-comics/2018/11/10</link>
-            <guid isPermaLink="false">ice-cream-sandwich-comics2018-11-10</guid>
-            <pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Ice Cream Sandwich Comics by Andy P. for Sat, 10 Nov 2018]]></title>
+			<link>https://www.gocomics.com/ice-cream-sandwich-comics/2018/11/10</link>
+			<guid isPermaLink="false">ice-cream-sandwich-comics2018-11-10</guid>
+			<pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/97a839b0c744013666c2005056a9545d" alt="Ice Cream Sandwich Comics by Andy P. on Sat, 10 Nov 2018" title="Ice Cream Sandwich Comics by Andy P. on Sat, 10 Nov 2018">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

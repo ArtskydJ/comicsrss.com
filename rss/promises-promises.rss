@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Promises, Promises</title>
-        <link>https://www.gocomics.com/promises-promises</link>
-        <description>Promises, Promises by J.R. Faulkner</description>
-        <lastBuildDate>Tue, 11 May 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Promises, Promises</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/prom/large_prom_rec_201905010908.jpg</url>
-            <link>https://www.gocomics.com/promises-promises</link>
-        </image>
-        <copyright>Copyright J.R. Faulkner</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/promises-promises.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Promises, Promises</title>
+		<link>https://www.gocomics.com/promises-promises</link>
+		<description>Promises, Promises by J.R. Faulkner</description>
+		<lastBuildDate>Tue, 11 May 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Promises, Promises</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/prom/large_prom_rec_201905010908.jpg</url>
+			<link>https://www.gocomics.com/promises-promises</link>
+		</image>
+		<copyright>Copyright J.R. Faulkner</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/promises-promises.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Promises, Promises by J.R. Faulkner for Tue, 11 May 2021]]></title>
-            <link>https://www.gocomics.com/promises-promises/2021/05/11</link>
-            <guid isPermaLink="false">promises-promises2021-05-11</guid>
-            <pubDate>Tue, 11 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Promises, Promises by J.R. Faulkner for Tue, 11 May 2021]]></title>
+			<link>https://www.gocomics.com/promises-promises/2021/05/11</link>
+			<guid isPermaLink="false">promises-promises2021-05-11</guid>
+			<pubDate>Tue, 11 May 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/89d05530e0bf013351b7005056a9545d" alt="Promises, Promises by J.R. Faulkner on Tue, 11 May 2021" title="Promises, Promises by J.R. Faulkner on Tue, 11 May 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Bully</title>
-        <link>https://www.gocomics.com/bully</link>
-        <description>Bully by Andrew Paavola</description>
-        <lastBuildDate>Fri, 19 May 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Bully</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bully/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/bully</link>
-        </image>
-        <copyright>Copyright Andrew Paavola</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/bully.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Bully</title>
+		<link>https://www.gocomics.com/bully</link>
+		<description>Bully by Andrew Paavola</description>
+		<lastBuildDate>Fri, 19 May 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Bully</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/bully/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/bully</link>
+		</image>
+		<copyright>Copyright Andrew Paavola</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/bully.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Bully by Andrew Paavola for Fri, 19 May 2023]]></title>
-            <link>https://www.gocomics.com/bully/2023/05/19</link>
-            <guid isPermaLink="false">bully2023-05-19</guid>
-            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Bully by Andrew Paavola for Fri, 19 May 2023]]></title>
+			<link>https://www.gocomics.com/bully/2023/05/19</link>
+			<guid isPermaLink="false">bully2023-05-19</guid>
+			<pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/6d189bc0d22f013bfa74005056a9545d" alt="Bully by Andrew Paavola on Fri, 19 May 2023" title="Bully by Andrew Paavola on Fri, 19 May 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

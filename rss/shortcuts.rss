@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Shortcuts</title>
-        <link>https://www.gocomics.com/shortcuts</link>
-        <description>Shortcuts by Jeff Harris</description>
-        <lastBuildDate>Mon, 17 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Shortcuts</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/shc/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/shortcuts</link>
-        </image>
-        <copyright>Copyright Jeff Harris</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/shortcuts.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Shortcuts</title>
+		<link>https://www.gocomics.com/shortcuts</link>
+		<description>Shortcuts by Jeff Harris</description>
+		<lastBuildDate>Mon, 17 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Shortcuts</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/shc/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/shortcuts</link>
+		</image>
+		<copyright>Copyright Jeff Harris</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/shortcuts.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Shortcuts by Jeff Harris for Mon, 17 Aug 2020]]></title>
-            <link>https://www.gocomics.com/shortcuts/2020/08/17</link>
-            <guid isPermaLink="false">shortcuts2020-08-17</guid>
-            <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Shortcuts by Jeff Harris for Mon, 17 Aug 2020]]></title>
+			<link>https://www.gocomics.com/shortcuts/2020/08/17</link>
+			<guid isPermaLink="false">shortcuts2020-08-17</guid>
+			<pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/4baedfb0ad0f013813d9005056a9545d" alt="Shortcuts by Jeff Harris on Mon, 17 Aug 2020" title="Shortcuts by Jeff Harris on Mon, 17 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

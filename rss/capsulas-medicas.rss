@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Cápsulas Médicas</title>
-        <link>https://www.gocomics.com/capsulas-medicas</link>
-        <description>Cápsulas Médicas by Bron Smith</description>
-        <lastBuildDate>Fri, 21 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>es</language>
-        <image>
-            <title>Cápsulas Médicas</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hcpsp/large_rec-201701251557.jpg</url>
-            <link>https://www.gocomics.com/capsulas-medicas</link>
-        </image>
-        <copyright>Copyright Bron Smith</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/capsulas-medicas.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Cápsulas Médicas</title>
+		<link>https://www.gocomics.com/capsulas-medicas</link>
+		<description>Cápsulas Médicas by Bron Smith</description>
+		<lastBuildDate>Fri, 21 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>es</language>
+		<image>
+			<title>Cápsulas Médicas</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/hcpsp/large_rec-201701251557.jpg</url>
+			<link>https://www.gocomics.com/capsulas-medicas</link>
+		</image>
+		<copyright>Copyright Bron Smith</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/capsulas-medicas.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Cápsulas Médicas by Bron Smith for Fri, 21 Aug 2020]]></title>
-            <link>https://www.gocomics.com/capsulas-medicas /2020/08/21</link>
-            <guid isPermaLink="false">capsulas-medicas2020-08-21</guid>
-            <pubDate>Fri, 21 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Cápsulas Médicas by Bron Smith for Fri, 21 Aug 2020]]></title>
+			<link>https://www.gocomics.com/capsulas-medicas /2020/08/21</link>
+			<guid isPermaLink="false">capsulas-medicas2020-08-21</guid>
+			<pubDate>Fri, 21 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/0345f870bf2201381a4f005056a9545d" alt="Cápsulas Médicas by Bron Smith on Fri, 21 Aug 2020" title="Cápsulas Médicas by Bron Smith on Fri, 21 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

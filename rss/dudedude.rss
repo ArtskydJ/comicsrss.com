@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Dude and Dude</title>
-        <link>https://www.gocomics.com/dudedude</link>
-        <description>Dude and Dude by Keith Poletiek</description>
-        <lastBuildDate>Thu, 13 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Dude and Dude</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dd/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/dudedude</link>
-        </image>
-        <copyright>Copyright Keith Poletiek</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/dudedude.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Dude and Dude</title>
+		<link>https://www.gocomics.com/dudedude</link>
+		<description>Dude and Dude by Keith Poletiek</description>
+		<lastBuildDate>Thu, 13 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Dude and Dude</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/dd/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/dudedude</link>
+		</image>
+		<copyright>Copyright Keith Poletiek</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/dudedude.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Dude and Dude by Keith Poletiek for Thu, 13 Aug 2020]]></title>
-            <link>https://www.gocomics.com/dudedude/2020/08/13</link>
-            <guid isPermaLink="false">dudedude2020-08-13</guid>
-            <pubDate>Thu, 13 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Dude and Dude by Keith Poletiek for Thu, 13 Aug 2020]]></title>
+			<link>https://www.gocomics.com/dudedude/2020/08/13</link>
+			<guid isPermaLink="false">dudedude2020-08-13</guid>
+			<pubDate>Thu, 13 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/f95edba0bf0701381a3e005056a9545d" alt="Dude and Dude by Keith Poletiek on Thu, 13 Aug 2020" title="Dude and Dude by Keith Poletiek on Thu, 13 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

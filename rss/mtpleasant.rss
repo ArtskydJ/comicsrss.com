@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Mt. Pleasant </title>
-        <link>https://www.gocomics.com/mtpleasant</link>
-        <description>Mt. Pleasant  by Rick McKee &#38; Kent Sligh</description>
-        <lastBuildDate>Tue, 28 Feb 2023 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Mt. Pleasant </title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmmt/large_tmmt_rec_202102100810.jpg</url>
-            <link>https://www.gocomics.com/mtpleasant</link>
-        </image>
-        <copyright>Copyright Rick McKee &#38; Kent Sligh</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/mtpleasant.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Mt. Pleasant </title>
+		<link>https://www.gocomics.com/mtpleasant</link>
+		<description>Mt. Pleasant  by Rick McKee &#38; Kent Sligh</description>
+		<lastBuildDate>Tue, 28 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Mt. Pleasant </title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tmmt/large_tmmt_rec_202102100810.jpg</url>
+			<link>https://www.gocomics.com/mtpleasant</link>
+		</image>
+		<copyright>Copyright Rick McKee &#38; Kent Sligh</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/mtpleasant.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Mt. Pleasant  by Rick McKee & Kent Sligh for Tue, 28 Feb 2023]]></title>
-            <link>https://www.gocomics.com/mtpleasant/2023/02/28</link>
-            <guid isPermaLink="false">mtpleasant2023-02-28</guid>
-            <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Mt. Pleasant  by Rick McKee & Kent Sligh for Tue, 28 Feb 2023]]></title>
+			<link>https://www.gocomics.com/mtpleasant/2023/02/28</link>
+			<guid isPermaLink="false">mtpleasant2023-02-28</guid>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c3a970408ebc013be51a005056a9545d" alt="Mt. Pleasant  by Rick McKee &#38; Kent Sligh on Tue, 28 Feb 2023" title="Mt. Pleasant  by Rick McKee &#38; Kent Sligh on Tue, 28 Feb 2023">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

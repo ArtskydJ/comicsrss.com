@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Mo</title>
-        <link>https://www.gocomics.com/mo</link>
-        <description>Mo by Ann Telnaes</description>
-        <lastBuildDate>Mon, 24 Feb 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Mo</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/mo/large_mo_rec_201805181358.jpg</url>
-            <link>https://www.gocomics.com/mo</link>
-        </image>
-        <copyright>Copyright Ann Telnaes</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/mo.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Mo</title>
+		<link>https://www.gocomics.com/mo</link>
+		<description>Mo by Ann Telnaes</description>
+		<lastBuildDate>Mon, 24 Feb 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Mo</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/mo/large_mo_rec_201805181358.jpg</url>
+			<link>https://www.gocomics.com/mo</link>
+		</image>
+		<copyright>Copyright Ann Telnaes</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/mo.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Mo by Ann Telnaes for Mon, 24 Feb 2020]]></title>
-            <link>https://www.gocomics.com/mo/2020/02/24</link>
-            <guid isPermaLink="false">mo2020-02-24</guid>
-            <pubDate>Mon, 24 Feb 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Mo by Ann Telnaes for Mon, 24 Feb 2020]]></title>
+			<link>https://www.gocomics.com/mo/2020/02/24</link>
+			<guid isPermaLink="false">mo2020-02-24</guid>
+			<pubDate>Mon, 24 Feb 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/0964661038f20138ea83005056a9545d" alt="Mo by Ann Telnaes on Mon, 24 Feb 2020" title="Mo by Ann Telnaes on Mon, 24 Feb 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

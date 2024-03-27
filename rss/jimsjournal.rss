@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Jim&#38;#39;s Journal</title>
-        <link>https://www.gocomics.com/jimsjournal</link>
-        <description>Jim&#38;#39;s Journal by Jim</description>
-        <lastBuildDate>Wed, 14 Apr 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Jim&#38;#39;s Journal</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jjo/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/jimsjournal</link>
-        </image>
-        <copyright>Copyright Jim</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/jimsjournal.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Jim&#38;#39;s Journal</title>
+		<link>https://www.gocomics.com/jimsjournal</link>
+		<description>Jim&#38;#39;s Journal by Jim</description>
+		<lastBuildDate>Wed, 14 Apr 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Jim&#38;#39;s Journal</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/jjo/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/jimsjournal</link>
+		</image>
+		<copyright>Copyright Jim</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/jimsjournal.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Jim&#39;s Journal by Jim for Wed, 14 Apr 2021]]></title>
-            <link>https://www.gocomics.com/jimsjournal/2021/04/14</link>
-            <guid isPermaLink="false">jimsjournal2021-04-14</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Jim&#39;s Journal by Jim for Wed, 14 Apr 2021]]></title>
+			<link>https://www.gocomics.com/jimsjournal/2021/04/14</link>
+			<guid isPermaLink="false">jimsjournal2021-04-14</guid>
+			<pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/78a19b704c43013948c8005056a9545d" alt="Jim&#38;#39;s Journal by Jim on Wed, 14 Apr 2021" title="Jim&#38;#39;s Journal by Jim on Wed, 14 Apr 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Red Meat</title>
-        <link>https://www.gocomics.com/redmeat</link>
-        <description>Red Meat by Max Cannon</description>
-        <lastBuildDate>Sun, 23 Oct 2022 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Red Meat</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/red/large_rec-201701251555.jpg</url>
-            <link>https://www.gocomics.com/redmeat</link>
-        </image>
-        <copyright>Copyright Max Cannon</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/redmeat.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Red Meat</title>
+		<link>https://www.gocomics.com/redmeat</link>
+		<description>Red Meat by Max Cannon</description>
+		<lastBuildDate>Sun, 23 Oct 2022 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Red Meat</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/red/large_rec-201701251555.jpg</url>
+			<link>https://www.gocomics.com/redmeat</link>
+		</image>
+		<copyright>Copyright Max Cannon</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/redmeat.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Red Meat by Max Cannon for Sun, 23 Oct 2022]]></title>
-            <link>https://www.gocomics.com/redmeat/2022/10/23</link>
-            <guid isPermaLink="false">redmeat2022-10-23</guid>
-            <pubDate>Sun, 23 Oct 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Red Meat by Max Cannon for Sun, 23 Oct 2022]]></title>
+			<link>https://www.gocomics.com/redmeat/2022/10/23</link>
+			<guid isPermaLink="false">redmeat2022-10-23</guid>
+			<pubDate>Sun, 23 Oct 2022 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7c7e62303869013bcbbc005056a9545d" alt="Red Meat by Max Cannon on Sun, 23 Oct 2022" title="Red Meat by Max Cannon on Sun, 23 Oct 2022">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

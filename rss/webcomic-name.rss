@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Webcomic Name</title>
-        <link>https://www.gocomics.com/webcomic-name</link>
-        <description>Webcomic Name by Alex Norris</description>
-        <lastBuildDate>Fri, 13 Mar 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Webcomic Name</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wn/large_wn_rec_201706020930.jpg</url>
-            <link>https://www.gocomics.com/webcomic-name</link>
-        </image>
-        <copyright>Copyright Alex Norris</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/webcomic-name.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Webcomic Name</title>
+		<link>https://www.gocomics.com/webcomic-name</link>
+		<description>Webcomic Name by Alex Norris</description>
+		<lastBuildDate>Fri, 13 Mar 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Webcomic Name</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/wn/large_wn_rec_201706020930.jpg</url>
+			<link>https://www.gocomics.com/webcomic-name</link>
+		</image>
+		<copyright>Copyright Alex Norris</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/webcomic-name.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Webcomic Name by Alex Norris for Fri, 13 Mar 2020]]></title>
-            <link>https://www.gocomics.com/webcomic-name/2020/03/13</link>
-            <guid isPermaLink="false">webcomic-name2020-03-13</guid>
-            <pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Webcomic Name by Alex Norris for Fri, 13 Mar 2020]]></title>
+			<link>https://www.gocomics.com/webcomic-name/2020/03/13</link>
+			<guid isPermaLink="false">webcomic-name2020-03-13</guid>
+			<pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/1cb5b2503ad70138eb39005056a9545d" alt="Webcomic Name by Alex Norris on Fri, 13 Mar 2020" title="Webcomic Name by Alex Norris on Fri, 13 Mar 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

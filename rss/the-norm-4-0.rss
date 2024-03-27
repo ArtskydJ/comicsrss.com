@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The Norm 4.0</title>
-        <link>https://www.gocomics.com/the-norm-4-0</link>
-        <description>The Norm 4.0 by Michael Jantze</description>
-        <lastBuildDate>Mon, 04 Jan 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>The Norm 4.0</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/nrm/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/the-norm-4-0</link>
-        </image>
-        <copyright>Copyright Michael Jantze</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/the-norm-4-0.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>The Norm 4.0</title>
+		<link>https://www.gocomics.com/the-norm-4-0</link>
+		<description>The Norm 4.0 by Michael Jantze</description>
+		<lastBuildDate>Mon, 04 Jan 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>The Norm 4.0</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/nrm/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/the-norm-4-0</link>
+		</image>
+		<copyright>Copyright Michael Jantze</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/the-norm-4-0.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[The Norm 4.0 by Michael Jantze for Mon, 04 Jan 2021]]></title>
-            <link>https://www.gocomics.com/the-norm-4-0/2021/01/04</link>
-            <guid isPermaLink="false">the-norm-4-02021-01-04</guid>
-            <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[The Norm 4.0 by Michael Jantze for Mon, 04 Jan 2021]]></title>
+			<link>https://www.gocomics.com/the-norm-4-0/2021/01/04</link>
+			<guid isPermaLink="false">the-norm-4-02021-01-04</guid>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/8e0b4aa0305501393fbb005056a9545d" alt="The Norm 4.0 by Michael Jantze on Mon, 04 Jan 2021" title="The Norm 4.0 by Michael Jantze on Mon, 04 Jan 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

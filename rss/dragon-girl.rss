@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Dragon Girl</title>
-        <link>https://www.gocomics.com/dragon-girl</link>
-        <description>Dragon Girl by Jeff Weigel</description>
-        <lastBuildDate>Fri, 11 Sep 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Dragon Girl</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/drg/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/dragon-girl</link>
-        </image>
-        <copyright>Copyright Jeff Weigel</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/dragon-girl.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Dragon Girl</title>
+		<link>https://www.gocomics.com/dragon-girl</link>
+		<description>Dragon Girl by Jeff Weigel</description>
+		<lastBuildDate>Fri, 11 Sep 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Dragon Girl</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/drg/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/dragon-girl</link>
+		</image>
+		<copyright>Copyright Jeff Weigel</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/dragon-girl.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Dragon Girl by Jeff Weigel for Fri, 11 Sep 2020]]></title>
-            <link>https://www.gocomics.com/dragon-girl/2020/09/11</link>
-            <guid isPermaLink="false">dragon-girl2020-09-11</guid>
-            <pubDate>Fri, 11 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Dragon Girl by Jeff Weigel for Fri, 11 Sep 2020]]></title>
+			<link>https://www.gocomics.com/dragon-girl/2020/09/11</link>
+			<guid isPermaLink="false">dragon-girl2020-09-11</guid>
+			<pubDate>Fri, 11 Sep 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/e62b34d05ef90133140a005056a9545d" alt="Dragon Girl by Jeff Weigel on Fri, 11 Sep 2020" title="Dragon Girl by Jeff Weigel on Fri, 11 Sep 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

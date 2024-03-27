@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Sheldon</title>
-        <link>https://www.gocomics.com/sheldon</link>
-        <description>Sheldon by Dave Kellett</description>
-        <lastBuildDate>Mon, 30 Nov 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Sheldon</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/shel/large_shel_rec_201708111057.jpg</url>
-            <link>https://www.gocomics.com/sheldon</link>
-        </image>
-        <copyright>Copyright Dave Kellett</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/sheldon.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Sheldon</title>
+		<link>https://www.gocomics.com/sheldon</link>
+		<description>Sheldon by Dave Kellett</description>
+		<lastBuildDate>Mon, 30 Nov 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Sheldon</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/shel/large_shel_rec_201708111057.jpg</url>
+			<link>https://www.gocomics.com/sheldon</link>
+		</image>
+		<copyright>Copyright Dave Kellett</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/sheldon.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Sheldon by Dave Kellett for Mon, 30 Nov 2020]]></title>
-            <link>https://www.gocomics.com/sheldon/2020/11/30</link>
-            <guid isPermaLink="false">sheldon2020-11-30</guid>
-            <pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Sheldon by Dave Kellett for Mon, 30 Nov 2020]]></title>
+			<link>https://www.gocomics.com/sheldon/2020/11/30</link>
+			<guid isPermaLink="false">sheldon2020-11-30</guid>
+			<pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/116e34802c0e0138e622005056a9545d" alt="Sheldon by Dave Kellett on Mon, 30 Nov 2020" title="Sheldon by Dave Kellett on Mon, 30 Nov 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

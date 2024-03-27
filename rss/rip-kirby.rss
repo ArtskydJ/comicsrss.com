@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Rip Kirby</title>
-        <link>https://comicskingdom.com/rip-kirby</link>
-        <description>Rip Kirby</description>
-        <lastBuildDate>Thu, 31 Dec 1964 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Rip Kirby</title>
-            <url></url>
-            <link>https://comicskingdom.com/rip-kirby</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/rip-kirby.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Rip Kirby</title>
+		<link>https://comicskingdom.com/rip-kirby</link>
+		<description>Rip Kirby</description>
+		<lastBuildDate>Thu, 31 Dec 1964 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Rip Kirby</title>
+			<url></url>
+			<link>https://comicskingdom.com/rip-kirby</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/rip-kirby.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Rip Kirby for Thu, 31 Dec 1964]]></title>
-            <link>https://wp.comicskingdom.com/rip-kirby/1964-12-31</link>
-            <guid isPermaLink="false">rip-kirby1964-12-31</guid>
-            <pubDate>Thu, 31 Dec 1964 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Rip Kirby for Thu, 31 Dec 1964]]></title>
+			<link>https://wp.comicskingdom.com/rip-kirby/1964-12-31</link>
+			<guid isPermaLink="false">rip-kirby1964-12-31</guid>
+			<pubDate>Thu, 31 Dec 1964 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/1964/12/Rip-Kirby.ENG_.1964-12-31.jpeg" alt="Rip Kirby on Thu, 31 Dec 1964" title="Rip Kirby on Thu, 31 Dec 1964">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

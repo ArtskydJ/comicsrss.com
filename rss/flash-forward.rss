@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Flash Forward</title>
-        <link>https://comicskingdom.com/flash-forward</link>
-        <description>Flash Forward</description>
-        <lastBuildDate>Sun, 22 Aug 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Flash Forward</title>
-            <url></url>
-            <link>https://comicskingdom.com/flash-forward</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/flash-forward.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Flash Forward</title>
+		<link>https://comicskingdom.com/flash-forward</link>
+		<description>Flash Forward</description>
+		<lastBuildDate>Sun, 22 Aug 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Flash Forward</title>
+			<url></url>
+			<link>https://comicskingdom.com/flash-forward</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/flash-forward.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Flash Forward for Sun, 22 Aug 2021]]></title>
-            <link>https://wp.comicskingdom.com/flash-forward/2021-08-22</link>
-            <guid isPermaLink="false">flash-forward2021-08-22</guid>
-            <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Flash Forward for Sun, 22 Aug 2021]]></title>
+			<link>https://wp.comicskingdom.com/flash-forward/2021-08-22</link>
+			<guid isPermaLink="false">flash-forward2021-08-22</guid>
+			<pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/2021/08/Flash-Forward.ENG_.2021-08-22.jpeg" alt="Flash Forward on Sun, 22 Aug 2021" title="Flash Forward on Sun, 22 Aug 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

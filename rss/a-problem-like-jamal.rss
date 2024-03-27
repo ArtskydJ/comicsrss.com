@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>A Problem Like Jamal</title>
-        <link>https://www.gocomics.com/a-problem-like-jamal/2019/07/10</link>
-        <description>A Problem Like Jamal by Tauhid Bondia</description>
-        <lastBuildDate>Wed, 10 Jul 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>A Problem Like Jamal</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/aplj/large_aplj_rec_201809071058.jpg</url>
-            <link>https://www.gocomics.com/a-problem-like-jamal/2019/07/10</link>
-        </image>
-        <copyright>Copyright Tauhid Bondia</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/a-problem-like-jamal.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>A Problem Like Jamal</title>
+		<link>https://www.gocomics.com/a-problem-like-jamal/2019/07/10</link>
+		<description>A Problem Like Jamal by Tauhid Bondia</description>
+		<lastBuildDate>Wed, 10 Jul 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>A Problem Like Jamal</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/aplj/large_aplj_rec_201809071058.jpg</url>
+			<link>https://www.gocomics.com/a-problem-like-jamal/2019/07/10</link>
+		</image>
+		<copyright>Copyright Tauhid Bondia</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/a-problem-like-jamal.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[A Problem Like Jamal by Tauhid Bondia for Wed, 10 Jul 2019]]></title>
-            <link>https://www.gocomics.com/a-problem-like-jamal/2019/07/10</link>
-            <guid isPermaLink="false">a-problem-like-jamal2019-07-10</guid>
-            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[A Problem Like Jamal by Tauhid Bondia for Wed, 10 Jul 2019]]></title>
+			<link>https://www.gocomics.com/a-problem-like-jamal/2019/07/10</link>
+			<guid isPermaLink="false">a-problem-like-jamal2019-07-10</guid>
+			<pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/e2ab06506dd20137a29f005056a9545d" alt="A Problem Like Jamal by Tauhid Bondia on Wed, 10 Jul 2019" title="A Problem Like Jamal by Tauhid Bondia on Wed, 10 Jul 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

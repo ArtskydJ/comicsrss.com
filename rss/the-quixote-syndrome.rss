@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The Quixote Syndrome</title>
-        <link>https://www.gocomics.com/the-quixote-syndrome</link>
-        <description>The Quixote Syndrome by Peter Mann</description>
-        <lastBuildDate>Mon, 04 Jan 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>The Quixote Syndrome</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/oth/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/the-quixote-syndrome</link>
-        </image>
-        <copyright>Copyright Peter Mann</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/the-quixote-syndrome.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>The Quixote Syndrome</title>
+		<link>https://www.gocomics.com/the-quixote-syndrome</link>
+		<description>The Quixote Syndrome by Peter Mann</description>
+		<lastBuildDate>Mon, 04 Jan 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>The Quixote Syndrome</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/oth/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/the-quixote-syndrome</link>
+		</image>
+		<copyright>Copyright Peter Mann</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/the-quixote-syndrome.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[The Quixote Syndrome by Peter Mann for Mon, 04 Jan 2021]]></title>
-            <link>https://www.gocomics.com/the-quixote-syndrome/2021/01/04</link>
-            <guid isPermaLink="false">the-quixote-syndrome2021-01-04</guid>
-            <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[The Quixote Syndrome by Peter Mann for Mon, 04 Jan 2021]]></title>
+			<link>https://www.gocomics.com/the-quixote-syndrome/2021/01/04</link>
+			<guid isPermaLink="false">the-quixote-syndrome2021-01-04</guid>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/2f583070304d01393fb6005056a9545d" alt="The Quixote Syndrome by Peter Mann on Mon, 04 Jan 2021" title="The Quixote Syndrome by Peter Mann on Mon, 04 Jan 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

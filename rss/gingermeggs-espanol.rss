@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ginger Meggs en Español</title>
-        <link>https://www.gocomics.com/gingermeggs-espanol</link>
-        <description>Ginger Meggs en Español by Jason Chatfield</description>
-        <lastBuildDate>Wed, 27 Oct 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>es</language>
-        <image>
-            <title>Ginger Meggs en Español</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/spgin/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/gingermeggs-espanol</link>
-        </image>
-        <copyright>Copyright Jason Chatfield</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/gingermeggs-espanol.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Ginger Meggs en Español</title>
+		<link>https://www.gocomics.com/gingermeggs-espanol</link>
+		<description>Ginger Meggs en Español by Jason Chatfield</description>
+		<lastBuildDate>Wed, 27 Oct 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>es</language>
+		<image>
+			<title>Ginger Meggs en Español</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/spgin/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/gingermeggs-espanol</link>
+		</image>
+		<copyright>Copyright Jason Chatfield</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/gingermeggs-espanol.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Wed, 27 Oct 2021]]></title>
-            <link>https://www.gocomics.com/gingermeggs-espanol /2021/10/27</link>
-            <guid isPermaLink="false">gingermeggs-espanol2021-10-27</guid>
-            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Ginger Meggs en Español by Jason Chatfield for Wed, 27 Oct 2021]]></title>
+			<link>https://www.gocomics.com/gingermeggs-espanol /2021/10/27</link>
+			<guid isPermaLink="false">gingermeggs-espanol2021-10-27</guid>
+			<pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c66dad90631f012ee3c300163e41dd5b" alt="Ginger Meggs en Español by Jason Chatfield on Wed, 27 Oct 2021" title="Ginger Meggs en Español by Jason Chatfield on Wed, 27 Oct 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

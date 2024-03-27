@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Winston</title>
-        <link>https://www.gocomics.com/winston</link>
-        <description>Winston by Andrew Hart</description>
-        <lastBuildDate>Sat, 13 Feb 2021 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Winston</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/win/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/winston</link>
-        </image>
-        <copyright>Copyright Andrew Hart</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/winston.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Winston</title>
+		<link>https://www.gocomics.com/winston</link>
+		<description>Winston by Andrew Hart</description>
+		<lastBuildDate>Sat, 13 Feb 2021 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Winston</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/win/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/winston</link>
+		</image>
+		<copyright>Copyright Andrew Hart</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/winston.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Winston by Andrew Hart for Sat, 13 Feb 2021]]></title>
-            <link>https://www.gocomics.com/winston/2021/02/13</link>
-            <guid isPermaLink="false">winston2021-02-13</guid>
-            <pubDate>Sat, 13 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Winston by Andrew Hart for Sat, 13 Feb 2021]]></title>
+			<link>https://www.gocomics.com/winston/2021/02/13</link>
+			<guid isPermaLink="false">winston2021-02-13</guid>
+			<pubDate>Sat, 13 Feb 2021 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/7b46abe0504e01394a37005056a9545d" alt="Winston by Andrew Hart on Sat, 13 Feb 2021" title="Winston by Andrew Hart on Sat, 13 Feb 2021">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

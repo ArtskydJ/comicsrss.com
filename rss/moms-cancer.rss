@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Mom&#38;#39;s Cancer</title>
-        <link>https://www.gocomics.com/moms-cancer/2019/07/01</link>
-        <description>Mom&#38;#39;s Cancer by Brian Fies</description>
-        <lastBuildDate>Mon, 01 Jul 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Mom&#38;#39;s Cancer</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/momc/large_rec-201701251558.jpg</url>
-            <link>https://www.gocomics.com/moms-cancer/2019/07/01</link>
-        </image>
-        <copyright>Copyright Brian Fies</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/moms-cancer.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Mom&#38;#39;s Cancer</title>
+		<link>https://www.gocomics.com/moms-cancer/2019/07/01</link>
+		<description>Mom&#38;#39;s Cancer by Brian Fies</description>
+		<lastBuildDate>Mon, 01 Jul 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Mom&#38;#39;s Cancer</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/momc/large_rec-201701251558.jpg</url>
+			<link>https://www.gocomics.com/moms-cancer/2019/07/01</link>
+		</image>
+		<copyright>Copyright Brian Fies</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/moms-cancer.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Mom&#39;s Cancer by Brian Fies for Mon, 01 Jul 2019]]></title>
-            <link>https://www.gocomics.com/moms-cancer/2019/07/01</link>
-            <guid isPermaLink="false">moms-cancer2019-07-01</guid>
-            <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Mom&#39;s Cancer by Brian Fies for Mon, 01 Jul 2019]]></title>
+			<link>https://www.gocomics.com/moms-cancer/2019/07/01</link>
+			<guid isPermaLink="false">moms-cancer2019-07-01</guid>
+			<pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c9201160ed6a01335708005056a9545d" alt="Mom&#38;#39;s Cancer by Brian Fies on Mon, 01 Jul 2019" title="Mom&#38;#39;s Cancer by Brian Fies on Mon, 01 Jul 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

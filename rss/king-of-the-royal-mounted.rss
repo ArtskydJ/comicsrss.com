@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>King of the Royal Mounted</title>
-        <link>https://comicskingdom.com/king-of-the-royal-mounted</link>
-        <description>King of the Royal Mounted</description>
-        <lastBuildDate>Mon, 31 Dec 1951 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>King of the Royal Mounted</title>
-            <url></url>
-            <link>https://comicskingdom.com/king-of-the-royal-mounted</link>
-        </image>
-        <copyright>Copyright unknown author</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/king-of-the-royal-mounted.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>King of the Royal Mounted</title>
+		<link>https://comicskingdom.com/king-of-the-royal-mounted</link>
+		<description>King of the Royal Mounted</description>
+		<lastBuildDate>Mon, 31 Dec 1951 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>King of the Royal Mounted</title>
+			<url></url>
+			<link>https://comicskingdom.com/king-of-the-royal-mounted</link>
+		</image>
+		<copyright>Copyright unknown author</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/king-of-the-royal-mounted.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[King of the Royal Mounted for Mon, 31 Dec 1951]]></title>
-            <link>https://wp.comicskingdom.com/king-of-the-royal-mounted/1951-12-31</link>
-            <guid isPermaLink="false">king-of-the-royal-mounted1951-12-31</guid>
-            <pubDate>Mon, 31 Dec 1951 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[King of the Royal Mounted for Mon, 31 Dec 1951]]></title>
+			<link>https://wp.comicskingdom.com/king-of-the-royal-mounted/1951-12-31</link>
+			<guid isPermaLink="false">king-of-the-royal-mounted1951-12-31</guid>
+			<pubDate>Mon, 31 Dec 1951 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://wp.comicskingdom.com/comicskingdom-redesign-uploads-production/1951/12/King-of-the-Royal-Mounted.ENG_.1951-12-31.jpeg" alt="King of the Royal Mounted on Mon, 31 Dec 1951" title="King of the Royal Mounted on Mon, 31 Dec 1951">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

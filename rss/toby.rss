@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>TOBY</title>
-        <link>https://www.gocomics.com/toby</link>
-        <description>TOBY by Corey Pandolph</description>
-        <lastBuildDate>Fri, 18 Dec 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>TOBY</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/toby/large_rec-201701251554.jpg</url>
-            <link>https://www.gocomics.com/toby</link>
-        </image>
-        <copyright>Copyright Corey Pandolph</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>TOBY</title>
+		<link>https://www.gocomics.com/toby</link>
+		<description>TOBY by Corey Pandolph</description>
+		<lastBuildDate>Fri, 18 Dec 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>TOBY</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/toby/large_rec-201701251554.jpg</url>
+			<link>https://www.gocomics.com/toby</link>
+		</image>
+		<copyright>Copyright Corey Pandolph</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/toby.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[TOBY by Corey Pandolph for Fri, 18 Dec 2020]]></title>
-            <link>https://www.gocomics.com/toby/2020/12/18</link>
-            <guid isPermaLink="false">toby2020-12-18</guid>
-            <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[TOBY by Corey Pandolph for Fri, 18 Dec 2020]]></title>
+			<link>https://www.gocomics.com/toby/2020/12/18</link>
+			<guid isPermaLink="false">toby2020-12-18</guid>
+			<pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/c4c6c6a0635c012ee3c300163e41dd5b" alt="TOBY by Corey Pandolph on Fri, 18 Dec 2020" title="TOBY by Corey Pandolph on Fri, 18 Dec 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

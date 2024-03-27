@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Doodle Diary</title>
-        <link>https://www.gocomics.com/doodle-diary</link>
-        <description>Doodle Diary by Alex Hallatt</description>
-        <lastBuildDate>Mon, 03 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Doodle Diary</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/doodle/large_doodle_rec_201709191438.jpg</url>
-            <link>https://www.gocomics.com/doodle-diary</link>
-        </image>
-        <copyright>Copyright Alex Hallatt</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/doodle-diary.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Doodle Diary</title>
+		<link>https://www.gocomics.com/doodle-diary</link>
+		<description>Doodle Diary by Alex Hallatt</description>
+		<lastBuildDate>Mon, 03 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Doodle Diary</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/doodle/large_doodle_rec_201709191438.jpg</url>
+			<link>https://www.gocomics.com/doodle-diary</link>
+		</image>
+		<copyright>Copyright Alex Hallatt</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/doodle-diary.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Doodle Diary by Alex Hallatt for Mon, 03 Aug 2020]]></title>
-            <link>https://www.gocomics.com/doodle-diary/2020/08/03</link>
-            <guid isPermaLink="false">doodle-diary2020-08-03</guid>
-            <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Doodle Diary by Alex Hallatt for Mon, 03 Aug 2020]]></title>
+			<link>https://www.gocomics.com/doodle-diary/2020/08/03</link>
+			<guid isPermaLink="false">doodle-diary2020-08-03</guid>
+			<pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/191487b0b20001381594005056a9545d" alt="Doodle Diary by Alex Hallatt on Mon, 03 Aug 2020" title="Doodle Diary by Alex Hallatt on Mon, 03 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

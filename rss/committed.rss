@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Committed</title>
-        <link>https://www.gocomics.com/committed</link>
-        <description>Committed by Michael Fry</description>
-        <lastBuildDate>Fri, 14 Aug 2020 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Committed</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/cmt/large_rec-201701251556.jpg</url>
-            <link>https://www.gocomics.com/committed</link>
-        </image>
-        <copyright>Copyright Michael Fry</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/committed.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Committed</title>
+		<link>https://www.gocomics.com/committed</link>
+		<description>Committed by Michael Fry</description>
+		<lastBuildDate>Fri, 14 Aug 2020 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Committed</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/cmt/large_rec-201701251556.jpg</url>
+			<link>https://www.gocomics.com/committed</link>
+		</image>
+		<copyright>Copyright Michael Fry</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/committed.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Committed by Michael Fry for Fri, 14 Aug 2020]]></title>
-            <link>https://www.gocomics.com/committed/2020/08/14</link>
-            <guid isPermaLink="false">committed2020-08-14</guid>
-            <pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Committed by Michael Fry for Fri, 14 Aug 2020]]></title>
+			<link>https://www.gocomics.com/committed/2020/08/14</link>
+			<guid isPermaLink="false">committed2020-08-14</guid>
+			<pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/a428c8c08bda012ee3c400163e41dd5b" alt="Committed by Michael Fry on Fri, 14 Aug 2020" title="Committed by Michael Fry on Fri, 14 Aug 2020">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

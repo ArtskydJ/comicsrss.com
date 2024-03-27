@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Salt n Pepper</title>
-        <link>https://www.gocomics.com/salt-n-pepper</link>
-        <description>Salt n Pepper by Ghazal Qadri</description>
-        <lastBuildDate>Mon, 29 Aug 2022 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>Salt n Pepper</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/salt/large_salt_rec_202104191448.jpg</url>
-            <link>https://www.gocomics.com/salt-n-pepper</link>
-        </image>
-        <copyright>Copyright Ghazal Qadri</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/salt-n-pepper.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>Salt n Pepper</title>
+		<link>https://www.gocomics.com/salt-n-pepper</link>
+		<description>Salt n Pepper by Ghazal Qadri</description>
+		<lastBuildDate>Mon, 29 Aug 2022 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>Salt n Pepper</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/salt/large_salt_rec_202104191448.jpg</url>
+			<link>https://www.gocomics.com/salt-n-pepper</link>
+		</image>
+		<copyright>Copyright Ghazal Qadri</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/salt-n-pepper.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[Salt n Pepper by Ghazal Qadri for Mon, 29 Aug 2022]]></title>
-            <link>https://www.gocomics.com/salt-n-pepper/2022/08/29</link>
-            <guid isPermaLink="false">salt-n-pepper2022-08-29</guid>
-            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[Salt n Pepper by Ghazal Qadri for Mon, 29 Aug 2022]]></title>
+			<link>https://www.gocomics.com/salt-n-pepper/2022/08/29</link>
+			<guid isPermaLink="false">salt-n-pepper2022-08-29</guid>
+			<pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/386af5100a93013bc0e9005056a9545d" alt="Salt n Pepper by Ghazal Qadri on Mon, 29 Aug 2022" title="Salt n Pepper by Ghazal Qadri on Mon, 29 Aug 2022">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>2 Cows and a Chicken</title>
-        <link>https://www.gocomics.com/2cowsandachicken/2019/09/04</link>
-        <description>2 Cows and a Chicken by Steve Skelton</description>
-        <lastBuildDate>Wed, 04 Sep 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>https://github.com/ArtskydJ/comicsrss.com</generator>
-        <language>en</language>
-        <image>
-            <title>2 Cows and a Chicken</title>
-            <url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tcc/large_rec-201701251554.jpg</url>
-            <link>https://www.gocomics.com/2cowsandachicken/2019/09/04</link>
-        </image>
-        <copyright>Copyright Steve Skelton</copyright>
-        <atom:link href="https://www.comicsrss.com/rss/2cowsandachicken.rss" rel="self" type="application/rss+xml"/>
+	<channel>
+		<title>2 Cows and a Chicken</title>
+		<link>https://www.gocomics.com/2cowsandachicken/2019/09/04</link>
+		<description>2 Cows and a Chicken by Steve Skelton</description>
+		<lastBuildDate>Wed, 04 Sep 2019 00:00:00 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>https://github.com/ArtskydJ/comicsrss.com</generator>
+		<language>en</language>
+		<image>
+			<title>2 Cows and a Chicken</title>
+			<url>https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/tcc/large_rec-201701251554.jpg</url>
+			<link>https://www.gocomics.com/2cowsandachicken/2019/09/04</link>
+		</image>
+		<copyright>Copyright Steve Skelton</copyright>
+		<atom:link href="https://www.comicsrss.com/rss/2cowsandachicken.rss" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title><![CDATA[2 Cows and a Chicken by Steve Skelton for Wed, 04 Sep 2019]]></title>
-            <link>https://www.gocomics.com/2cowsandachicken/2019/09/04</link>
-            <guid isPermaLink="false">2cowsandachicken2019-09-04</guid>
-            <pubDate>Wed, 04 Sep 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>
+		<item>
+			<title><![CDATA[2 Cows and a Chicken by Steve Skelton for Wed, 04 Sep 2019]]></title>
+			<link>https://www.gocomics.com/2cowsandachicken/2019/09/04</link>
+			<guid isPermaLink="false">2cowsandachicken2019-09-04</guid>
+			<pubDate>Wed, 04 Sep 2019 00:00:00 GMT</pubDate>
+			<description><![CDATA[<p>
 	<img src="https://assets.amuniversal.com/5fd16f00b0eb0137ba7a005056a9545d" alt="2 Cows and a Chicken by Steve Skelton on Wed, 04 Sep 2019" title="2 Cows and a Chicken by Steve Skelton on Wed, 04 Sep 2019">
 </p>
 <p>
@@ -29,6 +29,6 @@
 	<a href="https://www.patreon.com/bePatron?u=6855838">Patreon</a>
 </p>
 ]]></description>
-        </item>
-    </channel>
+		</item>
+	</channel>
 </rss>
