@@ -9,7 +9,9 @@ module.exports = async function main(cachedSeriesObjects) {
 	const seriesObjectEntries = $('main ul > li > ul > li > a')
 		.map((a_element) => {
 			const parsed = new URL(a_element.attribs.href, base)
-			const slug = parsed.pathname.replace(/^\//, '')
+			const slug = parsed.pathname
+				.replace(/^\//, '') // remove leading "/"
+				.replace(/\/.+/, '') // removes everything after the first "/", since some links were like "alice/2024-06-04"
 			const title = element_to_text(a_element)
 
 			return [ slug, {
@@ -31,10 +33,13 @@ module.exports = async function main(cachedSeriesObjects) {
 		if (global.VERBOSE) {
 			console.log('comicskingdom: ' + slug)
 		}
-		const json = await fetch2(`https://wp.comicskingdom.com/wp-json/wp/v2/ck_comic?ck_feature=${ slug }&before_ymd=${ new Date().toISOString().slice(0, 10) }&per_page=40&date_inclusive=true&order=desc&page=1&_embed=true`)
+		const json = await fetch2(`https://wp.comicskingdom.com/wp-json/wp/v2/ck_comic?ck_feature=${ slug }&page=1&per_page=40&order=desc&_fields=id%2Clink%2Cdate%2Cmeta%2Ctitle%2Cassets%2Cck_formatted_date%2Ctype%2Cck_genre&_embed=true`)
 		const arr = JSON.parse(json)
-		if (!(Array.isArray(arr) && arr.length)) {
-			throw new Error(`didn't get an array`)
+		if (!(Array.isArray(arr))) {
+			throw new Error(`"${ slug }" didn't get an array`)
+		}
+		if (!arr.length) {
+			throw new Error(`"${ slug }" array was empty`)
 		}
 
 		seriesObject.isPolitical = arr[0].ck_genre?.name === 'Political'
