@@ -1,98 +1,109 @@
-# comicsrss.com
+# 🌟 Welcome to ComicsRSS!
 
 [![ComicsRSS](https://circleci.com/gh/ArtskydJ/comicsrss.com.svg?style=svg)](https://app.circleci.com/pipelines/github/ArtskydJ/comicsrss.com)
 
-Source code for the site generator and rss feed generator for [comicsrss.com](https://www.comicsrss.com).
+**ComicsRSS** is the source code for the site generator and RSS feed generator for [**comicsrss.com**](https://www.comicsrss.com). All of the site's content is hosted here on GitHub Pages!
 
-Also, all of the site's content is in this repository, as it is hosted by GitHub Pages.
-
-
-
-## Support Me
-
-If you'd like to help keep this site going, you can send me a few bucks using [Patreon](https://www.patreon.com/bePatron?u=6855838). I'd really appreciate it!
-
-
-<!-- Try to cut down on all these unnecessary details...
-Why do I need to explain the inner workings of the entire thing before giving them the API to try it out?
-
-Probably trim these sections down sometime later... -->
-
-## Technical Details
-
-I have received [many requests](https://github.com/ArtskydJ/comicsrss.com/issues/86) to add more comic series to the site. However, my time is limited. So if you want to help out, you can make a scraper!
-
-To be able to add comic series to Comics RSS, it is helpful to understand the basics of what is going on.
-
-Comics RSS has scrapers, and the site generator. Each scraper parses a different comic website, and writes a temporary file to the disk. The site generator reads the temporary JSON files, and writes static HTML/RSS files to the disk.
+---
 
 
 
-### How scrapers work
+## ❤️ Support Me
 
-The scrapers make https requests to a website (for example, https://www.gocomics.com), parse the responses, and write temporary JSON files to the disk.
+Love the project? Help keep it going by sending a few bucks my way on [**Patreon**](https://www.patreon.com/bePatron?u=6855838)! Your support means the world to me! 🙏
 
-On a multi-comic site like https://www.gocomics.com, a scraper has to get the list of comic series (e.g. Agnes, Baby Blues, Calvin and Hobbes, etc). For example, the scraper might request and parse https://www.gocomics.com/comics/a-to-z.
+---
 
-Then, for each comic series, it gets the most recent comic strip. Then it looks up the previous day's comic strip. When it finds a comic strip that it has seen before, it will continue to the next comic series, until it finishes the website.
+## 🛠️ Technical Overview
 
-Finally, it writes the lists of comic series with their list of strips to a temporary JSON file on the hard drive.
+I've received [many requests](https://github.com/ArtskydJ/comicsrss.com/issues/86) to add more comic series to the site. While my time is limited, you can help by creating a **scraper**!
 
+### How It Works
 
-
-### How the site generator works
-
-The site generator reads the temporary JSON files made by the scrapers. Those files are read into one big list of comic series, each with their list of comic strips. The generator uses templates to generate an `index.html` file, and `rss/{comic}.rss` files.
-
-When these updated/new files are committed and pushed to this repository, they get hosted on gh-pages, which is how you view the site today.
+- **🧩 Scrapers:** Each scraper fetches and parses a different comic website, writing temporary files to disk.
+- **🚀 Site Generator:** Reads these JSON files and generates static HTML/RSS files.
 
 
+### 🛠️ How Scrapers Work
 
-### Run locally
-
-1. Fork and clone the repository
-2. Run these commands on your command line:
-```sh
-# in /comicsrss.com
-npm install
-
-cd _generator
-
-# If you want to see all the options:
-# node bin --help
-
-# Re-generate the site with the cached scraped site data:
-node bin --generate
-
-# If you want to run the scrapers (takes a while) then run this:
-# node bin --scrape --generate
-
-# I have nginx serving up my whole code directory, so I can go to http://localhost:80/comicsrss.com/
-# If you don't have anything similar set up, you can try:
-cd ..
-npx serve
-# Then open http://localhost:3000 in your browser
-```
+1. **Requests:** Scrapers make HTTPS requests to websites (e.g., [GoComics](https://www.gocomics.com)).
+2. **Parsing:** Responses are parsed, and temporary JSON files are created.
+3. **Fetching:** For multi-comic sites, scrapers retrieve lists of comic series and their latest strips.
+4. **Storing:** The results are saved as JSON files.
 
 
+### 🏗️ How the Site Generator Works
 
-### Run your own auto-updating scraper and website using CircleCI
+The site generator compiles the JSON files into a comprehensive list of comic series and generates:
+- **📄 `index.html`**
+- **📡 `rss/{comic}.rss`**
 
-1. Fork the repository
-2. [Create a GitHub Deploy Key](https://circleci.com/docs/2.0/gh-bb-integration/#creating-a-github-deploy-key), add it to GitHub, and CircleCI
-3. Change `.circleci/config.yml` from my username, email, and key fingerprint to your username, email, and key fingerprint
-4. Enable the repo in CircleCI
-5. I think that's it? Make a PR if you attempt the above steps and I missed something!
+Once these files are updated, they are pushed to this repository and hosted live on GitHub Pages!
+
+---
+
+
+## 🚀 Run It Locally
+
+Get started with your own local setup by following these steps:
+
+1. **Fork and Clone the Repository**
+2. **Run the following commands:**
+
+    ```sh
+    # Navigate to the project directory
+    cd comicsrss.com
+    
+    # Install dependencies
+    npm install
+
+    # Move to the generator
+    cd _generator
+
+    # View available options
+    # node bin --help
+
+    # Regenerate the site with cached data
+    node bin --generate
+
+    # To run the scrapers (may take a while)
+    node bin --scrape --generate
+    ```
+
+3. **View Locally:**
+
+   ```sh
+   cd ..
+    npx serve
+   ```
+
+   Then open [http://localhost:3000](http://localhost:3000) in your browser to see your site!
+
+---
 
 
 
-## Scraper API
+## 🌐 Run Your Own Auto-Updating Scraper with CircleCI
 
-To create a scraper for a single-series website that shows multiple days' comic strips per web page, copy the code from [dilbert.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/dilbert.js) and change it as needed.
+1. **Fork the repository**
+2. **[Create a GitHub Deploy Key](https://circleci.com/docs/2.0/gh-bb-integration/#creating-a-github-deploy-key)** and add it to both GitHub and CircleCI.
+3. **Edit** `.circleci/config.yml` with your details.
+4. **Enable the repository in CircleCI.**
 
-To create a scraper for a multi-series website, copy the code from [arcamax.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax.js) and change it as needed.
+If you encounter any issues, feel free to open a PR!
 
-If you're not sure which to use, probaby start from `arcamax.js`, or feel free to open a GitHub issue to discuss it with me.
+---
+
+## 🔍 Scraper API
+
+### To Create a Scraper:
+
+- **Single-Series Website:** Copy the code from [dilbert.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/dilbert.js) and modify as needed.
+- **Multi-Series Website:** Start from [arcamax.js](https://github.com/ArtskydJ/comicsrss.com/tree/gh-pages/_generator/scrapers/arcamax.js).
+
+If you're unsure which to use, feel free to open a GitHub issue for guidance!
+
+---
 
 <!--
 ### Example
@@ -204,6 +215,8 @@ Properties of `seriesObject`:
 -->
 
 
-## License
+## 📜 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [**MIT License**](https://choosealicense.com/licenses/mit/). Feel free to use and contribute!
+
+ Thank you for checking out **ComicsRSS**! Happy scraping! 🎉
