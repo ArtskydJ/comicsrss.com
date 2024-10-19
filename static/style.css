@@ -51,7 +51,6 @@ ul#comics-list > li {
 	margin: 0;
 	padding: 8px;
 	border-top: 1px solid #aaa;
-	background-color: #fce6cf;
 }
 @media screen and (max-width: 600px) {
 	ul#comics-list > li {
@@ -83,7 +82,6 @@ input.search {
 	border: 1px solid #aaa;
 	width: 100%;
 	box-sizing: border-box;
-	margin-bottom: 12px;
 }
 input.search:focus {
 	flex-basis: 30%;
