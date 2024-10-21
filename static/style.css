@@ -51,6 +51,7 @@ ul#comics-list > li {
 	margin: 0;
 	padding: 8px;
 	border-top: 1px solid #aaa;
+	background-color: #f0f0f0;
 }
 @media screen and (max-width: 600px) {
 	ul#comics-list > li {
