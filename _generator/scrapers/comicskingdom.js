@@ -28,8 +28,6 @@ module.exports = async function main(cachedSeriesObjects) {
 	}
 
 	for (const [ slug, seriesObject ] of seriesObjectEntries) {
-		new Promise(resolve => setTimeout(resolve, global.DEBUG ? 0 : 1000)) // rate limit
-
 		if (global.VERBOSE) {
 			console.log('comicskingdom: ' + slug)
 		}
@@ -50,10 +48,10 @@ module.exports = async function main(cachedSeriesObjects) {
 			url: e.link,
 		}))
 
-		const oldestStripDate = cachedSeriesObjects[slug]?.strips?.[0]?.date || '0000-00-00'
+		const most_recent_strip_date = cachedSeriesObjects[slug]?.strips?.[0]?.date || '0000-00-00'
 
 		seriesObject.strips = [
-			...strips.filter(s => s.date > oldestStripDate),
+			...strips.filter(s => s.date > most_recent_strip_date),
 			...(cachedSeriesObjects[slug]?.strips || []),
 		]
 	}
