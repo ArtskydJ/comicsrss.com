@@ -50,6 +50,7 @@ module.exports = async function main(cachedSeriesObjects) {
 				url: `${ base }/${ item.slug }`,
 				language: is_spanish ? 'spa' : 'eng',
 				author: item.creators.join(' and '),
+				imageUrl: item.badgeImage.url,
 			}]
 		})
 		.slice(0, global.DEBUG ? 10 : Infinity)
