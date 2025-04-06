@@ -41,6 +41,7 @@ module.exports = async function main(cachedSeriesObjects) {
 	const improve_this_var_name = JSON.parse(array_that_gets_pushed[1].replace(/^\d+:/, '')) // [ [ '$', 'script', null, { dangerouslySetInnerHTML: { ... }, ... } ], [ '$', 'section', null, { className: '...', children: [ ... ]} ] ]
 	const { /* categories, */ groupedFeatures } = improve_this_var_name[1][3].children[0][3]
 
+	const item_list = groupedFeatures.flatMap(group => group.items)
 	const seriesObjectEntries = item_list
 		.map(item => {
 			const is_spanish = item.categories.some(cat => cat.categorySlug === 'comicos-en-espanol')
