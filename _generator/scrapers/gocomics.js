@@ -1,76 +1,107 @@
-const fetch = require('./lib/fetch.js')
-const multipageScraper = require('./lib/multipage-scraper.js')
-const { query_html, element_to_text } = require('./lib/query-html.js')
+const fetch2 = require('./lib/fetch.js')
+const { query_html } = require('./lib/query-html.js')
 
-function getSeriesObjects() {
-	return Promise.all([
-		getPage('https://www.gocomics.com/comics/a-to-z'),
-		getPage('https://www.gocomics.com/comics/espanol?page=1'),
-		getPage('https://www.gocomics.com/comics/espanol?page=2')
-	])
-	.then(function flatten(arrayOfObjects) {
-		return Object.assign({}, ...arrayOfObjects)
-	})
+const rate_limit = global.DEBUG ? 0 : 900 // 800 might work, 700 doesn't
+
+async function get_recent_strip_dates(slug) {
+	const str_to_day = iso => iso.slice(0, 10)
+	const fmt = date => str_to_day(date.toISOString())
+
+	const start_date = new Date()
+	start_date.setDate(start_date.getDate() - 15) // 15 days ago
+
+	const end_date = new Date()
+
+	const api_url = `https://www.gocomics.com/api/service/v2/assets/feature-runs/${ slug }?dateAfter=${ fmt(start_date) }&dateBefore=${ fmt(end_date) }`
+	const list_of_recent_strip_dates = JSON.parse(await fetch2(api_url)).dates.map(str_to_day)
+
+	return list_of_recent_strip_dates
 }
 
+module.exports = async function main(cachedSeriesObjects) {
+	const base = 'https://www.gocomics.com'
+	const html = await fetch2(base + '/comics/a-to-z')
+	/*
+	This is an alternate way of getting the series objects.
+	It's perfectly serviceable, except that you can't get the language or author. (Or name?)
+	Those can be found later when looking at the strips, but you have to be careful to only overwrite the language/author if you have valid data.
+	So I might switch back to this if my pile of hacks below stops working.
 
-async function getPage(url) {
-	const html = await fetch(url)
 	const $ = query_html(html)
 
-	const seriesObjectEntries = $('.gc-blended-link')
-		.map(link_element => {
-			const today_href = link_element.attribs.href
-			const { pathname } = new URL(today_href, 'https://www.gocomics.com')
-			const basename = pathname.split('/')[1]
+	const item_list = $('script[type="application/ld+json"]')
+		.map(script_element => JSON.parse(script_element.children[0].data))
+		.find(json => json['@type'] === 'ItemList' && json.name.trim().toLowerCase() === 'comics a to z')
+		.itemListElement
+	*/
 
-			// If I find a place for icon URLs, I can enable this later...
-			// const iconUrl = $('img[data-srcset]', link_element)[0].attribs['data-srcset'].replace(/, 72w$/, '')
-			// fan-art and outland are missing icon URLs
+	const tagless_scripts = html.split('<script>').slice(1).map(html_part => html_part.split('</script>')[0])
+	const item_list_script = tagless_scripts.find(script => script.includes('featureLanguage'))
+	const array_that_gets_pushed = JSON.parse(item_list_script.match(/\.push\((.+)\)/)[1]) // [ 1, '32:[ ... ]' ]
+	const improve_this_var_name = JSON.parse(array_that_gets_pushed[1].replace(/^\d+:/, '')) // [ [ '$', 'script', null, { dangerouslySetInnerHTML: { ... }, ... } ], [ '$', 'section', null, { className: '...', children: [ ... ]} ] ]
+	const { /* categories, */ groupedFeatures } = improve_this_var_name[1][3].children[0][3]
 
-			const title = element_to_text($('.media-heading, .card-title', link_element)[0])
+	const seriesObjectEntries = item_list
+		.map(item => {
+			const is_spanish = item.categories.some(cat => cat.categorySlug === 'comicos-en-espanol')
 
-			const author_element = (
-				$('span.media-subheading.small, span.media-heading.small', link_element)[0] ||
-				$('h5.card-subtitle.text-muted', link_element)[0]
-			)
-			const author = author_element && element_to_text(author_element).replace(/^By /, '')
-
-			const isPolitical = ! author // Gocomics' political comics are named after their author
-
-			// https://iso639-3.sil.org/code_tables/639/data
-			const language = url.includes('espanol') ? 'spa' : 'eng'
-
-			return [ basename, {
-				author: author || title,
-				title,
-				url: 'https://www.gocomics.com/' + basename,
-				mostRecentStripUrl: 'https://www.gocomics.com' + today_href,
-				isPolitical,
-				language
+			return [ item.slug, {
+				title: item.name,
+				url: `${ base }/${ item.slug }`,
+				language: is_spanish ? 'spa' : 'eng',
+				author: item.creators.join(' and '),
 			}]
 		})
+		.slice(0, global.DEBUG ? 10 : Infinity)
+
+	if (global.VERBOSE) {
+		console.log(`gocomics: found ${ seriesObjectEntries.length } entries`)
+	}
+
+	for (const [ slug, seriesObject ] of seriesObjectEntries) {
+		await new Promise(resolve => setTimeout(resolve, rate_limit))
+
+		if (global.VERBOSE) {
+			console.log('gocomics: ' + slug)
+		}
+		const list_of_recent_strip_dates = await get_recent_strip_dates(slug)
+
+		const most_recent_cached_strip_date = cachedSeriesObjects[slug]?.strips[0]?.date || '0000-00-00'
+
+		const new_strip_dates = list_of_recent_strip_dates.filter(date => date > most_recent_cached_strip_date).reverse()
+
+		if (global.VERBOSE) {
+			console.log(`gocomics: ${ slug }: ${ new_strip_dates.length } new strips: ${ new_strip_dates.join(', ') }`)
+		}
+
+		let new_strips = []
+		for (const date of new_strip_dates) {
+			await new Promise(resolve => setTimeout(resolve, rate_limit))
+
+			const page_url = `${ base }/${ slug }/${ date.replace(/-/g, '/') }`
+			const html = await fetch2(page_url)
+			const $ = query_html(html)
+
+			const json_scripts = $('script[type="application/ld+json"]')
+				.map(script_element => JSON.parse(script_element.children[0].data))
+			const image_json = json_scripts.find(json => json['@type'] === 'ImageObject' && json.representativeOfPage === true)
+
+			if (!image_json) {
+				throw new Error(`gocomics: ${ slug }: ${ date }: image_json not found`)
+			}
+
+			new_strips.push({
+				imageUrl: image_json.contentUrl, // or image_json.url... they seem to be the same
+				date,
+				url: page_url,
+			})
+		}
+
+		seriesObject.strips = [
+			...new_strips,
+			...(cachedSeriesObjects[slug]?.strips || []),
+		]
+	}
+
 	return Object.fromEntries(seriesObjectEntries)
 }
-
-const dumbRateLimit = () => new Promise(resolve => setTimeout(resolve, global.DEBUG ? 0 : 900)) // 800 might work, 700 doesn't
-
-async function getStrip(strip_page_url) {
-	await dumbRateLimit()
-	console.log(`fetching ${ strip_page_url}`)
-	const html = await fetch(strip_page_url)
-	const $ = query_html(html)
-
-	return {
-		imageUrl: $('meta[property="og:image"]')[0].attribs.content,
-		date: $('meta[property="article:published_time"]')[0].attribs.content,
-		author: $('meta[property="article:author"]')[0].attribs.content,
-		url: $('input[aria-label="Get the permalink"]')[0].attribs.value,
-		isOldestStrip: !!($('a.fa-caret-left.disabled')[0]),
-		olderRelUrl: $('a.fa-caret-left')[0].attribs.href,
-		// newerRelUrl: $('a.fa-caret-right')[0].attribs.href,
-		headerImageUrl: $('.layout-2col-sidebar .card-img img')[0].attribs.src,
-	}
-}
-
-module.exports = cachedSeriesObjects => multipageScraper({ getSeriesObjects, getStrip, cachedSeriesObjects })

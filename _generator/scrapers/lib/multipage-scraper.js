@@ -30,13 +30,6 @@ module.exports = async function multipageScraper({ getSeriesObjects, getStrip, c
 				console.error(err)
 			}
 
-			if (err.res) {
-				const { statusCode, headers } = err.res
-				if (statusCode >= 300 && statusCode < 400 && headers && headers.location === 'https://www.gocomics.com/') {
-					return null
-				}
-			}
-
 			console.error(basename + ' ' + err.message)
 			if (newSeriesObject.mostRecentStripUrl) {
 				console.error(newSeriesObject.mostRecentStripUrl)
