@@ -18,6 +18,12 @@ async function get_recent_strip_dates(slug) {
 	return list_of_recent_strip_dates
 }
 
+function pretty_date(date) {
+	const [ year, month, day ] = date.split('-')
+	const pretty_month = [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December' ][Number(month) - 1]
+	return `${ pretty_month } ${ day.replace(/^0/, '') }, ${ year }`
+}
+
 module.exports = async function main(cachedSeriesObjects) {
 	const base = 'https://www.gocomics.com'
 	const html = await fetch2(base + '/comics/a-to-z')
@@ -43,6 +49,7 @@ module.exports = async function main(cachedSeriesObjects) {
 
 	const item_list = groupedFeatures.flatMap(group => group.items)
 	const seriesObjectEntries = item_list
+		.filter(item => !global.DEBUG || item.slug === 'calvinandhobbes')
 		.map(item => {
 			const is_spanish = item.categories.some(cat => cat.categorySlug === 'comicos-en-espanol')
 
@@ -54,7 +61,6 @@ module.exports = async function main(cachedSeriesObjects) {
 				imageUrl: item.badgeImage.url,
 			}]
 		})
-		.slice(0, global.DEBUG ? 10 : Infinity)
 
 	if (global.VERBOSE) {
 		console.log(`gocomics: found ${ seriesObjectEntries.length } entries`)
@@ -69,6 +75,7 @@ module.exports = async function main(cachedSeriesObjects) {
 		const list_of_recent_strip_dates = await get_recent_strip_dates(slug)
 
 		const most_recent_cached_strip_date = cachedSeriesObjects[slug]?.strips[0]?.date || '0000-00-00'
+		// const most_recent_cached_strip_date = '2025-04-00'
 
 		const new_strip_dates = list_of_recent_strip_dates.filter(date => date > most_recent_cached_strip_date).reverse()
 
@@ -86,7 +93,8 @@ module.exports = async function main(cachedSeriesObjects) {
 
 			const json_scripts = $('script[type="application/ld+json"]')
 				.map(script_element => JSON.parse(script_element.children[0].data))
-			const image_json = json_scripts.find(json => json['@type'] === 'ImageObject' && json.representativeOfPage === true)
+			const match_date = pretty_date(date)
+			const image_json = json_scripts.find(json => json['@type'] === 'ImageObject' && typeof json.name === 'string' && json.name.endsWith(match_date))
 
 			if (!image_json) {
 				throw new Error(`gocomics: ${ slug }: ${ date }: image_json not found`)
