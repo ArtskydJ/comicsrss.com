@@ -29,7 +29,7 @@ jobs:
       - run: git config user.name "ArtskydJ"
 
       - run: git add .
-      - run: git commit -m "Build [skip ci]" || echo "No changes detected"
+      - run: git commit -m "Build" || echo "No changes detected"
       - run: git push origin gh-pages
       - *git_save_cache
 
@@ -47,13 +47,5 @@ workflows:
                 - gh-pages
     jobs:
       - build
-
-  onpush:
-    jobs:
-      - build:
-          filters:
-            branches:
-              only:
-                - gh-pages
 
 # To validate w/o committing, run `circleci config validate` on the command line
