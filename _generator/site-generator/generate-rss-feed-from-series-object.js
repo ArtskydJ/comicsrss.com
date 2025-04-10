@@ -2,8 +2,8 @@ const renderTemplate = require('./render-template.js')
 
 module.exports = seriesObject => {
 	if (! seriesObject || ! seriesObject.strips || ! seriesObject.strips.length) {
-		console.log(seriesObject)
-		throw new Error('Expected seriesObject.strips to be a non-empty array')
+		console.log(seriesObject.basename + ': Expected seriesObject.strips to be a non-empty array')
+		return null
 	}
 
 	const { scraper, basename, title, imageUrl, author, language, strips, url } = seriesObject
@@ -14,7 +14,7 @@ module.exports = seriesObject => {
 		imageUrl,
 		author,
 		language,
-		updatedDate: new Date(strips[0].date),
+		updatedDate: strips[0] ? new Date(strips[0].date) : new Date(),
 		strips: strips.map(strip => {
 			strip.guid = basename + strip.date + cacheBuster(scraper, basename, strip.date)
 			strip.isPermaLink = false

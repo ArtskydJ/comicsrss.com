@@ -15,6 +15,9 @@ module.exports = function writeFilesFromSeriesObjects(seriesObjectsArr, supporte
 
 	const limit = global.DEBUG ? 10 : Infinity
 	for (const seriesObject of seriesObjectsArr.slice(0, limit)) {
-		writeFileRoot(`rss/${seriesObject.basename}.rss`, generateRssFeedFromSeriesObject(seriesObject))
+		const rss = generateRssFeedFromSeriesObject(seriesObject)
+		if (rss) {
+			writeFileRoot(`rss/${seriesObject.basename}.rss`, rss)
+		}
 	}
 }
