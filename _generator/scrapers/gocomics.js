@@ -75,7 +75,6 @@ module.exports = async function main(cachedSeriesObjects) {
 		const list_of_recent_strip_dates = await get_recent_strip_dates(slug)
 
 		const most_recent_cached_strip_date = cachedSeriesObjects[slug]?.strips[0]?.date || '0000-00-00'
-		// const most_recent_cached_strip_date = '2025-04-00'
 
 		const new_strip_dates = list_of_recent_strip_dates.filter(date => date > most_recent_cached_strip_date).reverse()
 
