@@ -24,22 +24,8 @@ function pretty_date(date) {
 	return `${ pretty_month } ${ day.replace(/^0/, '') }, ${ year }`
 }
 
-module.exports = async function main(cachedSeriesObjects) {
-	const base = 'https://www.gocomics.com'
-	const html = await fetch2(base + '/comics/a-to-z')
-	/*
-	This is an alternate way of getting the series objects.
-	It's perfectly serviceable, except that you can't get the language or author. (Or name?)
-	Those can be found later when looking at the strips, but you have to be careful to only overwrite the language/author if you have valid data.
-	So I might switch back to this if my pile of hacks below stops working.
-
-	const $ = query_html(html)
-
-	const item_list = $('script[type="application/ld+json"]')
-		.map(script_element => JSON.parse(script_element.children[0].data))
-		.find(json => json['@type'] === 'ItemList' && json.name.trim().toLowerCase() === 'comics a to z')
-		.itemListElement
-	*/
+async function parse_list_html(base, path, is_political) {
+	const html = await fetch2(base + path)
 
 	const tagless_scripts = html.split('<script>').slice(1).map(html_part => html_part.split('</script>')[0])
 	const item_list_script = tagless_scripts.find(script => script.includes('featureLanguage'))
@@ -48,25 +34,37 @@ module.exports = async function main(cachedSeriesObjects) {
 	const { /* categories, */ groupedFeatures } = improve_this_var_name[1][3].children[0][3]
 
 	const item_list = groupedFeatures.flatMap(group => group.items)
-	const seriesObjectEntries = item_list
+
+	const series_object_entries = item_list
 		.filter(item => !global.DEBUG || item.slug === 'calvinandhobbes')
 		.map(item => {
 			const is_spanish = item.categories.some(cat => cat.categorySlug === 'comicos-en-espanol')
 
-			return [ item.slug, {
+			return [item.slug, {
 				title: item.name,
 				url: `${ base }/${ item.slug }`,
 				language: is_spanish ? 'spa' : 'eng',
 				author: item.creators.join(' and '),
 				imageUrl: item.badgeImage.url,
+				isPolitical: is_political,
 			}]
 		})
 
+	return series_object_entries
+}
+
+module.exports = async function main(cached_series_objects) {
+	const base = 'https://www.gocomics.com'
+	const series_object_entries = [
+		...(await parse_list_html(base, '/political-cartoons/political-a-to-z', true)),
+		...(await parse_list_html(base, '/comics/a-to-z', false)),
+	]
+
 	if (global.VERBOSE) {
-		console.log(`gocomics: found ${ seriesObjectEntries.length } entries`)
+		console.log(`gocomics: found ${ series_object_entries.length } entries`)
 	}
 
-	for (const [ slug, seriesObject ] of seriesObjectEntries) {
+	for (const [ slug, series_object ] of series_object_entries) {
 		await new Promise(resolve => setTimeout(resolve, rate_limit))
 
 		if (global.VERBOSE) {
@@ -74,7 +72,7 @@ module.exports = async function main(cachedSeriesObjects) {
 		}
 		const list_of_recent_strip_dates = await get_recent_strip_dates(slug)
 
-		const most_recent_cached_strip_date = cachedSeriesObjects[slug]?.strips[0]?.date || '0000-00-00'
+		const most_recent_cached_strip_date = cached_series_objects[slug]?.strips[0]?.date || '0000-00-00'
 
 		const new_strip_dates = list_of_recent_strip_dates.filter(date => date > most_recent_cached_strip_date).reverse()
 
@@ -106,11 +104,11 @@ module.exports = async function main(cachedSeriesObjects) {
 			})
 		}
 
-		seriesObject.strips = [
+		series_object.strips = [
 			...new_strips,
-			...(cachedSeriesObjects[slug]?.strips || []),
+			...(cached_series_objects[slug]?.strips || []),
 		]
 	}
 
-	return Object.fromEntries(seriesObjectEntries)
+	return Object.fromEntries(series_object_entries)
 }

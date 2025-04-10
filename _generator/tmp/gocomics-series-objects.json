@@ -2,6 +2,7 @@
 	"1-and-done": {
 		"author": "Eric Scott",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_1_And_Done_600_8c72fff520.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -226,6 +227,7 @@
 	"9-chickweed-lane": {
 		"author": "Brooke McEldowney",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_9_Chickweed_Lane_600_3439ee6b1d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -440,6 +442,7 @@
 	"9to5": {
 		"author": "Harley Schwadron",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_9_To_5_600_fa68f42e36.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -659,6 +662,7 @@
 	"a-problem-like-jamal": {
 		"author": "Tauhid Bondia",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_A_Problem_Like_Jamal_600_78f0e5c9e9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -673,6 +677,7 @@
 	"aaggghhh": {
 		"author": "Ham",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Aagghhh_600_ae8f3eb046.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -887,6 +892,7 @@
 	"adamathome": {
 		"author": "Rob Harrell",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Adam_Home_600_cc5f884d14.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -1101,6 +1107,7 @@
 	"adult-children": {
 		"author": "Stephen Beals",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Adult_Children_600_d15aa8d5a1.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -1315,6 +1322,7 @@
 	"agnes": {
 		"author": "Tony Cochran",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Agnes_600_5bf1a79606.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -1529,6 +1537,7 @@
 	"aj-and-magnus": {
 		"author": "Bryan and Simon Steel",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_AJ_And_Mangus_600_a3f366db0f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -1555,9 +1564,50 @@
 		"title": "AJ and Magnus",
 		"url": "https://www.gocomics.com/aj-and-magnus"
 	},
+	"algoodwyn": {
+		"author": "Al Goodwyn",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_algoodwyn_600_af349d14fb.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d4698f60f4f0013d9a00005056a9545d",
+				"url": "https://www.gocomics.com/algoodwyn/2025/04/06"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e5d23ff0f243013d9984005056a9545d",
+				"url": "https://www.gocomics.com/algoodwyn/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/73bf0840f0f4013d994b005056a9545d",
+				"url": "https://www.gocomics.com/algoodwyn/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/33d85f60f02b013d9919005056a9545d",
+				"url": "https://www.gocomics.com/algoodwyn/2025/03/31"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/05851df0ef62013d98f9005056a9545d",
+				"url": "https://www.gocomics.com/algoodwyn/2025/03/30"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c7992fe0ed06013d9892005056a9545d",
+				"url": "https://www.gocomics.com/algoodwyn/2025/03/27"
+			}
+		],
+		"title": "Al Goodwyn Editorial Cartoons",
+		"url": "https://www.gocomics.com/algoodwyn"
+	},
 	"alis-house": {
 		"author": "Marguerite Dabaie",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ali_s_House_600_0c02d282a8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -1572,6 +1622,7 @@
 	"alley-oop": {
 		"author": "Jonathan Lemon",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Alley_Oop_600_42c0fff983.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -1786,6 +1837,7 @@
 	"amanda-the-great": {
 		"author": "Amanda El-Dweek",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Amanda_The_Great_600_d884d9baa4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -2000,6 +2052,7 @@
 	"andertoons": {
 		"author": "Mark Anderson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Andertoons_600_38c01bc6e8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -2214,6 +2267,7 @@
 	"andycapp": {
 		"author": "Reg Smythe",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Andy_Capp_600_a9127f851c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -2428,6 +2482,7 @@
 	"angry-little-girls": {
 		"author": "Lela Lee",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Angry_Little_Girls_600_348208142e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -2507,6 +2562,7 @@
 	"animalcrackers": {
 		"author": "Mike Osbun",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Animal_Crackers_600_755dc7f99a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -2721,6 +2777,7 @@
 	"annie": {
 		"author": "Jay Maeder and Alan Kupperberg",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Annie_Sharper_600_37cc899146.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -2935,6 +2992,7 @@
 	"arloandjanis": {
 		"author": "Jimmy Johnson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Arlo_And_Janis_600_ab8ad200a6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -3149,6 +3207,7 @@
 	"artbymoga": {
 		"author": "Meg Adams",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Art_by_Moga_600_a5af600274.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -3163,6 +3222,7 @@
 	"askshagg": {
 		"author": "Peter Guren",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ask_Shagg_600_ecfdbe49d3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -3302,6 +3362,7 @@
 	"aunty-acid": {
 		"author": "Ged Backland",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Auntie_Acid_600_119bb982a2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -3516,6 +3577,7 @@
 	"babyblues": {
 		"author": "Rick Kirkman and Jerry Scott",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Baby_Blues_600_efa358a7ad.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -3730,6 +3792,7 @@
 	"back-to-bc": {
 		"author": "Johnny Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Back_to_B_C_600_4a14d3fe63.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -3944,6 +4007,7 @@
 	"backintheday": {
 		"author": "Eric Scott",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Back_In_The_Day_600_669c6c9688.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -4168,6 +4232,7 @@
 	"bacon": {
 		"author": "Lonnie Millsap",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bacon_600_a824a927d9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -4362,6 +4427,7 @@
 	"bad-machinery": {
 		"author": "John Allison",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bad_Machinery_600_6d00c0aa2e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -4521,6 +4587,7 @@
 	"baldo": {
 		"author": "Hector D. Cantú and Carlos Castellanos",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Baldo_600_d12d1e76e2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -4735,6 +4802,7 @@
 	"baldoespanol": {
 		"author": "Hector D. Cantú and Carlos Castellanos",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Baldo_600_3d71a27376.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -4949,6 +5017,7 @@
 	"ballardstreet": {
 		"author": "Jerry Van Amerongen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ballard_Street_600_62da5a1eae.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -5163,6 +5232,7 @@
 	"banana-triangle": {
 		"author": "Beutel, James",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Banana_Triangle_600_0def26afd6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -5297,6 +5367,7 @@
 	"barkeaterlake": {
 		"author": "Corey Pandolph",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Barkeater_Lake_600_8825992876.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -5511,6 +5582,7 @@
 	"barneyandclyde": {
 		"author": "Gene Weingarten; Dan Weingarten & David Clark",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Barney_And_Clyde_600_1aba78d9f3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -5725,6 +5797,7 @@
 	"basicinstructions": {
 		"author": "Scott Meyer",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Basic_Instructions_600_4c552df911.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -5784,6 +5857,7 @@
 	"batch-rejection": {
 		"author": "Garey McKee",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Batch_Rejection_600_203c0e41e7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -5858,6 +5932,7 @@
 	"bc": {
 		"author": "Johnny Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_B_C_600_c58b6ccb81.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6072,6 +6147,7 @@
 	"beardo": {
 		"author": "Dan Dougherty",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Beardo_600_c553884eb8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6291,6 +6367,7 @@
 	"ben": {
 		"author": "Daniel Shelton",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ben_600_fe535e6b36.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6510,6 +6587,7 @@
 	"berger-and-wyse": {
 		"author": "Pascal Wyse",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Berger_And_Wyse_600_abeb330974.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6524,6 +6602,7 @@
 	"berkeley-mews": {
 		"author": "Ben Zaehringer",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Berkeley_Mews_600_80238a51c7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6558,6 +6637,7 @@
 	"betty": {
 		"author": "Gerry Rasmussen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Betty_600_e35c4da933.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6772,6 +6852,7 @@
 	"bfgf-syndrome": {
 		"author": "Patabot",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_BFGF_Syndrome_600_3acb803e60.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -6841,6 +6922,7 @@
 	"bignate": {
 		"author": "Lincoln Peirce",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Big_Nate_600_1_61e7f5be98.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7055,6 +7137,7 @@
 	"bigtop": {
 		"author": "Rob Harrell",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Big_Top_600_9026b5f7b6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7266,9 +7349,65 @@
 		"title": "Big Top",
 		"url": "https://www.gocomics.com/bigtop"
 	},
+	"bill-bramhall": {
+		"author": "Bill Bramhall",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Bill_Bramhall_600_96398a489e.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/b255c0c0f7ac013d9aa1005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/04/09"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/451c33f0f618013d9a3c005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/04/07"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ae1049b0f3ba013d99d7005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/04/05"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/2fdaa350f2d4013d99a5005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/de5f1300f21d013d997f005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d91b7870f141013d9957005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f7ef8910f07e013d992d005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/03/31"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1f6d90e0ed56013d98a2005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9339a7e0ec84013d986b005056a9545d",
+				"url": "https://www.gocomics.com/bill-bramhall/2025/03/26"
+			}
+		],
+		"title": "Bill Bramhall",
+		"url": "https://www.gocomics.com/bill-bramhall"
+	},
 	"bird-and-moon": {
 		"author": "Rosemary Mosco",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bird_And_Moon_600_80f6643f46.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7283,6 +7422,7 @@
 	"birdbrains": {
 		"author": "Thom Bluemel",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Birdbrains_600_b3d6e56b2a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7497,6 +7637,7 @@
 	"bleeker": {
 		"author": "Jonathan Mahood",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bleeker_the_Rechargable_Dog_600_15076dc702.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7721,6 +7862,7 @@
 	"bliss": {
 		"author": "Harry Bliss",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bliss_600_b345e367c1.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7940,6 +8082,7 @@
 	"bloom-county": {
 		"author": "Berkeley Breathed",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bloom_County_Continues_600_226b6e146b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -7954,6 +8097,7 @@
 	"bloomcounty": {
 		"author": "Berkeley Breathed",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bloom_County_600_88ab522c2d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -8173,6 +8317,7 @@
 	"bob-the-angry-flower": {
 		"author": "Stephen Notley",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bob_the_Angry_Flower_600_90557ccf2b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -8244,9 +8389,20 @@
 		"title": "Bob the Angry Flower",
 		"url": "https://www.gocomics.com/bob-the-angry-flower"
 	},
+	"bobgorrell": {
+		"author": "Bob Gorrell",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bob_Gorrell_600_953c4ae501.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Bob Gorrell",
+		"url": "https://www.gocomics.com/bobgorrell"
+	},
 	"bobthesquirrel": {
 		"author": "Frank Page",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bob_the_Squirrel_600_83fce296cc.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -8461,6 +8617,7 @@
 	"bonanas": {
 		"author": "John Kovaleski",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bo_Nanas_600_e054563ad3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -8675,6 +8832,7 @@
 	"boomerangs": {
 		"author": " Jack Pullan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Boomerangs_600_74e35ee095.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -8899,6 +9057,7 @@
 	"boondocks": {
 		"author": "Aaron McGruder",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Boondocks_600_866b266947.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -9113,6 +9272,7 @@
 	"bottomliners": {
 		"author": "Eric and Bill Teitelbaum",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bottom_Liners_600_1461524d6b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -9332,6 +9492,7 @@
 	"boundandgagged": {
 		"author": "Dana Summers",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bound_And_Gagged_600_dbd9416ddb.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -9546,6 +9707,7 @@
 	"bozo": {
 		"author": "Foxo Reardon",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bozo_600_a038c0d299.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -9780,6 +9942,7 @@
 	"breaking-cat-news": {
 		"author": "Georgia Dunn",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Breaking_Cat_News_600_cec4026ae6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -9994,6 +10157,7 @@
 	"brevity": {
 		"author": "Dan Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Brevity_600_641ed52ed1.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -10208,6 +10372,7 @@
 	"brewsterrockit": {
 		"author": "Tim Rickard",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Brewster_Rockit_600_289f40d283.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -10419,9 +10584,30 @@
 		"title": "Brewster Rockit",
 		"url": "https://www.gocomics.com/brewsterrockit"
 	},
+	"brian-mcfadden": {
+		"author": "Brian McFadden",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Brian_Mc_Fadden_600_5f0981374e.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/34ddd2e0f385013d99c6005056a9545d",
+				"url": "https://www.gocomics.com/brian-mcfadden/2025/04/07"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/dc043f80ee07013d98ca005056a9545d",
+				"url": "https://www.gocomics.com/brian-mcfadden/2025/03/27"
+			}
+		],
+		"title": "Brian McFadden",
+		"url": "https://www.gocomics.com/brian-mcfadden"
+	},
 	"broomhilda": {
 		"author": "Russell Myers",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Broom_Hilda_600_dca67e6f19.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -10636,6 +10822,7 @@
 	"buckles": {
 		"author": "David Gilbert",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Buckles_600_e7f4916027.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -10850,6 +11037,7 @@
 	"bully": {
 		"author": "Andrew Paavola",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Bully_600_696586f0cf.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -11049,6 +11237,7 @@
 	"buni": {
 		"author": "Ryan Pagelow",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Buni_600_1f4012e0ef.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -11178,6 +11367,7 @@
 	"calvinandhobbes": {
 		"author": "Bill Watterson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Calvin_And_Hobbes_600_1_0b65dbbe18.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -11392,6 +11582,7 @@
 	"calvinandhobbesespanol": {
 		"author": "Bill Watterson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Calvin_And_Hobbes_600_85327fa187.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -11606,6 +11797,7 @@
 	"cathy": {
 		"author": "Cathy Guisewite",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cathy_Classics_600_468e8117db.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -11820,6 +12012,7 @@
 	"cathy-commiserations": {
 		"author": "Cathy Guisewite",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cathy_Commiserations_600_8aa6038aae.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -11834,6 +12027,7 @@
 	"cats-cafe": {
 		"author": "Gwen Tarpley",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cats_Cafe_600_f3146d63e6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -11848,6 +12042,7 @@
 	"cattitude-doggonit": {
 		"author": "Anthony Smith",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cattitude_Doggonit_600_4e9a028489.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12077,6 +12272,7 @@
 	"cestlavie": {
 		"author": "Jennifer Babcock",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_C_est_La_Vie_600_9a385ee743.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12216,6 +12412,7 @@
 	"cheer-up-emo-kid": {
 		"author": "Enzo Comics",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cheer_Up_Emo_Kid_600_bc8ec988c3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12227,9 +12424,105 @@
 		"title": "Cheer Up, Emo Kid",
 		"url": "https://www.gocomics.com/cheer-up-emo-kid"
 	},
+	"chipbok": {
+		"author": "Chip Bok",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Chip_Bok_600_13bd046236.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/dd523440f73d013d9a91005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/068690f0f653013d9a51005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/08"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/31101f60f350013d99c2005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e9dcf4f0f286013d9996005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d51ef1d0f243013d9984005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d845d4a0f0d2013d9946005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/01"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/63ec3260edae013d98bf005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/250b4450ece5013d988d005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/03/27"
+			}
+		],
+		"title": "Chip Bok",
+		"url": "https://www.gocomics.com/chipbok"
+	},
+	"chrisbritt": {
+		"author": "Chris Britt",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Chris_Britt_600_e25aba1479.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/738fabb0f631013d9a42005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a6351c70f3f7013d99e3005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/53dea2a0f2eb013d99ab005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/83175260f17a013d995f005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/410883f0f0b1013d9940005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/03/31"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/dff4b790ee55013d98e0005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/afb69b40ed8c013d98b7005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/03/27"
+			}
+		],
+		"title": "Chris Britt",
+		"url": "https://www.gocomics.com/chrisbritt"
+	},
 	"chuckdrawsthings": {
 		"author": "Chuck Mullin",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Chuck_Draws_Things_600_3346bb99d7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12249,6 +12542,7 @@
 	"chucklebros": {
 		"author": "Brian and Ron Boychuk",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Chuckle_Bros_600_ab0cc99f6c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12463,6 +12757,7 @@
 	"citizendog": {
 		"author": "Mark O'Hare",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Citizen_Dog_600_350d7bb955.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12677,6 +12972,7 @@
 	"claw": {
 		"author": "Cathy Law",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Claw_600_3a00a9ac7e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12688,9 +12984,155 @@
 		"title": "Claw",
 		"url": "https://www.gocomics.com/claw"
 	},
+	"claybennett": {
+		"author": "Clay Bennett",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Clay_Bennett_600_065b26fa04.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e5369970f630013d9a40005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/04/08"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5c2c62e0f2ba013d999d005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/04/06"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ab780ec0f3de013d99d0005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/04/05"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/95723ca0f30f013d99b1005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/04/04"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/36732bc0f1b1013d9954005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4f56aff0f0ba013d993f005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/04/01"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8129fb90ed41013d989a005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/03/30"
+			},
+			{
+				"date": "2025-03-29",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9a8a2d20ee70013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/03/29"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/b0612e50ed93013d98b5005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/03/28"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ac85c0f0ec01013d9845005056a9545d",
+				"url": "https://www.gocomics.com/claybennett/2025/03/26"
+			}
+		],
+		"title": "Clay Bennett",
+		"url": "https://www.gocomics.com/claybennett"
+	},
+	"clayjones": {
+		"author": "Clay Jones",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Clay_Jones_600_c8271832f6.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7c5080d0f6f8013d9a89005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/21dd7210f657013d9a53005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/296c5c30f566013d9a0d005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/07"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e3cca100f49a013d99f6005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/06"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/509ebc40f40a013d99e6005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/05"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/dabbd480f33a013d99c0005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5b07b370f254013d998d005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/78222380f165013d995d005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ba4f5990f063013d9922005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/62855480f01a013d9915005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/03/31"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1d3ed590ef23013d98f2005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/03/30"
+			},
+			{
+				"date": "2025-03-29",
+				"imageUrl": "https://featureassets.gocomics.com/assets/70751d00ee90013d98eb005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/03/29"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5bb33a40ed9d013d98ba005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/b528e1d0ec9d013d9876005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/50c8c740ec11013d984d005056a9545d",
+				"url": "https://www.gocomics.com/clayjones/2025/03/26"
+			}
+		],
+		"title": "Clay Jones",
+		"url": "https://www.gocomics.com/clayjones"
+	},
 	"cleats": {
 		"author": "Bill Hinds",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cleats_600_c92e197329.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -12905,6 +13347,7 @@
 	"closetohome": {
 		"author": "John McPherson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Close_to_Home_600_38fb7244a2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -13119,6 +13562,7 @@
 	"compu-toon": {
 		"author": "Charles Boyce",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Compu_toon_600_a915d9f3da.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -13333,6 +13777,7 @@
 	"cornered": {
 		"author": "Mike Baldwin",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cornered_600_bd41046a9a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -13547,6 +13992,7 @@
 	"cowandboy": {
 		"author": "Mark Leiknes ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cow_and_Boy_Classics_600_80afddb0f3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -13771,6 +14217,7 @@
 	"cowtown": {
 		"author": "Charlie Podrebarac",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cow_Town_600_d6cf02d579.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -13985,6 +14432,7 @@
 	"crabgrass": {
 		"author": "Tauhid Bondia",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Crabgrass_600_cdb8917767.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -14199,6 +14647,7 @@
 	"crankshaft": {
 		"author": "Tom Batiuk and Dan Davis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Crankshaft_600_fe7dd9e019.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -14413,6 +14862,7 @@
 	"crumb": {
 		"author": "David Fletcher",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Crumb_600_7f08882353.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -14632,6 +15082,7 @@
 	"culdesac": {
 		"author": "Richard Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Cul_De_Sac_600_56fc106cdc.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -14846,6 +15297,7 @@
 	"curses": {
 		"author": "Chelsea Carr",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Curses_600_3f998e3900.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -15045,6 +15497,7 @@
 	"daddyshome": {
 		"author": "Tony Rubino and Gary Markstein",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Daddys_Home_600_93c8cc3a6d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -15256,9 +15709,70 @@
 		"title": "Daddy's Home",
 		"url": "https://www.gocomics.com/daddyshome"
 	},
+	"danasummers": {
+		"author": "Dana Summers",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dana_Summers_600_cecaef6d37.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c8a68690f782013d9a98005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/00b3fee0f6c2013d9a6f005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a54c4c00f5f4013d9a2f005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/26fc0d50f399013d99cd005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e3e11ba0f2cd013d99a3005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/b922de00f204013d9978005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/bf87f310f13f013d9956005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/96022d30f076013d9928005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/03/31"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/072031c0ed54013d98a0005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a9abec60ec86013d986d005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/03/26"
+			}
+		],
+		"title": "Dana Summers",
+		"url": "https://www.gocomics.com/danasummers"
+	},
 	"darksideofthehorse": {
 		"author": "Samson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dark_Side_Of_The_Horse_600_e7c4de395e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -15473,6 +15987,7 @@
 	"day-by-dave": {
 		"author": "Dave Whamond ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Day_by_Dave_600_21549f8396.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -15687,6 +16202,7 @@
 	"deep-dark-fears": {
 		"author": "Fran Krause",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Deep_Dark_Fears_600_6b3e3ec70f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -15726,6 +16242,7 @@
 	"deflocked": {
 		"author": "Jeff Corriveau",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_De_Flocked_600_d0147067b7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -15940,6 +16457,7 @@
 	"diamondlil": {
 		"author": "Brett Koth",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Diamond_Lil_600_7e2caa1cb4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -16154,6 +16672,7 @@
 	"dicktracy": {
 		"author": "Mike Curtis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dick_Tracy_600_cad654d57d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -16368,6 +16887,7 @@
 	"dinetteset": {
 		"author": "Julie Larson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Dinette_Set_600_ef3f2a4fb7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -16582,6 +17102,7 @@
 	"dinosaur-comics": {
 		"author": "Ryan North",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dinosaur_Comics_600_7c96c70a05.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -16806,6 +17327,7 @@
 	"dogeatdoug": {
 		"author": "Brian Anderson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dog_Eat_Doug_600_2bc2034c77.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -17020,6 +17542,7 @@
 	"dogsofckennel": {
 		"author": "Mick and Mason Mastroianni",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dogs_Of_C_Kennel_600_a3e57ce8a8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -17234,6 +17757,7 @@
 	"domesticabuse": {
 		"author": "Jeremy Lambros",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Domestic_Abuse_600_e4c5b9fd18.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -17363,6 +17887,7 @@
 	"don-brutus": {
 		"author": "Chip Sansom",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Born_Loser_600_f2555ff5b8.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -17582,6 +18107,7 @@
 	"doodle-for-food": {
 		"author": "Megan McKay",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Doodle_For_Food_600_0dabdae431.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -17596,6 +18122,7 @@
 	"doodle-town": {
 		"author": "Melissa Lomax",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Doodle_Town_600_582a05d869.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -17735,6 +18262,7 @@
 	"doonesbury": {
 		"author": "Garry Trudeau",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Doonesbury_600_fab71f69b0.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -17949,6 +18477,7 @@
 	"drabble": {
 		"author": "Kevin Fagan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Drabble_600_8dfac90300.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -18163,6 +18692,7 @@
 	"drewlitton": {
 		"author": "Drew Litton",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Win_Lose_Drew_600_7022bd02d3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -18294,9 +18824,55 @@
 		"title": "Win, Lose, Drew",
 		"url": "https://www.gocomics.com/drewlitton"
 	},
+	"drewsheneman": {
+		"author": "Drew Sheneman",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Drew_Sheneman_600_592d582ffa.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c6719e60f6c5013d9a73005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c4cd9ba0f6c5013d9a73005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7e313580f3a9013d99d1005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/04/04"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/13e1a730f241013d9983005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/04/02"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5a7e1b20f0a6013d993e005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/03/31"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a2af59b0ec8e013d9872005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9e318330ec8e013d9872005056a9545d",
+				"url": "https://www.gocomics.com/drewsheneman/2025/03/26"
+			}
+		],
+		"title": "Drew Sheneman",
+		"url": "https://www.gocomics.com/drewsheneman"
+	},
 	"duplex": {
 		"author": "Glenn McCoy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Duplex_600_5e63303100.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -18511,6 +19087,7 @@
 	"edge-city": {
 		"author": "Terry and Patty LaBan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Edge_City_600_7e85649a0f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -18725,6 +19302,7 @@
 	"eek": {
 		"author": "Scott Nickel",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Eek_600_f28d1b83c5.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -18959,6 +19537,7 @@
 	"el-cafe-de-poncho": {
 		"author": "Paul Gilligan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pooch_Cafe_600_c6f49c01fa.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -19173,6 +19752,7 @@
 	"emmy-lou": {
 		"author": "Marty Links",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Emmy_Lou_600_da45abcba2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19187,6 +19767,7 @@
 	"endtown": {
 		"author": "Aaron Neathery",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Endtown_600_4fc344e3df.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19238,9 +19819,30 @@
 		"title": "Endtown",
 		"url": "https://www.gocomics.com/endtown"
 	},
+	"eric-allie": {
+		"author": "Eric Allie",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Eric_Allie_600_494292cb5a.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/18442b70f396013d99cc005056a9545d",
+				"url": "https://www.gocomics.com/eric-allie/2025/04/04"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e08e6230ee15013d98ce005056a9545d",
+				"url": "https://www.gocomics.com/eric-allie/2025/03/28"
+			}
+		],
+		"title": "Eric Allie",
+		"url": "https://www.gocomics.com/eric-allie"
+	},
 	"everyday-people-cartoons": {
 		"author": "Cathy Thorne",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Everyday_People_Cartoons_600_849ec02a62.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19255,6 +19857,7 @@
 	"eyebeam": {
 		"author": "Sam Hurt",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Eyebeam_600_58e8605736.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19329,6 +19932,7 @@
 	"false-knees": {
 		"author": "Joshua Barkman",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Flase_Knees_600_cb0f532071.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19343,6 +19947,7 @@
 	"familytree": {
 		"author": "Signe Wilkinson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Family_Tree_600_d23bfa6873.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19557,6 +20162,7 @@
 	"farcus": {
 		"author": "David Waisglass and Gordon Coulthart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Farcus_600_5ef86626bb.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19771,6 +20377,7 @@
 	"fat-cats": {
 		"author": "Charlie Podrebarac",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Fat_Cats_600_15b55c5fd7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -19990,6 +20597,7 @@
 	"floandfriends": {
 		"author": "Jenny Campbell",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Flo_And_Friends_600_650a57a7a7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20204,6 +20812,7 @@
 	"fminus": {
 		"author": "Tony Carrillo",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_F_Minus_600_1c453d7072.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20418,6 +21027,7 @@
 	"foolish-mortals": {
 		"author": "Tom Horacek",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Foolish_Mortals_600_709e19e746.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20497,6 +21107,7 @@
 	"forbetterorforworse": {
 		"author": "Lynn Johnston",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_For_Better_Or_For_Worse_600_5f96fb1891.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20711,6 +21322,7 @@
 	"forheavenssake": {
 		"author": "Mike Morgan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_For_Heavens_Sake_600_8c400ad73b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20785,6 +21397,7 @@
 	"four-eyes": {
 		"author": "Gemma Correll",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Four_Eyes_600_539c84df82.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20799,6 +21412,7 @@
 	"fowl-language": {
 		"author": "Brian Gordon",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Fowl_Language_600_8e48c8a6de.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -20933,6 +21547,7 @@
 	"foxtrot": {
 		"author": "Bill Amend",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Foxtrot_600_8460354017.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -21007,6 +21622,7 @@
 	"foxtrotclassics": {
 		"author": "Bill Amend",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Fox_Trot_Classics_600_58777256e2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -21226,6 +21842,7 @@
 	"foxtrotespanol": {
 		"author": "Bill Amend",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Foxtrot_600_e1b6e63aec.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -21440,6 +22057,7 @@
 	"francis": {
 		"author": "Patrick J. Marrin",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Francis_600_86e142f784.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -21559,6 +22177,7 @@
 	"frank-and-ernest": {
 		"author": "Thaves ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Frank_And_Ernest_600_d8ddf9b252.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -21773,6 +22392,7 @@
 	"frazz": {
 		"author": "Jef Mallett",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Frazz_600_c498af3ebe.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -21987,6 +22607,7 @@
 	"fredbasset": {
 		"author": "Alex Graham",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Fred_Basset_600_bbf56a1510.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -22201,6 +22822,7 @@
 	"fredbassetespanol": {
 		"author": "Alex Graham",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Fred_Basset_600_95fa651d1e.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -22415,6 +23037,7 @@
 	"freerange": {
 		"author": "Bill Whitehead",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Free_Range_600_602de12c92.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -22629,6 +23252,7 @@
 	"freshlysqueezed": {
 		"author": "Ed Stein",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Freshly_Squeezed_600_35161e5d1e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -22843,6 +23467,7 @@
 	"frogapplause": {
 		"author": "Teresa Burritt",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Frog_Applause_600_319f1ded47.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -22987,6 +23612,7 @@
 	"funky-winkerbean": {
 		"author": "Tom Batiuk",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Funky_Winkerbean_600_b4772b0e51.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -23201,6 +23827,7 @@
 	"furbabies": {
 		"author": "Nancy Beiman",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Fur_Babies_600_bca0ee35db.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -23415,6 +24042,7 @@
 	"g-man-webcomics": {
 		"author": "Chris Giarrusso",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_G_Man_Webcomics_600_3b5f421086.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -23429,6 +24057,7 @@
 	"garfield": {
 		"author": "Jim Davis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Garfield_600_1_3dccbb954f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -23643,6 +24272,7 @@
 	"garfieldespanol": {
 		"author": "Jim Davis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Garfield_600_7e2ad99456.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -23859,9 +24489,65 @@
 		"title": "Garfield en Español",
 		"url": "https://www.gocomics.com/garfieldespanol"
 	},
+	"garymarkstein": {
+		"author": "Gary Markstein",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gary_Markstein_600_6aa049b27d.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/65736fe0f3b4013d99d3005056a9545d",
+				"url": "https://www.gocomics.com/garymarkstein/2025/04/04"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c88d7740f0d2013d9946005056a9545d",
+				"url": "https://www.gocomics.com/garymarkstein/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/cad85990f0d2013d9946005056a9545d",
+				"url": "https://www.gocomics.com/garymarkstein/2025/03/31"
+			}
+		],
+		"title": "Gary Markstein",
+		"url": "https://www.gocomics.com/garymarkstein"
+	},
+	"garyvarvel": {
+		"author": "Gary Varvel",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gary_Varvel_600_56539c2fc2.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1936ef30f6d9013d9a7c005056a9545d",
+				"url": "https://www.gocomics.com/garyvarvel/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/83472180f674013d9a5a005056a9545d",
+				"url": "https://www.gocomics.com/garyvarvel/2025/04/08"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5e478130f2eb013d99ab005056a9545d",
+				"url": "https://www.gocomics.com/garyvarvel/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8626c400f17a013d995f005056a9545d",
+				"url": "https://www.gocomics.com/garyvarvel/2025/04/02"
+			}
+		],
+		"title": "Gary Varvel",
+		"url": "https://www.gocomics.com/garyvarvel"
+	},
 	"gasolinealley": {
 		"author": "Jim Scancarelli",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gasoline_Alley_600_425943d7ed.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -24076,6 +24762,7 @@
 	"gaturro": {
 		"author": "NIK",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gaturro_600_0343d34baa.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -24290,6 +24977,7 @@
 	"geech": {
 		"author": "Jerry Bittle",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Geech_600_117192af22.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -24504,6 +25192,7 @@
 	"getalife": {
 		"author": "Tim Lachowski ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Get_A_Life_600_a8ca73c409.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -24518,6 +25207,7 @@
 	"getfuzzy": {
 		"author": "Darby Conley",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Get_Fuzzy_600_004e4cf772.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -24732,6 +25422,7 @@
 	"gil": {
 		"author": "Norm Feuti",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gil_600_d128e35800.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -24806,6 +25497,7 @@
 	"gilthorp": {
 		"author": "Henry Barajas and Rachel Merrill",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gil_Thorp_600_4ab97d5463.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -25025,6 +25717,7 @@
 	"gingermeggs": {
 		"author": "Jason Chatfield",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ginger_Meggs_600_abe2a7f6a2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -25239,6 +25932,7 @@
 	"gingermeggs-espanol": {
 		"author": "Jason Chatfield",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ginger_Meggs_600_aa7c0dc730.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -25453,6 +26147,7 @@
 	"glasbergen-cartoons": {
 		"author": "Randy Glasbergen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Glasbergen_Cartoons_600_539b31aac0.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -25672,6 +26367,7 @@
 	"globetrotter": {
 		"author": "Ainsley Ashby",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Globetrotter_600_044094489c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -25906,6 +26602,7 @@
 	"goats": {
 		"author": "Jon Rosenberg",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Goats_600_8111c1ff60.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -26105,6 +26802,7 @@
 	"grand-avenue": {
 		"author": "Mike Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Grand_Adventure_600_7c08d57563.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -26319,6 +27017,7 @@
 	"gray-matters": {
 		"author": "Stuart Carlson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Gray_Matters_600_faaa4faee6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -26533,6 +27232,7 @@
 	"green-humour": {
 		"author": "Rohan Chakravarty",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Green_Humor_600_b2c1d0965f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -26607,6 +27307,7 @@
 	"haircut-practice": {
 		"author": "Adam Koford",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Haircut_Practice_600_42c5df0bc9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -26681,6 +27382,7 @@
 	"half-full": {
 		"author": "Maria Scrivan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Half_Full_600_ba67423074.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -26880,6 +27582,7 @@
 	"harley": {
 		"author": "Dan Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Harley_600_f0b0dea340.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -27094,6 +27797,7 @@
 	"heartofthecity": {
 		"author": "Steenz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Heart_Of_The_City_600_95f179c584.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -27308,6 +28012,7 @@
 	"heathcliff": {
 		"author": "George Gately",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Healthcliff_600_897f964629.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -27522,6 +28227,7 @@
 	"heathcliffespanol": {
 		"author": "George Gately",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Healthcliff_600_6efc345c0e.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -27743,9 +28449,35 @@
 		"title": "Heathcliff en Español",
 		"url": "https://www.gocomics.com/heathcliffespanol"
 	},
+	"henrypayne": {
+		"author": "Henry Payne",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Henry_Payne_600_f1db1104f0.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c23e9390f6c2013d9a65005056a9545d",
+				"url": "https://www.gocomics.com/henrypayne/2025/04/07"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/985d0490f21b013d997c005056a9545d",
+				"url": "https://www.gocomics.com/henrypayne/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9b7c91d0f06d013d9925005056a9545d",
+				"url": "https://www.gocomics.com/henrypayne/2025/03/31"
+			}
+		],
+		"title": "Henry Payne",
+		"url": "https://www.gocomics.com/henrypayne"
+	},
 	"herbandjamaal": {
 		"author": "Stephen Bentley",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Herb_And_Jamaal_600_068cb4d42e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -27960,6 +28692,7 @@
 	"herman": {
 		"author": "Jim Unger",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Herman_600_7f0985e13f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -28174,6 +28907,7 @@
 	"homeandaway": {
 		"author": "Steve Sicula",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Home_And_Away_600_a3f202198b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -28388,6 +29122,7 @@
 	"homefree": {
 		"author": "Tom Toro",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Home_Free_600_1_71f7beceb7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -28587,6 +29322,7 @@
 	"hot-comics-for-cool-people": {
 		"author": "Brandon Sheffield",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Hot_Comics_For_Cool_People_600_f2b6d11f99.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -28601,6 +29337,7 @@
 	"humble-stumble": {
 		"author": "Roy Schneider",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Humble_Stumble_600_9afa1a500d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -28815,6 +29552,7 @@
 	"hutch-owen": {
 		"author": "Tom Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Hutch_Owen_600_68133db76a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -28829,6 +29567,7 @@
 	"imaginethis": {
 		"author": "Lucas Turnbloom",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Imagine_This_600_a5b3c41207.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29053,6 +29792,7 @@
 	"imogen-quest": {
 		"author": "Olivia Walch",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Imogen_Quest_600_04c45349ee.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29067,6 +29807,7 @@
 	"in-security": {
 		"author": "Bea R.",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_In_Security_600_133e162644.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29281,6 +30022,7 @@
 	"inkpen": {
 		"author": "Phil Dunlap",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ink_Pen_600_2c87fabe7f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29495,6 +30237,7 @@
 	"inthebleachers": {
 		"author": "Ben Zaehringer",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_In_The_Bleachers_600_b61510d616.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29709,6 +30452,7 @@
 	"inthesticks": {
 		"author": "Nathan Cooper",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_In_The_Sticks_600_67396cc828.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29928,6 +30672,7 @@
 	"invisible-bread": {
 		"author": "Justin Boyd",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Invisible_Bread_600_1b257956d1.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -29942,6 +30687,7 @@
 	"itsallaboutyou": {
 		"author": "Tony Murphy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Its_All_About_You_600_2949295a0d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -30153,9 +30899,55 @@
 		"title": "It's All About You",
 		"url": "https://www.gocomics.com/itsallaboutyou"
 	},
+	"jackohman": {
+		"author": "Jack Ohman",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jack_Ohman_600_b442451df8.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/afc20260f6ef013d9a88005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ea9c4c80f6de013d9a83005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/04/08"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/78348fb0f2f9013d99b0005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/166d8c60f241013d9983005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/acecd680f188013d9963005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/04/01"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4fd12ea0ed79013d98b3005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4ca070d0ecc9013d9883005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/03/26"
+			}
+		],
+		"title": "Jack Ohman",
+		"url": "https://www.gocomics.com/jackohman"
+	},
 	"jake-likes-onions": {
 		"author": "Jake Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jake_Likes_Onions_600_4c31b19b17.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -30170,6 +30962,7 @@
 	"janesworld": {
 		"author": "Paige Braddock",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Janes_World_600_82272cbd50.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -30391,9 +31184,155 @@
 		"title": "Jane's World",
 		"url": "https://www.gocomics.com/janesworld"
 	},
+	"jeffdanziger": {
+		"author": "Jeff Danziger",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jeff_Danziger_600_a85412d28b.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e262bd00f2c1013d999f005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/04/05"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8a9fca50f24f013d997c005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0a813b30f13f013d9954005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8843d240f0b0013d993f005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f0831220f064013d9923005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/039679d0ee54013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/03/31"
+			},
+			{
+				"date": "2025-03-29",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0ff9ea10ed91013d98b5005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/03/29"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fc95fdf0ed51013d989f005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f288fea0ecb7013d987c005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5a4d9390ebf6013d983e005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/03/26"
+			}
+		],
+		"title": "Jeff Danziger",
+		"url": "https://www.gocomics.com/jeffdanziger"
+	},
+	"jeffstahler": {
+		"author": "Jeff Stahler",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jeff_Stahler_600_a93d46b0c2.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1f1e1e90f7b5013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/300ce470f61d013d9a38005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/08"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/59636cf0f3a4013d99d0005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/06"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/917478e0f5f2013d9a2d005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/05"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/692c8ec0f2f1013d99a6005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/696501d0f194013d9954005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c0fccbb0f0a6013d993a005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/04/01"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9fd6df80ee33013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/03/30"
+			},
+			{
+				"date": "2025-03-29",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5cc64e00ee63013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/03/29"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/70430180ebd9013d9834005056a9545d",
+				"url": "https://www.gocomics.com/jeffstahler/2025/03/26"
+			}
+		],
+		"title": "Jeff Stahler",
+		"url": "https://www.gocomics.com/jeffstahler"
+	},
+	"jen-sorensen": {
+		"author": "Jen Sorensen",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jen_Sorensen_600_9835635d56.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0e6bd660f7b5013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/jen-sorensen/2025/04/09"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/58cdc2b0f16b013d9954005056a9545d",
+				"url": "https://www.gocomics.com/jen-sorensen/2025/04/02"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5bd29f40ebc8013d9831005056a9545d",
+				"url": "https://www.gocomics.com/jen-sorensen/2025/03/26"
+			}
+		],
+		"title": "Jen Sorensen",
+		"url": "https://www.gocomics.com/jen-sorensen"
+	},
 	"jerry-king-comics": {
 		"author": "Jerry King",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jerry_King_Comics_600_1a0f946319.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -30608,6 +31547,7 @@
 	"jim-benton-cartoons": {
 		"author": "Jim Benton",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jim_Benton_Cartoons_600_6fdc824604.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -30804,9 +31744,245 @@
 		"title": "Jim Benton Cartoons",
 		"url": "https://www.gocomics.com/jim-benton-cartoons"
 	},
+	"jimmorin": {
+		"author": "Jim Morin",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jim_Morin_600_8e0a4b5663.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Jim Morin",
+		"url": "https://www.gocomics.com/jimmorin"
+	},
+	"joe-heller": {
+		"author": "Joe Heller",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Joe_Heller_600_9a3d2d8933.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/53f09c60f7ae013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8ab4e7d0f622013d9a38005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/04/08"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9ebdca70f587013d9a14005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/04/06"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1a4910b0f222013d997c005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/854ce5b0f19c013d9954005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f0a4a600f0c6013d9944005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/91f0c290f01d013d9916005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/03/31"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/da21b1a0eda8013d98bd005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/03/28"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c020aca0ebef013d983e005056a9545d",
+				"url": "https://www.gocomics.com/joe-heller/2025/03/26"
+			}
+		],
+		"title": "Joe Heller",
+		"url": "https://www.gocomics.com/joe-heller"
+	},
+	"joelpett": {
+		"author": "Joel Pett",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Joe_Pett_600_7d5dc82fc3.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8ea6ec10f7bf013d9aa4005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/04/09"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/20636330f62b013d9a3f005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f6f15840f3c0013d99db005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/67a27230f304013d99b2005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/70ec5180f22a013d9982005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/04/02"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1671f790ee1b013d98d1005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/36d7faf0ed84013d98b6005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/03/27"
+			}
+		],
+		"title": "Joel Pett",
+		"url": "https://www.gocomics.com/joelpett"
+	},
+	"joey-weatherford": {
+		"author": "Joey Weatherford",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Joey_Weatherford_600_d46304a752.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/cacd5670f782013d9a98005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e8536880f6bf013d9a6b005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a7995780f5f4013d9a2f005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/298dad20f399013d99cd005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e617b580f2cd013d99a3005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/bb732500f204013d9978005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c1ea7f20f13f013d9956005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/19885bc0ee1b013d98d1005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/03/31"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fe20b2d0ee18013d98cf005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0b80bc90ed54013d98a0005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/96298a00ec84013d986b005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/03/26"
+			}
+		],
+		"title": "Joey Weatherford",
+		"url": "https://www.gocomics.com/joey-weatherford"
+	},
+	"johndeering": {
+		"author": "John Deering",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_John_Deering_600_d118453fb2.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/62826b60f5ab013d9a1c005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/04/07"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d9df3210f3b4013d99d3005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/04/05"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/47928180f350013d99c2005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/655a1eb0f265013d9991005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/6615d1b0f0f4013d994b005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/97bb0ad0efc6013d9908005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/03/31"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/028e9e10ef62013d98f9005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/03/30"
+			},
+			{
+				"date": "2025-03-29",
+				"imageUrl": "https://featureassets.gocomics.com/assets/13ed20c0ee56013d98e0005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/03/29"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/34a06bd0ece5013d988d005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/6cafbd30ebfa013d9844005056a9545d",
+				"url": "https://www.gocomics.com/johndeering/2025/03/26"
+			}
+		],
+		"title": "John Deering",
+		"url": "https://www.gocomics.com/johndeering"
+	},
 	"jumpstart": {
 		"author": "Robb Armstrong",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Jumpstart_600_278004da68.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -31021,6 +32197,7 @@
 	"junk-drawer": {
 		"author": "Ellis Rosen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Junk_Drawer_600_ec51593d7e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -31045,6 +32222,7 @@
 	"justo-y-franco": {
 		"author": "Thaves ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Frank_And_Ernest_600_7c7fb72412.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -31256,9 +32434,50 @@
 		"title": "Justo y Franco",
 		"url": "https://www.gocomics.com/justo-y-franco"
 	},
+	"kal": {
+		"author": "Kevin Kallaugher",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Kevin_Kallaugher_600_4bf5b2f1d1.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c5b28d40f2d3013d99a4005056a9545d",
+				"url": "https://www.gocomics.com/kal/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c18f1d50f2d3013d99a4005056a9545d",
+				"url": "https://www.gocomics.com/kal/2025/04/03"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/2a8a0610ed55013d98a1005056a9545d",
+				"url": "https://www.gocomics.com/kal/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/27f46950ed55013d98a1005056a9545d",
+				"url": "https://www.gocomics.com/kal/2025/03/26"
+			}
+		],
+		"title": "Kevin Kallaugher",
+		"url": "https://www.gocomics.com/kal"
+	},
+	"kevin-necessary-editorial-cartoons": {
+		"author": "Kevin Necessary",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Kevin_Necessary_600_8316652384.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Kevin Necessary Editorial Cartoons",
+		"url": "https://www.gocomics.com/kevin-necessary-editorial-cartoons"
+	},
 	"kid-beowulf": {
 		"author": "Alexis E. Fajardo",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Kid_Beowulf_600_2667b53a70.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -31393,6 +32612,7 @@
 	"kitchen-capers": {
 		"author": "David Banks",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Kitchen_Capers_600_3c4d3760d3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -31467,6 +32687,7 @@
 	"kliban": {
 		"author": "B. Kliban",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Kiban_600_5816af6373.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -31666,6 +32887,7 @@
 	"klibans-cats": {
 		"author": "B. Kliban",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Klibans_Cats_600_35c5728bda.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -31800,6 +33022,7 @@
 	"la-cucaracha-en-espanol": {
 		"author": "Lalo Alcaraz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_La_Cucaracha_600_1590f47fe7.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -32019,6 +33242,7 @@
 	"lacucaracha": {
 		"author": "Lalo Alcaraz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_La_Cucaracha_600_afa64a66ae.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -32230,9 +33454,35 @@
 		"title": "La Cucaracha",
 		"url": "https://www.gocomics.com/lacucaracha"
 	},
+	"laloalcaraz": {
+		"author": "Lalo Alcaraz",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lalo_Alcaraz_600_53bd4fc7bd.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/23973960f5ef013d9a2c005056a9545d",
+				"url": "https://www.gocomics.com/laloalcaraz/2025/04/04"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/6f745d10f204013d9977005056a9545d",
+				"url": "https://www.gocomics.com/laloalcaraz/2025/04/01"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/6827fbd0ee1f013d98d2005056a9545d",
+				"url": "https://www.gocomics.com/laloalcaraz/2025/03/27"
+			}
+		],
+		"title": "Lalo Alcaraz",
+		"url": "https://www.gocomics.com/laloalcaraz"
+	},
 	"lards-world-peace-tips": {
 		"author": "Keith Tutt and Daniel Saunders",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lards_World_Peace_Tips_600_4740eb6f2e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -32447,6 +33697,7 @@
 	"lastkiss": {
 		"author": "John Lustig",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Last_Kiss_600_da475ab10e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -32651,6 +33902,7 @@
 	"laughing-redhead-comics": {
 		"author": "Teresa Logan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Laughing_Redhead_Comics_600_2c1a7610f6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -32670,6 +33922,7 @@
 	"lay-lines": {
 		"author": "Carol Lay",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lay_Lines_600_720dc66471.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -32749,6 +34002,7 @@
 	"learn-to-speak-cat": {
 		"author": "Anthony Smith",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Learn_To_Speak_Cat_600_6ed07b2d72.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -32973,6 +34227,7 @@
 	"libertymeadows": {
 		"author": "Frank Cho",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Liberty_Meadows_600_0d3cd61b88.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -33187,6 +34442,7 @@
 	"life-on-earth": {
 		"author": "Ham",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Life_on_Earth_600_49e35246f3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -33401,6 +34657,7 @@
 	"lil-abner": {
 		"author": "Al Capp",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lil_Abner_600_41a60f5839.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -33620,6 +34877,7 @@
 	"lio": {
 		"author": "Mark Tatulli",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lio_600_a10cb3c016.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -33834,6 +35092,7 @@
 	"lioespanol": {
 		"author": "Mark Tatulli",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lio_600_13b8a33f35.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -34050,9 +35309,55 @@
 		"title": "Lio en Español",
 		"url": "https://www.gocomics.com/lioespanol"
 	},
+	"lisabenson": {
+		"author": "Lisa Benson",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lisa_Benson_600_fcf76213bd.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/02c63190f6bd013d9a65005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/04/08"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8a9afed0f312013d99b1005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4f125c70f259013d997c005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/8de3a610f140013d9954005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/04/01"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/af2f8310ee1a013d98d0005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/2ef68900ed42013d989a005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/b6314c60ebfe013d983e005056a9545d",
+				"url": "https://www.gocomics.com/lisabenson/2025/03/26"
+			}
+		],
+		"title": "Lisa Benson",
+		"url": "https://www.gocomics.com/lisabenson"
+	},
 	"little-fried-chicken-and-sushi": {
 		"author": "Khalid Birdsong",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Little_Fried_Chicken_and_Sushi_600_5f99c2663e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34192,6 +35497,7 @@
 	"little-moments-of-love": {
 		"author": "Catana Chetwynd",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Catana_Comics_600_9eeb072e5d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34206,6 +35512,7 @@
 	"little-nemo": {
 		"author": "Winsor McCay",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Little_Nemo_600_7275aff6d9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34315,6 +35622,7 @@
 	"littledoglost": {
 		"author": "Steve Boreman ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Little_Dog_Lost_600_58f354757c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34529,6 +35837,7 @@
 	"liz-climo-cartoons": {
 		"author": "Liz Climo",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Liz_Climo_Cartoons_600_5adeda8bfd.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34543,6 +35852,7 @@
 	"lockhorns": {
 		"author": "John Reiner",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Lockhorns_600_a4f448bc39.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34757,6 +36067,7 @@
 	"lola": {
 		"author": "Todd Clark",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Lola_600_42f39e4feb.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -34971,6 +36282,7 @@
 	"lola-en-espanol": {
 		"author": "Todd Clark",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Lola_600_42f39e4feb.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -35185,6 +36497,7 @@
 	"long-story-short": {
 		"author": "Daniel Beyer",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Long_Story_Short_600_e5e90c3975.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -35199,6 +36512,7 @@
 	"looks-good-on-paper": {
 		"author": "Dan Collins",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Looks_Good_On_Paper_600_6b3d8041ad.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -35413,6 +36727,7 @@
 	"looseparts": {
 		"author": "Dave Blazek",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Loose_Parts_600_a91b64d8ee.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -35627,6 +36942,7 @@
 	"los-osorios": {
 		"author": "Bill Schorr",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Grizzwells_600_55835be1f3.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -35846,6 +37162,7 @@
 	"lostsheep": {
 		"author": "Dan Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lost_Sheep_600_b51ddb2655.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -36060,6 +37377,7 @@
 	"luann": {
 		"author": "Greg Evans and Karen Evans",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Luann_600_2_7a9583dbb9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -36274,6 +37592,7 @@
 	"luann-againn": {
 		"author": "Greg Evans",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Luann_Againn_600_e5f8a342a2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -36488,6 +37807,7 @@
 	"luannspanish": {
 		"author": "Greg Evans",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Luann_600_de663a09fd.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -36702,6 +38022,7 @@
 	"luckycow": {
 		"author": "Mark Pett",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lucky_Cow_600_21ac7785d0.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -36916,6 +38237,7 @@
 	"lug-nuts": {
 		"author": "J.C. Duffy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lug_Nuts_600_a22eeae0cc.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -37130,6 +38452,7 @@
 	"lunarbaboon": {
 		"author": "Christopher Grady",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Lunarbaboon_600_ba6b0c2e99.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -37141,9 +38464,35 @@
 		"title": "Lunarbaboon",
 		"url": "https://www.gocomics.com/lunarbaboon"
 	},
+	"m2bulls": {
+		"author": "Marty Two Bulls Sr.",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_M2_Bulls_600_7a0d3e0de0.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9da15430f49f013d99f7005056a9545d",
+				"url": "https://www.gocomics.com/m2bulls/2025/04/09"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/14781730f25d013d997c005056a9545d",
+				"url": "https://www.gocomics.com/m2bulls/2025/04/02"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1760af00edbe013d98c3005056a9545d",
+				"url": "https://www.gocomics.com/m2bulls/2025/03/28"
+			}
+		],
+		"title": "M2Bulls",
+		"url": "https://www.gocomics.com/m2bulls"
+	},
 	"maintaining": {
 		"author": "Nate Creekmore",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Maintaining_600_95992289ea.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -37358,6 +38707,7 @@
 	"mannequin-on-the-moon": {
 		"author": "Ian Boothby and Pia Guerra",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mannequin_on_the_Moon_600_a943829f52.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -37372,6 +38722,7 @@
 	"marias-day": {
 		"author": "John Zakour and Scott Roberts",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Maria_s_Day_600_c7ce2abeb3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -37586,6 +38937,7 @@
 	"marmaduke": {
 		"author": "Brad Anderson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Marmaduke_600_843ce81ad6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -37797,9 +39149,115 @@
 		"title": "Marmaduke",
 		"url": "https://www.gocomics.com/marmaduke"
 	},
+	"marshallramsey": {
+		"author": "Marshall Ramsey",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Marshall_Ramsey_600_d2373fd195.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/30faa170f4e2013d99fe005056a9545d",
+				"url": "https://www.gocomics.com/marshallramsey/2025/04/06"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7dd44b60f32e013d99bc005056a9545d",
+				"url": "https://www.gocomics.com/marshallramsey/2025/04/03"
+			}
+		],
+		"title": "Marshall Ramsey",
+		"url": "https://www.gocomics.com/marshallramsey"
+	},
+	"matt-bors": {
+		"author": "Matt Bors",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Matt_Bors_600_8b4ce8bb04.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Matt Bors",
+		"url": "https://www.gocomics.com/matt-bors"
+	},
+	"mattdavies": {
+		"author": "Matt Davies",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Matt_Davies_600_80f4de2a2c.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/304a0ac0f607013d9a36005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/13f5c150f300013d99a6005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/111ac9b0f300013d99a6005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d8e6f6a0f21e013d997c005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/91d5f8c0f17d013d9954005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/04/01"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/bc13cc50f145013d9954005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/03/30"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/efac9eb0ee30013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ecb36790ee30013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/mattdavies/2025/03/27"
+			}
+		],
+		"title": "Matt Davies",
+		"url": "https://www.gocomics.com/mattdavies"
+	},
+	"mattwuerker": {
+		"author": "Matt Wuerker",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Matt_Wuerker_600_84af48ddfa.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/feffd580f2d4013d99a4005056a9545d",
+				"url": "https://www.gocomics.com/mattwuerker/2025/04/02"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/68d34880f228013d997c005056a9545d",
+				"url": "https://www.gocomics.com/mattwuerker/2025/03/31"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/419f1620ed56013d98a1005056a9545d",
+				"url": "https://www.gocomics.com/mattwuerker/2025/03/26"
+			}
+		],
+		"title": "Matt Wuerker",
+		"url": "https://www.gocomics.com/mattwuerker"
+	},
 	"meaningoflila": {
 		"author": "John Forgetta and L.A. Rose",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Meaning_of_Lila_600_10af05b962.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38014,6 +39472,7 @@
 	"medium-large": {
 		"author": "Francesco Marciuliano",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Medium_Large_600_e305e1ecc5.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38028,6 +39487,7 @@
 	"messy-cow": {
 		"author": "Chen Weng",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Messycow_Comics_600_a88ee31902.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38042,6 +39502,7 @@
 	"mexikid-stories": {
 		"author": "Pedro Martin",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mexikid_Stories_600_da40b9472c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38053,9 +39514,115 @@
 		"title": "Mexikid Stories",
 		"url": "https://www.gocomics.com/mexikid-stories"
 	},
+	"michaelramirez": {
+		"author": "Michael Ramirez",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Michael_Ramirez_600_a46de9d2de.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/bf9b6980f6fa013d9a8b005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d576bbb0f589013d9a15005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d308e6e0f589013d9a15005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/07"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/338d4fd0f4e2013d99fe005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/06"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fbc22dc0f30c013d99b6005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/cfab7fe0f286013d9996005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ffb5f110ef61013d98f9005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fa8e6e90ef61013d98f9005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ba28dd10f08f013d9933005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/03/31"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fcd81040ef61013d98f9005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/03/30"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/44c3e230edae013d98bf005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/17f079e0ece5013d988d005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/73debb40ec3d013d9857005056a9545d",
+				"url": "https://www.gocomics.com/michaelramirez/2025/03/26"
+			}
+		],
+		"title": "Michael Ramirez",
+		"url": "https://www.gocomics.com/michaelramirez"
+	},
+	"mike-beckom": {
+		"author": "Mike Beckom",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mike_Beckom_600_da812209e7.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/bcf5dd80f5dc013d9a25005056a9545d",
+				"url": "https://www.gocomics.com/mike-beckom/2025/04/07"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/2cf48780f2b6013d999c005056a9545d",
+				"url": "https://www.gocomics.com/mike-beckom/2025/04/03"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d959fdb0f060013d9921005056a9545d",
+				"url": "https://www.gocomics.com/mike-beckom/2025/03/31"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0a732680ed4d013d989e005056a9545d",
+				"url": "https://www.gocomics.com/mike-beckom/2025/03/27"
+			}
+		],
+		"title": "Mike Beckom",
+		"url": "https://www.gocomics.com/mike-beckom"
+	},
 	"mike-du-jour": {
 		"author": "Mike Lester",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Mike_du_Jour_600_7afa01a23f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38267,9 +39834,75 @@
 		"title": "Mike du Jour",
 		"url": "https://www.gocomics.com/mike-du-jour"
 	},
+	"mike-lester": {
+		"author": "Mike Lester",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mike_Lester_600_9cfc775562.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/15fbbe90f6c7013d9a65005056a9545d",
+				"url": "https://www.gocomics.com/mike-lester/2025/04/07"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ef62acb0f2e9013d99a6005056a9545d",
+				"url": "https://www.gocomics.com/mike-lester/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/05d57be0f135013d9954005056a9545d",
+				"url": "https://www.gocomics.com/mike-lester/2025/04/01"
+			}
+		],
+		"title": "Mike Lester",
+		"url": "https://www.gocomics.com/mike-lester"
+	},
+	"mikeluckovich": {
+		"author": "Mike Luckovich",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mike_Luckovich_600_3103e3f8b9.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/93c081f0f6fa013d9a8b005056a9545d",
+				"url": "https://www.gocomics.com/mikeluckovich/2025/04/09"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/25da8c10f4e2013d99fe005056a9545d",
+				"url": "https://www.gocomics.com/mikeluckovich/2025/04/06"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d2edd6a0f30c013d99b6005056a9545d",
+				"url": "https://www.gocomics.com/mikeluckovich/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9e534ef0f243013d9984005056a9545d",
+				"url": "https://www.gocomics.com/mikeluckovich/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/707fd5e0f17a013d995f005056a9545d",
+				"url": "https://www.gocomics.com/mikeluckovich/2025/04/02"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d54662d0e9e1013d97c6005056a9545d",
+				"url": "https://www.gocomics.com/mikeluckovich/2025/03/26"
+			}
+		],
+		"title": "Mike Luckovich",
+		"url": "https://www.gocomics.com/mikeluckovich"
+	},
 	"miss-peach": {
 		"author": "Mell Lazarus",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Miss_Peach_600_ff1d900f71.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38489,6 +40122,7 @@
 	"moderately-confused": {
 		"author": "Jeff Stahler ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Moderately_Confused_600_8c9da86eab.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38708,6 +40342,7 @@
 	"molly-and-the-bear": {
 		"author": "Bob Scott",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Molly_and_the_Bear_600_b1e3825581.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -38922,6 +40557,7 @@
 	"momma": {
 		"author": "Mell Lazarus",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Momma_600_4a2bc90ed4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -39136,6 +40772,7 @@
 	"monty": {
 		"author": "Jim Meddick ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Monty_600_98457868b0.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -39350,6 +40987,7 @@
 	"monty-diaros": {
 		"author": "Jim Meddick ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Monty_600_c8aaa968f9.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -39564,6 +41202,7 @@
 	"mother-goose-and-grimm": {
 		"author": "Mike Peters",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mother_Goose_And_Grimm_600_b60999faf6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -39778,6 +41417,7 @@
 	"motley-classics": {
 		"author": "Larry Wright",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Motley_Classics_600_6d8265ecff.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -39792,6 +41432,7 @@
 	"mr-lowe": {
 		"author": "Mark Pett",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mr_Lowe_600_1be2c3c95f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -39956,6 +41597,7 @@
 	"muttandjeff": {
 		"author": "Bud Fisher",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mutt_And_Jeff_600_8a145ff866.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -40175,6 +41817,7 @@
 	"muttandjeffespanol": {
 		"author": "Pierre S. De Beaumont",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mutt_And_Jeff_600_1bfa163ae9.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -40394,6 +42037,7 @@
 	"my-dad-is-dracula": {
 		"author": "Jason Poland",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_My_Dad_is_Dracula_600_e7a7452f4b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -40608,6 +42252,7 @@
 	"mythtickle": {
 		"author": "Justin Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Myth_Tickle_600_d97b8c945d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -40827,6 +42472,7 @@
 	"nancy": {
 		"author": "Olivia Jaimes",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nancy_600_78e63ba574.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -41041,6 +42687,7 @@
 	"nancy-classics": {
 		"author": "Ernie Bushmiller",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nancy_Classics_600_e4e31e184f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -41265,6 +42912,7 @@
 	"nate-el-grande": {
 		"author": "Lincoln Peirce",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Big_Nate_600_df37852098.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -41484,6 +43132,7 @@
 	"nestheads": {
 		"author": "John Allen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nest_Heads_600_73d2325031.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -41698,6 +43347,7 @@
 	"neurotica": {
 		"author": "Allison Garwood",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_NEUROTICA_600_6dab2906c4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -41922,6 +43572,7 @@
 	"next-door-neighbors": {
 		"author": "Pat Sandy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Next_Door_Neighbors_600_a5f48aa512.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42136,6 +43787,7 @@
 	"nick-and-zuzu": {
 		"author": "Nick Galifianakis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nick_And_Zuzu_600_9aebd33bad.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42312,9 +43964,75 @@
 		"title": "Nick and Zuzu",
 		"url": "https://www.gocomics.com/nick-and-zuzu"
 	},
+	"nickanderson": {
+		"author": "Nick Anderson",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nick_Anderson_600_419a24404d.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/836befb0f7a8013d9a9f005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/04/09"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3ac7f410f601013d9a34005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/65feb180f3e0013d99df005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/21011760f2e9013d99aa005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/03d1c6c0f20b013d997b005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7a553c80f165013d995d005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9aa4d3a0f0a2013d993d005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/03/31"
+			},
+			{
+				"date": "2025-03-30",
+				"imageUrl": "https://featureassets.gocomics.com/assets/982cb3c0f076013d9928005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/03/30"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1cbdc350ed56013d98a2005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0059ebd0eca4013d9879005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ac5928b0ec86013d986d005056a9545d",
+				"url": "https://www.gocomics.com/nickanderson/2025/03/26"
+			}
+		],
+		"title": "Nick Anderson",
+		"url": "https://www.gocomics.com/nickanderson"
+	},
 	"nonsequitur": {
 		"author": "Wiley Miller",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Non_Sequitur_600_67d53e9b20.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42529,6 +44247,7 @@
 	"not-invented-here": {
 		"author": "Bill Barnes and friends",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Not_Invented_Here_600_2afaf0503c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42543,6 +44262,7 @@
 	"nothing-is-not-something": {
 		"author": "Greg Wallace",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nothing_Is_Not_Something_600_7d3e982352.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42617,6 +44337,7 @@
 	"now-recharging": {
 		"author": "Maiji/Mary Huang",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Now_Recharging_600_711f5bbdb7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42631,6 +44352,7 @@
 	"offthemark": {
 		"author": "Mark Parisi",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Off_The_Mark_600_1_f81046468b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42845,6 +44567,7 @@
 	"oh-brother": {
 		"author": "Bob Weber Jr.",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Oh_Borther_600_4a0216553c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -42859,6 +44582,7 @@
 	"ollie-and-quentin": {
 		"author": "Piers Baker",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ollie_and_Quentin_600_f9c13172a0.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43073,6 +44797,7 @@
 	"onaclaireday": {
 		"author": " Carla Ventresca and Henry Beckett",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_On_A_Clair_Day_600_2cad22284f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43287,6 +45012,7 @@
 	"onebighappy": {
 		"author": "Rick Detorie",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_One_Big_Happy_600_398a9ef290.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43501,6 +45227,7 @@
 	"ordinary-bill": {
 		"author": "William Wilson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ordinary_Bill_600_e888ce1d60.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43700,6 +45427,7 @@
 	"origins-of-the-sunday-comics": {
 		"author": "Peter Maresca",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Origins_of_the_Sunday_Comics_600_9e3a33d100.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43714,6 +45442,7 @@
 	"our-super-adventure": {
 		"author": "Sarah Graley and Stef Purenins",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Our_Super_Adventure_600_8bf540366d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43788,6 +45517,7 @@
 	"outland": {
 		"author": "Berkeley Breathed",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Outland_600_87e672aee7.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -43847,6 +45577,7 @@
 	"outofthegenepool": {
 		"author": "Matt Janz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Out_of_the_Gene_Pool_600_df33376dee.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -44061,6 +45792,7 @@
 	"overboard": {
 		"author": "Chip Dunham",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Overboard_600_6e63e89e44.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -44275,6 +46007,7 @@
 	"overboardespanol": {
 		"author": "Chip Dunham",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Overboard_600_e4e835da91.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -44489,6 +46222,7 @@
 	"overthehedge": {
 		"author": "T Lewis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Over_The_Hedge_600_cb50942809.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -44703,6 +46437,7 @@
 	"ozy-and-millie": {
 		"author": "Dana Simpson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ozy_and_Millie_600_f3826e37ec.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -44924,9 +46659,20 @@
 		"title": "Ozy and Millie",
 		"url": "https://www.gocomics.com/ozy-and-millie"
 	},
+	"patoliphant": {
+		"author": "Pat Oliphant",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pat_Oliphant_600_174a5a943d.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Pat Oliphant",
+		"url": "https://www.gocomics.com/patoliphant"
+	},
 	"peanuts": {
 		"author": "Charles Schulz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Peanuts_600_03e5d927b4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -45141,6 +46887,7 @@
 	"peanuts-begins": {
 		"author": "Charles Schulz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Peanuts_Begins_600_8886b8d414.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -45355,6 +47102,7 @@
 	"peanuts-espanol": {
 		"author": "Charles Schulz",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Peanuts_600_5d83e62408.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -45569,6 +47317,7 @@
 	"pearlsbeforeswine": {
 		"author": "Stephan Pastis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pearls_Before_Swine_600_65431b649e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -45780,9 +47529,40 @@
 		"title": "Pearls Before Swine",
 		"url": "https://www.gocomics.com/pearlsbeforeswine"
 	},
+	"pedroxmolina": {
+		"author": "Pedro X. Molina",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Pedro_X_Melina_600_619463f293.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c5831d90f396013d99cc005056a9545d",
+				"url": "https://www.gocomics.com/pedroxmolina/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/29ce57f0f312013d99b1005056a9545d",
+				"url": "https://www.gocomics.com/pedroxmolina/2025/04/03"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/28943670f088013d992f005056a9545d",
+				"url": "https://www.gocomics.com/pedroxmolina/2025/03/31"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/de0aecd0ebf6013d983e005056a9545d",
+				"url": "https://www.gocomics.com/pedroxmolina/2025/03/26"
+			}
+		],
+		"title": "Pedro X. Molina",
+		"url": "https://www.gocomics.com/pedroxmolina"
+	},
 	"periquita": {
 		"author": "Olivia Jaimes",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Nancy_Classics_600_f515613869.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -45997,6 +47777,7 @@
 	"perlas-para-los-cerdos": {
 		"author": "Stephan Pastis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pearls_Before_Swine_600_2f833587f9.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -46211,6 +47992,7 @@
 	"perry-bible-fellowship": {
 		"author": "Nicholas Gurewitch",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Perry_Bible_Fellowship_600_8959e94348.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46222,9 +48004,20 @@
 		"title": "Perry Bible Fellowship",
 		"url": "https://www.gocomics.com/perry-bible-fellowship"
 	},
+	"phil-hands": {
+		"author": "Phil Hands",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Phil_Hands_600_d87135ce7c.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Phil Hands",
+		"url": "https://www.gocomics.com/phil-hands"
+	},
 	"phoebe-and-her-unicorn": {
 		"author": "Dana Simpson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Phoebe_And_Her_Unicorn_600_c3f710424b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46479,6 +48272,7 @@
 	"pibgorn": {
 		"author": "Brooke McEldowney",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pibgorn_600_538cc628c8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46493,6 +48287,7 @@
 	"pibgornsketches": {
 		"author": "Brooke McEldowney",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pibgorn_Sketches_600_6107d9e745.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46507,6 +48302,7 @@
 	"pickles": {
 		"author": "Brian Crane",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pickles_600_f745cbbc2c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46721,6 +48517,7 @@
 	"please-listen-to-me": {
 		"author": "Matt Lubchansky",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Please_Listen_to_Me_600_a99baa9850.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46735,6 +48532,7 @@
 	"pluggers": {
 		"author": "Rick McKee",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pluggers_600_bd293a798b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -46949,6 +48747,7 @@
 	"poochcafe": {
 		"author": "Paul Gilligan",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pooch_Cafe_600_646dcea50c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47163,6 +48962,7 @@
 	"poorcraft": {
 		"author": "C. Spike Trotman",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Poorcraft_600_951d38a094.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47177,6 +48977,7 @@
 	"poorly-drawn-lines": {
 		"author": "Reza Farazmand",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Poorly_Drawn_Lines_600_5254c8f339.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47191,6 +48992,7 @@
 	"pot-shots": {
 		"author": "Ashleigh Brilliant",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pot_Shots_600_dfd43c0809.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47205,6 +49007,7 @@
 	"preteena": {
 		"author": "Allison Barrows",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Pre_Teena_600_59617dd00a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47419,6 +49222,7 @@
 	"pricklycity": {
 		"author": "Scott Stantis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Prickly_City_600_656cd22ec8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47633,6 +49437,7 @@
 	"questionable-quotebook": {
 		"author": "Sam Hepburn",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Questionable_Quotebook_600_7263d527ea.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47707,6 +49512,7 @@
 	"rabbitsagainstmagic": {
 		"author": "Jonathan Lemon",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Rabbits_Against_Magic_600_08c601b745.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -47921,6 +49727,7 @@
 	"raising-duncan": {
 		"author": "Chris Browne",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Raising_Duncan_600_fe69066eea.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -48140,6 +49947,7 @@
 	"randolphitch": {
 		"author": "Tom Toles",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Randolph_Itch_2am_600_e8bc5b7cb4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -48154,6 +49962,7 @@
 	"realitycheck": {
 		"author": "Dave Whamond ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Reality_Check_600_a79ab26f46.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -48368,6 +50177,7 @@
 	"reallifeadventures": {
 		"author": "Gary Wise and Lance Aldrich",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Real_Life_Adventures_600_b53c7d2a9f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -48579,9 +50389,20 @@
 		"title": "Real Life Adventures",
 		"url": "https://www.gocomics.com/reallifeadventures"
 	},
+	"rebecca-hendin": {
+		"author": "Rebecca Hendin",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Rebecca_Hendin_600_75717daa7f.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Rebecca Hendin",
+		"url": "https://www.gocomics.com/rebecca-hendin"
+	},
 	"redandrover": {
 		"author": "Brian Basset",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Red_And_Rover_600_efc83e61a6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -48796,6 +50617,7 @@
 	"redmeat": {
 		"author": "Max Cannon",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Red_Meat_600_4950ae3531.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -48810,6 +50632,7 @@
 	"richards-poor-almanac": {
 		"author": "Richard Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Richards_Poor_Almanac_600_749e7c6374.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -49009,6 +50832,7 @@
 	"riphaywire": {
 		"author": "Dan Thompson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Rip_Haywire_600_843f74e6c3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -49228,6 +51052,7 @@
 	"ripleys-en-espanol": {
 		"author": "Kieran Castaño",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ripleys_Believe_It_Or_Not_600_ec3216332f.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -49447,6 +51272,7 @@
 	"ripleysbelieveitornot": {
 		"author": "Kieran Castaño",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ripleys_Believe_It_Or_Not_600_4d5ca954cf.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -49661,6 +51487,7 @@
 	"robbie-and-bobby": {
 		"author": "Jason Poland",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Robbie_and_Bobby_600_aa795a4897.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -49872,9 +51699,85 @@
 		"title": "Robbie and Bobby",
 		"url": "https://www.gocomics.com/robbie-and-bobby"
 	},
+	"robert-ariail": {
+		"author": "Robert Ariail",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Robert_Ariail_600_af1e5c7c17.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4d3d8390f6bd013d9a65005056a9545d",
+				"url": "https://www.gocomics.com/robert-ariail/2025/04/08"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/99619fd0f2ef013d99a6005056a9545d",
+				"url": "https://www.gocomics.com/robert-ariail/2025/04/04"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1d8991f0f183013d9954005056a9545d",
+				"url": "https://www.gocomics.com/robert-ariail/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d11a2a50f167013d9954005056a9545d",
+				"url": "https://www.gocomics.com/robert-ariail/2025/04/01"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f53b4f70ec96013d9871005056a9545d",
+				"url": "https://www.gocomics.com/robert-ariail/2025/03/26"
+			}
+		],
+		"title": "Robert Ariail",
+		"url": "https://www.gocomics.com/robert-ariail"
+	},
+	"robrogers": {
+		"author": "Rob Rogers",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Rob_Rogers_600_1aba6ad8e8.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/07dfd890f721013d9a79005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/08"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1908b630f3a4013d99d0005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ac1fb660f2dd013d99a6005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0b855190f167013d9954005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/01"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f5647630ee31013d98d7005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/03/28"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/578af070ed7c013d98b4005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/03/27"
+			}
+		],
+		"title": "Rob Rogers",
+		"url": "https://www.gocomics.com/robrogers"
+	},
 	"roseisrose": {
 		"author": "Don Wimmer",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Rose_Is_Rose_600_9c148f209d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -50089,6 +51992,7 @@
 	"rubes": {
 		"author": "Leigh Rubin",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Rubes_600_65e419baf2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -50303,6 +52207,7 @@
 	"sarahs-scribbles": {
 		"author": "Sarah Andersen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Sarahs_Scribbles_600_e7c7b66ec5.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -50317,6 +52222,7 @@
 	"saturday-morning-breakfast-cereal": {
 		"author": "Zach Weinersmith",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Saturday_Morning_Breakfast_Cereal_600_24d09966c2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -50556,6 +52462,7 @@
 	"savage-chickens": {
 		"author": "Doug Savage",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Savage_Chickens_600_5cb851bbf3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -50780,6 +52687,7 @@
 	"scarygary": {
 		"author": "Mark Buford",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Scary_Gary_600_03e723bc9d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -50994,6 +52902,7 @@
 	"scenes-from-a-multiverse": {
 		"author": "Jon Rosenberg",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Scenes_from_a_Multiverse_600_1b378c50ae.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51005,9 +52914,30 @@
 		"title": "Scenes from a Multiverse",
 		"url": "https://www.gocomics.com/scenes-from-a-multiverse"
 	},
+	"scottstantis": {
+		"author": "Scott Stantis",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Scott_Stantis_600_5ea9573687.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/55cb6e20f6b3013d9a60005056a9545d",
+				"url": "https://www.gocomics.com/scottstantis/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e4f69450f62e013d9a41005056a9545d",
+				"url": "https://www.gocomics.com/scottstantis/2025/04/07"
+			}
+		],
+		"title": "Scott Stantis",
+		"url": "https://www.gocomics.com/scottstantis"
+	},
 	"shen-comix": {
 		"author": "Shen T",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Shen_Comix_600_14e6d52c1c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51022,6 +52952,7 @@
 	"shermanslagoon": {
 		"author": "Jim Toomey",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Shermans_Lagoon_600_275155eb39.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51236,6 +53167,7 @@
 	"shirley-and-son-classics": {
 		"author": "Jerry Bittle",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Shirley_and_Son_Classics_600_9aa8d24a86.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51455,6 +53387,7 @@
 	"shoe": {
 		"author": "Susie MacNelly",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Shoe_600_74e952f44d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51669,6 +53602,7 @@
 	"sketchshark-comics": {
 		"author": "Megan Dong",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Sketchshark_Comics_600_691bd97175.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51683,6 +53617,7 @@
 	"skinhorse": {
 		"author": "Shaenon K. Garrity and Jeffrey C. Wells",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Skin_Horse_600_6a53020c82.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -51902,6 +53837,7 @@
 	"skippy": {
 		"author": "Percy Crosby",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Skippy_600_c6cba857f9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52161,6 +54097,7 @@
 	"small-potatoes": {
 		"author": "Paul Madonna",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Small_Potatoes_600_6cdc3963d8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52175,6 +54112,7 @@
 	"snow-sez": {
 		"author": "T. Shepherd",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Snow_Sez_600_ee0175f3b8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52244,6 +54182,7 @@
 	"speedbump": {
 		"author": "Dave Coverly",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Speed_Bump_600_87ad5cbcba.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52458,6 +54397,7 @@
 	"spirit-of-the-staircase": {
 		"author": "Matthew Foltz-Gray",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Spirit_of_the_Staircase_600_d9f734d573.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52472,6 +54412,7 @@
 	"spot-the-frog": {
 		"author": "Mark Heath",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Spot_the_Frog_600_4910e01775.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52688,9 +54629,110 @@
 		"title": "Spot the Frog",
 		"url": "https://www.gocomics.com/spot-the-frog"
 	},
+	"stevebenson": {
+		"author": "Steve Benson",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Steve_Benson_600_0f4d6138d6.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Steve Benson",
+		"url": "https://www.gocomics.com/stevebenson"
+	},
+	"stevebreen": {
+		"author": "Steve Breen",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Steve_Breen_600_a0146f20a6.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0c4655f0f7c4013d9aa6005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/928caa50f674013d9a5a005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c6448f00f3f7013d99e3005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/04/04"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/b91f3300f3b4013d99d3005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/04/03"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/536ee650f295013d9998005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/14d58130f19c013d9966005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/04/01"
+			},
+			{
+				"date": "2025-03-29",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7e535630ee77013d98e8005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/03/29"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/d641e6c0edcf013d98c4005056a9545d",
+				"url": "https://www.gocomics.com/stevebreen/2025/03/28"
+			}
+		],
+		"title": "Steve Breen",
+		"url": "https://www.gocomics.com/stevebreen"
+	},
+	"stevekelley": {
+		"author": "Steve Kelley",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Steve_Kelley_600_9a289d2f6e.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/95049af0f674013d9a5a005056a9545d",
+				"url": "https://www.gocomics.com/stevekelley/2025/04/08"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e19888b0f3f7013d99e3005056a9545d",
+				"url": "https://www.gocomics.com/stevekelley/2025/04/05"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7bce4e80f2eb013d99ab005056a9545d",
+				"url": "https://www.gocomics.com/stevekelley/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5e2ada20f0f4013d994b005056a9545d",
+				"url": "https://www.gocomics.com/stevekelley/2025/04/01"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e2418010edcf013d98c4005056a9545d",
+				"url": "https://www.gocomics.com/stevekelley/2025/03/28"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/979428e0ecc3013d9882005056a9545d",
+				"url": "https://www.gocomics.com/stevekelley/2025/03/26"
+			}
+		],
+		"title": "Steve Kelley",
+		"url": "https://www.gocomics.com/stevekelley"
+	},
 	"sticky-comics": {
 		"author": "Christiann MacAuley",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Sticky_Comics_600_1e7268cc31.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52735,6 +54777,7 @@
 	"stonesoup": {
 		"author": "Jan Eliot",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Stone_Soup_600_3299b758b8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -52954,6 +54997,7 @@
 	"stonesoup_espanol": {
 		"author": "Jan Eliot",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Stone_Soup_600_8f4111be23.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -53028,6 +55072,7 @@
 	"strangebrew": {
 		"author": "John Deering",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Strange_Brew_600_4d6fabe7fa.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53242,6 +55287,7 @@
 	"studio-jantze": {
 		"author": "Michael Jantze",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Studio_Jantze_600_2d2d750f59.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53301,6 +55347,7 @@
 	"sunny-street": {
 		"author": "Max G",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Sunny_Street_600_27e3c5845e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53315,6 +55362,7 @@
 	"super-fun-pak-comix": {
 		"author": "Ruben Bolling",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Super_Fun_Pak_Comix_600_2c8885b2d2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53529,6 +55577,7 @@
 	"swan-eaters": {
 		"author": "Georgia Dunn",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Swan_Eaters_600_a42c487710.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53653,6 +55702,7 @@
 	"sweet-and-sour-pork": {
 		"author": "Bob Holt",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Sweet_and_Sour_Pork_600_b7168416c9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53667,6 +55717,7 @@
 	"sylvia": {
 		"author": "Nicole Hollander",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Sylvia_600_920673ec0c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -53886,6 +55937,7 @@
 	"tankmcnamara": {
 		"author": "Bill Hinds",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tank_Mc_Namara_600_e9cdcf46d2.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -54100,6 +56152,7 @@
 	"tarzan": {
 		"author": "Edgar Rice Burroughs",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tarzan_600_e20a707fe3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -54314,6 +56367,7 @@
 	"tarzan-en-espanol": {
 		"author": "Edgar Rice Burroughs",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tarzan_600_00713f2cad.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -54328,6 +56382,7 @@
 	"tavicat": {
 		"author": "Rikki Simons",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/assets/assets/Global_Feature_Badge_Tavicat_600_d428c1c11f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -54459,9 +56514,55 @@
 		"title": "@Tavicat",
 		"url": "https://www.gocomics.com/tavicat"
 	},
+	"ted-rall": {
+		"author": "Ted Rall",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ted_Rall_600_dae053e9e0.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/13f0dec0f3ba013d99d0005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/04/09"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/108768d0f3ba013d99d0005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/04/07"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/412ea850ee28013d98d4005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/04/04"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3e07fe50ee28013d98d4005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/04/02"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3a4d2270ee28013d98d4005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/03/31"
+			},
+			{
+				"date": "2025-03-28",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fd8db090e8ca013d979c005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/03/28"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fa2fba50e8ca013d979c005056a9545d",
+				"url": "https://www.gocomics.com/ted-rall/2025/03/26"
+			}
+		],
+		"title": "Ted Rall",
+		"url": "https://www.gocomics.com/ted-rall"
+	},
 	"ten-cats": {
 		"author": "Graham Harrop",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ten_Cats_600_e58c677cf4.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -54676,6 +56777,7 @@
 	"tex": {
 		"author": "Jesse Atwell",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tex_600_b78e3cdb83.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -54690,6 +56792,7 @@
 	"texts-from-mittens": {
 		"author": "Angie Bailey",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Texts_from_Mittens_600_357b53424c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -54904,6 +57007,7 @@
 	"that-is-priceless": {
 		"author": "Steve Melcher",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_That_is_Priceless_600_9b63925093.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55128,6 +57232,7 @@
 	"that-new-carl-smell": {
 		"author": "Carl Skanberg",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_That_New_Car_Smell_600_43e4ea1f7a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55142,6 +57247,7 @@
 	"thatababy": {
 		"author": "Paul Trap",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Thatababy_600_00561b2457.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55356,6 +57462,7 @@
 	"the-academia-waltz": {
 		"author": "Berkeley Breathed",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Academia_Waltz_600_11dbb48234.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55570,6 +57677,7 @@
 	"the-adventures-of-business-cat": {
 		"author": "Tom Fonder",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Adventures_Of_Business_Cat_600_1cb87b3793.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55584,6 +57692,7 @@
 	"the-awkward-yeti": {
 		"author": "Nick Seluk",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Awkward_Yeti_600_4477575950.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55598,6 +57707,7 @@
 	"the-born-loser": {
 		"author": "Chip Sansom",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Born_Loser_600_80b92dde6a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55812,6 +57922,7 @@
 	"the-comic-strip-that-has-a-finale-every-day": {
 		"author": "John \"Scully\" Scully",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Comic_Strip_That_Has_a_Finale_Every_Day_The_600_1690d8fdad.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55826,6 +57937,7 @@
 	"the-daily-drawing": {
 		"author": "Lorie Ransom",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Daily_Drawing_600_4450aca33e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55840,6 +57952,7 @@
 	"the-martian-confederacy": {
 		"author": "Paige Braddock",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Martian_Confederacy_600_809c0b6c02.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55854,6 +57967,7 @@
 	"the-middle-age": {
 		"author": "Steve Conley",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Middle_Age_600_0607040239.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55878,6 +57992,7 @@
 	"the-wandering-melon": {
 		"author": "Mike Shiell",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Wandering_Melon_600_5e3b0c03cc.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55917,6 +58032,7 @@
 	"the-worried-well": {
 		"author": "Dana Maier",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Worried_Well_600_9def6f6b2f.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -55931,6 +58047,7 @@
 	"theargylesweater": {
 		"author": "Scott Hilburn",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Argyle_Sweater_600_d57673cd2b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -56145,6 +58262,7 @@
 	"thebarn": {
 		"author": "Ralph Hagen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Barn_600_028d162bfe.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -56359,6 +58477,7 @@
 	"thebigpicture": {
 		"author": "Lennie Peterson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Big_Picture_600_66f788a154.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -56573,6 +58692,7 @@
 	"thebuckets": {
 		"author": "Greg Cravens ",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Buckets_600_a2ab4b8ea9.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -56787,6 +58907,7 @@
 	"thecity": {
 		"author": "John Backderf",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_City_600_d2250422c8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -56861,6 +58982,7 @@
 	"thedoozies": {
 		"author": "Tom Gammill",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Doozies_600_76111e7c3c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -56875,6 +58997,7 @@
 	"theelderberries": {
 		"author": "Phil Frank",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Elderberries_600_81edc03664.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -57089,6 +59212,7 @@
 	"theflyingmccoys": {
 		"author": "Glenn McCoy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Flying_Mc_Coys_600_8013481be8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -57303,6 +59427,7 @@
 	"thefuscobrothers": {
 		"author": "J.C. Duffy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Fusco_Brothers_600_4ce3bac51c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -57517,6 +59642,7 @@
 	"thegrizzwells": {
 		"author": "Bill Schorr",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Grizzwells_600_bcb1f38bbd.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -57736,6 +59862,7 @@
 	"thekchronicles": {
 		"author": "Keith Knight",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_K_Chronicles_600_36d89c20aa.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -57750,6 +59877,7 @@
 	"theknightlife": {
 		"author": "Keith Knight",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Knight_Life_600_a86d756b56.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -57964,6 +60092,7 @@
 	"themiddletons": {
 		"author": "Dana Summers",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Middletons_600_1806f5a3c5.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58178,6 +60307,7 @@
 	"thenewadventuresofqueenvictoria": {
 		"author": "Pab Sungenis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_New_Adventures_of_Queen_Victoria_600_4a35926cdd.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58192,6 +60322,7 @@
 	"thenorm": {
 		"author": "Michael Jantze",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Norm_Classics_600_02c662df2d.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58406,6 +60537,7 @@
 	"theothercoast": {
 		"author": "Adrian Raeside",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Other_Coast_600_e580edf14c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58617,9 +60749,20 @@
 		"title": "The Other Coast",
 		"url": "https://www.gocomics.com/theothercoast"
 	},
+	"think": {
+		"author": "Keith Knight",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Th_ink_600_62e4e8739d.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "(th)ink",
+		"url": "https://www.gocomics.com/think"
+	},
 	"thinlines": {
 		"author": "Randy Glasbergen",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Thin_Lines_600_73ab639dc5.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58676,9 +60819,40 @@
 		"title": "Thin Lines",
 		"url": "https://www.gocomics.com/thinlines"
 	},
+	"tim-campbell": {
+		"author": "Tim Campbell",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tim_Campbell_600_4955cdba5c.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7d9bc3a0f5db013d9a24005056a9545d",
+				"url": "https://www.gocomics.com/tim-campbell/2025/04/07"
+			},
+			{
+				"date": "2025-04-03",
+				"imageUrl": "https://featureassets.gocomics.com/assets/9a90da10f2b6013d999c005056a9545d",
+				"url": "https://www.gocomics.com/tim-campbell/2025/04/03"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/90527a50f140013d9954005056a9545d",
+				"url": "https://www.gocomics.com/tim-campbell/2025/04/01"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/92928aa0ed4d013d989e005056a9545d",
+				"url": "https://www.gocomics.com/tim-campbell/2025/03/27"
+			}
+		],
+		"title": "Tim Campbell",
+		"url": "https://www.gocomics.com/tim-campbell"
+	},
 	"tinysepuku": {
 		"author": "Ken Cursoe",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tiny_Sepuku_600_766d17af22.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58753,6 +60927,7 @@
 	"todays-szep": {
 		"author": "Paul Szep",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Todays_Szep_600_01365b8b70.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58767,6 +60942,7 @@
 	"tomthedancingbug": {
 		"author": "Ruben Bolling",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tom_The_Dancing_Bug_600_bcf22f8465.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -58903,9 +61079,20 @@
 		"title": "Tom the Dancing Bug",
 		"url": "https://www.gocomics.com/tomthedancingbug"
 	},
+	"tomtoles": {
+		"author": "Tom Toles",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tom_Toles_600_1_9434ba6499.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Tom Toles",
+		"url": "https://www.gocomics.com/tomtoles"
+	},
 	"toomuchcoffeeman": {
 		"author": "Shannon Wheeler",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Too_Much_Coffee_Man_600_fc7be0f3e8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -59120,6 +61307,7 @@
 	"trucutu": {
 		"author": "Jonathan Lemon",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Alley_Oop_600_804ab653c9.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -59339,6 +61527,7 @@
 	"tutelandia": {
 		"author": "Tute",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Tutelandia_600_6bd75f80af.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -59550,9 +61739,20 @@
 		"title": "Tutelandia",
 		"url": "https://www.gocomics.com/tutelandia"
 	},
+	"two-party-opera": {
+		"author": "Brian Carroll",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Two_Party_Opera_600_eda35eb84b.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+		],
+		"title": "Two Party Opera",
+		"url": "https://www.gocomics.com/two-party-opera"
+	},
 	"ufo": {
 		"author": "Graham Harrop",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_UFO_600_c37d2f6db3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -59767,6 +61967,7 @@
 	"underpants-and-overbites": {
 		"author": "Jackie E. Davis",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Underpants_And_Overbites_600_cb192e14b8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -59781,6 +61982,7 @@
 	"understanding-chaos": {
 		"author": "Gustavo Rodriguez",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Understanding_Chaos_600_acc45494da.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -59995,6 +62197,7 @@
 	"unstrange-phenomena": {
 		"author": "Ed Allison",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Unstrange_Phenomena_600_0130ac4eb8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60069,6 +62272,7 @@
 	"upside-down-world-of-gustave-verbeek": {
 		"author": "Gustave Verbeek",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Upside_Down_World_of_Gustave_Verbeek_600_a87d912f6b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60080,9 +62284,200 @@
 		"title": "The Upside Down World of Gustave Verbeek",
 		"url": "https://www.gocomics.com/upside-down-world-of-gustave-verbeek"
 	},
+	"viewsafrica": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Views_Africa_600_696413f72e.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e23283a0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsafrica/2025/03/31"
+			}
+		],
+		"title": "ViewsAfrica",
+		"url": "https://www.gocomics.com/viewsafrica"
+	},
+	"viewsamerica": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_View_America_600_c63c4dd8c9.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a32219d0f7ad013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/viewsamerica/2025/04/08"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/312f6120f46d013d99f1005056a9545d",
+				"url": "https://www.gocomics.com/viewsamerica/2025/04/05"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e93b2de0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsamerica/2025/04/02"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e619dea0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsamerica/2025/03/31"
+			}
+		],
+		"title": "ViewsAmerica",
+		"url": "https://www.gocomics.com/viewsamerica"
+	},
+	"viewsasia": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Views_Asia_600_6ad9219fcd.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ec6d1300f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsasia/2025/03/31"
+			}
+		],
+		"title": "ViewsAsia",
+		"url": "https://www.gocomics.com/viewsasia"
+	},
+	"viewsbusiness": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Views_Business_600_2c2373e940.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/a0d76380f7ad013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/viewsbusiness/2025/04/09"
+			},
+			{
+				"date": "2025-04-06",
+				"imageUrl": "https://featureassets.gocomics.com/assets/2e893240f46d013d99f1005056a9545d",
+				"url": "https://www.gocomics.com/viewsbusiness/2025/04/06"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/dfa41500f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsbusiness/2025/03/31"
+			}
+		],
+		"title": "ViewsBusiness",
+		"url": "https://www.gocomics.com/viewsbusiness"
+	},
+	"viewseurope": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Views_Europe_600_80149b20a8.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/346fbe40f46d013d99f1005056a9545d",
+				"url": "https://www.gocomics.com/viewseurope/2025/04/05"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ef5d26d0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewseurope/2025/03/31"
+			}
+		],
+		"title": "ViewsEurope",
+		"url": "https://www.gocomics.com/viewseurope"
+	},
+	"viewslatinamerica": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Views_Latin_America_600_9c7788b282.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3704c160f46d013d99f1005056a9545d",
+				"url": "https://www.gocomics.com/viewslatinamerica/2025/04/05"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f2abd6c0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewslatinamerica/2025/04/01"
+			}
+		],
+		"title": "ViewsLatinAmerica",
+		"url": "https://www.gocomics.com/viewslatinamerica"
+	},
+	"viewsmideast": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Views_Mid_East_600_4ed554d5a4.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4fcbe530f77f013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/viewsmideast/2025/04/08"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/62d6c080f46a013d99f0005056a9545d",
+				"url": "https://www.gocomics.com/viewsmideast/2025/04/05"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f70887b0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsmideast/2025/03/31"
+			}
+		],
+		"title": "ViewsMidEast",
+		"url": "https://www.gocomics.com/viewsmideast"
+	},
+	"viewsoftheworld": {
+		"author": "Cartoon Movement-US",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Viewofthe_World_600_d0331e63b7.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/ae7d0630f7ad013d9a93005056a9545d",
+				"url": "https://www.gocomics.com/viewsoftheworld/2025/04/08"
+			},
+			{
+				"date": "2025-04-07",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3f08e8f0f46d013d99f1005056a9545d",
+				"url": "https://www.gocomics.com/viewsoftheworld/2025/04/07"
+			},
+			{
+				"date": "2025-04-05",
+				"imageUrl": "https://featureassets.gocomics.com/assets/65667340f46a013d99f0005056a9545d",
+				"url": "https://www.gocomics.com/viewsoftheworld/2025/04/05"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/fe06c6b0f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsoftheworld/2025/04/01"
+			},
+			{
+				"date": "2025-03-31",
+				"imageUrl": "https://featureassets.gocomics.com/assets/facd8300f04f013d9920005056a9545d",
+				"url": "https://www.gocomics.com/viewsoftheworld/2025/03/31"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/259a2690eb1a013d97fd005056a9545d",
+				"url": "https://www.gocomics.com/viewsoftheworld/2025/03/26"
+			}
+		],
+		"title": "Views of the World",
+		"url": "https://www.gocomics.com/viewsoftheworld"
+	},
 	"viivi-and-wagner": {
 		"author": "Juba",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Viivi_and_Wagner_600_d2ce0ce56c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60297,6 +62692,7 @@
 	"wallace-the-brave": {
 		"author": "Will Henry",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wallace_The_Brave_600_11079fdf4b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60508,9 +62904,55 @@
 		"title": "Wallace the Brave",
 		"url": "https://www.gocomics.com/wallace-the-brave"
 	},
+	"walthandelsman": {
+		"author": "Walt Handelsman",
+		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Walt_Handelsman_600_c5c54b01e6.png",
+		"isPolitical": true,
+		"language": "eng",
+		"strips": [
+			{
+				"date": "2025-04-09",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3a1f0480f7c1013d9aa5005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/04/09"
+			},
+			{
+				"date": "2025-04-08",
+				"imageUrl": "https://featureassets.gocomics.com/assets/add697f0f6ef013d9a88005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/04/08"
+			},
+			{
+				"date": "2025-04-04",
+				"imageUrl": "https://featureassets.gocomics.com/assets/0498d500f3cb013d99de005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/04/04"
+			},
+			{
+				"date": "2025-04-02",
+				"imageUrl": "https://featureassets.gocomics.com/assets/11822da0f241013d9983005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/04/02"
+			},
+			{
+				"date": "2025-04-01",
+				"imageUrl": "https://featureassets.gocomics.com/assets/aa6576c0f188013d9963005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/04/01"
+			},
+			{
+				"date": "2025-03-27",
+				"imageUrl": "https://featureassets.gocomics.com/assets/747d8db0ed92013d98b8005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/03/27"
+			},
+			{
+				"date": "2025-03-26",
+				"imageUrl": "https://featureassets.gocomics.com/assets/4a1dde10ecc9013d9883005056a9545d",
+				"url": "https://www.gocomics.com/walthandelsman/2025/03/26"
+			}
+		],
+		"title": "Walt Handelsman",
+		"url": "https://www.gocomics.com/walthandelsman"
+	},
 	"wannabe": {
 		"author": "Luca Debus",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wannabe_600_59ef13c6c6.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60725,6 +63167,7 @@
 	"warped": {
 		"author": "Michael Cavna",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Warped_600_519ba4891a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60849,6 +63292,7 @@
 	"watchyourhead": {
 		"author": "Cory Thomas",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Watch_Your_Head_600_b767c70f2c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60863,6 +63307,7 @@
 	"wawawiwa": {
 		"author": "Andrés J. Colmenares",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wawawiwa_600_971e35d4b1.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -60877,6 +63322,7 @@
 	"waynovision": {
 		"author": "Wayno",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wayno_Vision_600_4af89f11be.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -61016,6 +63462,7 @@
 	"weepals": {
 		"author": "Morrie Turner",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wee_Pals_600_3bb53dd5de.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -61230,6 +63677,7 @@
 	"widdershins": {
 		"author": "Kate Ashwin",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Widdershins_600_1106cf6640.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -61244,6 +63692,7 @@
 	"wide-open": {
 		"author": "Rich Powell",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wide_Open_600_9e11ebf37b.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -61308,6 +63757,7 @@
 	"wizard-of-id-classics": {
 		"author": "Parker and Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wizard_of_Id_Classics_600_b64fa432be.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -61522,6 +63972,7 @@
 	"wizardofid": {
 		"author": "Parker and Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wizard_Of_Id_600_43655a8539.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -61736,6 +64187,7 @@
 	"wizardofidespanol": {
 		"author": "Parker and Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wizard_Of_Id_600_43655a8539.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -61955,6 +64407,7 @@
 	"wondermark": {
 		"author": "David Malki",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wordmark_600_9cb74c031e.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62144,6 +64597,7 @@
 	"working-daze": {
 		"author": "John Zakour and Scott Roberts",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Working_Daze_600_3c8d4b224c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62358,6 +64812,7 @@
 	"workingitout": {
 		"author": "Charlos Gary",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Working_It_Out_600_0cb1143847.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62572,6 +65027,7 @@
 	"worry-lines": {
 		"author": "Worry Lines",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Worry_Lines_600_8d472b3600.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62586,6 +65042,7 @@
 	"wrong-hands": {
 		"author": "John Atkinson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wrong_Hands_600_396ff41eb3.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62690,6 +65147,7 @@
 	"wtduck": {
 		"author": "Aaron Johnson",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_WT_Duck_600_9f9bb9bbae.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62704,6 +65162,7 @@
 	"wumo": {
 		"author": "Wulff & Morgenthaler",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wu_Mo_600_ef0017f03c.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -62918,6 +65377,7 @@
 	"wumoespanol": {
 		"author": "Wulff & Morgenthaler",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Wu_Mo_600_ef0017f03c.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
@@ -62932,6 +65392,7 @@
 	"yaffle": {
 		"author": "Jeffrey Caulfield and Brian Ponshock",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Yaffle_600_a07fbeca3a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -63131,6 +65592,7 @@
 	"yeah-its-chill": {
 		"author": "Christine Rai",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Yeah_Its_Chill_600_834ff39186.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -63145,6 +65607,7 @@
 	"yesimhotinthis": {
 		"author": "Huda Fahmy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Yes_Im_Hot_In_This_600_bc24f3705a.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -63159,6 +65622,7 @@
 	"zackhill": {
 		"author": "John Newcombe",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Zack_Hill_600_b8b52d65e8.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -63373,6 +65837,7 @@
 	"zen-pencils": {
 		"author": "Gavin Aung Than",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Zen_Pencils_600_1e96b75896.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -63447,6 +65912,7 @@
 	"ziggy": {
 		"author": "Tom Wilson & Tom II",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ziggy_600_7fcd2b4484.png",
+		"isPolitical": false,
 		"language": "eng",
 		"strips": [
 			{
@@ -63661,6 +66127,7 @@
 	"ziggyespanol": {
 		"author": "Tom Wilson & Tom II",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ziggy_600_7fcd2b4484.png",
+		"isPolitical": false,
 		"language": "spa",
 		"strips": [
 			{
