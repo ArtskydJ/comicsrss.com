@@ -1890,7 +1890,7 @@
 		"url": "https://www.gocomics.com/algoodwyn"
 	},
 	"alis-house": {
-		"author": "Marguerite Dabaie",
+		"author": "Tom Hart",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Ali_s_House_600_0c02d282a8.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -7560,7 +7560,7 @@
 		"url": "https://www.gocomics.com/ben"
 	},
 	"berger-and-wyse": {
-		"author": "Pascal Wyse",
+		"author": "Joe Berger",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Berger_And_Wyse_600_abeb330974.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -7615,7 +7615,7 @@
 		"url": "https://www.gocomics.com/berkeley-mews"
 	},
 	"betty": {
-		"author": "Gerry Rasmussen",
+		"author": "Gary Delainey",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Betty_600_e35c4da933.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -14284,11 +14284,6 @@
 				"date": "2025-01-22",
 				"imageUrl": "https://assets.amuniversal.com/043e3990a9c5013d8642005056a9545d",
 				"url": "https://www.gocomics.com/cestlavie/2025/01/22"
-			},
-			{
-				"date": "2025-01-18",
-				"imageUrl": "https://assets.amuniversal.com/468f00d0b59b013d89ae005056a9545d",
-				"url": "https://www.gocomics.com/cestlavie/2025/01/18"
 			}
 		],
 		"title": "C'est la Vie",
@@ -14315,6 +14310,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/45e55530fdca013d9bac005056a9545d",
+				"url": "https://www.gocomics.com/chipbok/2025/04/17"
+			},
 			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/01361bb0fd01013d9b82005056a9545d",
@@ -14385,6 +14385,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/40054c00fe0d013d9bc3005056a9545d",
+				"url": "https://www.gocomics.com/chrisbritt/2025/04/17"
+			},
 			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/054b0f30fd44013d9b9a005056a9545d",
@@ -18201,6 +18206,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3709a5f0fdce013d9bae005056a9545d",
+				"url": "https://www.gocomics.com/danasummers/2025/04/17"
+			},
+			{
 				"date": "2025-04-15",
 				"imageUrl": "https://featureassets.gocomics.com/assets/e1f48910fc3b013d9b53005056a9545d",
 				"url": "https://www.gocomics.com/danasummers/2025/04/15"
@@ -19335,7 +19345,7 @@
 		"url": "https://www.gocomics.com/diamondlil"
 	},
 	"dicktracy": {
-		"author": "Mike Curtis",
+		"author": "Charles Ettinger",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Dick_Tracy_600_cad654d57d.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -23596,6 +23606,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/58cebb00fde5013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/fat-cats/2025/04/17"
+			},
+			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/e0c2faa0fcf8013d9b7d005056a9545d",
 				"url": "https://www.gocomics.com/fat-cats/2025/04/16"
@@ -24389,11 +24404,6 @@
 				"date": "2025-01-19",
 				"imageUrl": "https://assets.amuniversal.com/e83f0d7016ba0135aa9d005056a9545d",
 				"url": "https://www.gocomics.com/foolish-mortals/2025/01/19"
-			},
-			{
-				"date": "2025-01-18",
-				"imageUrl": "https://assets.amuniversal.com/377e080010690135a1ab005056a9545d",
-				"url": "https://www.gocomics.com/foolish-mortals/2025/01/18"
 			}
 		],
 		"title": "Foolish Mortals",
@@ -27254,11 +27264,6 @@
 				"date": "2025-01-21",
 				"imageUrl": "https://assets.amuniversal.com/2eb76c30ba3d013d8acd005056a9545d",
 				"url": "https://www.gocomics.com/frogapplause/2025/01/21"
-			},
-			{
-				"date": "2025-01-18",
-				"imageUrl": "https://assets.amuniversal.com/d465e330b7d0013d8a65005056a9545d",
-				"url": "https://www.gocomics.com/frogapplause/2025/01/18"
 			}
 		],
 		"title": "Frog Applause",
@@ -32340,7 +32345,7 @@
 		"url": "https://www.gocomics.com/heartofthecity"
 	},
 	"heathcliff": {
-		"author": "George Gately",
+		"author": "Peter Gallagher",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Healthcliff_600_897f964629.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -32595,7 +32600,7 @@
 		"url": "https://www.gocomics.com/heathcliff"
 	},
 	"heathcliffespanol": {
-		"author": "George Gately",
+		"author": "Peter Gallagher",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Healthcliff_600_6efc345c0e.png",
 		"isPolitical": false,
 		"language": "spa",
@@ -32860,6 +32865,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-16",
+				"imageUrl": "https://featureassets.gocomics.com/assets/7d7b9df0fdc8013d9bab005056a9545d",
+				"url": "https://www.gocomics.com/henrypayne/2025/04/16"
+			},
 			{
 				"date": "2025-04-14",
 				"imageUrl": "https://featureassets.gocomics.com/assets/34830f10fc4d013d9b58005056a9545d",
@@ -35716,6 +35726,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e0f648a0fdcf013d9baf005056a9545d",
+				"url": "https://www.gocomics.com/jackohman/2025/04/17"
+			},
+			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/671d9df0fd41013d9b98005056a9545d",
 				"url": "https://www.gocomics.com/jackohman/2025/04/16"
@@ -36045,6 +36060,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/46c64530fdc1013d9ba7005056a9545d",
+				"url": "https://www.gocomics.com/jeffdanziger/2025/04/17"
+			},
 			{
 				"date": "2025-04-15",
 				"imageUrl": "https://featureassets.gocomics.com/assets/e145a580fc43013d9b54005056a9545d",
@@ -36761,6 +36781,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1f2575c0fdf8013d9bc0005056a9545d",
+				"url": "https://www.gocomics.com/joelpett/2025/04/17"
+			},
+			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/61d44790fd22013d9b8d005056a9545d",
 				"url": "https://www.gocomics.com/joelpett/2025/04/16"
@@ -36820,6 +36845,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3e9f9840fdce013d9bae005056a9545d",
+				"url": "https://www.gocomics.com/joey-weatherford/2025/04/17"
+			},
 			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/f3274c70fd02013d9b84005056a9545d",
@@ -37540,6 +37570,16 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-16",
+				"imageUrl": "https://featureassets.gocomics.com/assets/1a37e890fdc0013d9ba8005056a9545d",
+				"url": "https://www.gocomics.com/kal/2025/04/16"
+			},
+			{
+				"date": "2025-04-15",
+				"imageUrl": "https://featureassets.gocomics.com/assets/186d1af0fdc0013d9ba8005056a9545d",
+				"url": "https://www.gocomics.com/kal/2025/04/15"
+			},
 			{
 				"date": "2025-04-10",
 				"imageUrl": "https://featureassets.gocomics.com/assets/86fa7ec0f926013d9ae4005056a9545d",
@@ -38650,6 +38690,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-16",
+				"imageUrl": "https://featureassets.gocomics.com/assets/e3e1c950fdc6013d9baa005056a9545d",
+				"url": "https://www.gocomics.com/laloalcaraz/2025/04/16"
+			},
 			{
 				"date": "2025-04-09",
 				"imageUrl": "https://featureassets.gocomics.com/assets/d76144b0f949013d9ad6005056a9545d",
@@ -41059,11 +41104,6 @@
 				"date": "2025-01-21",
 				"imageUrl": "https://assets.amuniversal.com/ef0f71501fd601347aa6005056a9545d",
 				"url": "https://www.gocomics.com/little-nemo/2025/01/21"
-			},
-			{
-				"date": "2025-01-18",
-				"imageUrl": "https://assets.amuniversal.com/e2c77d301fd601347aa6005056a9545d",
-				"url": "https://www.gocomics.com/little-nemo/2025/01/18"
 			}
 		],
 		"title": "Little Nemo",
@@ -41075,6 +41115,11 @@
 		"isPolitical": false,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/f0f97490fde1013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/littledoglost/2025/04/17"
+			},
 			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/59f35940fc85013d9b56005056a9545d",
@@ -41335,7 +41380,7 @@
 		"url": "https://www.gocomics.com/liz-climo-cartoons"
 	},
 	"lockhorns": {
-		"author": "John Reiner",
+		"author": "Bunny Hoest",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Lockhorns_600_a4f448bc39.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -44731,6 +44776,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/c6eca2c0fde0013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/marias-day/2025/04/17"
+			},
+			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/dd025190fc98013d9b56005056a9545d",
 				"url": "https://www.gocomics.com/marias-day/2025/04/16"
@@ -45326,6 +45376,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-15",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5ab7c070fdf6013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/mattwuerker/2025/04/15"
+			},
+			{
 				"date": "2025-04-10",
 				"imageUrl": "https://featureassets.gocomics.com/assets/bc7ed160f995013d9ad6005056a9545d",
 				"url": "https://www.gocomics.com/mattwuerker/2025/04/10"
@@ -45775,6 +45830,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/80e4b6c0fdc1013d9ba7005056a9545d",
+				"url": "https://www.gocomics.com/mike-beckom/2025/04/17"
+			},
 			{
 				"date": "2025-04-14",
 				"imageUrl": "https://featureassets.gocomics.com/assets/363884a0fb82013d9b23005056a9545d",
@@ -48074,11 +48134,6 @@
 				"date": "2025-01-19",
 				"imageUrl": "https://assets.amuniversal.com/96ea1090db0b0132e20d005056a9545d",
 				"url": "https://www.gocomics.com/mr-lowe/2025/01/19"
-			},
-			{
-				"date": "2025-01-18",
-				"imageUrl": "https://assets.amuniversal.com/2a60c290db0b0132e20d005056a9545d",
-				"url": "https://www.gocomics.com/mr-lowe/2025/01/18"
 			}
 		],
 		"title": "Mr. Lowe",
@@ -48340,7 +48395,7 @@
 		"url": "https://www.gocomics.com/muttandjeff"
 	},
 	"muttandjeffespanol": {
-		"author": "Pierre S. De Beaumont",
+		"author": "Bud Fisher",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Mutt_And_Jeff_600_1bfa163ae9.png",
 		"isPolitical": false,
 		"language": "spa",
@@ -53385,7 +53440,7 @@
 		"url": "https://www.gocomics.com/overboardespanol"
 	},
 	"overthehedge": {
-		"author": "T Lewis",
+		"author": "Michael Fry",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Over_The_Hedge_600_cb50942809.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -54930,6 +54985,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/3b1a34c0fdca013d9baa005056a9545d",
+				"url": "https://www.gocomics.com/pedroxmolina/2025/04/17"
+			},
 			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/0f0c6b60fcf9013d9b7d005056a9545d",
@@ -59806,6 +59866,26 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/5c000c50fde1013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/17"
+			},
+			{
+				"date": "2025-04-16",
+				"imageUrl": "https://featureassets.gocomics.com/assets/57f9e240fde1013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/16"
+			},
+			{
+				"date": "2025-04-15",
+				"imageUrl": "https://featureassets.gocomics.com/assets/52909de0fde1013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/15"
+			},
+			{
+				"date": "2025-04-14",
+				"imageUrl": "https://featureassets.gocomics.com/assets/50849820fde1013d9bb7005056a9545d",
+				"url": "https://www.gocomics.com/robrogers/2025/04/14"
+			},
+			{
 				"date": "2025-04-11",
 				"imageUrl": "https://featureassets.gocomics.com/assets/12054650f91e013d9ae0005056a9545d",
 				"url": "https://www.gocomics.com/robrogers/2025/04/11"
@@ -60381,6 +60461,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/51d60780fdd7013d9bb2005056a9545d",
+				"url": "https://www.gocomics.com/saturday-morning-breakfast-cereal/2025/04/17"
+			},
+			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/0b3fee70fd19013d9b86005056a9545d",
 				"url": "https://www.gocomics.com/saturday-morning-breakfast-cereal/2025/04/16"
@@ -60624,11 +60709,6 @@
 				"date": "2025-02-03",
 				"imageUrl": "https://assets.amuniversal.com/e1f1beb0c495013d8df5005056a9545d",
 				"url": "https://www.gocomics.com/saturday-morning-breakfast-cereal/2025/02/03"
-			},
-			{
-				"date": "2025-02-02",
-				"imageUrl": "https://assets.amuniversal.com/1d68cfa0c3c0013d8db2005056a9545d",
-				"url": "https://www.gocomics.com/saturday-morning-breakfast-cereal/2025/02/02"
 			}
 		],
 		"title": "Saturday Morning Breakfast Cereal",
@@ -61720,7 +61800,7 @@
 		"url": "https://www.gocomics.com/shirley-and-son-classics"
 	},
 	"shoe": {
-		"author": "Susie MacNelly",
+		"author": "Gary Brookins",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Shoe_600_74e952f44d.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -68425,7 +68505,7 @@
 		"url": "https://www.gocomics.com/theelderberries"
 	},
 	"theflyingmccoys": {
-		"author": "Glenn McCoy",
+		"author": "Gary McCoy",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_The_Flying_Mc_Coys_600_8013481be8.png",
 		"isPolitical": false,
 		"language": "eng",
@@ -70310,6 +70390,11 @@
 		"isPolitical": true,
 		"language": "eng",
 		"strips": [
+			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/110604b0fdc5013d9ba9005056a9545d",
+				"url": "https://www.gocomics.com/tim-campbell/2025/04/17"
+			},
 			{
 				"date": "2025-04-14",
 				"imageUrl": "https://featureassets.gocomics.com/assets/1ac40310fb84013d9b23005056a9545d",
@@ -74416,6 +74501,11 @@
 		"language": "eng",
 		"strips": [
 			{
+				"date": "2025-04-17",
+				"imageUrl": "https://featureassets.gocomics.com/assets/42e67e50fdca013d9baa005056a9545d",
+				"url": "https://www.gocomics.com/working-daze/2025/04/17"
+			},
+			{
 				"date": "2025-04-16",
 				"imageUrl": "https://featureassets.gocomics.com/assets/f349dbc0fc98013d9b56005056a9545d",
 				"url": "https://www.gocomics.com/working-daze/2025/04/16"
@@ -75550,7 +75640,7 @@
 		"url": "https://www.gocomics.com/yesimhotinthis"
 	},
 	"zackhill": {
-		"author": "John Newcombe",
+		"author": "John Deering",
 		"imageUrl": "https://gocomicscmsassets.gocomics.com/staging-assets/assets/Global_Feature_Badge_Zack_Hill_600_b8b52d65e8.png",
 		"isPolitical": false,
 		"language": "eng",
