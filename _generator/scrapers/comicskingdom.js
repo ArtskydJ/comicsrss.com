@@ -10,7 +10,7 @@ module.exports = async function main(cachedSeriesObjects) {
 		.map((a_element) => {
 			const parsed = new URL(a_element.attribs.href, base)
 			const slug = parsed.pathname
-				.replace(/^\//, '') // remove leading "/"
+				.replace(/^\/(vintage\/)?/, '') // remove leading "/" or "/vintage/", since some links were like "/vintage/quincy"
 				.replace(/\/.+/, '') // removes everything after the first "/", since some links were like "alice/2024-06-04"
 			const title = element_to_text(a_element)
 
