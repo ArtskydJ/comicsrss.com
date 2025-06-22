@@ -127,7 +127,6 @@ async function runScraper(scraperName) {
 
 	const verifiedSeriesObjects = objMapValue(newSeriesObjects, newSeriesObject => {
 		const strips = newSeriesObject.strips
-			.map(({ url, date, imageUrl }) => ({ url, date, imageUrl }))
 			.filter((strip, i) => (i === 0 || new Date(strip.date) > expirationDate)) // keeps recent strips
 			.slice(0, expirationCount)
 		return strips ? { ...newSeriesObject, strips } : null
