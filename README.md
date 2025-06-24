@@ -53,13 +53,16 @@ When these updated/new files are committed and pushed to this repository, they g
 1. Fork and clone the repository
 2. Run these commands on your command line:
 ```sh
-# in /comicsrss.com
+# clone my repo, or a fork of my repo
+git clone git@github.com:ArtskydJ/comicsrss.com.git
+
+cd comicsrss.com/_generator
+
+# if you don't have npm, then install nodejs.  npm comes with nodejs: https://nodejs.org/en/download
 npm install
 
-cd _generator
-
 # If you want to see all the options:
-# node bin --help
+node bin --help
 
 # Re-generate the site with the cached scraped site data:
 node bin --generate
@@ -74,6 +77,7 @@ npx serve
 # Then open http://localhost:3000 in your browser
 ```
 
+You won't be able to point online RSS readers (e.g. Feedly) at your locally-hosted RSS feeds.  You'll either need to serve them on the internet or use a local RSS reader.  I don't have good instructions for either of those options, sorry.
 
 
 ### Run your own auto-updating scraper and website using CircleCI
@@ -153,6 +157,7 @@ You can also find the code [here](https://github.com/ArtskydJ/comicsrss.com/tree
 
 My scraper could stop working if gocomics.com changes their website. If I don't fix it for 3 days, and if my scraper only looked at the latest comic strip, then I would permanently miss a few days of comic strips. That is why it is important to be able to navigate the back-catalog.
 
+<!-- note: I'm sure some of this information about gocomics is out of date now https://github.com/ArtskydJ/comicsrss.com/commit/b70106eb86c3fdde254fbc23e2c5a3ee74d8ba1d -->
 
 
 ### `index.js` file
