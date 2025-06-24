@@ -54,6 +54,8 @@ async function parse_list_html(base, path, is_political) {
 }
 
 module.exports = async function main(cached_series_objects) {
+	return cached_series_objects // Disable gocomics scraper
+
 	const base = 'https://www.gocomics.com'
 	const series_object_entries = [
 		...(await parse_list_html(base, '/political-cartoons/political-a-to-z', true)),
