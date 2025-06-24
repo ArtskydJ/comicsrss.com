@@ -15,7 +15,17 @@
 		</image>
 		<copyright>Copyright {{author || 'unknown author'}}</copyright>
 		<atom:link href="https://www.comicsrss.com/rss/{{basename}}.rss" rel="self" type="application/rss+xml"/>
-{{if basename.slice(-3) === '%20'}}
+{{if strips.length && strips[0].url.startsWith('https://www.gocomics.com/')}}
+		<item>
+			<title><![CDATA[{{@ title}} -- No more comics from gocomics]]></title>
+			<link>https://www.comicsrss.com</link>
+			<guid isPermaLink="false">{{basename}}2025-06-24nolongerupdated</guid>
+			<pubDate>Tue, 24 Jun 2025 07:00:00 GMT</pubDate>
+			<description><![CDATA[
+				<p>I got a notice of copyright infringement from GoComics, so I'm halting GoComics RSS feeds.  If you want a recommendation for another service, you can email me at joseph@comicsrss.com.</p>
+			]]></description>
+		</item>
+{{/if}}{{if basename.slice(-3) === '%20'}}
 		<item>
 			<title><![CDATA[{{@ title}} -- Este feed RSS ya no se actualiza.]]></title>
 			<link>https://www.comicsrss.com/espanol</link>
