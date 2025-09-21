@@ -464,6 +464,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/andycapp/",
 		"strips": [
 			{
+				"date": "2025-09-21",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/355/35550/3555039.jpg",
+				"url": "https://www.arcamax.com/thefunnies/andycapp/s-3853340"
+			},
+			{
 				"date": "2025-09-20",
 				"imageUrl": "https://resources.arcamax.com/newspics/355/35534/3553459.gif",
 				"url": "https://www.arcamax.com/thefunnies/andycapp/s-3852096"
@@ -707,11 +712,6 @@
 				"date": "2025-08-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/348/34890/3489054.jpg",
 				"url": "https://www.arcamax.com/thefunnies/andycapp/s-3793242"
-			},
-			{
-				"date": "2025-08-02",
-				"imageUrl": "https://resources.arcamax.com/newspics/348/34878/3487834.gif",
-				"url": "https://www.arcamax.com/thefunnies/andycapp/s-3792093"
 			}
 		],
 		"title": "Andy Capp",
@@ -13693,6 +13693,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/mutts/",
 		"strips": [
 			{
+				"date": "2025-09-21",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/355/35550/3555007.jpg",
+				"url": "https://www.arcamax.com/thefunnies/mutts/s-3853307"
+			},
+			{
 				"date": "2025-09-20",
 				"imageUrl": "https://resources.arcamax.com/newspics/355/35534/3553419.gif",
 				"url": "https://www.arcamax.com/thefunnies/mutts/s-3852063"
@@ -13936,11 +13941,6 @@
 				"date": "2025-08-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/348/34890/3489025.jpg",
 				"url": "https://www.arcamax.com/thefunnies/mutts/s-3793213"
-			},
-			{
-				"date": "2025-08-02",
-				"imageUrl": "https://resources.arcamax.com/newspics/348/34878/3487803.gif",
-				"url": "https://www.arcamax.com/thefunnies/mutts/s-3792062"
 			}
 		],
 		"title": "Mutts",
@@ -14247,6 +14247,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/nonsequitur/",
 		"strips": [
 			{
+				"date": "2025-09-21",
+				"imageUrl": "https://resources.arcamax.com/newspics/355/35550/3555056.jpg",
+				"url": "https://www.arcamax.com/thefunnies/nonsequitur/s-3853357"
+			},
+			{
 				"date": "2025-09-20",
 				"imageUrl": "https://resources.arcamax.com/newspics/355/35534/3553467.gif",
 				"url": "https://www.arcamax.com/thefunnies/nonsequitur/s-3852105"
@@ -14490,11 +14495,6 @@
 				"date": "2025-08-03",
 				"imageUrl": "https://resources.arcamax.com/newspics/348/34890/3489069.jpg",
 				"url": "https://www.arcamax.com/thefunnies/nonsequitur/s-3793256"
-			},
-			{
-				"date": "2025-08-02",
-				"imageUrl": "https://resources.arcamax.com/newspics/348/34878/3487841.gif",
-				"url": "https://www.arcamax.com/thefunnies/nonsequitur/s-3792101"
 			}
 		],
 		"title": "Non Sequitur",
@@ -20869,15 +20869,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21388/2138814.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-09-22",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139085.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547610"
+				"date": "2021-09-21",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21388/2138814.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547339"
 			}
 		],
 		"title": "The Fortune Teller",
