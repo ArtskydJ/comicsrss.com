@@ -1252,6 +1252,16 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/auntyacid/",
 		"strips": [
 			{
+				"date": "2026-05-23",
+				"imageUrl": "https://resources.arcamax.com/newspics/384/38439/3843934.gif",
+				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-4209016"
+			},
+			{
+				"date": "2026-05-22",
+				"imageUrl": "https://resources.arcamax.com/newspics/384/38439/3843933.gif",
+				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-4209015"
+			},
+			{
 				"date": "2026-05-21",
 				"imageUrl": "https://resources.arcamax.com/newspics/383/38357/3835771.gif",
 				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-4198963"
@@ -1490,16 +1500,6 @@
 				"date": "2026-03-28",
 				"imageUrl": "https://resources.arcamax.com/newspics/377/37782/3778207.gif",
 				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-4048707"
-			},
-			{
-				"date": "2026-03-27",
-				"imageUrl": "https://resources.arcamax.com/newspics/377/37774/3777409.gif",
-				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-4047814"
-			},
-			{
-				"date": "2026-03-26",
-				"imageUrl": "https://resources.arcamax.com/newspics/377/37766/3776641.gif",
-				"url": "https://www.arcamax.com/thefunnies/auntyacid/s-4047059"
 			}
 		],
 		"title": "Aunty Acid",
@@ -20834,15 +20834,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21389/2138951.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-05-24",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138747.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547272"
+				"date": "2021-05-23",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21389/2138951.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547476"
 			}
 		],
 		"title": "The Fortune Teller",
