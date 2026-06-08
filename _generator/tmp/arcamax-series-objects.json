@@ -18762,6 +18762,11 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/sixchix/",
 		"strips": [
 			{
+				"date": "2026-06-08",
+				"imageUrl": "https://resources.arcamax.com/newspics/385/38590/3859083.gif",
+				"url": "https://www.arcamax.com/thefunnies/sixchix/s-4222284"
+			},
+			{
 				"date": "2026-06-07",
 				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/385/38528/3852818.jpg",
 				"url": "https://www.arcamax.com/thefunnies/sixchix/s-4217400"
@@ -19005,11 +19010,6 @@
 				"date": "2026-04-17",
 				"imageUrl": "https://resources.arcamax.com/newspics/380/38000/3800092.gif",
 				"url": "https://www.arcamax.com/thefunnies/sixchix/s-4068030"
-			},
-			{
-				"date": "2026-04-16",
-				"imageUrl": "https://resources.arcamax.com/newspics/379/37994/3799405.gif",
-				"url": "https://www.arcamax.com/thefunnies/sixchix/s-4067363"
 			}
 		],
 		"title": "Six Chix",
@@ -20844,15 +20844,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://resources.arcamax.com/newspics/213/21390/2139021.jpg",
+		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-06-08",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139021.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547546"
+				"date": "2021-06-09",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21390/2139010.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547535"
 			}
 		],
 		"title": "The Fortune Teller",
