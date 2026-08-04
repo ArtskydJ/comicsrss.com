@@ -7624,6 +7624,16 @@
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/doonesbury/",
 		"strips": [
 			{
+				"date": "2026-08-04",
+				"imageUrl": "https://resources.arcamax.com/newspics/391/39127/3912779.gif",
+				"url": "https://www.arcamax.com/thefunnies/doonesbury/s-4267925"
+			},
+			{
+				"date": "2026-08-03",
+				"imageUrl": "https://resources.arcamax.com/newspics/391/39127/3912778.gif",
+				"url": "https://www.arcamax.com/thefunnies/doonesbury/s-4267924"
+			},
+			{
 				"date": "2026-08-02",
 				"imageUrl": "https://resources.arcamax.com/newspics/391/39108/3910832.jpg",
 				"url": "https://www.arcamax.com/thefunnies/doonesbury/s-4266082"
@@ -7862,16 +7872,6 @@
 				"date": "2026-06-16",
 				"imageUrl": "https://resources.arcamax.com/newspics/386/38617/3861706.gif",
 				"url": "https://www.arcamax.com/thefunnies/doonesbury/s-4224659"
-			},
-			{
-				"date": "2026-06-15",
-				"imageUrl": "https://resources.arcamax.com/newspics/386/38607/3860725.gif",
-				"url": "https://www.arcamax.com/thefunnies/doonesbury/s-4223769"
-			},
-			{
-				"date": "2026-06-14",
-				"imageUrl": "https://resources.arcamax.com/newspics/385/38597/3859789.jpg",
-				"url": "https://www.arcamax.com/thefunnies/doonesbury/s-4222898"
 			}
 		],
 		"title": "Doonesbury",
@@ -20859,15 +20859,15 @@
 	},
 	"thefortuneteller": {
 		"author": "ArcaMax Publishing",
-		"imageUrl": "https://www.arcamax.com/jsnews/images/comics/thefortuneteller.png",
+		"imageUrl": "https://resources.arcamax.com/newspics/213/21387/2138752.jpg",
 		"isPolitical": false,
 		"language": "eng",
 		"mostRecentStripUrl": "https://www.arcamax.com/thefunnies/thefortuneteller/",
 		"strips": [
 			{
-				"date": "2021-08-05",
-				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21388/2138883.jpg",
-				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547408"
+				"date": "2021-08-04",
+				"imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/213/21387/2138752.jpg",
+				"url": "https://www.arcamax.com/thefunnies/thefortuneteller/s-2547277"
 			}
 		],
 		"title": "The Fortune Teller",
